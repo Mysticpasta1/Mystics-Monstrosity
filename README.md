@@ -17,4 +17,4 @@ Discord server : https://discord.gg/Axe4aZCT6u
 
 | Name | Mods | Versions | Ram | Modpack | Serverpack
 | ---- | ------------- | ----------- | ---------- | --- | ---|
-|**Mystic's Monstrosity Lite** | 700mods+ | 1.12.2 FORGE| ~7 Gb +4 gb more on linux | [<img src=https://media.forgecdn.net/avatars/130/458/636460205549127215.png height=16>](https://www.curseforge.com/minecraft/modpacks/mystics-monstrosity-v6-0-modified-fork/files/)| [<img src=https://git-scm.com/favicon.ico height=16>](https://github.com/quentin452/MysticsMonstrosityV6.0modified-SERVERPACK) |
+|**Mystic's Monstrosity Lite** | 700+ | 1.12.2 FORGE | ~7 Gb +4 gb more on linux | [<img src=https://media.forgecdn.net/avatars/130/458/636460205549127215.png height=16>](https://www.curseforge.com/minecraft/modpacks/mystics-monstrosity-v6-0-modified-fork/files/)| [<img src=https://git-scm.com/favicon.ico height=16>](https://github.com/quentin452/MysticsMonstrosityV6.0modified-SERVERPACK) |
