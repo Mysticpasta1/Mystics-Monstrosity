@@ -2,7 +2,7 @@
 
 | Name | Mods | Versions | Ram | Modpack | Serverpack
 | ---- | ------------- | ----------- | ---------- | --- | ---|
-|**Mystic's Monstrosity** | 1200mods+ | 1.12.2 FORGE| ~20 Gb | [<img src=https://media.forgecdn.net/avatars/130/458/636460205549127215.png height=16>](https://legacy.curseforge.com/minecraft/modpacks/mystics-monstrosity/files/)| None |
+|**Mystic's Monstrosity** | 1200+ | 1.12.2 FORGE | ~20 Gb | [<img src=https://media.forgecdn.net/avatars/130/458/636460205549127215.png height=16>](https://legacy.curseforge.com/minecraft/modpacks/mystics-monstrosity/files/)| None |
 
 # Discord
 
