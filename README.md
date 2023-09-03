@@ -1,4 +1,4 @@
-**Here you can download my modpacks :**
+# Mystic's Monstrosity
 
 | Name | Mods | Versions | Ram | Modpack | Serverpack
 | ---- | ------------- | ----------- | ---------- | --- | ---|
