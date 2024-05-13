@@ -10,9 +10,6 @@ Add me on discord : hauntedpasta1
 
 Discord server : https://discord.gg/Axe4aZCT6u
 
-<p style="text-align: center;"><span style="font-size: 18px;"><span style="font-size: 18px;"><em><strong><span style="text-decoration: underline;"><img src="https://drive.google.com/file/d/1KVn1_ScGYj6su4AwcHmpvDwBP4gGwjcX/view?usp=drive_link" alt="" /></span></strong></em></span></span></p>
-<p style="text-align: center;"><span style="font-size: 18px;"><a href="https://partners.shockbyte.com/mystical"><img src="https://i.imgur.com/w2DW8s7.png" width="1123" height="600" /></a></span></p>
-
 # Lite Version
 
 | Name | Mods | Versions | Ram | Modpack | Serverpack
