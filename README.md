@@ -1,8 +1,10 @@
 # Mystic's Monstrosity
 
+Commits are the changelogs
+
 | Name | Mods | Versions | Ram | Modpack | Serverpack
 | ---- | ------------- | ----------- | ---------- | --- | ---|
-|**Mystic's Monstrosity** | 1000+ | 1.20.1 FORGE | ~15 Gb | [<img src=https://media.forgecdn.net/avatars/130/458/636460205549127215.png height=16>](https://legacy.curseforge.com/minecraft/modpacks/mystics-monstrosity/files/)| None |
+|**Mystic's Monstrosity** | 1700+ | 1.20.1 FORGE | ~15 Gb | [<img src=https://media.forgecdn.net/avatars/130/458/636460205549127215.png height=16>](https://legacy.curseforge.com/minecraft/modpacks/mystics-monstrosity/files/)| None |
 
 # Discord
 
