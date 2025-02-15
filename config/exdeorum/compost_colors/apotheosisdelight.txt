@@ -1,0 +1,21 @@
+// Compost colors for apotheosisdelight. You may add your own colors, change existing ones, or remove colors that aren't needed.
+common_material_knife, #625b51
+cooked_warden_tendril, #a5b6c
+dragon_breath_stew, #aa6658
+gem_dust_stew, #aa8e91
+gem_ice_cream, #199190
+gem_juice, #bccfff
+gem_salad, #90797f
+gem_sandwich, #d9b18c
+gem_shake, #cfdaff
+glazed_warden_tendril, #695852
+infused_breath_cookie, #ffb173
+infused_breath_pie, #ffbba0
+infused_breath_shake, #fecdff
+infused_pumpkin, #f89a5c
+prismatic_string, #b6fff7
+rare_material_knife, #7358e0
+rare_material_sandwich, #bb9194
+shard_rare_material, #755bff
+warden_pasta, #8aab1
+warden_pasta_with_rare_material, #416897

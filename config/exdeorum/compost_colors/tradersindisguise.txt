@@ -1,0 +1,3 @@
+// Compost colors for tradersindisguise. You may add your own colors, change existing ones, or remove colors that aren't needed.
+sickle, #bb9d79
+tribow, #ab7f4e

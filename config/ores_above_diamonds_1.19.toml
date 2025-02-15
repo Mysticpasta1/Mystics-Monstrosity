@@ -1,0 +1,188 @@
+
+#Note that almost all config changes require a server restart and/or a full minecraft restart. Dimension Configuration
+[dimensional_ore]
+	#Spawn amethysts in the overworld? Default = true
+	spawn_amethyst_overworld = true
+	#Spawn black opals in the overworld? Default = true
+	spawn_black_opal_overworld = true
+	#Spawn amethysts in the nether? Default = false
+	spawn_amethyst_nether = false
+	#Spawn black opals in the nether? Default = false
+	spawn_black_opal_nether = false
+	#Spawn amethysts in the end? Default = false
+	spawn_amethyst_end = false
+	#Spawn black opals in the end? Default = false
+	spawn_black_opal_end = false
+	#The average chance to delete an overworld ore that is exposed to air. High values discourage cave mining and encourage strip mining. Default value 0.7F is similar to vanilla's diamonds.
+	#Range: 0.0 ~ 1.0
+	overworld_discard_chance_on_air_exposure = 0.7
+	#The average chance to delete a nether ore that is exposed to air. Default value = 0.95
+	#Range: 0.0 ~ 1.0
+	nether_discard_chance_on_air_exposure = 0.95
+	#The average chance to delete an end ore that is exposed to air. Default value = 0.95
+	#Range: 0.0 ~ 1.0
+	end_discard_chance_on_air_exposure = 0.95
+	#Increases the chance that an ore above diamonds will spawn in the nether. Default = 1.0 which is tailored to be similar in density to the overworld
+	#Range: 0.01 ~ 100.0
+	nether_chance_multiplier = 1.0
+	#Increases the chance that an ore above diamonds will spawn in the end. Default = 1.0 which is tailored to be similar in density to the overworld
+	#Range: 0.01 ~ 100.0
+	end_chance_multiplier = 1.0
+	#Multiplies the max vein size of nether ores. Rounds to the nearest integer. Default = 0.75
+	#Range: 0.0 ~ 64.0
+	nether_vein_multiplier = 0.75
+	#Multiplies the max vein size of end ores. Rounds to the nearest integer. Default = 1.25
+	#Range: 0.0 ~ 64.0
+	end_vein_multiplier = 1.25
+
+#Rarity Configuration
+[ore_rarity]
+	#Approximately how many times rarer the amethyst should be than diamonds. All dimensions uses these values. 1 = As common as diamonds, 2 = Half as common as diamonds etc. Default = 3
+	#Range: -1.0 ~ 1000.0
+	amethyst_chance = 3.0
+	#Approximately how many times rarer the black opal should be than diamonds. All dimensions uses these values. Default = 9
+	#Range: -1.0 ~ 1000.0
+	black_opal_chance = 9.0
+	#Max vein size for an Amethyst Ore vein. WARNING: Reducing vein sizes by 10%+ for some reason can reduce the total ores by 35%+. For reference, diamonds have a vein size of 8. Default = 8
+	#Range: 0 ~ 64
+	amethyst_vein_size = 8
+	#Max vein size for an Black Opal Ore vein. WARNING: Reducing vein sizes by 10%+ for some reason can reduce the total ores by 35%+.  Default = 8
+	#Range: 0 ~ 64
+	black_opal_vein_size = 8
+	#Maximum spawn height size for an Amethyst ore vein. Default = 8
+	#Range: -63 ~ 255
+	amethyst_max_spawn_height_overworld = 8
+	#Maximum spawn height size for a Black Opal ore vein. Default = 0
+	#Range: -63 ~ 255
+	black_opal_max_spawn_height_overworld = 0
+	#Maximum spawn height size for an Amethyst ore vein for the nether. Default = 128
+	#Range: 0 ~ 255
+	amethyst_max_spawn_height_nether = 128
+	#Maximum spawn height size for a Black Opal ore vein for the nether. Default = 128
+	#Range: 0 ~ 255
+	black_opal_max_spawn_height_nether = 128
+	#Maximum spawn height size for an Amethyst ore vein for the end. Default = 75
+	#Range: 0 ~ 255
+	amethyst_max_spawn_height_end = 75
+	#Maximum spawn height size for a Black Opal ore vein for the end. Default = 75
+	#Range: 0 ~ 255
+	black_opal_max_spawn_height_end = 75
+	#Wherever diamonds can naturally generate in chests, black opal and amethyst can too at a reduced rate! Default = true
+	chest_loot = true
+
+#Tool Settings. Changing these in a server will work, but it will not display the changes to the players without syncing.
+[tool]
+	#Adjusts damage numbers for no attack speed/pre MC 1.9 combat. Intended to be used with a mod that removes the attack speed cooldown.
+	old_pvp_mechanics = false
+	#Base Attack Damage of the Amethyst Tool Set. For reference, the Diamond Tool Set has 3 base attack damage. Default = 4
+	#Range: > 0
+	amethyst_ad = 4
+	#Efficiency of the Amethyst Tool Set. For reference, the Diamond Tool Set has 8 efficiency. Default = 12
+	#Range: > 0
+	amethyst_efficiency = 12
+	#Durability of the Amethyst Tool Set. For reference, the Diamond Tool Set has 1561 durability. Set to -1 for infinite durability. Default = 2625
+	#Range: > -1
+	amethyst_durability = 2625
+	#Base Attack Damage of the Black Opal Tool Set. Default = 5
+	#Range: > 0
+	black_opal_ad = 5
+	#Efficiency of the Black Opal Tool Set. Default = 16
+	#Range: > 0
+	black_opal_efficiency = 16
+	#Durability of the Black Opal Tool Set. Set to -1 for infinite durability. Default = 5250
+	#Range: > -1
+	black_opal_durability = 5250
+	#Base Attack Damage of the Netherite Opal Tool Set. Default = 6
+	#Range: > 0
+	netherite_opal_ad = 6
+	#Efficiency of the Netherite Opal Tool Set. Default = 16
+	#Range: > 0
+	netherite_opal_efficiency = 20
+	#Durability of the Netherite Opal Tool Set. Set to -1 for infinite durability. Default = 6300
+	#Range: > -1
+	netherite_opal_durability = 6300
+
+#Armor Settings. These values are delicate and changing them may significantly affect the strength of the armor. Changing these in a server will work, but it will not display the changes to the players without syncing.
+[armor]
+	#Toughness for the Amethyst Armor Set. Toughness reduces the armor penetration of high damaging attacks. Default = 3
+	#Range: > 0
+	amethyst_armor_toughness = 3
+	#Toughness for the Black Opal Armor Set. Default = 4
+	#Range: > 0
+	black_opal_armor_toughness = 4
+	#Toughness for the Netherite Opal Armor Set. Default = 5
+	#Range: > 0
+	netherite_opal_armor_toughness = 5
+	#Knockback resistance for the Amethyst Armor Set. Knockback resistance reduces the amount of knockback the player takes. Default = 0
+	#Range: > 0
+	amethyst_armor_knockback_resistance = 0
+	#Knockback resistance for the Black Opal Armor Set. Default = 0
+	#Range: > 0
+	black_opal_armor_knockback_resistance = 0
+	#Knockback resistance for the Netherite Opal Armor Set. Default = 1
+	#Range: > 0
+	netherite_opal_armor_knockback_resistance = 1
+	#Base Durability for the Amethyst Armor Set. For reference, Diamond Armor has 33 base durability. Set to -1 for infinite durability. Default = 58
+	#Range: > -1
+	amethyst_armor_durability = 58
+	#Base Durability for the Black Opal Armor Set. Set -1 for infinite durability. Default = 116
+	#Range: > -1
+	black_opal_armor_durability = 116
+	#Base Durability for the Black Opal Armor Set. Set -1 for infinite durability. Default = 140
+	#Range: > -1
+	netherite_opal_armor_durability = 140
+	#Amethyst Helmet Armor Value. Indicates how many half-armor points the indicated armor will give. Default = 3
+	#Range: > 0
+	amethyst_helmet_armor = 3
+	#Amethyst Chestplate Armor Value. Default = 8
+	#Range: > 0
+	amethyst_chestplate_armor = 8
+	#Amethyst Leggings Armor Value. Default = 7
+	#Range: > 0
+	amethyst_leggings_armor = 7
+	#Amethyst Boots Armor Value. Default = 3
+	#Range: > 0
+	amethyst_boots_armor = 3
+	#Black Opal Helmet Armor Value. Default = 3
+	#Range: > 0
+	black_opal_helmet_armor = 3
+	#Black Opal Chestplate Armor Value. Default = 9
+	#Range: > 0
+	black_opal_chestplate_armor = 9
+	#Black Opal Leggings Armor Value. Default = 7
+	#Range: > 0
+	black_opal_leggings_armor = 7
+	#Black Opal Boots Armor Value. Default = 3
+	#Range: > 0
+	black_opal_boots_armor = 3
+	#Netherite Opal Helmet Armor Value. Default = 3
+	#Range: > 0
+	netherite_opal_helmet_armor = 3
+	#Netherite Opal Chestplate Armor Value. Default = 9
+	#Range: > 0
+	netherite_opal_chestplate_armor = 9
+	#Netherite Opal Leggings Armor Value. Default = 7
+	#Range: > 0
+	netherite_opal_leggings_armor = 7
+	#Netherite Opal Boots Armor Value. Default = 3
+	#Range: > 0
+	netherite_opal_boots_armor = 3
+
+#Enchantability Settings
+[enchant]
+	#Amethyst Enchantability. A higher value makes it easier to obtain higher level enchantments for less experience. For reference, diamonds have an enchantability of 10 and gold has an enchantability of 25. Default = 35
+	#Range: > 0
+	amethyst_enchantability = 35
+	#Black Opal Enchantability. Default = 15
+	#Range: > 0
+	black_opal_enchantability = 15
+	#Netherite Opal Enchantability. Default = 20
+	#Range: > 0
+	netherite_opal_enchantability = 20
+
+[network]
+	#(Clients only) Sync your config to the server upon joining? (Will still require a Minecraft restart after joining)
+	enable_server_config_sync = true
+	#(Servers only) Sends a packet that attempts to sync the client config file to the server?
+	send_config_sync_packet = true
+

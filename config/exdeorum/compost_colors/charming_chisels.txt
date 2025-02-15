@@ -1,0 +1,25 @@
+// Compost colors for charming_chisels. You may add your own colors, change existing ones, or remove colors that aren't needed.
+amethyst_inset, #c2a7e3
+chisel_caveat, #d29683
+chisel_doom, #deb176
+chisel_etching, #eabc7d
+chisel_groan, #da9d89
+chisel_hieroglyph, #e4b67a
+chisel_legend, #80d4d2
+chisel_nexus, #d29784
+chisel_plain, #cacaca
+chisel_powerup, #83d7d3
+chisel_skull, #da9d89
+chisel_snout, #d99b89
+chisel_swirl, #e4b579
+chisel_thing, #7fd0cf
+copper_inset, #d69783
+diamond_inset, #7ccdc8
+emerald_inset, #73c389
+glowstone_inset, #d4a880
+gold_inset, #e7be73
+iron_inset, #b1b1b1
+lapis_inset, #7894d0
+netherite_inset, #736c6e
+quartz_inset, #ded3c9
+redstone_inset, #9e514d

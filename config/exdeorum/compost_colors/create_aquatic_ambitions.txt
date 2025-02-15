@@ -1,0 +1,5 @@
+// Compost colors for create_aquatic_ambitions. You may add your own colors, change existing ones, or remove colors that aren't needed.
+flint_shard, #4e4d4d
+polished_quartz_tine, #fae7d9
+prismarine_alloy, #7fccb5
+prismarine_rod, #70c0a7

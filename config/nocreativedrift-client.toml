@@ -1,0 +1,26 @@
+#Disable the drift during vertical flight
+disableVerticalDrift = true
+
+[keybinding]
+	#Enable a hud message that displays the current drift strength
+	#I recommend this if enableToggleKeyBind is set to true
+	enableHudMessage = false
+	#If enabled the hud message will only be visible for a few seconds after changing the strength
+	enableHudFading = false
+	#Vertical position of the hud message on the left side (0 is top, 0.95 is bottom)
+	#Range: 0.0 ~ 0.95
+	hudOffset = 0.4
+
+[jetpack]
+	#Disable the drift on jetpacks.
+	disableJetpackDrift = true
+	#Disable the drift during non creative flight (e.g. Angel Ring mod)
+	disableNonCreativeDrift = false
+
+[other]
+	#The current drift strength. {Vanilla:0, Strong:1, Weak:2, Disabled:3}
+	#Range: 0 ~ 3
+	driftStrength = 2
+	#Enable support for controller movement. Requires the Controllable Mod
+	enableControllerSupport = true
+

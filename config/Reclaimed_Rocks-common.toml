@@ -1,0 +1,12 @@
+
+["Configs for Reclaimed Rocks Mod"]
+	#Size of Dolomite vein
+	#Range: 0 ~ 200
+	"Dolomite Vein Size" = 40
+	#Size of Weathered Limestone vein
+	#Range: 0 ~ 200
+	"Weathered Limestone Vein Size" = 40
+	#Size of Gabbro vein
+	#Range: 0 ~ 200
+	"Gobbro Vein Size" = 40
+

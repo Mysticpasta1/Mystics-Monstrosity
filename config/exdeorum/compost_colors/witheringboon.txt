@@ -1,0 +1,24 @@
+// Compost colors for witheringboon. You may add your own colors, change existing ones, or remove colors that aren't needed.
+amethystgale, #a88ab5
+blackbloodblade, #727272
+chalcanthite, #769ada
+citrine, #c3a052
+dumortieritequartz, #4e6b7c
+enderchamber, #a16ca7
+enderoverdrivemodule, #8a6e89
+hardenedprismarine, #5e7284
+hoarfrosthead, #8a8c8d
+jasper, #eb6119
+kyanite, #c6dafa
+lostviper, #a17c3e
+malachite, #98d6f2
+meldedgeode, #accfab
+peridot, #72b96f
+prase, #70a56b
+raidhorn, #6f6566
+rosequartz, #e37d76
+soulanitealloy, #576675
+soulaniteingot, #91f0f4
+tanzanite, #46a0da
+wardensbane, #36616f
+witheredsoulstone, #2d6264

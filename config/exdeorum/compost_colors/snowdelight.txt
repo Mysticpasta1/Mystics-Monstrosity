@@ -1,0 +1,23 @@
+// Compost colors for snowdelight. You may add your own colors, change existing ones, or remove colors that aren't needed.
+blue_ice_popsicle, #aee1ff
+ice_dough, #f1ffff
+ice_jem, #e4ffff
+ice_knife, #c6e0ff
+ice_popsicle, #edffff
+ice_sauce, #878e9b
+ice_shake, #d4ffff
+ice_yougurt, #e7ffff
+packed_ice_popsicle, #c9eeff
+snow_bun, #f8d275
+snow_dough, #ffffff
+snow_glaze, #ffffff
+snow_ice_cream, #ffffff
+snow_ice_hamburger, #e1ffff
+snow_ice_sandwich, #c9ffff
+snow_jem, #ffffff
+snow_knife, #defcf1
+snow_pie, #fff4c0
+snow_salad, #d7d9c0
+snow_sauce, #b6b296
+snow_stew, #eaf7f5
+snowball_shake, #ffffff

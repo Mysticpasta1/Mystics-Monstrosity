@@ -1,0 +1,9 @@
+// Compost colors for beastly_beacons. You may add your own colors, change existing ones, or remove colors that aren't needed.
+active_sigil, #2d6f6e
+benevolent_beacon, #76cde4
+deactivated_beacon, #76cde4
+deactivated_sigil, #2f6565
+evil_ward_beam, #fff1f1
+friendly_ward_beam, #89ffff
+malevolent_beacon, #76cde4
+warning_sigil, #376666

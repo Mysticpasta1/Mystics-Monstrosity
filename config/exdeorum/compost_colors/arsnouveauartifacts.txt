@@ -1,0 +1,5 @@
+// Compost colors for arsnouveauartifacts. You may add your own colors, change existing ones, or remove colors that aren't needed.
+eternal_source_berry, #e07aab
+infinity_wilden_spike, #e15898
+source_apple, #f06fff
+water_horn, #91dee1

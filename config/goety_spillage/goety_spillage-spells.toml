@@ -1,0 +1,55 @@
+
+[Spells]
+
+	[Spells."Impish Spell"]
+		#Impish Spell Cost, Default: 32
+		#Range: > 0
+		impishCost = 32
+		#Time to cast Impish Spell, Default: 40
+		#Range: 0 ~ 72000
+		impishTime = 40
+		#Impish Spell Cooldown, Default: 100
+		#Range: > 0
+		impishCoolDown = 100
+
+	[Spells."Spirit Hand Spell"]
+		#Spirit Hand Spell Cost, Default: 64
+		#Range: > 0
+		spiritHandCost = 64
+		#Time to cast Spirit Hand Spell, Default: 40
+		#Range: 0 ~ 72000
+		spiritHandTime = 40
+		#Spirit Hand Spell Cooldown, Default: 900
+		#Range: > 0
+		spiritHandCoolDown = 900
+
+	[Spells."Requiem Spell"]
+		#Requiem Spell Cost, Default: 10000
+		#Range: > 0
+		requiemCost = 10000
+		#Time to cast Requiem Spell, Default: 55
+		#Range: 20 ~ 72000
+		requiemTime = 55
+		#Requiem Spell Cooldown, Default: 200
+		#Range: > 0
+		requiemCoolDown = 200
+
+	[Spells."Soul Beam Spell"]
+		#Soul Beam Spell Cost, Default: 16
+		#Range: > 0
+		soulBeamCost = 16
+		#Time to cast Soul Beam Spell, Default: 100
+		#Range: 0 ~ 72000
+		soulBeamDuration = 100
+		#Soul Beam Spell Cooldown, Default: 140
+		#Range: > 0
+		soulBeamCoolDown = 140
+		#How much base damage Soul Beam deals, Default: 4.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		soulBeamDamage = 4.0
+
+["Servant Limits"]
+	#Number of Ragnos that an individual player can have in total, Default: 1
+	#Range: > 1
+	ragnoLimit = 1
+

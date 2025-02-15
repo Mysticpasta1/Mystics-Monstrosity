@@ -1,0 +1,13 @@
+// Compost colors for arseng. You may add your own colors, change existing ones, or remove colors that aren't needed.
+creative_source_cell, #ffd982
+portable_source_cell_16k, #ffd287
+portable_source_cell_1k, #ffc589
+portable_source_cell_256k, #ffc99a
+portable_source_cell_4k, #ffd386
+portable_source_cell_64k, #ffd39a
+source_cell_housing, #ffe34a
+source_storage_cell_16k, #ffff4b
+source_storage_cell_1k, #ffdc4e
+source_storage_cell_256k, #ffe77c
+source_storage_cell_4k, #ffff47
+source_storage_cell_64k, #ffff7d

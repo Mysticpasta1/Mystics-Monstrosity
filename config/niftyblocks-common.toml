@@ -1,0 +1,9 @@
+
+["Configs for NiftyBlocks"]
+	#Rarity of Blueberry spawn per chunk
+	"Rarity Per Chunk" = 8
+	#How many Limestone Ore Veins spawn per chunk!
+	"Veins Per Chunk" = 6
+	#How many Limestone Ore Blocks spawn in one Vein!
+	"Vein Size" = 24
+

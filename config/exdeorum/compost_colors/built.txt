@@ -1,0 +1,3 @@
+// Compost colors for built. You may add your own colors, change existing ones, or remove colors that aren't needed.
+built, #b57f40
+framed_glass_pane, #a8b2a2

@@ -1,0 +1,2 @@
+// Compost colors for endercrop. You may add your own colors, change existing ones, or remove colors that aren't needed.
+ender_seeds, #e0f5f1

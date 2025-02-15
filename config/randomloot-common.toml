@@ -1,0 +1,4 @@
+#chance to find a case in a chest.
+#Range: 0.0 ~ 1.0
+caseChance = 0.25
+

@@ -1,0 +1,11 @@
+// Compost colors for essentials. You may add your own colors, change existing ones, or remove colors that aren't needed.
+animal_feed, #8c5526
+candle_lilypad, #d4fea4
+circuit_wrench, #f0aaaa
+guide_book, #408d87
+linking_tool, #ffffff
+obsidian_cutting_kit, #827973
+sorting_hopper, #faa583
+speed_hopper, #fff07c
+wire_circuit, #d4b8b8
+wrench, #ffffff

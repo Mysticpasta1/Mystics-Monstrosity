@@ -1,0 +1,15 @@
+
+#Piglin Projection Settings
+[protName]
+
+	[protName.ore_protector]
+		#If set to 'true' Piglins will protect Nether Ores
+		piglinGuard = true
+		#Set to false if you want the Piglins to attack when using Silk Touch Tools
+		silkEffect = true
+		#Set range that Piglins will aggro when mining ores(Default = 16)
+		#Range: 0 ~ 64
+		protectionRange = 16
+		#Add Blocks to be protected by Piglins (Example: 'minecraft:glowstone')
+		protectedBlocks = ["bno:nether_emerald_ore", "bno:nether_diamond_ore", "bno:nether_lapis_ore", "bno:nether_redstone_ore", "minecraft:nether_gold_ore", "bno:nether_silver_ore", "bno:nether_iron_ore", "bno:nether_lead_ore", "bno:nether_nickel_ore", "bno:nether_coal_ore", "bno:nether_copper_ore", "bno:nether_aluminum_ore", "bno:nether_tin_ore", "bno:nether_osmium_ore", "bno:nether_uranium_ore", "bno:nether_zinc_ore", "minecraft:glowstone", "minecraft:nether_quartz_ore"]
+

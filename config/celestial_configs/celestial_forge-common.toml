@@ -1,0 +1,29 @@
+#Experience level that will be consumed when transferring modifier from modifier book to equipment
+#Range: 1 ~ 100
+modifierBookRecipeCost = 22
+#Experience level that will be consumed when transferring modifier from equipment to modifier book
+#Range: 1 ~ 100
+modifierBookCraftCost = 22
+#Experience cost exponential multiplier for modifier upgrading
+#Range: 0.01 ~ 0.5
+modifierMaxLevelRate = 0.1
+#Basic experience required for modifier upgrade
+#Range: 10 ~ 1000
+modifierMaxLevelBase = 125
+#Max level which grindstone will prioritize removing modifier over enchantments
+#Range: 0 ~ 100
+grindstoneRemovalPriorityLevel = 0
+#Min level which modifier can be transferred to modifier book on anvil
+#Range: 0 ~ 100
+modifierToBookLevel = 30
+#Enable forging for type Weapon
+enableWeaponForging = true
+#Enable forging for type Ranged Weapon
+enableRangedForging = true
+#Enable forging for type Armor
+enableArmorForging = true
+#Enable forging for type Tool
+enableToolForging = true
+#Enable forging for type Curio
+enableCurioForging = true
+

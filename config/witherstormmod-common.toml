@@ -1,0 +1,32 @@
+
+#Common options
+[common]
+	#Toggle to enable/disable drops from Block Clusters. NOTE: Enabling this feature can cause world lag
+	#Requires restart.
+	#Default: false
+	blockClustersDropItems = false
+	#Specifies if the current entity the Wither Storm is picking up has a vehicle, that it should pick it up as well. Ex: Should pick up a player riding a boat.
+	#Default: true
+	shouldPickUpVehicles = true
+	#Specifies if phantoms AI should be overriden to allow circling above any nearby Wither Storms. Disable if you wish for default behaviour and/or if issues arise
+	#Requires restart.
+	#Default: true
+	phantomsOrbitWitherStorm = true
+	#Specifies if players should not be able to dismount a tentacle entity. Disable if facing compatibility issues.
+	#Default: true
+	playerCannotDismountTentacles = true
+	#Specifies if custom AI behavior should be injected into certain entities (such as mobs running away from the Wither Storm). Disable if facing compatibility issues
+	#Requires restart.
+	#Default: true
+	injectCustomAiBehavior = true
+	#A list of mobs that should not have custom AI injected into them
+	#Requires restart.
+	injectAiMobBlacklist = ["witherstormmod:example"]
+	#Specifies if the Wither Storm should automatically be spawned upon world creation.
+	#Default: false
+	autoSpawnWitherStorm = false
+	#Specifies the amount of time (in minutes) required for the Wither Storm to automatically spawn, if enabled.
+	#Default: 1
+	#Range: 0 ~ 120
+	autoSpawnTime = 1
+

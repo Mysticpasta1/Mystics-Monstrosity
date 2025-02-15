@@ -1,0 +1,2027 @@
+{
+  "message": "Only change index and hidden - Can be used as list for custom keys",
+  "pages": [
+    {
+      "name": "key.categories.gameplay",
+      "index": 0,
+      "hidden": false,
+      "keys": [
+        "key.attack",
+        "key.use",
+        "key.pickItem",
+        "key.toms_storage.open_terminal",
+        "key.control",
+        "key.the_deep_void.armor_ability",
+        "key.the_deep_void.armor_toggle",
+        "key.the_deep_void.mother_call_out",
+        "key.rustic_engineer.key_shoot_spider",
+        "key.freak_mobs.mount_jump"
+      ]
+    },
+    {
+      "name": "key.categories.gameplay",
+      "index": 1,
+      "hidden": false,
+      "keys": [
+        "key.freak_mobs.titanic_walker_teleport",
+        "key.freak_mobs.teleport",
+        "key.endergetic.booflo_slam",
+        "key.pickup.item"
+      ]
+    },
+    {
+      "name": "key.categories.movement",
+      "index": 1,
+      "hidden": false,
+      "keys": [
+        "key.forward",
+        "key.left",
+        "key.back",
+        "key.right",
+        "key.jump",
+        "key.sneak",
+        "key.sprint",
+        "key.boatoverhaul.leftRudder",
+        "key.boatoverhaul.rightRudder",
+        "key.dragonmounts.flight_descent"
+      ]
+    },
+    {
+      "name": "key.categories.movement",
+      "index": 2,
+      "hidden": false,
+      "keys": [
+        "key.dragonmounts.camera_flight",
+        "key.personality.crawl",
+        "key.personality.sit"
+      ]
+    },
+    {
+      "name": "key.categories.inventory",
+      "index": 3,
+      "hidden": false,
+      "keys": [
+        "key.drop",
+        "key.inventory",
+        "key.swapOffhand",
+        "key.hotbar.1",
+        "key.hotbar.2",
+        "key.hotbar.3",
+        "key.hotbar.4",
+        "key.hotbar.5",
+        "key.hotbar.6",
+        "key.hotbar.7"
+      ]
+    },
+    {
+      "name": "key.categories.inventory",
+      "index": 4,
+      "hidden": false,
+      "keys": [
+        "key.hotbar.8",
+        "key.hotbar.9",
+        "equipmentcompare.key.showTooltips",
+        "cos.key.opencosarmorinventory",
+        "crafting_on_a_stick.key.open_curios",
+        "key.lightmanscurrency.open_wallet",
+        "key.lightmanscurrency.portable_terminal",
+        "key.lightmanscurrency.portable_atm"
+      ]
+    },
+    {
+      "name": "key.categories.multiplayer",
+      "index": 5,
+      "hidden": false,
+      "keys": [
+        "key.chat",
+        "key.playerlist",
+        "key.command",
+        "key.socialInteractions"
+      ]
+    },
+    {
+      "name": "key.categories.misc",
+      "index": 6,
+      "hidden": false,
+      "keys": [
+        "key.screenshot",
+        "key.togglePerspective",
+        "key.smoothCamera",
+        "key.fullscreen",
+        "key.spectatorOutlines",
+        "key.advancements",
+        "key.togglecleanview",
+        "key.alexs_caves_plus.k_dragon",
+        "key.galaxycraft_infinity.bending_1",
+        "key.theabyss.friendley_fire_a"
+      ]
+    },
+    {
+      "name": "key.categories.misc",
+      "index": 7,
+      "hidden": false,
+      "keys": [
+        "key.theabyss.friendley_fire_b",
+        "key.theabyss.abil_debug",
+        "neat.keybind.toggle",
+        "key.open_convenient_gui",
+        "key.inventorypets.petnaming",
+        "key.paraglider.paragliderSettings",
+        "key.open_muffler_gui",
+        "keybind.luggage.call",
+        "keybind.luggage.wait",
+        "key.tctcore.h"
+      ]
+    },
+    {
+      "name": "key.categories.creative",
+      "index": 8,
+      "hidden": false,
+      "keys": [
+        "key.saveToolbarActivator",
+        "key.loadToolbarActivator"
+      ]
+    },
+    {
+      "name": "key.categories.misc",
+      "index": 9,
+      "hidden": false,
+      "keys": [
+        "key.silence_s_defense_tower.qts",
+        "key.silence_s_defense_tower.qtw",
+        "key.rustic_engineer.w",
+        "key.rustic_engineer.s",
+        "key.rustic_engineer.space",
+        "key.rustic_engineer.a",
+        "key.rustic_engineer.d",
+        "key.special_ability"
+      ]
+    },
+    {
+      "name": "category.climbladdersfast.options",
+      "index": 9,
+      "hidden": false,
+      "keys": [
+        "key.climbladdersfast.toggle"
+      ]
+    },
+    {
+      "name": "key.modernfix",
+      "index": 10,
+      "hidden": false,
+      "keys": [
+        "key.modernfix.config"
+      ]
+    },
+    {
+      "name": "key.categories.biomancy",
+      "index": 11,
+      "hidden": false,
+      "keys": [
+        "key.biomancy.item_default"
+      ]
+    },
+    {
+      "name": "key.cpm.category",
+      "index": 12,
+      "hidden": false,
+      "keys": [
+        "key.cpm.gestureMenu",
+        "key.cpm.renderToggle",
+        "key.cpm.qa_1",
+        "key.cpm.qa_2",
+        "key.cpm.qa_3",
+        "key.cpm.qa_4",
+        "key.cpm.qa_5",
+        "key.cpm.qa_6",
+        "key.cpm.qa_7",
+        "key.cpm.qa_8"
+      ]
+    },
+    {
+      "name": "category.recruits",
+      "index": 13,
+      "hidden": false,
+      "keys": [
+        "key.recruits.command_screen_key",
+        "key.recruits.team_screen_key"
+      ]
+    },
+    {
+      "name": "key.cpm.category",
+      "index": 13,
+      "hidden": false,
+      "keys": [
+        "key.cpm.qa_9",
+        "key.cpm.qa_10",
+        "key.cpm.qa_11",
+        "key.cpm.qa_12",
+        "key.cpm.qa_13",
+        "key.cpm.qa_14",
+        "key.cpm.qa_15",
+        "key.cpm.qa_16"
+      ]
+    },
+    {
+      "name": "category.azurelib.binds",
+      "index": 14,
+      "hidden": false,
+      "keys": [
+        "key.azurelib.reload",
+        "key.azurelib.scope",
+        "key.azurelib.fire"
+      ]
+    },
+    {
+      "name": "category.easy_villagers",
+      "index": 15,
+      "hidden": false,
+      "keys": [
+        "key.easy_villagers.pick_up",
+        "key.easy_villagers.cycle_trades"
+      ]
+    },
+    {
+      "name": "Botania",
+      "index": 16,
+      "hidden": false,
+      "keys": [
+        "key.botania_corporea_request"
+      ]
+    },
+    {
+      "name": "Create: Tweaked Controllers",
+      "index": 20,
+      "hidden": false,
+      "keys": [
+        "create_tweaked_controllers.keybind.mouse_focus",
+        "create_tweaked_controllers.keybind.mouse_reset",
+        "create_tweaked_controllers.keybind.controller_exit"
+      ]
+    },
+    {
+      "name": "key.pneumaticcraft.category.main",
+      "index": 21,
+      "hidden": false,
+      "keys": [
+        "pneumaticcraft.armor.options",
+        "pneumaticcraft.helmet.hack",
+        "pneumaticcraft.helmet.debugging.drone",
+        "pneumaticcraft.boots.kick",
+        "pneumaticcraft.chestplate.launcher",
+        "pneumaticcraft.boots.jet_boots"
+      ]
+    },
+    {
+      "name": "enchant_icon.key",
+      "index": 22,
+      "hidden": false,
+      "keys": [
+        "enchant_icon.key.toggle"
+      ]
+    },
+    {
+      "name": "key.aether.category",
+      "index": 23,
+      "hidden": false,
+      "keys": [
+        "key.aether.open_accessories.desc",
+        "key.aether.gravitite_jump_ability.desc",
+        "key.aether.invisibility_toggle.desc",
+        "key.deep_aether.stratus_dash_ability.desc",
+        "key.deep_aether.slider_eye_ability"
+      ]
+    },
+    {
+      "name": "key.category.minersglasses.minersglasses",
+      "index": 24,
+      "hidden": false,
+      "keys": [
+        "key.minersglasses.glasses_ability"
+      ]
+    },
+    {
+      "name": "Relics",
+      "index": 25,
+      "hidden": false,
+      "keys": [
+        "key.relics.ability_list"
+      ]
+    },
+    {
+      "name": "key.legendarysurvivaloverhaul.title",
+      "index": 25,
+      "hidden": false,
+      "keys": [
+        "key.legendarysurvivaloverhaul.added_desc",
+        "key.legendarysurvivaloverhaul.body_health"
+      ]
+    },
+    {
+      "name": "key.categories.enigmaticLegacy",
+      "index": 26,
+      "hidden": false,
+      "keys": [
+        "key.enderRing",
+        "key.spellstoneAbility",
+        "key.xpScroll"
+      ]
+    },
+    {
+      "name": "key.curios.category",
+      "index": 26,
+      "hidden": false,
+      "keys": [
+        "key.curios.open.desc"
+      ]
+    },
+    {
+      "name": "keygroup.inventorysorter",
+      "index": 27,
+      "hidden": false,
+      "keys": [
+        "key.inventorysorter.sort",
+        "key.inventorysorter.itemin",
+        "key.inventorysorter.itemout"
+      ]
+    },
+    {
+      "name": "keybind.sophisticatedstorage.category",
+      "index": 28,
+      "hidden": false,
+      "keys": [
+        "keybind.sophisticatedstorage.sort"
+      ]
+    },
+    {
+      "name": "key.category.overclocked_watches.day_night",
+      "index": 29,
+      "hidden": false,
+      "keys": [
+        "key.overclocked_watches.day_night"
+      ]
+    },
+    {
+      "name": "key.bloodmagic.category",
+      "index": 30,
+      "hidden": false,
+      "keys": [
+        "bloodmagic.keybind.open_holding",
+        "bloodmagic.keybind.cycle_holding_pos",
+        "bloodmagic.keybind.cycle_holding_neg"
+      ]
+    },
+    {
+      "name": "key.categories.ojs_rpg_origins",
+      "index": 31,
+      "hidden": false,
+      "keys": [
+        "key.ojs_rpg_origins.tertiary_active",
+        "key.ojs_rpg_origins.quaternary_active"
+      ]
+    },
+    {
+      "name": "key.categories.ui",
+      "index": 31,
+      "hidden": false,
+      "keys": [
+        "key.hammerlib.render_item"
+      ]
+    },
+    {
+      "name": "key.categories.apotheosis",
+      "index": 32,
+      "hidden": false,
+      "keys": [
+        "key.apotheosis.toggle_radial_mining"
+      ]
+    },
+    {
+      "name": "key.solapplepie.category",
+      "index": 33,
+      "hidden": false,
+      "keys": [
+        "key.solapplepie.open_food_book"
+      ]
+    },
+    {
+      "name": "iris.keybinds",
+      "index": 34,
+      "hidden": false,
+      "keys": [
+        "iris.keybind.reload",
+        "iris.keybind.toggleShaders",
+        "iris.keybind.shaderPackSelection"
+      ]
+    },
+    {
+      "name": "key.categories.clienttweaks",
+      "index": 35,
+      "hidden": false,
+      "keys": [
+        "key.clienttweaks.hideOffhandItem",
+        "key.clienttweaks.disableStepAssist",
+        "key.clienttweaks.disableLogStripping"
+      ]
+    },
+    {
+      "name": "key.categories.securitycraft",
+      "index": 36,
+      "hidden": false,
+      "keys": [
+        "key.securitycraft.cameraZoomIn",
+        "key.securitycraft.cameraZoomOut",
+        "key.securitycraft.cameraEmitRedstone",
+        "key.securitycraft.cameraActivateNightVision",
+        "key.securitycraft.setDefaultViewingDirection"
+      ]
+    },
+    {
+      "name": "key.categories.adastra",
+      "index": 37,
+      "hidden": false,
+      "keys": [
+        "key.ad_astra.toggle_suit_flight",
+        "key.ad_astra.open_radio"
+      ]
+    },
+    {
+      "name": "key.categories.craftingtweaks",
+      "index": 38,
+      "hidden": false,
+      "keys": [
+        "key.craftingtweaks.rotate",
+        "key.craftingtweaks.rotate_counter_clockwise",
+        "key.craftingtweaks.balance",
+        "key.craftingtweaks.spread",
+        "key.craftingtweaks.clear",
+        "key.craftingtweaks.force_clear",
+        "key.craftingtweaks.compress_one",
+        "key.craftingtweaks.compress_stack",
+        "key.craftingtweaks.compress_all",
+        "key.craftingtweaks.decompress_one"
+      ]
+    },
+    {
+      "name": "key.categories.craftingtweaks",
+      "index": 39,
+      "hidden": false,
+      "keys": [
+        "key.craftingtweaks.decompress_stack",
+        "key.craftingtweaks.decompress_all",
+        "key.craftingtweaks.refill_last",
+        "key.craftingtweaks.refill_last_stack",
+        "key.craftingtweaks.transfer_stack"
+      ]
+    },
+    {
+      "name": "key.categories.inventoryessentials",
+      "index": 40,
+      "hidden": false,
+      "keys": [
+        "key.inventoryessentials.single_transfer",
+        "key.inventoryessentials.screen_bulk_drop"
+      ]
+    },
+    {
+      "name": "better-creative-tabs.creative_index",
+      "index": 41,
+      "hidden": false,
+      "keys": [
+        "better-creative-tabs.creative_index"
+      ]
+    },
+    {
+      "name": "category.spyglass-improvements",
+      "index": 41,
+      "hidden": false,
+      "keys": [
+        "key.spyglass-improvements.use"
+      ]
+    },
+    {
+      "name": "key.effortlessbuilding.category",
+      "index": 41,
+      "hidden": false,
+      "keys": [
+        "key.effortlessbuilding.mode.desc",
+        "key.effortlessbuilding.hud.desc",
+        "key.effortlessbuilding.undo.desc",
+        "key.effortlessbuilding.redo.desc",
+        "key.effortlessbuilding.previous_build_mode.desc",
+        "key.effortlessbuilding.disable_build_mode_toggle.desc"
+      ]
+    },
+    {
+      "name": "key.callablehorses.category",
+      "index": 42,
+      "hidden": false,
+      "keys": [
+        "key.sethorse.desc",
+        "key.callhorse.desc",
+        "key.showstats.desc"
+      ]
+    },
+    {
+      "name": "keybinding.enderio.category",
+      "index": 43,
+      "hidden": false,
+      "keys": [
+        "keybinding.enderio.probe_mode"
+      ]
+    },
+    {
+      "name": "key.categories.atlasviewer",
+      "index": 44,
+      "hidden": false,
+      "keys": [
+        "key.atlasviewer.open_viewer"
+      ]
+    },
+    {
+      "name": "key.categories.watering_overlay",
+      "index": 44,
+      "hidden": false,
+      "keys": [
+        "key.watering_overlay.toggle_mode"
+      ]
+    },
+    {
+      "name": "category.do_a_barrel_roll.do_a_barrel_roll",
+      "index": 45,
+      "hidden": false,
+      "keys": [
+        "key.do_a_barrel_roll.toggle_enabled",
+        "key.do_a_barrel_roll.toggle_thrust",
+        "key.do_a_barrel_roll.open_config"
+      ]
+    },
+    {
+      "name": "category.do_a_barrel_roll.do_a_barrel_roll.movement",
+      "index": 46,
+      "hidden": false,
+      "keys": [
+        "key.do_a_barrel_roll.pitch_up",
+        "key.do_a_barrel_roll.pitch_down",
+        "key.do_a_barrel_roll.yaw_left",
+        "key.do_a_barrel_roll.yaw_right",
+        "key.do_a_barrel_roll.roll_left",
+        "key.do_a_barrel_roll.roll_right",
+        "key.do_a_barrel_roll.thrust_forward",
+        "key.do_a_barrel_roll.thrust_backward"
+      ]
+    },
+    {
+      "name": "framedblocks.key.categories.framedblocks",
+      "index": 47,
+      "hidden": false,
+      "keys": [
+        "framedblocks.key.update_cull",
+        "framedblocks.key.wipe_cache"
+      ]
+    },
+    {
+      "name": "key.categories.movement.jetpack",
+      "index": 49,
+      "hidden": false,
+      "keys": [
+        "key.jetpack.toggle_active.description",
+        "key.jetpack.toggle_hover.description"
+      ]
+    },
+    {
+      "name": "key.categories.integrateddynamics",
+      "index": 50,
+      "hidden": false,
+      "keys": [
+        "key.integrateddynamics.logic_programmer_focus_search",
+        "key.integrateddynamics.logic_programmer_open_rename"
+      ]
+    },
+    {
+      "name": "tetra.binding.group",
+      "index": 51,
+      "hidden": false,
+      "keys": [
+        "tetra.toolbelt.binding.access",
+        "tetra.toolbelt.binding.restock",
+        "tetra.toolbelt.binding.open",
+        "tetra.toolbelt.binding.secondary_use"
+      ]
+    },
+    {
+      "name": "Workers",
+      "index": 52,
+      "hidden": false,
+      "keys": [
+        "controls.open_command_screen"
+      ]
+    },
+    {
+      "name": "key.categories.abyss",
+      "index": 52,
+      "hidden": false,
+      "keys": [
+        "key.theabyss.ghost_attack",
+        "key.theabyss.ghost_fire_attack",
+        "key.theabyss.ghost_deactivate"
+      ]
+    },
+    {
+      "name": "key.category.ars_nouveau.general",
+      "index": 52,
+      "hidden": false,
+      "keys": [
+        "key.ars_nouveau.open_book",
+        "key.ars_nouveau.selection_hud",
+        "key.ars_nouveau.next_slot",
+        "key.ars_nouveau.previous_slot",
+        "key.ars_nouveau.head_curio_hotkey",
+        "key.ars_nouveau.qc1",
+        "key.ars_nouveau.qc2",
+        "key.ars_nouveau.qc3",
+        "key.ars_nouveau.qc4",
+        "key.ars_nouveau.qc5"
+      ]
+    },
+    {
+      "name": "key.category.ars_nouveau.general",
+      "index": 53,
+      "hidden": false,
+      "keys": [
+        "key.ars_nouveau.qc6",
+        "key.ars_nouveau.qc7",
+        "key.ars_nouveau.qc8",
+        "key.ars_nouveau.qc9",
+        "key.ars_nouveau.qc10",
+        "key.ars_nouveau.familiar_toggle",
+        "key.ars_nouveau.switch_armarium_slot",
+        "key.ars_nouveau.choose_armarium_slot",
+        "key.ars_elemental.open_pouch",
+        "key.ars_additions.open_lectern"
+      ]
+    },
+    {
+      "name": "itemGroup.immersive_aircraft.immersive_aircraft_tab",
+      "index": 54,
+      "hidden": false,
+      "keys": [
+        "key.immersive_aircraft.fallback_control_left",
+        "key.immersive_aircraft.fallback_control_right",
+        "key.immersive_aircraft.fallback_control_forward",
+        "key.immersive_aircraft.fallback_control_backward",
+        "key.immersive_aircraft.fallback_control_up",
+        "key.immersive_aircraft.fallback_control_down",
+        "key.immersive_aircraft.fallback_control_pull",
+        "key.immersive_aircraft.fallback_control_push",
+        "key.immersive_aircraft.fallback_use",
+        "key.immersive_aircraft.dismount"
+      ]
+    },
+    {
+      "name": "itemGroup.immersive_aircraft.immersive_aircraft_tab",
+      "index": 55,
+      "hidden": false,
+      "keys": [
+        "key.immersive_aircraft.boost"
+      ]
+    },
+    {
+      "name": "key.categories.deeperdarker",
+      "index": 56,
+      "hidden": false,
+      "keys": [
+        "key.deeperdarker.boost",
+        "key.deeperdarker.transmit"
+      ]
+    },
+    {
+      "name": "key.categories.lotw",
+      "index": 57,
+      "hidden": false,
+      "keys": [
+        "key.lotw.spell_4key_shoot",
+        "key.lotw.spell_4key_reverse",
+        "key.lotw.spell_4key_lock_target",
+        "key.lotw.spell_4key_type",
+        "key.lotw.spell_4key_distance_add",
+        "key.lotw.spell_4key_distance_reduce",
+        "key.lotw.spell_4key_constant",
+        "key.lotw.spell_4key_homing",
+        "key.lotw.spell_4key_mode",
+        "key.lotw.spell_4key_activate"
+      ]
+    },
+    {
+      "name": "key.categories.lotw",
+      "index": 58,
+      "hidden": false,
+      "keys": [
+        "key.lotw.main_key",
+        "key.lotw.spell_4key_ability"
+      ]
+    },
+    {
+      "name": "key.categories.trashslot",
+      "index": 59,
+      "hidden": false,
+      "keys": [
+        "key.trashslot.toggle",
+        "key.trashslot.toggleLock",
+        "key.trashslot.delete",
+        "key.trashslot.deleteAll"
+      ]
+    },
+    {
+      "name": "key.toolbelt.category",
+      "index": 61,
+      "hidden": false,
+      "keys": [
+        "key.toolbelt.open",
+        "key.toolbelt.cycle.left",
+        "key.toolbelt.cycle.right",
+        "key.toolbelt.slot"
+      ]
+    },
+    {
+      "name": "modmenu.nameTranslation.jade",
+      "index": 62,
+      "hidden": false,
+      "keys": [
+        "key.jade.config",
+        "key.jade.show_overlay",
+        "key.jade.toggle_liquid",
+        "key.jade.show_recipes",
+        "key.jade.show_uses",
+        "key.jade.narrate",
+        "key.jade.show_details"
+      ]
+    },
+    {
+      "name": "Better Combat",
+      "index": 64,
+      "hidden": false,
+      "keys": [
+        "keybinds.bettercombat.feint",
+        "keybinds.bettercombat.toggle_mine_with_weapons"
+      ]
+    },
+    {
+      "name": "item.structure_gel.building_tool",
+      "index": 66,
+      "hidden": false,
+      "keys": [
+        "info.structure_gel.building_tool.undo",
+        "info.structure_gel.building_tool.redo",
+        "key.structure_gel.open_building_tool_gui"
+      ]
+    },
+    {
+      "name": "key.industrialforegoing.category",
+      "index": 67,
+      "hidden": false,
+      "keys": [
+        "key.industrialforegoing.backpack.desc"
+      ]
+    },
+    {
+      "name": "key.category.celestial_artifacts.celestial_artifacts",
+      "index": 67,
+      "hidden": false,
+      "keys": [
+        "key.celestial_artifacts.ability_key"
+      ]
+    },
+    {
+      "name": "jitl.key",
+      "index": 68,
+      "hidden": false,
+      "keys": [
+        "Open Journey Stats",
+        "Use Amulet Ability"
+      ]
+    },
+    {
+      "name": "Tardis Refined",
+      "index": 68,
+      "hidden": false,
+      "keys": [
+        "keybind.tardis_refined.exit_exterior_view"
+      ]
+    },
+    {
+      "name": "key.categories.voicechat",
+      "index": 69,
+      "hidden": false,
+      "keys": [
+        "key.push_to_talk",
+        "key.whisper",
+        "key.mute_microphone",
+        "key.disable_voice_chat",
+        "key.hide_icons",
+        "key.voice_chat",
+        "key.voice_chat_settings",
+        "key.voice_chat_group",
+        "key.voice_chat_toggle_recording",
+        "key.voice_chat_adjust_volumes"
+      ]
+    },
+    {
+      "name": "Steam \u0027n\u0027 Rails",
+      "index": 70,
+      "hidden": false,
+      "keys": [
+        "railways.keyinfo.bogey_menu",
+        "railways.keyinfo.cycle_menu"
+      ]
+    },
+    {
+      "name": "key.weaponmaster_ydm.category",
+      "index": 71,
+      "hidden": false,
+      "keys": [
+        "key.weaponmaster_ydm.opengui"
+      ]
+    },
+    {
+      "name": "keybind.advancedperipherals.category",
+      "index": 72,
+      "hidden": false,
+      "keys": [
+        "keybind.advancedperipherals.description"
+      ]
+    },
+    {
+      "name": "tinyredstone",
+      "index": 73,
+      "hidden": false,
+      "keys": [
+        "key.tinyredstone.rotation_lock"
+      ]
+    },
+    {
+      "name": "keycategory.electrodynamics",
+      "index": 74,
+      "hidden": false,
+      "keys": [
+        "key.electrodynamics.jetpackascend",
+        "key.electrodynamics.jetpackmode",
+        "key.electrodynamics.togglenvgs",
+        "key.electrodynamics.servoleggingsmode",
+        "key.electrodynamics.toggleservoleggings",
+        "key.electrodynamics.swapbattery"
+      ]
+    },
+    {
+      "name": "category.botanicpledge.botanicpledge",
+      "index": 74,
+      "hidden": false,
+      "keys": [
+        "key.botanicpledge.interaction_button"
+      ]
+    },
+    {
+      "name": "key.category.clutter",
+      "index": 75,
+      "hidden": false,
+      "keys": [
+        "key.clutter.pet"
+      ]
+    },
+    {
+      "name": "Copycats",
+      "index": 76,
+      "hidden": false,
+      "keys": [
+        "keyinfo.copycats.fill_copycat"
+      ]
+    },
+    {
+      "name": "category.blockgradients.blockgradients",
+      "index": 77,
+      "hidden": false,
+      "keys": [
+        "key.blockgradients.openblockmap"
+      ]
+    },
+    {
+      "name": "key.category.xycraft_core.key_binds",
+      "index": 78,
+      "hidden": false,
+      "keys": [
+        "key.xycraft_core.modifier_key"
+      ]
+    },
+    {
+      "name": "keybind.reliquary.category",
+      "index": 79,
+      "hidden": false,
+      "keys": [
+        "keybind.reliquary.fortune_coin"
+      ]
+    },
+    {
+      "name": "key.buildinggadgets2.category",
+      "index": 80,
+      "hidden": false,
+      "keys": [
+        "key.buildinggadgets2.settings_menu",
+        "key.buildinggadgets2.undo",
+        "key.buildinggadgets2.anchor",
+        "key.buildinggadgets2.range"
+      ]
+    },
+    {
+      "name": "key.modularrouters.category",
+      "index": 81,
+      "hidden": false,
+      "keys": [
+        "key.modularrouters.configure",
+        "key.modularrouters.moduleInfo"
+      ]
+    },
+    {
+      "name": "key.categories.puzzlesapi",
+      "index": 82,
+      "hidden": false,
+      "keys": [
+        "key.toggleVisualItemContents",
+        "key.toggleSelectedItemTooltips",
+        "key.toggleCarriedItemTooltips",
+        "key.cycleLeft",
+        "key.cycleRight"
+      ]
+    },
+    {
+      "name": "key.categories.immersiveengineering",
+      "index": 83,
+      "hidden": false,
+      "keys": [
+        "key.immersiveengineering.magnetEquip",
+        "key.immersiveengineering.railgunZoom",
+        "key.immersiveengineering.chemthrowerSwitch"
+      ]
+    },
+    {
+      "name": "jei.key.category.dev.tools",
+      "index": 84,
+      "hidden": false,
+      "keys": [
+        "key.jei.copy.recipe.id"
+      ]
+    },
+    {
+      "name": "jei.key.category.hover.config.button",
+      "index": 88,
+      "hidden": false,
+      "keys": [
+        "key.jei.toggleCheatModeConfigButton"
+      ]
+    },
+    {
+      "name": "Xaero\u0027s Minimap",
+      "index": 90,
+      "hidden": false,
+      "keys": [
+        "gui.xaero_switch_waypoint_set",
+        "gui.xaero_instant_waypoint",
+        "gui.xaero_toggle_slime",
+        "gui.xaero_toggle_grid",
+        "gui.xaero_toggle_waypoints",
+        "gui.xaero_toggle_map_waypoints",
+        "gui.xaero_toggle_map",
+        "gui.xaero_enlarge_map",
+        "gui.xaero_waypoints_key",
+        "gui.xaero_zoom_in"
+      ]
+    },
+    {
+      "name": "Xaero\u0027s Minimap",
+      "index": 91,
+      "hidden": false,
+      "keys": [
+        "gui.xaero_zoom_out",
+        "gui.xaero_new_waypoint",
+        "gui.xaero_display_all_sets",
+        "gui.xaero_toggle_light_overlay",
+        "gui.xaero_toggle_entity_radar",
+        "gui.xaero_reverse_entity_radar",
+        "gui.xaero_toggle_manual_cave_mode",
+        "gui.xaero_alternative_list_players",
+        "gui.xaero_toggle_tracked_players_on_map",
+        "gui.xaero_toggle_tracked_players_in_world"
+      ]
+    },
+    {
+      "name": "Xaero\u0027s Minimap",
+      "index": 92,
+      "hidden": false,
+      "keys": [
+        "gui.xaero_toggle_pac_chunk_claims",
+        "gui.xaero_minimap_settings"
+      ]
+    },
+    {
+      "name": "jei.key.category.recipe.gui",
+      "index": 92,
+      "hidden": false,
+      "keys": [
+        "key.jei.previousRecipePage",
+        "key.jei.previousCategory",
+        "key.jei.closeRecipeGui",
+        "key.jei.nextRecipePage",
+        "key.jei.nextCategory",
+        "key.jei.recipeBack"
+      ]
+    },
+    {
+      "name": "jei.key.category.mouse.hover",
+      "index": 93,
+      "hidden": false,
+      "keys": [
+        "key.jei.showRecipe",
+        "key.jei.transferRecipeBookmark",
+        "key.jei.bookmark",
+        "key.jei.maxTransferRecipeBookmark",
+        "key.jei.showUses",
+        "key.jei.showUses2",
+        "key.jei.showRecipe2"
+      ]
+    },
+    {
+      "name": "Item Zoom",
+      "index": 93,
+      "hidden": false,
+      "keys": [
+        "key.itemzoom.toggle",
+        "key.itemzoom.hold",
+        "key.itemzoom.zoom.in",
+        "key.itemzoom.zoom.out"
+      ]
+    },
+    {
+      "name": "jei.key.category.search",
+      "index": 94,
+      "hidden": false,
+      "keys": [
+        "key.jei.previousSearch",
+        "key.jei.clearSearchBar",
+        "key.jei.nextSearch"
+      ]
+    },
+    {
+      "name": "artifacts.key_category",
+      "index": 94,
+      "hidden": false,
+      "keys": [
+        "artifacts.key.helium_flamingo.activate",
+        "artifacts.key.night_vision_goggles.toggle",
+        "artifacts.key.universal_attractor.toggle"
+      ]
+    },
+    {
+      "name": "jei.key.category.cheat.mode",
+      "index": 95,
+      "hidden": false,
+      "keys": [
+        "key.jei.cheatItemStack2",
+        "key.jei.toggleCheatMode",
+        "key.jei.cheatOneItem2",
+        "key.jei.cheatOneItem",
+        "key.jei.cheatItemStack"
+      ]
+    },
+    {
+      "name": "key.categories.ftbultimine",
+      "index": 95,
+      "hidden": false,
+      "keys": [
+        "key.ftbultimine"
+      ]
+    },
+    {
+      "name": "key.categories.ftbteams",
+      "index": 96,
+      "hidden": false,
+      "keys": [
+        "key.ftbteams.open_gui"
+      ]
+    },
+    {
+      "name": "jei.key.category.overlays",
+      "index": 97,
+      "hidden": false,
+      "keys": [
+        "key.jei.nextPage",
+        "key.jei.previousPage",
+        "key.jei.focusSearch",
+        "key.jei.toggleOverlay",
+        "key.jei.toggleBookmarkOverlay"
+      ]
+    },
+    {
+      "name": "key.findme.category",
+      "index": 97,
+      "hidden": false,
+      "keys": [
+        "key.findme.search",
+        "key.findme.pull_one",
+        "key.findme.pull_stack"
+      ]
+    },
+    {
+      "name": "jei.key.category.edit.mode",
+      "index": 98,
+      "hidden": false,
+      "keys": [
+        "key.jei.toggleHideIngredient",
+        "key.jei.toggleEditMode",
+        "key.jei.toggleWildcardHideIngredient"
+      ]
+    },
+    {
+      "name": "key.lightoverlay.category",
+      "index": 98,
+      "hidden": false,
+      "keys": [
+        "key.lightoverlay.enable_overlay"
+      ]
+    },
+    {
+      "name": "key.categories.ftbchunks",
+      "index": 99,
+      "hidden": false,
+      "keys": [
+        "key.ftbchunks.map",
+        "key.ftbchunks.toggle_minimap",
+        "key.ftbchunks.claim_manager",
+        "key.ftbchunks.minimap.zoomIn",
+        "key.ftbchunks.minimap.zoomOut",
+        "key.ftbchunks.add_waypoint",
+        "key.ftbchunks.waypoint_manager"
+      ]
+    },
+    {
+      "name": "chunkloaders.keys.category",
+      "index": 101,
+      "hidden": false,
+      "keys": [
+        "chunkloaders.keys.open_screen"
+      ]
+    },
+    {
+      "name": "key.cyclic.category",
+      "index": 102,
+      "hidden": false,
+      "keys": [
+        "key.cyclic.cake"
+      ]
+    },
+    {
+      "name": "key.categories.configured",
+      "index": 103,
+      "hidden": false,
+      "keys": [
+        "key.configured.open_mod_list"
+      ]
+    },
+    {
+      "name": "key.categories.mcjtylib",
+      "index": 104,
+      "hidden": false,
+      "keys": [
+        "key.openManual"
+      ]
+    },
+    {
+      "name": "simplemagnets.keys.category",
+      "index": 106,
+      "hidden": false,
+      "keys": [
+        "simplemagnets.keys.toggle"
+      ]
+    },
+    {
+      "name": "key.categories.integratedterminals",
+      "index": 107,
+      "hidden": false,
+      "keys": [
+        "key.integratedterminals.terminal.tab.next",
+        "key.integratedterminals.terminal.tab.previous",
+        "key.integratedterminals.terminal.craftinggrid.clearplayer",
+        "key.integratedterminals.terminal.craftinggrid.clearstorage",
+        "key.integratedterminals.terminal.craftinggrid.balance",
+        "key.integratedterminals.terminal.portable.open"
+      ]
+    },
+    {
+      "name": "misc.projecte.mod_name",
+      "index": 108,
+      "hidden": false,
+      "keys": [
+        "key.projecte.helmet_toggle",
+        "key.projecte.boots_toggle",
+        "key.projecte.charge",
+        "key.projecte.extra_function",
+        "key.projecte.fire_projectile",
+        "key.projecte.mode"
+      ]
+    },
+    {
+      "name": "key.categories.rftools",
+      "index": 109,
+      "hidden": false,
+      "keys": [
+        "key.nextDestination",
+        "key.prevDestination",
+        "key.unmountVehicle"
+      ]
+    },
+    {
+      "name": "key.shrink.category",
+      "index": 110,
+      "hidden": false,
+      "keys": [
+        "key.shrink.shrink"
+      ]
+    },
+    {
+      "name": "combatroll.mod_name",
+      "index": 111,
+      "hidden": false,
+      "keys": [
+        "keybinds.combatroll.roll"
+      ]
+    },
+    {
+      "name": "item-placer",
+      "index": 112,
+      "hidden": false,
+      "keys": [
+        "Place item",
+        "Rotate item"
+      ]
+    },
+    {
+      "name": "category.structurecompass.main",
+      "index": 112,
+      "hidden": false,
+      "keys": [
+        "key.structurecompass.hide"
+      ]
+    },
+    {
+      "name": "key.categories.additionalplacements",
+      "index": 113,
+      "hidden": false,
+      "keys": [
+        "key.additionalplacements.placement_toggle"
+      ]
+    },
+    {
+      "name": "Corail Tombstone",
+      "index": 114,
+      "hidden": false,
+      "keys": [
+        "tombstone.message.knowledge_of_death",
+        "tombstone.message.config",
+        "tombstone.message.compendium"
+      ]
+    },
+    {
+      "name": "key.categories.sfm",
+      "index": 115,
+      "hidden": false,
+      "keys": [
+        "key.sfm.more_info",
+        "key.sfm.container_inspector.activation_key",
+        "key.sfm.item_inspector.activation_key"
+      ]
+    },
+    {
+      "name": "key.categories.evilcraft",
+      "index": 117,
+      "hidden": false,
+      "keys": [
+        "key.evilcraft.fart",
+        "key.evilcraft.exaltedCrafting"
+      ]
+    },
+    {
+      "name": "key.categories.skilltree",
+      "index": 119,
+      "hidden": false,
+      "keys": [
+        "key.display_skill_tree"
+      ]
+    },
+    {
+      "name": "constants.mekanism.mod_name",
+      "index": 125,
+      "hidden": false,
+      "keys": [
+        "key.mekanism.mode",
+        "key.mekanism.head_mode",
+        "key.mekanism.chest_mode",
+        "key.mekanism.legs_mode",
+        "key.mekanism.feet_mode",
+        "key.mekanism.details",
+        "key.mekanism.description",
+        "key.mekanism.module_tweaker",
+        "key.mekanism.key_boost",
+        "key.mekanism.key_hud"
+      ]
+    },
+    {
+      "name": "constants.mekanism.mod_name",
+      "index": 126,
+      "hidden": false,
+      "keys": [
+        "key.mekanismadditions.voice"
+      ]
+    },
+    {
+      "name": "constants.gravitationalmodulatingunittweaks.key_category",
+      "index": 127,
+      "hidden": false,
+      "keys": [
+        "key.gravitationalmodulatingunittweaks.vertical_speed"
+      ]
+    },
+    {
+      "name": "key.categories.l2mods",
+      "index": 127,
+      "hidden": false,
+      "keys": [
+        "key.l2mods.up",
+        "key.l2mods.down",
+        "key.l2mods.left",
+        "key.l2mods.right",
+        "key.l2mods.swap"
+      ]
+    },
+    {
+      "name": "GregTechCEu",
+      "index": 128,
+      "hidden": false,
+      "keys": [
+        "gtceu.key.armor_mode_switch",
+        "gtceu.key.armor_hover",
+        "gtceu.key.enable_jetpack",
+        "gtceu.key.enable_boots",
+        "gtceu.key.armor_charging",
+        "gtceu.key.tool_aoe_change",
+        "gtceu.key.action"
+      ]
+    },
+    {
+      "name": "key.ae2.category",
+      "index": 129,
+      "hidden": false,
+      "keys": [
+        "key.ae2.guide",
+        "key.ae2.wireless_pattern_access_terminal",
+        "key.ae2.ae2wtlib_restock",
+        "key.ae2.ae2wtlib_magnet",
+        "key.ae2.portable_item_cell",
+        "key.ae2.portable_fluid_cell",
+        "key.ae2.wireless_pattern_encoding_terminal",
+        "key.ae2.wireless_terminal"
+      ]
+    },
+    {
+      "name": "key.structurize.categories.general",
+      "index": 131,
+      "hidden": false,
+      "keys": [
+        "key.structurize.teleport",
+        "key.structurize.move_forward",
+        "key.structurize.move_back",
+        "key.structurize.move_left",
+        "key.structurize.move_right",
+        "key.structurize.move_up",
+        "key.structurize.move_down",
+        "key.structurize.rotate_cw",
+        "key.structurize.rotate_ccw",
+        "key.structurize.mirror"
+      ]
+    },
+    {
+      "name": "key.structurize.categories.general",
+      "index": 132,
+      "hidden": false,
+      "keys": [
+        "key.structurize.place"
+      ]
+    },
+    {
+      "name": "key.occultism.category",
+      "index": 133,
+      "hidden": false,
+      "keys": [
+        "key.occultism.backpack",
+        "key.occultism.storage_remote",
+        "key.occultism.familiar.greedy_familiar",
+        "key.occultism.familiar.otherworld_bird",
+        "key.occultism.familiar.bat_familiar",
+        "key.occultism.familiar.deer_familiar",
+        "key.occultism.familiar.cthulhu_familiar",
+        "key.occultism.familiar.devil_familiar",
+        "key.occultism.familiar.dragon_familiar",
+        "key.occultism.familiar.blacksmith_familiar"
+      ]
+    },
+    {
+      "name": "key.occultism.category",
+      "index": 134,
+      "hidden": false,
+      "keys": [
+        "key.occultism.familiar.guardian_familiar",
+        "key.occultism.familiar.headless_familiar",
+        "key.occultism.familiar.chimera_familiar",
+        "key.occultism.familiar.goat_familiar",
+        "key.occultism.familiar.shub_niggurath_familiar",
+        "key.occultism.familiar.beholder_familiar",
+        "key.occultism.familiar.fairy_familiar",
+        "key.occultism.familiar.mummy_familiar",
+        "key.occultism.familiar.beaver_familiar"
+      ]
+    },
+    {
+      "name": "key.categories.placebo",
+      "index": 136,
+      "hidden": false,
+      "keys": [
+        "placebo.toggleTrails",
+        "placebo.toggleWings"
+      ]
+    },
+    {
+      "name": "keybind.sophisticatedbackpacks.category",
+      "index": 136,
+      "hidden": false,
+      "keys": [
+        "keybind.sophisticatedbackpacks.open_backpack",
+        "keybind.sophisticatedbackpacks.inventory_interaction",
+        "keybind.sophisticatedbackpacks.tool_swap",
+        "keybind.sophisticatedbackpacks.sort",
+        "keybind.sophisticatedbackpacks.toggle_upgrade_1",
+        "keybind.sophisticatedbackpacks.toggle_upgrade_2",
+        "keybind.sophisticatedbackpacks.toggle_upgrade_3",
+        "keybind.sophisticatedbackpacks.toggle_upgrade_4",
+        "keybind.sophisticatedbackpacks.toggle_upgrade_5"
+      ]
+    },
+    {
+      "name": "key.carry.category",
+      "index": 138,
+      "hidden": false,
+      "keys": [
+        "key.carry.desc"
+      ]
+    },
+    {
+      "name": "key.shulkerboxslot.category",
+      "index": 139,
+      "hidden": false,
+      "keys": [
+        "key.shulkerboxslot.open.desc"
+      ]
+    },
+    {
+      "name": "quickstack",
+      "index": 140,
+      "hidden": false,
+      "keys": [
+        "dropoff.key.dump",
+        "dropoff.key.deposit"
+      ]
+    },
+    {
+      "name": "key.armbanner.category",
+      "index": 141,
+      "hidden": false,
+      "keys": [
+        "key.banner_slot.slot"
+      ]
+    },
+    {
+      "name": "ms.keybind",
+      "index": 141,
+      "hidden": false,
+      "keys": [
+        "ms.zoom",
+        "ms.config_gui"
+      ]
+    },
+    {
+      "name": "key.irons_spellbooks.group_1",
+      "index": 142,
+      "hidden": false,
+      "keys": [
+        "key.irons_spellbooks.spell_wheel",
+        "key.irons_spellbooks.spellbook_cast",
+        "key.irons_spellbooks.spell_bar_modifier"
+      ]
+    },
+    {
+      "name": "key.categories.tconstruct",
+      "index": 143,
+      "hidden": false,
+      "keys": [
+        "key.tconstruct.helmet_interact",
+        "key.tconstruct.leggings_interact"
+      ]
+    },
+    {
+      "name": "category.origins",
+      "index": 143,
+      "hidden": false,
+      "keys": [
+        "key.origins.tertiary_active",
+        "key.origins.quaternary_active",
+        "key.origins.quinary_active",
+        "key.origins.senary_active",
+        "key.origins.septenary_active",
+        "key.origins.octonary_active",
+        "key.origins.nonary_active",
+        "key.origins.primary_active",
+        "key.origins.secondary_active",
+        "key.origins.view_origin"
+      ]
+    },
+    {
+      "name": "key.irons_spellbooks.group_2",
+      "index": 143,
+      "hidden": false,
+      "keys": [
+        "key.irons_spellbooks.spell_quick_cast_1",
+        "key.irons_spellbooks.spell_quick_cast_2",
+        "key.irons_spellbooks.spell_quick_cast_3",
+        "key.irons_spellbooks.spell_quick_cast_4",
+        "key.irons_spellbooks.spell_quick_cast_5",
+        "key.irons_spellbooks.spell_quick_cast_6",
+        "key.irons_spellbooks.spell_quick_cast_7",
+        "key.irons_spellbooks.spell_quick_cast_8",
+        "key.irons_spellbooks.spell_quick_cast_9",
+        "key.irons_spellbooks.spell_quick_cast_10"
+      ]
+    },
+    {
+      "name": "category.origins",
+      "index": 144,
+      "hidden": false,
+      "keys": [
+        "key.origins.tertiary_active",
+        "key.origins.quaternary_active",
+        "key.origins.quinary_active",
+        "key.origins.senary_active",
+        "key.origins.septenary_active",
+        "key.origins.octonary_active",
+        "key.origins.nonary_active",
+        "key.origins.decenary_active",
+        "key.origins.undenary_active",
+        "key.origins.duodenary_active"
+      ]
+    },
+    {
+      "name": "key.irons_spellbooks.group_2",
+      "index": 144,
+      "hidden": false,
+      "keys": [
+        "key.irons_spellbooks.spell_quick_cast_11",
+        "key.irons_spellbooks.spell_quick_cast_12",
+        "key.irons_spellbooks.spell_quick_cast_13",
+        "key.irons_spellbooks.spell_quick_cast_14",
+        "key.irons_spellbooks.spell_quick_cast_15"
+      ]
+    },
+    {
+      "name": "category.origins",
+      "index": 145,
+      "hidden": false,
+      "keys": [
+        "key.origins.tredecenary_active",
+        "key.origins.quattuordecenary_active",
+        "key.origins.quindecenary_active",
+        "key.origins.sexdecenary_active",
+        "key.origins.septendecenary_active",
+        "key.origins.octodecenary_active",
+        "key.origins.novendecenary_active",
+        "key.origins.vigintenary_active",
+        "key.origins.unvigintenary_active",
+        "key.origins.duovigintenary_active"
+      ]
+    },
+    {
+      "name": "key.categories.littletiles",
+      "index": 145,
+      "hidden": false,
+      "keys": [
+        "key.rotateup",
+        "key.rotatedown",
+        "key.rotateright",
+        "key.rotateleft",
+        "key.little.mirror",
+        "key.little.mark",
+        "key.little.config.item",
+        "key.little.undo",
+        "key.little.redo"
+      ]
+    },
+    {
+      "name": "category.origins",
+      "index": 146,
+      "hidden": false,
+      "keys": [
+        "key.origins.trivigintenary_active",
+        "key.origins.quadrivigintenary_active",
+        "key.origins.quinquavigintenary_active",
+        "key.origins.sexvigintenary_active",
+        "key.origins.septenvigintenary_active",
+        "key.origins.octovigintenary_active",
+        "key.origins.novemvigintenary_active",
+        "key.origins.trigintenary_active",
+        "key.origins.untrigintenary_active",
+        "key.origins.duotrigintenary_active"
+      ]
+    },
+    {
+      "name": "Iron Jetpacks",
+      "index": 146,
+      "hidden": false,
+      "keys": [
+        "keybind.ironjetpacks.engine",
+        "keybind.ironjetpacks.hover",
+        "keybind.ironjetpacks.ascend",
+        "keybind.ironjetpacks.descend",
+        "keybind.ironjetpacks.increment_throttle",
+        "keybind.ironjetpacks.decrement_throttle"
+      ]
+    },
+    {
+      "name": "category.origins",
+      "index": 147,
+      "hidden": false,
+      "keys": [
+        "key.origins.tritrigintenary_active"
+      ]
+    },
+    {
+      "name": "key.createbigcannons.category",
+      "index": 147,
+      "hidden": false,
+      "keys": [
+        "key.createbigcannons.pitch_mode",
+        "key.createbigcannons.fire_controlled_cannon"
+      ]
+    },
+    {
+      "name": "itemGroup.shetiphiancore",
+      "index": 148,
+      "hidden": false,
+      "keys": [
+        "key.shetiphiancore.tool.next",
+        "key.shetiphiancore.tool.previous"
+      ]
+    },
+    {
+      "name": "key.epp.category",
+      "index": 149,
+      "hidden": false,
+      "keys": [
+        "key.epp.viewpattern"
+      ]
+    },
+    {
+      "name": "CoFH",
+      "index": 150,
+      "hidden": false,
+      "keys": [
+        "key.cofh.mode_change_increment",
+        "key.cofh.mode_change_decrement"
+      ]
+    },
+    {
+      "name": "hexerei.key.category.broom",
+      "index": 151,
+      "hidden": false,
+      "keys": [
+        "key.hexerei.broomDescend"
+      ]
+    },
+    {
+      "name": "hexerei.key.category.book_hovering",
+      "index": 152,
+      "hidden": false,
+      "keys": [
+        "key.hexerei.book_hovering_uses",
+        "key.hexerei.book_hovering_recipe"
+      ]
+    },
+    {
+      "name": "hexerei.key.category.glasses",
+      "index": 153,
+      "hidden": false,
+      "keys": [
+        "key.hexerei.glasses_zoom"
+      ]
+    },
+    {
+      "name": "key.categories.toomanykeybinds",
+      "index": 154,
+      "hidden": false,
+      "keys": [
+        "key.toomanykeybinds.open_tmk"
+      ]
+    },
+    {
+      "name": "desc.seasonhud.keybind.category",
+      "index": 155,
+      "hidden": false,
+      "keys": [
+        "desc.seasonhud.keybind.options"
+      ]
+    },
+    {
+      "name": "Xaero\u0027s World Map",
+      "index": 155,
+      "hidden": false,
+      "keys": [
+        "gui.xaero_open_map",
+        "gui.xaero_open_settings",
+        "gui.xaero_map_zoom_in",
+        "gui.xaero_map_zoom_out",
+        "gui.xaero_quick_confirm",
+        "gui.xaero_toggle_dimension"
+      ]
+    },
+    {
+      "name": "key.categories.dankstorage",
+      "index": 156,
+      "hidden": false,
+      "keys": [
+        "key.dankstorage.construction",
+        "key.dankstorage.lock_slot",
+        "key.dankstorage.pickup_mode"
+      ]
+    },
+    {
+      "name": "key.railcraft.category",
+      "index": 157,
+      "hidden": false,
+      "keys": [
+        "key.railcraft.change_aura"
+      ]
+    },
+    {
+      "name": "crashutils.keycategory",
+      "index": 157,
+      "hidden": false,
+      "keys": [
+        "crashutils.openscreen",
+        "crashutils.copycontainer",
+        "crashutils.slottooltips"
+      ]
+    },
+    {
+      "name": "Draconic Evolution",
+      "index": 158,
+      "hidden": false,
+      "keys": [
+        "key.draconicevolution.place_item",
+        "key.draconicevolution.tool_config",
+        "key.draconicevolution.tool_modules",
+        "key.draconicevolution.toggle_flight",
+        "key.draconicevolution.toggle_magnet",
+        "key.draconicevolution.dislocator_teleport",
+        "key.draconicevolution.dislocator_blink",
+        "key.draconicevolution.dislocator_gui",
+        "key.draconicevolution.dislocator_up",
+        "key.draconicevolution.dislocator_down"
+      ]
+    },
+    {
+      "name": "key.categories.the_bumblezone",
+      "index": 159,
+      "hidden": false,
+      "keys": [
+        "key.the_bumblezone.beehemoth_up",
+        "key.the_bumblezone.beehemoth_down"
+      ]
+    },
+    {
+      "name": "Create",
+      "index": 160,
+      "hidden": false,
+      "keys": [
+        "create.keyinfo.toolmenu",
+        "create.keyinfo.toolbelt",
+        "create.keyinfo.ponder"
+      ]
+    },
+    {
+      "name": "key.category.balancedflight",
+      "index": 161,
+      "hidden": false,
+      "keys": [
+        "key.take_off"
+      ]
+    },
+    {
+      "name": "Refined Storage",
+      "index": 162,
+      "hidden": false,
+      "keys": [
+        "key.refinedstorage.focusSearchBar",
+        "key.refinedstorage.clearGridCraftingMatrix",
+        "key.refinedstorage.openWirelessGrid",
+        "key.refinedstorage.openWirelessFluidGrid",
+        "key.refinedstorage.openWirelessCraftingMonitor",
+        "key.refinedstorage.openPortableGrid"
+      ]
+    },
+    {
+      "name": "Reborn Storage",
+      "index": 163,
+      "hidden": false,
+      "keys": [
+        "key.rebornstorage.openWirelessCraftingGrid",
+        "key.rebornstorage.switchModeWirelessCraftingGrid"
+      ]
+    },
+    {
+      "name": "Refined Storage Addons",
+      "index": 164,
+      "hidden": false,
+      "keys": [
+        "key.refinedstorageaddons.openWirelessCraftingGrid"
+      ]
+    },
+    {
+      "name": "key.category.creategbd.main",
+      "index": 165,
+      "hidden": false,
+      "keys": [
+        "key.creategbd.beam_reactor_toggle"
+      ]
+    },
+    {
+      "name": "category.car",
+      "index": 166,
+      "hidden": false,
+      "keys": [
+        "key.car_forward",
+        "key.car_back",
+        "key.car_left",
+        "key.car_right",
+        "key.car_gui",
+        "key.car_start",
+        "key.car_horn",
+        "key.center_car"
+      ]
+    },
+    {
+      "name": "quark.gui.keygroup.misc",
+      "index": 167,
+      "hidden": false,
+      "keys": [
+        "quark.keybind.autorun",
+        "quark.keybind.back",
+        "quark.keybind.camera_mode",
+        "quark.keybind.change_hotbar",
+        "quark.keybind.lock_rotation",
+        "quark.keybind.narrator_readout",
+        "quark.keybind.narrator_full_readout",
+        "quark.keybind.variant_selector"
+      ]
+    },
+    {
+      "name": "quark.gui.keygroup.inv",
+      "index": 168,
+      "hidden": false,
+      "keys": [
+        "quark.keybind.transfer_insert",
+        "quark.keybind.transfer_extract",
+        "quark.keybind.shift_lock",
+        "quark.keybind.sort_player",
+        "quark.keybind.sort_container"
+      ]
+    },
+    {
+      "name": "quark.gui.keygroup.emote",
+      "index": 169,
+      "hidden": false,
+      "keys": [
+        "quark.emote.no",
+        "quark.emote.yes",
+        "quark.emote.wave",
+        "quark.emote.salute",
+        "quark.emote.cheer",
+        "quark.emote.clap",
+        "quark.emote.think",
+        "quark.emote.point",
+        "quark.emote.shrug",
+        "quark.emote.headbang"
+      ]
+    },
+    {
+      "name": "quark.gui.keygroup.emote",
+      "index": 170,
+      "hidden": false,
+      "keys": [
+        "quark.emote.weep",
+        "quark.emote.facepalm",
+        "quark.keybind.patreon_emote.dance",
+        "quark.keybind.patreon_emote.tpose",
+        "quark.keybind.patreon_emote.dab",
+        "quark.keybind.patreon_emote.jet",
+        "quark.keybind.patreon_emote.exorcist",
+        "quark.keybind.patreon_emote.zombie"
+      ]
+    },
+    {
+      "name": "supplementaries.gui.controls",
+      "index": 171,
+      "hidden": false,
+      "keys": [
+        "supplementaries.keybind.quiver"
+      ]
+    },
+    {
+      "name": "text.entityculling.title",
+      "index": 172,
+      "hidden": false,
+      "keys": [
+        "key.entityculling.toggle"
+      ]
+    },
+    {
+      "name": "category.createrailwaysnavigator.crn",
+      "index": 177,
+      "hidden": false,
+      "keys": [
+        "key.createrailwaysnavigator.route_overlay_options"
+      ]
+    },
+    {
+      "name": "key.goety.category",
+      "index": 181,
+      "hidden": false,
+      "keys": [
+        "key.goety.wand",
+        "key.goety.focusCircle",
+        "key.goety.bag",
+        "key.goety.ceaseFire"
+      ]
+    },
+    {
+      "name": "key.goety.witch.category",
+      "index": 182,
+      "hidden": false,
+      "keys": [
+        "key.goety.witch.robe",
+        "key.goety.witch.extractPotions",
+        "key.goety.witch.brewBag",
+        "key.goety.witch.brewCircle"
+      ]
+    },
+    {
+      "name": "key.goety.lich.category",
+      "index": 183,
+      "hidden": false,
+      "keys": [
+        "key.goety.lich.magnet",
+        "key.goety.lich.nightVision",
+        "key.goety.lich.lichForm"
+      ]
+    },
+    {
+      "name": "key.goety.mount.category",
+      "index": 184,
+      "hidden": false,
+      "keys": [
+        "key.goety.mount.roar",
+        "key.goety.mount.freeRoam"
+      ]
+    },
+    {
+      "name": "category.observable.keybinds",
+      "index": 184,
+      "hidden": false,
+      "keys": [
+        "key.observable.profile"
+      ]
+    },
+    {
+      "name": "category.structurecredits.keys",
+      "index": 186,
+      "hidden": false,
+      "keys": [
+        "key.structurecredits.deactivate_key",
+        "key.structurecredits.show_again_key",
+        "key.structurecredits.dont_show_key"
+      ]
+    }
+  ]
+}

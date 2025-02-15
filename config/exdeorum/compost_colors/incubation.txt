@@ -1,0 +1,5 @@
+// Compost colors for incubation. You may add your own colors, change existing ones, or remove colors that aren't needed.
+fried_egg, #ffffff
+hay_nest, #c09d0f
+scrambled_eggs, #ac7919
+twig_nest, #9a5e3a

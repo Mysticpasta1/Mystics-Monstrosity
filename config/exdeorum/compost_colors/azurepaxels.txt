@@ -1,0 +1,7 @@
+// Compost colors for azurepaxels. You may add your own colors, change existing ones, or remove colors that aren't needed.
+diamond_paxel, #36a08c
+golden_paxel, #d3ae3a
+iron_paxel, #a2a0a0
+netherite_paxel, #66545c
+stone_paxel, #848382
+wooden_paxel, #6e572d

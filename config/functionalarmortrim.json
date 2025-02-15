@@ -1,0 +1,85 @@
+{
+    "minecraft:iron_ingot": [
+        {
+            "attribute": "minecraft:generic.armor",
+            "operation": "addition",
+            "amount": 2.0
+        }
+    ],
+    "minecraft:diamond": [
+        {
+            "attribute": "minecraft:generic.armor",
+            "operation": "addition",
+            "amount": 2.0
+        },
+        {
+            "attribute": "minecraft:generic.armor_toughness",
+            "operation": "addition",
+            "amount": 2.0
+        }
+    ],
+    "minecraft:netherite_ingot": [
+        {
+            "attribute": "minecraft:generic.armor",
+            "operation": "addition",
+            "amount": 2.0
+        },
+        {
+            "attribute": "minecraft:generic.armor_toughness",
+            "operation": "addition",
+            "amount": 2.0
+        },
+        {
+            "attribute": "functionalarmortrim:fire_resistance",
+            "operation": "addition",
+            "amount": 0.25
+        }
+    ],
+    "minecraft:redstone": [
+        {
+            "attribute": "minecraft:generic.movement_speed",
+            "operation": "multiply_total",
+            "amount": 0.1
+        },
+        {
+            "attribute": "forge:step_height_addition",
+            "operation": "addition",
+            "amount": 1.0
+        }
+    ],
+    "minecraft:copper_ingot": [
+        {
+            "attribute": "forge:swim_speed",
+            "operation": "multiply_total",
+            "amount": 0.1
+        }
+    ],
+    "minecraft:amethyst_shard": [
+        {
+            "attribute": "functionalarmortrim:night_vision",
+            "operation": "addition",
+            "amount": 0.25
+        }
+    ],
+    "minecraft:lapis_lazuli": [
+        {
+            "attribute": "functionalarmortrim:experience_boost",
+            "operation": "multiply_total",
+            "amount": 0.1
+        }
+    ],
+    "minecraft:quartz": [
+        {
+            "attribute": "functionalarmortrim:thorns",
+            "operation": "addition",
+            "amount": 1.0
+        }
+    ],
+    "minecraft:emerald": [
+        {
+            "attribute": "functionalarmortrim:gossip_boost",
+            "operation": "multiply_total",
+            "amount": 0.1
+        }
+    ]
+}

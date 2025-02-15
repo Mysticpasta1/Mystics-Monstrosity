@@ -1,0 +1,17 @@
+// Compost colors for diamondglass. You may add your own colors, change existing ones, or remove colors that aren't needed.
+pane_black, #1c1f1f
+pane_blue, #36ff
+pane_brown, #b52300
+pane_cyan, #ffff
+pane_green, #ffcd
+pane_light_blue, #7cffff
+pane_light_gray, #b6b6b6
+pane_lime, #b6ffcd
+pane_magenta, #ff00ff
+pane_orange, #ffff00
+pane_pink, #ffb5ff
+pane_purple, #fe00ff
+pane_red, #ff0000
+pane_white, #ffffff
+pane_yellow, #ffffb5
+rainbowglasspane, #fffffa

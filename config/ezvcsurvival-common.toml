@@ -1,0 +1,34 @@
+
+["FollowVoice Config"]
+	#List of mob configurations for FollowVoice.
+	#Format: 'mob_id=speed=<value>,range=<value>,threshold=<value>'
+	#Example: 'minecraft:zombie=speed=1.5,range=25,threshold=-10.0'
+	mob_configs = ["minecraft:zombie=speed=1.5,range=20,threshold=-40.0", "minecraft:skeleton=speed=1.2,range=15,threshold=-35.0"]
+	#List of mob configurations for RunawayVoiceGoal.
+	#Format: 'animal_id=speed=<value>,range=<value>,threshold=<value>'
+	#Example: 'minecraft:cow=speed=1.0,range=15,threshold=-25.0'
+	animal_configs = ["minecraft:cow=speed=1.5,range=15,threshold=-45.0", "minecraft:pig=speed=1.2,range=5,threshold=-45.0"]
+
+["Whisper Config"]
+	#Multiplier for detection range when the player is whispering.
+	#Example: range=20 x 0.5 = 10
+	#Range: 0.0 ~ 1.0
+	whisper_range_multiplier = 0.5
+	#Multiplier for mob speed when the player is whispering.
+	#Example: speed=1.2 x 0.8 = 0.96
+	#Range: 0.0 ~ 1.0
+	whisper_speed_multiplier = 0.8
+
+["Misc Config"]
+	#Multiplier for detection range when it is raining or during a thunderstorm (reduces the range).
+	#Range: 0.0 ~ 1.0
+	thunder_range_multiplier = 0.5
+	#Multiplier for detection range when the player is sneaking/crouching (reduces the range).
+	#Range: 0.0 ~ 1.0
+	sneaking_range_multiplier = 0.5
+	#List of sound reaction configurations for mobs.
+	#Format: 'mob_id=speed=<value>,range=<value>,sound_types=<type1,type2,...>'
+	#Example: 'minecraft:zombie=speed=1.5,range=20,sound_types=block.wood.break,block.metal.hit,modded:custom.sound'
+	#How to know the sound types? Use the command /playsound <sound> <source> <player>
+	sound_reaction_configs = ["minecraft:zombie=speed=1.5,range=20,sound_types=block.wood.break,block.metal.hit", "minecraft:cow=speed=1.8,range=16,sound_types=entity.cow.death,entity.cow.hurt"]
+

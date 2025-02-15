@@ -1,0 +1,16 @@
+// Compost colors for dungeonsartifacts. You may add your own colors, change existing ones, or remove colors that aren't needed.
+boots_of_swiftness, #708ee3
+corrupted_beacon, #e0a7ff
+death_cap_mushroom, #e84adc
+ghost_cloak, #9740c0
+gong_of_weakening, #866c87
+harvester, #b9b8da
+iron_hide_amulet, #6ea475
+lightning_rod, #d0a562
+soul_healer, #5478f0
+soul_lantern, #acc8dd
+spinblade, #dca283
+tasty_bone, #9b5f5b
+totem_of_regeneration, #8c4023
+updraft_tome, #a49362
+wind_horn, #7087aa

@@ -1,0 +1,32 @@
+#Should we replace the mystery box inside AE2 Meteors with the Catalyst?
+replaceAe2Meteor = false
+#How many blocks should a Catalyst Block be moved when right-clicked with the Activator Wand?
+#Range: 1 ~ 32
+moveCatalystDistance = 1
+#Radius in blocks for generating Asurine around the Catalyst
+#Warning!!!  Setting this diameter too large could have negative side effects, especially on a server!
+#Range: 1 ~ 17
+asurineCatalystRadius = 6
+#Radius in blocks for generating Crimsite around the Catalyst.
+#Warning!!!  Setting this diameter too large could have negative side effects, especially on a server!
+#Range: 3 ~ 27
+crimsiteCatalystRadius = 11
+#Radius in blocks for generating Ochrum around the Catalyst.
+#Warning!!!  Setting this diameter too large could have negative side effects, especially on a server!
+#Range: 1 ~ 17
+ochrumCatalystRadius = 6
+#Radius in blocks for generating Veridium around the Catalyst.
+#Warning!!!  Setting this diameter too large could have negative side effects, especially on a server!
+#Range: 1 ~ 17
+veridiumCatalystRadius = 6
+#Radius in blocks for generating Sky Stone around the Catalyst.
+#Warning!!!  Setting this diameter too large could have negative side effects, especially on a server!
+#Range: 1 ~ 17
+skystoneCatalystRadius = 6
+#What percentage of the generated cube of blocks should actually be filled?
+#Warning!!!  Setting this percentage too high could have negative side effects, especially on a server!
+#Range: 0.01 ~ 1.0
+catalystFillPercentage = 0.12
+#Can a Catalyst move into a Water Source or Flowing Water block?
+catalystMoveIgnoreWater = false
+

@@ -1,0 +1,19 @@
+// Compost colors for rebornstorage. You may add your own colors, change existing ones, or remove colors that aren't needed.
+large_fluid_disk, #deeeee
+large_fluid_disk_part, #c0d3af
+large_item_disk, #e8eae7
+large_item_disk_part, #a0be86
+larger_fluid_disk, #deeef0
+larger_fluid_disk_part, #78aaac
+larger_item_disk, #e7eaea
+larger_item_disk_part, #5cc3c9
+medium_fluid_disk, #e1f0ee
+medium_fluid_disk_part, #e7e3b9
+medium_item_disk, #eaeae7
+medium_item_disk_part, #f4eec2
+raw_super_advanced_processor, #ffffff
+small_fluid_disk, #e0eeee
+small_fluid_disk_part, #edddc6
+small_item_disk, #eae8e7
+small_item_disk_part, #ffffee
+super_advanced_processor, #ffffff

@@ -1,0 +1,14 @@
+// Compost colors for theinkarena. You may add your own colors, change existing ones, or remove colors that aren't needed.
+bone_ladder, #ffffe3
+ink_bottle, #7a8394
+ink_bucket, #757679
+ink_membrane, #282a30
+ink_power_scroll, #fff5c6
+ink_waste, #9aa090
+inkstained_grimoire, #a79d82
+paper_airplane, #ffffff
+soul_brush, #5c5f5b
+soul_power_scroll, #ffffd6
+soul_sigil, #70797d
+soul_slasher, #4b5c64
+trapped_soul, #516c7a

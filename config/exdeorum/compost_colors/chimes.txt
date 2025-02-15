@@ -1,0 +1,7 @@
+// Compost colors for chimes. You may add your own colors, change existing ones, or remove colors that aren't needed.
+amethyst_chimes, #faebff
+bamboo_chimes, #ffffd6
+carved_bamboo_chimes, #ffffdc
+copper_chimes, #f4bca7
+glass_bells, #ffffff
+iron_chimes, #eae1d9

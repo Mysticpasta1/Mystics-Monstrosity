@@ -1,0 +1,68 @@
+{
+  // Format number using suffixes (K, M, etc.)? If false, then the full number will be shown.
+  "formattedNumberSuffix": false,
+  
+  // Show/hide mechanism name in GUI
+  "nameMechanism": true,
+  
+  // Whether to show mana/water/energy/heat as a number when hovering over its capacity?
+  "numericalTooltip": true,
+  
+  // Show information about additional slots? For example, the slot where the catalyst is placed in the mana pool.
+  "slotInfo": true,
+  
+  // Mechanism rendering settings.
+  "RenderingVisualContent": {
+  
+    // If you disable this setting, custom rendering will be disabled for all machines and will ignore other configuration settings..
+    "all": true,
+    
+    // Greenhouse rendering settings
+    "greenhouse": true,
+    
+    // Alfheim Market rendering settings.
+    "AlfheimMarketSettings": {
+    
+      "alfheimMarketAdvanced": true,
+      "alfheimMarketBase": true,
+      "alfheimMarketUltimate": true,
+      "alfheimMarketUpgraded": true
+    },
+    
+    // Apothecary rendering settings.
+    "ApothecarySettings": {
+    
+      "apothecaryAdvanced": true,
+      "apothecaryBase": true,
+      "apothecaryUltimate": true,
+      "apothecaryUpgraded": true
+    },
+    
+    // Daisy Rendering Settings.
+    "DaisySettings": {
+    
+      "daisyAdvanced": true,
+      "daisyBase": true,
+      "daisyUltimate": true,
+      "daisyUpgraded": true
+    },
+    
+    // Mana Pool Rendering Settings.
+    "ManaPoolSettings": {
+    
+      "manaPoolAdvanced": true,
+      "manaPoolBase": true,
+      "manaPoolUltimate": true,
+      "manaPoolUpgraded": true
+    },
+    
+    // Runic Altars Rendering Settings.
+    "RunicAltarSettings": {
+    
+      "runicAltarAdvanced": true,
+      "runicAltarBase": true,
+      "runicAltarUltimate": true,
+      "runicAltarUpgraded": true
+    }
+  }
+}

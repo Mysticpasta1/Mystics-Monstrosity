@@ -1,0 +1,25 @@
+// Compost colors for aq. You may add your own colors, change existing ones, or remove colors that aren't needed.
+diamond_fish, #dcbc8d
+diamond_fishing_rod, #4da798
+diamond_nugget, #3ae6d6
+dolphin_finn, #cfe4f8
+gold_fish, #f5c58e
+gold_fishing_rod, #b1aa5b
+golden_fish, #ffff75
+iron_fish, #e6bb90
+iron_fishing_rod, #bbb9b6
+netherite_fishing_rod, #5c5b5b
+turtle_apple, #34833a
+turtle_axe, #ffffff
+turtle_boots, #2c7334
+turtle_chestplate, #408240
+turtle_helmet, #297c37
+turtle_hoe, #ffffff
+turtle_ingot, #2f6c2d
+turtle_leggins, #2f8039
+turtle_pickaxe, #ffffff
+turtle_shovel, #ffffff
+turtle_sword, #ffffff
+vturtle_boots, #348a3e
+vturtle_chestplate, #369847
+vturtle_leggins, #328740

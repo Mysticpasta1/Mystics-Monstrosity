@@ -1,0 +1,13 @@
+// Compost colors for appbot. You may add your own colors, change existing ones, or remove colors that aren't needed.
+creative_mana_cell, #8480ff
+mana_cell_housing, #5b7cff
+mana_storage_cell_16k, #51a8e4
+mana_storage_cell_1k, #7683e7
+mana_storage_cell_256k, #708eff
+mana_storage_cell_4k, #84aae0
+mana_storage_cell_64k, #5eaaff
+portable_mana_storage_cell_16k, #51a7f2
+portable_mana_storage_cell_1k, #5e9af4
+portable_mana_storage_cell_256k, #5c9dff
+portable_mana_storage_cell_4k, #64a8f1
+portable_mana_storage_cell_64k, #55a8ff

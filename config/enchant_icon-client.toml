@@ -1,0 +1,15 @@
+#Type of background texture to use.
+#Allowed Values: STICKY_NOTE, ENCHANTED_BOOK
+background_type = "STICKY_NOTE"
+#Type of level mark texture to use.
+#Allowed Values: DIGIT_COLORED, DIGIT_MONOCHROME, ROMAN_NUMERAL_COLORED, ROMAN_NUMERAL_MONOCHROME, VANILLA, COLOR_BLIND
+level_mark_type = "DIGIT_COLORED"
+#Scope in which this mod should display enchantment icons, when in a GUI-like scenario, for example inventory or item frame.
+#Allowed Values: ALL, ENCHANTED_BOOK_ONLY, NONE
+scope_for_gui_like = "ENCHANTED_BOOK_ONLY"
+#Scope in which this mod should display enchantment icons, when the item is hand-held by someone.
+#Allowed Values: ALL, ENCHANTED_BOOK_ONLY, NONE
+scope_for_hand_held = "ENCHANTED_BOOK_ONLY"
+#Display internal name of all enchantments on an item in their tooltips. Useful for resource pack maker.
+show_enchant_internal_name = false
+

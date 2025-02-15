@@ -1,0 +1,11 @@
+// Compost colors for ingredientsdelight. You may add your own colors, change existing ones, or remove colors that aren't needed.
+butter_bottle, #ffffff
+chopsticks, #fff470
+cleaver, #c9c5be
+cup, #ffffff
+fork, #bbac91
+pepper, #373737
+salt, #ffffff
+spices, #c03030
+spoon, #bcb2a0
+sweetener, #ffffff

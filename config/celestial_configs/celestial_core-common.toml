@@ -1,0 +1,40 @@
+
+[materials]
+	#Range: 0.0 ~ 1.0
+	fireEssenceChance = 0.08
+	#Range: 0.0 ~ 1.0
+	oceanEssenceChance = 0.08
+	#Range: 0.0 ~ 1.0
+	deathEssenceChance = 0.6
+	#Range: 0 ~ 1000000
+	deathEssenceMinHealth = 100
+	#Range: 0.0 ~ 1.0
+	wardenScleriteChance = 0.5
+	#Range: 0.0 ~ 1.0
+	shulkerScrapChance = 0.5
+	#Range: 0.0 ~ 1.0
+	lightFragmentChance = 0.05
+	#Range: 0.0 ~ 1.0
+	midnightFragmentChance = 0.05
+	#Range: 0.0 ~ 1.0
+	sakuraFragmentChance = 0.1
+	#Range: 0.0 ~ 1.0
+	virtualGoldNuggetChance = 0.5
+	#Range: 0 ~ 100
+	pureNetherStarEffectCount = 12
+	#Range: 0.0 ~ 1.0
+	guardianSpikeChance = 0.2
+	#Range: 0.0 ~ 1.0
+	brokenTotemChance = 0.5
+
+[items]
+	#Time required to restore durability each time
+	#Range: 0 ~ 100
+	sakuraToolRecoveryTime = 5
+	#Percentage bonus provided by each enchantment
+	#Range: 0.01 ~ 1.0
+	virtualGoldToolPerAdd = 0.05
+	#The reduction probability of durability per point
+	#Range: 0.01 ~ 1.0
+	copperReinforceChance = 0.5
+

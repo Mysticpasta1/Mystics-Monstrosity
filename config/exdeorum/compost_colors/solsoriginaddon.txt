@@ -1,0 +1,10 @@
+// Compost colors for solsoriginaddon. You may add your own colors, change existing ones, or remove colors that aren't needed.
+brimstone_armor_boots, #161616
+brimstone_armor_chestplate, #2c2515
+brimstone_armor_helmet, #262011
+cooked_flesh, #7a432d
+elyrite_boots, #ffff62
+elyrite_chestplate, #ffffff
+elyrite_helmet, #ffffaa
+elyrite_leggings, #ffff7f
+water_bowl_helmet_helmet, #78eeea

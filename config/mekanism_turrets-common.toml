@@ -1,0 +1,53 @@
+
+["Mekanism Turrets Config"]
+	#Entities which will never be targeted by turrets
+	blacklistedEntities = ["minecraft:ender_dragon", "minecraft:iron_golem"]
+	#Cooldown of the Basic Laser Turret
+	#Range: > 0
+	basicLaserTurretCooldown = 80
+	#Damage of the Basic Laser Turret
+	#Range: 0.0 ~ 3.4028234663852886E38
+	basicLaserTurretDamage = 1.0
+	#Energy Capacity of the Basic Laser Turret
+	#Range: > 0
+	basicLaserTurretEnergyCapacity = 10000
+	#Range of the Basic Laser Turret
+	#Range: 0.0 ~ 1000.0
+	basicLaserTurretRange = 15.0
+	#Cooldown of the Advanced Laser Turret
+	#Range: > 0
+	advancedLaserTurretCooldown = 65
+	#Damage of the Advanced Laser Turret
+	#Range: 0.0 ~ 2.147483647E9
+	advancedLaserTurretDamage = 2.0
+	#Energy Capacity of the Advanced Laser Turret
+	#Range: > 0
+	advancedLaserTurretEnergyCapacity = 40000
+	#Range of the Advanced Laser Turret
+	#Range: 0.0 ~ 1000.0
+	advancedLaserTurretRange = 25.0
+	#Cooldown of the Elite Laser Turret
+	#Range: > 0
+	eliteLaserTurretCooldown = 50
+	#Damage of the Elite Laser Turret
+	#Range: 0.0 ~ 2.147483647E9
+	eliteLaserTurretDamage = 3.0
+	#Energy Capacity of the Elite Laser Turret
+	#Range: > 0
+	eliteLaserTurretEnergyCapacity = 90000
+	#Range of the Elite Laser Turret
+	#Range: 0.0 ~ 1000.0
+	eliteLaserTurretRange = 35.0
+	#Cooldown of the Ultimate Laser Turret
+	#Range: > 0
+	ultimateLaserTurretCooldown = 35
+	#Damage of the Ultimate Laser Turret
+	#Range: 0.0 ~ 2.147483647E9
+	ultimateLaserTurretDamage = 4.0
+	#Energy Capacity of the Ultimate Laser Turret
+	#Range: > 0
+	ultimateLaserTurretEnergyCapacity = 160000
+	#Range of the Ultimate Laser Turret
+	#Range: 0.0 ~ 1000.0
+	ultimateLaserTurretRange = 45.0
+

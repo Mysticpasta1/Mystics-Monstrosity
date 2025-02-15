@@ -1,0 +1,7 @@
+// Compost colors for ars_instrumentum. You may add your own colors, change existing ones, or remove colors that aren't needed.
+copy_paste_spell_scroll, #fad9ab
+fake_wilden_tribute, #6165b4
+numeric_mana_charm, #e8c057
+runic_storage_stone, #f283ff
+scroll_of_save_starbuncle, #ffe3a0
+wizards_armarium, #344333

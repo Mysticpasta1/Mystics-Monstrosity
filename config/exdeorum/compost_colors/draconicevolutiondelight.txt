@@ -1,0 +1,16 @@
+// Compost colors for draconicevolutiondelight. You may add your own colors, change existing ones, or remove colors that aren't needed.
+awakened_draconium_burger, #dd7915
+awakened_draconium_cake, #ffb40c
+awakened_draconium_jem, #ffc29d
+awakened_draconium_pie, #ffc066
+awekened_draconium_knife, #ff9307
+draconium_burger, #825548
+draconium_dragon_heart_glazed, #e06679
+draconium_jem, #d49bff
+draconium_knife, #825796
+draconium_pie, #dc87a4
+draconium_sauce, #7d3975
+dragon_chaos_steak, #4e2654
+dragon_heart_sandwich, #ffb240
+dragon_heart_stew, #c26855
+mix_draconium, #dd9dcc

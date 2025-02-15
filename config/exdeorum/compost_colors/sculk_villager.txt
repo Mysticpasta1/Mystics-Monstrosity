@@ -1,0 +1,2 @@
+// Compost colors for sculk_villager. You may add your own colors, change existing ones, or remove colors that aren't needed.
+echo_sword, #1e3e5a

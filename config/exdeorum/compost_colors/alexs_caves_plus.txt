@@ -1,0 +1,24 @@
+// Compost colors for alexs_caves_plus. You may add your own colors, change existing ones, or remove colors that aren't needed.
+amber, #ff981b
+amber_delicacy, #ffb60c
+bioluminesscence_sandwich, #9aa058
+blood_pearl, #d75c7a
+core, #ffffff
+magnetic_ball, #9719fc
+melting_magnet, #863e5c
+mini_azure_magnet, #3457c0
+mini_purple_magnet, #693dc6
+mini_scarlet_magnet, #c3343c
+mini_thermonuclear_bomb, #3291c8
+nuclear_bomb_item, #e3d65e
+piece_core, #ffffff
+plutonium, #ffffff
+plutonium_nugget, #ffffff
+pure_dark_rod, #3a3a3a
+purple_magnet_ingot, #4b269a
+purple_magnet_nugget, #5c29c9
+tectonic_netherite_diving_armor_boots, #c93d04
+tectonic_netherite_diving_armor_chestplate, #3a1e19
+tectonic_netherite_diving_armor_helmet, #5b3028
+tectonic_netherite_diving_armor_leggings, #6f0b0a
+void_bomb_item, #8d00ff

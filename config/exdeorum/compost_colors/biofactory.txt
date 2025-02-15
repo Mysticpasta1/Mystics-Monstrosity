@@ -1,0 +1,2 @@
+// Compost colors for biofactory. You may add your own colors, change existing ones, or remove colors that aren't needed.
+nutrients_fluid_bottle, #c0d2cd

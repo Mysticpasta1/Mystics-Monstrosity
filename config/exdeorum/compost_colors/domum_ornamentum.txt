@@ -1,0 +1,3 @@
+// Compost colors for domum_ornamentum. You may add your own colors, change existing ones, or remove colors that aren't needed.
+blockbarreldeco_onside, #4a3925
+blockbarreldeco_standing, #57432c

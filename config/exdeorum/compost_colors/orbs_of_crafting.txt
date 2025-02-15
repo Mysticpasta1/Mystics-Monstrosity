@@ -1,0 +1,2 @@
+// Compost colors for orbs_of_crafting. You may add your own colors, change existing ones, or remove colors that aren't needed.
+legendary_enchant_tool, #36de51

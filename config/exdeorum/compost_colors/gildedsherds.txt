@@ -1,0 +1,21 @@
+// Compost colors for gildedsherds. You may add your own colors, change existing ones, or remove colors that aren't needed.
+angler_pottery_sherd, #bc7648
+archer_pottery_sherd, #bf7946
+arms_up_pottery_sherd, #c68347
+blade_pottery_sherd, #bb7347
+brewer_pottery_sherd, #bf7643
+burn_pottery_sherd, #bf7646
+danger_pottery_sherd, #c37d46
+explorer_pottery_sherd, #cf8943
+friend_pottery_sherd, #c68044
+heart_pottery_sherd, #cc8440
+heartbreak_pottery_sherd, #c57d41
+howl_pottery_sherd, #c5824a
+miner_pottery_sherd, #c57d46
+mourner_pottery_sherd, #c27a40
+plenty_pottery_sherd, #cf8a41
+prize_pottery_sherd, #c57c40
+sheaf_pottery_sherd, #ca8240
+shelter_pottery_sherd, #c68044
+skull_pottery_sherd, #c57f44
+snort_pottery_sherd, #cc8743

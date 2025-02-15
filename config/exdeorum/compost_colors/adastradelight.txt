@@ -1,0 +1,25 @@
+// Compost colors for adastradelight. You may add your own colors, change existing ones, or remove colors that aren't needed.
+aeronos_mushroom_stew, #79784b
+calorite_knife, #de4a57
+cheese_bar, #ffe748
+cheese_cube, #ffe34d
+cheese_sandwich, #ffc241
+cheese_sauce, #c6972a
+cheeseburger, #ab7629
+cooked_martian_raptor_meat, #ffe79e
+cut_cooked_martian_raptor, #e0b66e
+cut_raw_martian_raptor, #fc7c7c
+desh_knife, #e38c55
+dried_aeronos_mushroom, #6e8676
+dried_strophar_mushroom, #987a89
+etrium_knife, #bffbda
+glazed_rings_raptor, #dca569
+hot_fuel_bucket, #bca596
+ice_cookie, #ffffe3
+ice_pie, #fff8ee
+mix_astra, #eecda0
+ostrum_knife, #8e6466
+raw_martian_raptor_meat, #ffa7a7
+small_pizza, #ffea5f
+steel_knife, #7a706b
+strophar_mushroom_stew, #835c4e

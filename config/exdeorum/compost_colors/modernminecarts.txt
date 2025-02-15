@@ -1,0 +1,14 @@
+// Compost colors for modernminecarts. You may add your own colors, change existing ones, or remove colors that aren't needed.
+chipped_copper_upgrade_smithing_template, #a76852
+copper_rail, #bc8c73
+copper_upgrade_smithing_template, #a86852
+damaged_copper_upgrade_smithing_template, #aa6e5a
+exposed_copper_rail, #b1937a
+oxidized_copper_rail, #a09a82
+powered_detector_rail, #b88e6e
+rail_crossing, #b6a88e
+waxed_copper_rail, #bc8c73
+waxed_exposed_copper_rail, #b1937a
+waxed_oxidized_copper_rail, #a09a82
+waxed_weathered_copper_rail, #ab987c
+weathered_copper_rail, #ab987c

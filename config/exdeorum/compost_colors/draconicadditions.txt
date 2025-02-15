@@ -1,0 +1,24 @@
+// Compost colors for draconicadditions. You may add your own colors, change existing ones, or remove colors that aren't needed.
+chaos_container, #dec8bf
+chaos_heart, #575757
+chaotic_harness, #343434
+chaotic_necklace, #c9c8b1
+draconic_harness, #865216
+draconic_necklace, #decdab
+inert_potato_boots, #ffff1f
+inert_potato_chest, #ffff3a
+inert_potato_helm, #ffff2c
+inert_potato_legs, #ffff26
+infused_potato_boots, #ffffe6
+infused_potato_chest, #ffff52
+infused_potato_helm, #e6b879
+infused_potato_legs, #ffff82
+item_chaos_injector, #43302d
+item_chaotic_auto_feed, #43231c
+item_chaotic_tick_accel, #302f23
+item_draconic_tick_accel, #d34a16
+item_semi_stable_chaos, #3d1614
+item_stable_chaos, #3c180f
+item_unstable_chaos, #440f0c
+wyvern_harness, #7a1886
+wyvern_necklace, #d9c5c0

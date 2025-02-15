@@ -1,0 +1,4 @@
+// Compost colors for creategbd. You may add your own colors, change existing ones, or remove colors that aren't needed.
+beam_reactor_helmet, #ffffff
+elder_guardian_beam_capacitor, #ffffff
+guardian_beam_capacitor, #ffffff

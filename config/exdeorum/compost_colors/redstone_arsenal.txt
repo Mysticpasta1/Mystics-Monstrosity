@@ -1,0 +1,27 @@
+// Compost colors for redstone_arsenal. You may add your own colors, change existing ones, or remove colors that aren't needed.
+flux_axe, #ffffff
+flux_boots, #8d524a
+flux_bow, #fff4f0
+flux_chestplate, #b97651
+flux_controller, #fffffb
+flux_crossbow, #caa4a4
+flux_dust, #ffffff
+flux_elytra, #ffe1bc
+flux_excavator, #ffffff
+flux_fishing_rod, #ffffff
+flux_gear, #ffffff
+flux_gem, #fffbff
+flux_hammer, #ffffff
+flux_helmet, #8a5043
+flux_ingot, #ffffff
+flux_leggings, #ab6e57
+flux_nugget, #ffffff
+flux_obsidian_rod, #ffffff
+flux_pickaxe, #ffffff
+flux_plating, #ffffe6
+flux_quiver, #ffe7d6
+flux_shovel, #ffffff
+flux_sickle, #ffffff
+flux_sword, #fffffc
+flux_wrench, #fffffb
+obsidian_rod, #ffffff

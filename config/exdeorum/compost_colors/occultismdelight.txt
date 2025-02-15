@@ -1,0 +1,22 @@
+// Compost colors for occultismdelight. You may add your own colors, change existing ones, or remove colors that aren't needed.
+beaver_mutton_wrap, #ffb937
+beaver_pasta, #ffda47
+beaver_pasta_with_datura, #bc9139
+beaver_stew, #c68923
+datura_burger, #7f7632
+datura_ice_cream, #86af39
+datura_jem, #d9ffd4
+datura_oil, #b4bcc8
+datura_pie, #f7de75
+datura_seeds_ice_cream, #624b2c
+datura_shake, #b5ebb9
+demons_dream_ice_cream, #476137
+demons_dream_jem, #c2e7cf
+demons_dream_shake, #86ae97
+otherworld_essence_ice_cream, #c9e0e1
+otherworld_essence_salad, #6c6b54
+otherworld_essence_shake, #afdcff
+tallow_bootle, #ffffff
+tallow_bread, #f0cf9a
+tallow_of_hamburger, #c9a158
+tallow_sandwich, #f5cd84

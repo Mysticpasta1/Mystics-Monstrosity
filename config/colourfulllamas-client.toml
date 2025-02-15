@@ -1,0 +1,5 @@
+
+["Colourful Llamas"]
+	#Allow Llama textures to change on special days.  Default: true
+	enableEventTextures = true
+

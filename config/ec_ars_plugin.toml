@@ -1,0 +1,111 @@
+[sorcerer]
+equipSound = "minecraft:item.armor.equip_leather"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[sorcerer.durability]
+toolDurability = 400
+bowDurability = 0
+addedShieldDurability = 0
+
+[sorcerer.enchanting]
+offenseEnchantability = 0
+defenseEnchantability = 30
+
+[sorcerer.offense]
+addedAttackDamage = 1.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[sorcerer.defense]
+gauntletArmorAmount = 1
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 0.0
+afterBasePercentReduction = 0.0
+
+[sorcerer.crafting]
+repairItem = ["ars_nouveau:magebloom_fiber"]
+craftingItem = ""
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[arcanist]
+equipSound = "minecraft:item.armor.equip_leather"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[arcanist.durability]
+toolDurability = 500
+bowDurability = 0
+addedShieldDurability = 0
+
+[arcanist.enchanting]
+offenseEnchantability = 0
+defenseEnchantability = 30
+
+[arcanist.offense]
+addedAttackDamage = 2.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[arcanist.defense]
+gauntletArmorAmount = 2
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 0.0
+afterBasePercentReduction = 0.0
+
+[arcanist.crafting]
+repairItem = ["ars_nouveau:magebloom_fiber"]
+craftingItem = ""
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[battle_mage]
+equipSound = "minecraft:item.armor.equip_leather"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[battle_mage.durability]
+toolDurability = 1650
+bowDurability = 0
+addedShieldDurability = 0
+
+[battle_mage.enchanting]
+offenseEnchantability = 0
+defenseEnchantability = 30
+
+[battle_mage.offense]
+addedAttackDamage = 2.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[battle_mage.defense]
+gauntletArmorAmount = 3
+armorToughness = 2.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 0.0
+afterBasePercentReduction = 0.0
+
+[battle_mage.crafting]
+repairItem = ["ars_nouveau:magebloom_fiber"]
+craftingItem = ""
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"

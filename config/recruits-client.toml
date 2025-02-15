@@ -1,0 +1,27 @@
+
+#Recruits Config Client Side:
+[RecruitsClientSide]
+	#
+	#----Should Recruits Make Villager "Huh?" sound?----
+	#	(takes effect after restart)
+	#	default: true
+	PlayVillagerAmbientSound = true
+	#
+	#----Should Recruits look like Villagers?----
+	#	(takes effect after restart)
+	#	default: true
+	RecruitsLookLikeVillagers = true
+	#----CommandScreenToggle----
+	#	(takes effect after restart)
+	#	
+	#Should the key to open the command screen be toggled instead of held?""
+	#default: false
+	CommandScreenToggle = false
+	#----UpdateCheckerClientside----
+	#	(takes effect after restart)
+	#	
+	#Should the client side update checker be active?""
+	#It is recommended to keep it enabled to receive information about new bug fixes and features.""
+	#default: true
+	UpdateCheckerClientside = true
+

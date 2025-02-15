@@ -1,0 +1,12 @@
+
+["Configs for Villager Drops"]
+	#Villager's Chance to drop item.
+	#Range: 0 ~ 100
+	"Villager Emerald Drop Chance" = 4
+	#Wandering Trader's Chance to drop item.
+	#Range: 0 ~ 100
+	"Wandering Trader Emerald Drop Chance" = 2
+	#Pillager's Chance to drop item.
+	#Range: 0 ~ 100
+	"Pillager Emerald Drop Chance" = 8
+

@@ -1,0 +1,17 @@
+// Compost colors for valhelsia_furniture. You may add your own colors, change existing ones, or remove colors that aren't needed.
+black_fabric_desk_lamp, #ffffff
+blue_fabric_desk_lamp, #ffffff
+brown_fabric_desk_lamp, #ffffff
+cyan_fabric_desk_lamp, #ffffff
+gray_fabric_desk_lamp, #ffffff
+green_fabric_desk_lamp, #fffff8
+light_blue_fabric_desk_lamp, #ffffff
+light_gray_fabric_desk_lamp, #ffffff
+lime_fabric_desk_lamp, #fffffc
+magenta_fabric_desk_lamp, #ffffff
+orange_fabric_desk_lamp, #fffffb
+pink_fabric_desk_lamp, #ffffff
+purple_fabric_desk_lamp, #ffffff
+red_fabric_desk_lamp, #fffffc
+white_fabric_desk_lamp, #ffffff
+yellow_fabric_desk_lamp, #ffffff

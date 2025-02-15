@@ -1,0 +1,23 @@
+// Compost colors for ironsspellsdelight. You may add your own colors, change existing ones, or remove colors that aren't needed.
+arcane_apple, #a8eeff
+arcane_dragonskin_stew, #52548d
+arcane_essence_stew, #787989
+arcane_knife, #aaabe8
+arcane_shake, #9dd2ff
+blood_vial_cake, #9d3c51
+blood_vial_cookie, #784755
+blood_vial_jem, #8d3a4b
+blood_vial_pie, #723240
+cinder_dragonskin_stew, #412a20
+cinder_essence_stew, #6c4415
+divine_pearl_dough, #ffd6dc
+dragonskin_bowl, #2f2833
+fire_ale_juice, #b98a9d
+lightning_jem, #cfffff
+lightning_shake, #ffffff
+magic_dog_food, #a07257
+magic_hamburger, #aa8e98
+mix_essence_stew, #82625e
+pasta_with_energized_core, #da8750
+permafrost_ice_cream, #89eaff
+permafrost_stew, #79a4b1

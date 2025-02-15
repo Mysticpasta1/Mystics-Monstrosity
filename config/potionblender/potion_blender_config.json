@@ -1,0 +1,11 @@
+{
+  "configVersion": 3,
+  "cauldronInventorySize": 4,
+  "litItems": [
+    "minecraft:flint_and_steel",
+    "minecraft:fire_charge"
+  ],
+  "dowsingItems": [
+    "minecraft:water_bucket"
+  ]
+}

@@ -1,0 +1,3 @@
+// Compost colors for celestial_forge. You may add your own colors, change existing ones, or remove colors that aren't needed.
+hammer, #aba296
+modifier_book, #b1835f

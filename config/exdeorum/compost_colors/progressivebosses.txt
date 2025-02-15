@@ -1,0 +1,3 @@
+// Compost colors for progressivebosses. You may add your own colors, change existing ones, or remove colors that aren't needed.
+elder_guardian_spike, #ffffff
+nether_star_shard, #eaffeb

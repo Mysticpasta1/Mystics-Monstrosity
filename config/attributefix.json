@@ -1,0 +1,4404 @@
+{
+  "attributes": {
+    "obscure_api:penetration": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "forge:step_height_addition": {
+      "enabled": false,
+      "min": {
+        "default": -512,
+        "value": -512
+      },
+      "max": {
+        "default": 512,
+        "value": 512
+      }
+    },
+    "obscure_api:dodge": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_summon_ender_chest": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "attributeslib:armor_shred": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2,
+        "value": 2
+      }
+    },
+    "tetra:ability_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
+    "additional_attributes:spell_type_portal": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_sculk_tentacles": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "dagger_of_bloodletting:bloodletting": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 179769313486231570000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,
+        "value": 179769313486231570000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+      }
+    },
+    "additional_attributes:spell_type_ascension": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_frost_step": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/firebolt": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "jitl:max_essence": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 20,
+        "value": 20
+      }
+    },
+    "additional_attributes:fishing_luck": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/icicle": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "obscure_api:accuracy": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_thunderstorm": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "irons_spellbooks:holy_spell_power": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "reach-entity-attributes:reach": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/angel_wing": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_fang_ward": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/summon_horse": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "ars_trinkets:ars_trinkets.perk.damage_reduction_global": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "environmental:stealth": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "so_many_enchants:player.attack_distance": {
+      "enabled": false,
+      "min": {
+        "default": 3,
+        "value": 3
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "skilltree:evasion": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 90,
+        "value": 90
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/firecracker": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_blessing_of_life": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/planar_sight": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/firefly_swarm": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_school_lightning": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "minecraft:generic.flying_speed": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "additional_attributes:spell_type_icicle": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "irons_spellbooks:lightning_spell_power": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:looting": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "caelus:fall_flying": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "ars_nouveau:ars_nouveau.perk.max_mana": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
+      }
+    },
+    "additional_attributes:spell_type_lightning_lance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "obscure_api:critical_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/spider_aspect": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "minecraft:generic.max_health": {
+      "enabled": true,
+      "min": {
+        "default": 1,
+        "value": 1
+      },
+      "max": {
+        "default": 1024,
+        "value": 1000000
+      }
+    },
+    "irons_spellbooks:mana_regen": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "legendarysurvivaloverhaul:permanent_heart": {
+      "enabled": false,
+      "min": {
+        "default": 1,
+        "value": 1
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
+      }
+    },
+    "expanded_combat:heat_dmg": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
+    "minecraft:horse.jump_strength": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2,
+        "value": 2
+      }
+    },
+    "ars_nouveau:ars_nouveau.perk.warding": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "additionalentityattributes:dropped_experience": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "midnight:malignant_armor": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/eldritch_blast": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "attributeslib:healing_received": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
+      }
+    },
+    "additional_attributes:spell_type_wisp": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "witherstormmod:slow_flying_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0.01,
+        "value": 0.01
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "additional_attributes:spell_type_raise_dead": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/gluttony": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "irons_spellbooks:fire_spell_power": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "l2damagetracker:damage_absorption": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
+      }
+    },
+    "irons_spellbooks:summon_damage": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_summon_vex": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "combatroll:distance": {
+      "enabled": false,
+      "min": {
+        "default": 1,
+        "value": 1
+      },
+      "max": {
+        "default": 24,
+        "value": 24
+      }
+    },
+    "additionalentityattributes:lava_visibility": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "tetra:draw_strength": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
+    "obscure_api:healing_power": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "combatroll:recharge": {
+      "enabled": false,
+      "min": {
+        "default": 0.1,
+        "value": 0.1
+      },
+      "max": {
+        "default": 200,
+        "value": 200
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/magma_bomb": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_heartstop": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/charge": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_teleport": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/oakskin": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "minecraft:generic.attack_knockback": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 5,
+        "value": 1000000
+      }
+    },
+    "forge:swim_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "irons_spellbooks:fire_magic_resist": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "malum:soul_ward_integrity": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
+    "irons_spellbooks:ender_spell_power": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_wololo": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/devour": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_root": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "functionalarmortrim:thorns": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
+    "irons_spellbooks:blood_magic_resist": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_spider_aspect": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_school/irons_spellbooks/ice": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "minecraft:generic.attack_damage": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 1000000
+      }
+    },
+    "attributeslib:draw_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 4,
+        "value": 4
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/summon_ender_chest": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_earthquake": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "obscure_api:critical_hit": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/abyssal_shroud": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "ars_trinkets:ars_trinkets.perk.total_mana_regen_boost": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/recall": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_heat_surge": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "attributeslib:current_hp_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "apotheosis_ascended:spread_reduction": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "additional_attributes:spell_type_wither_skull": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/ascension": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/invisibility": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/flaming_barrage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/gust": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "expanded_combat:cold_dmg": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
+    "attributeslib:arrow_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10,
+        "value": 10
+      }
+    },
+    "functionalarmortrim:experience_boost": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/earthquake": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "attributeslib:prot_shred": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/teleport": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_chain_lightning": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "irons_spellbooks:nature_magic_resist": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "obscure_api:regeneration": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100000,
+        "value": 100000
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/poison_breath": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "minecraft:generic.luck": {
+      "enabled": true,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/blessing_of_life": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/acid_orb": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additionalentityattributes:magic_protection": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "additionalentityattributes:lung_capacity": {
+      "enabled": false,
+      "min": {
+        "default": -40000,
+        "value": -40000
+      },
+      "max": {
+        "default": 40000,
+        "value": 40000
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/flaming_strike": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/cloud_of_regeneration": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_flaming_barrage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "jitl:essence_burnout_time": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 50,
+        "value": 50
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/wither_skull": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "l2damagetracker:crit_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
+      }
+    },
+    "attributeslib:crit_chance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10,
+        "value": 10
+      }
+    },
+    "minecraft:generic.armor_toughness": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 1000000
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/ray_of_frost": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "l2damagetracker:explosion_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/raise_dead": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/fang_ward": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_magic_missile": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_planar_sight": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_school_ice": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "forge:block_reach": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/fire_breath": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "projectile_damage:generic": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "apotheosis_ascended:kick_reduction": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "additional_attributes:spell_type_magic_arrow": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "legendarysurvivaloverhaul:cold_resistance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
+      }
+    },
+    "additional_attributes:spell_school_evocation": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/wall_of_fire": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "functionalarmortrim:gossip_boost": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/sacrifice": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_lob_creeper": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "attributeslib:mining_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10,
+        "value": 10
+      }
+    },
+    "irons_spellbooks:spell_resist": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "botania:pixie_spawn_chance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/fortify": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "irons_spellbooks:ice_magic_resist": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "l2hostility:extra_scale": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10,
+        "value": 10
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/blood_slash": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "ars_nouveau:ars_nouveau.perk.spell_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/sculk_tentacles": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "minecraft:generic.knockback_resistance": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "lodestone:magic_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/echoing_strikes": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "witherstormmod:evolution_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "malum:soul_ward_capacity": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
+    "witherstormmod:target_stationary_flying_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0.01,
+        "value": 0.01
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/spectral_hammer": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_school_holy": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/portal": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_divine_smite": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/greater_heal": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_blight": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_poison_splash": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/lob_creeper": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "functionalarmortrim:night_vision": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "irons_spellbooks:eldritch_spell_power": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/summon_polar_bear": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "irons_spellbooks:cooldown_reduction": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_abyssal_shroud": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "irons_spellbooks:ice_spell_power": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/wololo": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/telekinesis": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "tetra:draw_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
+    "tetra:ability_cooldown": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/evasion": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "malum:reserve_staff_charges": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
+    "additional_attributes:spell_type_gust": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "l2damagetracker:crit_rate": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "additional_attributes:innate_school/irons_spellbooks/evocation": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "legendarysurvivaloverhaul:heat_resistance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
+      }
+    },
+    "apotheosis_ascended:additional_ammo": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "apotheosis_ascended:reload_speed": {
+      "enabled": false,
+      "min": {
+        "default": -0.99,
+        "value": -0.99
+      },
+      "max": {
+        "default": 10,
+        "value": 10
+      }
+    },
+    "additional_attributes:spell_type_magma_bomb": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_recall": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/divine_smite": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "l2hostility:extra_difficulty": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
+      }
+    },
+    "additional_attributes:spell_type_summon_polar_bear": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_blood_slash": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_sonic_boom": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "combatroll:count": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 20,
+        "value": 20
+      }
+    },
+    "additionalentityattributes:bonus_rare_loot_rolls": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 128,
+        "value": 128
+      }
+    },
+    "additional_attributes:spell_type_devour": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_starfall": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/burning_dash": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_flaming_strike": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_school/irons_spellbooks/fire": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_black_hole": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "ars_trinkets:ars_trinkets.perk.mana_regen_flat": {
+      "enabled": false,
+      "min": {
+        "default": -2147483647,
+        "value": -2147483647
+      },
+      "max": {
+        "default": 2147483647,
+        "value": 2147483647
+      }
+    },
+    "additional_attributes:spell_type_burning_dash": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "irons_spellbooks:nature_spell_power": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_angel_wing": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "apotheosis_ascended:bullet_damage": {
+      "enabled": false,
+      "min": {
+        "default": -0.99,
+        "value": -0.99
+      },
+      "max": {
+        "default": 10,
+        "value": 10
+      }
+    },
+    "ars_trinkets:ars_trinkets.perk.mana_boost_flat": {
+      "enabled": false,
+      "min": {
+        "default": -2147483647,
+        "value": -2147483647
+      },
+      "max": {
+        "default": 2147483647,
+        "value": 2147483647
+      }
+    },
+    "attributeslib:armor_pierce": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/blood_step": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_school/irons_spellbooks/eldritch": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/summon_vex": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/lightning_bolt": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_lightning_bolt": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "eidolon:persistent_soul_hearts": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2000,
+        "value": 2000
+      }
+    },
+    "additional_attributes:spell_type_fireball": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_sacrifice": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "eidolon:chanting_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "irons_spellbooks:cast_time_reduction": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/shield": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_telekinesis": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "expanded_combat:dmg_no_weapon": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/frost_step": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/haste": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additionalentityattributes:dig_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/poison_splash": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "expanded_combat:void_dmg": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
+    "ars_nouveau:ars_elemental.perk.summon_power": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
+      }
+    },
+    "additionalentityattributes:water_visibility": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "additional_attributes:spell_type_ball_lightning": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_school/irons_spellbooks/ender": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/ray_of_siphoning": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_evasion": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "ars_trinkets:ars_trinkets.perk.spell_damage_pct": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "additional_attributes:spell_type_wall_of_fire": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/shockwave": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "irons_spellbooks:evocation_spell_power": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additionalentityattributes:critical_bonus_damage": {
+      "enabled": false,
+      "min": {
+        "default": -1,
+        "value": -1
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "additional_attributes:innate_school/irons_spellbooks/holy": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_school/irons_spellbooks/nature": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_electrocute": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:fishing_lure": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "additional_attributes:spell_type_ray_of_frost": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_gluttony": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "celestial_core:arrow_knock": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 64,
+        "value": 64
+      }
+    },
+    "functionalarmortrim:fire_resistance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "additional_attributes:keep_scroll": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/frostwave": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "eidolon:max_soul_hearts": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2000,
+        "value": 2000
+      }
+    },
+    "ars_trinkets:ars_trinkets.perk.potion_length": {
+      "enabled": false,
+      "min": {
+        "default": 1,
+        "value": 1
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "celestial_core:regen_rate": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 64,
+        "value": 64
+      }
+    },
+    "skilltree:stealth": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 90,
+        "value": 90
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/chain_creeper": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_acid_orb": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_greater_heal": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/sonic_boom": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "apotheosis_ascended:fire_rate": {
+      "enabled": false,
+      "min": {
+        "default": -0.99,
+        "value": -0.99
+      },
+      "max": {
+        "default": 10,
+        "value": 10
+      }
+    },
+    "additional_attributes:spell_type_guiding_bolt": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "attributeslib:overheal": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10,
+        "value": 10
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/scorch": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/heal": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "ars_trinkets:ars_trinkets.perk.total_mana_boost": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "forge:entity_gravity": {
+      "enabled": false,
+      "min": {
+        "default": -8,
+        "value": -8
+      },
+      "max": {
+        "default": 8,
+        "value": 8
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/ice_block": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_fire_breath": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_healing_circle": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "lodestone:magic_proficiency": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
+    "additional_attributes:respiration": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/magic_arrow": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "attributeslib:cold_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
+      }
+    },
+    "attributeslib:experience_gained": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
+      }
+    },
+    "additional_attributes:spell_type_poison_arrow": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_invisibility": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "ars_nouveau:ars_nouveau.perk.saturation": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
+      }
+    },
+    "additional_attributes:innate_school/irons_spellbooks/lightning": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/slow": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "irons_spellbooks:spell_power": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_stomp": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_spectral_hammer": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_poison_breath": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "reach-entity-attributes:attack_range": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "irons_spellbooks:eldritch_magic_resist": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/dragon_breath": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "eidolon:magic_power": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10,
+        "value": 10
+      }
+    },
+    "additional_attributes:spell_type_blood_needles": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "puffish_attributes:stamina": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "forge:nametag_distance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 64,
+        "value": 64
+      }
+    },
+    "additionalentityattributes:water_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/black_hole": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "malum:spirit_spoils": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
+    "obscure_api:parry": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "ars_nouveau:ars_nouveau.perk.mana_regen": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2000,
+        "value": 2000
+      }
+    },
+    "additional_attributes:spell_type_shockwave": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_firebolt": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "ars_nouveau:ars_nouveau.perk.feather": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "additional_attributes:spell_type_chain_creeper": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/electrocute": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/ball_lightning": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/guiding_bolt": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_school_nature": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/chain_lightning": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/blight": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "skilltree:blocking": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 90,
+        "value": 90
+      }
+    },
+    "attributeslib:arrow_velocity": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10,
+        "value": 10
+      }
+    },
+    "attributeslib:life_steal": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10,
+        "value": 10
+      }
+    },
+    "jitl:essence_regen_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 0.06499999761581421,
+        "value": 0.06499999761581421
+      }
+    },
+    "attributeslib:ghost_health": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
+      }
+    },
+    "minecraft:generic.follow_range": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
+    "irons_spellbooks:lightning_magic_resist": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_fang_strike": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "malum:soul_ward_recovery_rate": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/starfall": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_school_ender": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "obscure_api:magic_resistance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "forge:entity_reach": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/stomp": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "celestial_core:arrow_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "tacz:tacz.bullet_resistance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "celestisynth:celestial_damage": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "additional_attributes:spell_type_slow": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additionalentityattributes:bonus_loot_count_rolls": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 128,
+        "value": 128
+      }
+    },
+    "additional_attributes:spell_type_firecracker": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_scorch": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "l2damagetracker:fire_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
+      }
+    },
+    "minecraft:zombie.spawn_reinforcements": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "ars_nouveau:ars_nouveau.perk.wixie": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/magic_missile": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "malum:scythe_proficiency": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
+    "additional_attributes:spell_school_eldritch": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "irons_spellbooks:evocation_magic_resist": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "ars_trinkets:ars_trinkets.perk.potion_strength": {
+      "enabled": false,
+      "min": {
+        "default": 1,
+        "value": 1
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "minecraft:generic.attack_speed": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "celestisynth:celestial_damage_reduction": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "additional_attributes:spell_type_frostwave": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "attributeslib:prot_pierce": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 34,
+        "value": 34
+      }
+    },
+    "tropicraft:underwater_visibility": {
+      "enabled": false,
+      "min": {
+        "default": -1,
+        "value": -1
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/blood_needles": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "dagger_of_bloodletting:soulfilling": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 179769313486231570000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,
+        "value": 179769313486231570000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+      }
+    },
+    "additional_attributes:spell_type_oakskin": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "l2damagetracker:magic_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
+      }
+    },
+    "additional_attributes:spell_school_fire": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/lightning_lance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_acupuncture": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "irons_spellbooks:max_mana": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000000,
+        "value": 1000000
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/blaze_storm": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "legendarysurvivaloverhaul:thermal_resistance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
+      }
+    },
+    "expanded_combat:soul_dmg": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
+    "additional_attributes:spell_general": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/root": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/fireball": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_ray_of_siphoning": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/cone_of_cold": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "obscure_api:resilience": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_school_blood": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "irons_spellbooks:holy_magic_resist": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/counterspell": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "minecolonies:mc_mob_damage": {
+      "enabled": false,
+      "min": {
+        "default": 1,
+        "value": 1
+      },
+      "max": {
+        "default": 20,
+        "value": 20
+      }
+    },
+    "malum:malignant_conversion": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "ars_trinkets:ars_trinkets.perk.soul_steal": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "additional_attributes:spell_type_eldritch_blast": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "witherstormmod:hunchback_follow_range": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/healing_circle": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "skilltree:exp_per_minute": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "galosphere:illager_resistance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10,
+        "value": 10
+      }
+    },
+    "additional_attributes:spell_type_echoing_strikes": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "obscure_api:magic_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100000,
+        "value": 100000
+      }
+    },
+    "additional_attributes:spell_type_fortify": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/poison_arrow": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:harvest": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "apotheosis_ascended:projectile_speed": {
+      "enabled": false,
+      "min": {
+        "default": -0.99,
+        "value": -0.99
+      },
+      "max": {
+        "default": 10,
+        "value": 10
+      }
+    },
+    "attributeslib:dodge_chance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "additional_attributes:spell_type_haste": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "attributeslib:fire_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
+      }
+    },
+    "lodestone:magic_resistance": {
+      "enabled": false,
+      "min": {
+        "default": 1,
+        "value": 1
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
+    "skilltree:regeneration": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "legendarysurvivaloverhaul:heating_temperature": {
+      "enabled": false,
+      "min": {
+        "default": -10000,
+        "value": -10000
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
+      }
+    },
+    "additional_attributes:spell_type_arrow_volley": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "l2damagetracker:bow_strength": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
+      }
+    },
+    "l2damagetracker:damage_reduction": {
+      "enabled": false,
+      "min": {
+        "default": -10000,
+        "value": -10000
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
+      }
+    },
+    "additional_attributes:innate_school/irons_spellbooks/blood": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "attributeslib:crit_damage": {
+      "enabled": false,
+      "min": {
+        "default": 1,
+        "value": 1
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_firefly_swarm": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/fang_strike": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_shield": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_cloud_of_regeneration": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "legendarysurvivaloverhaul:broken_heart_resilience": {
+      "enabled": false,
+      "min": {
+        "default": 1,
+        "value": 1
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
+      }
+    },
+    "additional_attributes:spell_type_blood_step": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_dragon_breath": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "irons_spellbooks:ender_magic_resist": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "skilltreemkp:rampup": {
+      "enabled": false,
+      "min": {
+        "default": 20,
+        "value": 20
+      },
+      "max": {
+        "default": 250,
+        "value": 250
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/wisp": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "minecraft:generic.armor": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 200,
+        "value": 1000000
+      }
+    },
+    "legendarysurvivaloverhaul:cooling_temperature": {
+      "enabled": false,
+      "min": {
+        "default": -10000,
+        "value": -10000
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
+      }
+    },
+    "irons_spellbooks:blood_spell_power": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_summon_horse": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_counterspell": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "malum:arcane_resonance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/heartstop": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "minecraft:generic.movement_speed": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/arrow_volley": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_charge": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/acupuncture": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_heal": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additionalentityattributes:lava_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "additional_attributes:spell_type_ice_block": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_blaze_storm": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/heat_surge": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/irons_spellbooks/thunderstorm": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell_type_cone_of_cold": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    }
+  }
+}

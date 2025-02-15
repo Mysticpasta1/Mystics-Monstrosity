@@ -1,0 +1,8 @@
+
+#No Auto Jump Config
+[general]
+	#If true, enables this mod, which forces the Auto Jump option to be disabled.
+	#Set this to false if you want to restore the Auto Jump option temporarily without removing the mod.
+	#Game restart is not needed for this to take effect.
+	enableMod = true
+

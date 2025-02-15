@@ -1,0 +1,203 @@
+{
+  "farmersdelight:fish_stew": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 2,
+      "duration": 2400
+    }
+  ],
+  "legendarysurvivaloverhaul:melon_juice": [
+    {
+      "group": "DRINK",
+      "temperatureLevel": -1,
+      "duration": 1200
+    }
+  ],
+  "neapolitan:banana_ice_cream": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": -3,
+      "duration": 3600
+    }
+  ],
+  "farmersdelight:chicken_soup": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 2,
+      "duration": 2400
+    }
+  ],
+  "farmersdelight:vegetable_soup": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 2,
+      "duration": 2400
+    }
+  ],
+  "farmersdelight:melon_juice": [
+    {
+      "group": "DRINK",
+      "temperatureLevel": -1,
+      "duration": 1200
+    }
+  ],
+  "minecraft:melon_slice": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": -1,
+      "duration": 1200
+    }
+  ],
+  "seasonals:sweet_berry_ice_cream": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": -3,
+      "duration": 3600
+    }
+  ],
+  "farmersdelight:hot_cocoa": [
+    {
+      "group": "DRINK",
+      "temperatureLevel": 3,
+      "duration": 3600
+    }
+  ],
+  "farmersdelight:beef_stew": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 2,
+      "duration": 2400
+    }
+  ],
+  "neapolitan:chocolate_milkshake": [
+    {
+      "group": "DRINK",
+      "temperatureLevel": -3,
+      "duration": 3600
+    }
+  ],
+  "neapolitan:chocolate_ice_cream": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": -3,
+      "duration": 3600
+    }
+  ],
+  "seasonals:pumpkin_milkshake": [
+    {
+      "group": "DRINK",
+      "temperatureLevel": -3,
+      "duration": 3600
+    }
+  ],
+  "neapolitan:banana_milkshake": [
+    {
+      "group": "DRINK",
+      "temperatureLevel": -3,
+      "duration": 3600
+    }
+  ],
+  "neapolitan:neapolitan_ice_cream": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": -3,
+      "duration": 3600
+    }
+  ],
+  "neapolitan:vanilla_milkshake": [
+    {
+      "group": "DRINK",
+      "temperatureLevel": -3,
+      "duration": 3600
+    }
+  ],
+  "minecraft:rabbit_stew": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 2,
+      "duration": 1200
+    }
+  ],
+  "neapolitan:strawberry_milkshake": [
+    {
+      "group": "DRINK",
+      "temperatureLevel": -3,
+      "duration": 3600
+    }
+  ],
+  "neapolitan:strawberry_ice_cream": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": -3,
+      "duration": 3600
+    }
+  ],
+  "seasonals:pumpkin_ice_cream": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": -3,
+      "duration": 3600
+    }
+  ],
+  "minecraft:suspicious_stew": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 1,
+      "duration": 1200
+    }
+  ],
+  "farmersdelight:baked_cod_stew": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 2,
+      "duration": 2400
+    }
+  ],
+  "neapolitan:ice_cubes": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": -1,
+      "duration": 3600
+    }
+  ],
+  "minecraft:mushroom_stew": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 1,
+      "duration": 1200
+    },
+    {
+      "group": "DRINK",
+      "temperatureLevel": 1,
+      "duration": 1200
+    }
+  ],
+  "farmersdelight:pumpkin_soup": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": 2,
+      "duration": 2400
+    }
+  ],
+  "legendarysurvivaloverhaul:glistering_melon_juice": [
+    {
+      "group": "DRINK",
+      "temperatureLevel": -2,
+      "duration": 3600
+    }
+  ],
+  "seasonals:sweet_berry_milkshake": [
+    {
+      "group": "DRINK",
+      "temperatureLevel": -3,
+      "duration": 3600
+    }
+  ],
+  "neapolitan:vanilla_ice_cream": [
+    {
+      "group": "FOOD",
+      "temperatureLevel": -3,
+      "duration": 3600
+    }
+  ]
+}

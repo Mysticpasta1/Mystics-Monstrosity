@@ -1,0 +1,27 @@
+// Compost colors for modularforcefields. You may add your own colors, change existing ones, or remove colors that aren't needed.
+focusmatrix, #52655c
+frequencycard, #ffffff
+identificationcard, #fffff8
+modulemanipulationscale, #725230
+modulemanipulationtranslate, #475046
+moduleshapecube, #4a6b75
+moduleshapehemisphere, #4b6b75
+moduleshapepyramid, #4e6466
+moduleshapesphere, #50696f
+moduleupgradeantifriendly, #a46152
+moduleupgradeantihostile, #795134
+moduleupgradeantipersonnel, #864b3a
+moduleupgradeantispawn, #8d5a44
+moduleupgradeblockaccess, #7c643a
+moduleupgradeblockalter, #5f5748
+moduleupgradecapacity, #725b37
+moduleupgradecollection, #765833
+moduleupgradecolorchange, #75574a
+moduleupgradeconfiscate, #5c686f
+moduleupgradedisintegration, #7c5a30
+moduleupgradeinterior, #615c6f
+moduleupgradeshock, #50665f
+moduleupgradespeed, #577347
+moduleupgradesponge, #736b3d
+moduleupgradestabilize, #5c5f50
+moduleupgradestrength, #544a3c

@@ -1,0 +1,17 @@
+// Compost colors for copperworks. You may add your own colors, change existing ones, or remove colors that aren't needed.
+amethyst_piece, #c898ff
+copper_bracer_chestplate, #f09d78
+copper_broad_sword, #f5845e
+copper_drill, #c9a297
+copper_frame, #ff8c65
+copper_lever, #f2967a
+copper_lever_on, #f2967a
+copper_patina, #80b689
+copper_plate, #ffa87f
+copper_sensor, #fb8a62
+copper_sensor_powered, #f18c61
+iron_plate, #e7e7e7
+powered_redstone_lantern, #b48483
+radio, #de7554
+redstone_lantern, #898d9a
+rocket_boots, #a5614e

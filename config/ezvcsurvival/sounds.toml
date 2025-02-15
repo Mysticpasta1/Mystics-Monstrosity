@@ -1,0 +1,20 @@
+
+#Sound groups configuration
+#Define reusable sound groups for mobs.
+#Format: group_name=sound1,sound2,sound3[,speedMultiplier,rangeMultiplier]
+#or: group_name=speed=VAL,range=VAL,sound1,sound2,...
+[sound_groups]
+	groups = ["wood_sounds=block.wood.break,block.wood.hit,block.wood.place,1.0,1.0", "animal_hurts=entity.cow.hurt,entity.pig.hurt"]
+
+#Mob sound reactions configuration
+#Define sound reaction settings for each mob.
+#Format: mob_id=speed=VALUE,range=VALUE,groups=group1,group2
+[mob_sound_reactions]
+	reactions = ["minecraft:zombie=speed=1.5,range=20,groups=wood_sounds", "minecraft:cow=speed=1.8,range=16,groups=animal_hurts"]
+
+#Gun type modifiers configuration (TACZ only)
+#Define multipliers for mob reaction speed and range by gun type.
+#Format: gunType=speedMultiplier,rangeMultiplier
+[gun_type_modifiers]
+	modifiers = ["pistol=1.2,3.8", "sniper=1.5,8.0", "rifle=1.3,6.5", "shotgun=1.4,4.8", "smg=1.2,3.0", "rpg=1.8,10.0", "mg=1.5,4.0"]
+

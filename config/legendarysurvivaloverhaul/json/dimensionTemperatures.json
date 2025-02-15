@@ -1,0 +1,11 @@
+{
+  "minecraft:overworld": {
+    "temperature": 20.0
+  },
+  "minecraft:the_nether": {
+    "temperature": 28.0
+  },
+  "minecraft:the_end": {
+    "temperature": -15.0
+  }
+}

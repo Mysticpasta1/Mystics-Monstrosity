@@ -1,0 +1,19 @@
+// Compost colors for wetland_whimsy. You may add your own colors, change existing ones, or remove colors that aren't needed.
+ancient_brazier, #82bcb6
+ancient_coin, #aa7589
+aria_mushroom, #bcd2ff
+aria_spores, #b8d0ff
+bald_cypress_boat, #8e6e97
+bald_cypress_chest_boat, #8e6b6b
+bald_cypress_door, #b180ac
+bald_cypress_hanging_sign, #7d6483
+bald_cypress_sapling, #515e3c
+bald_cypress_sign, #7f6182
+bloodcap_mushroom, #c24182
+cordgrass, #a0b162
+dots_armor_trim_smithing_template, #cdd3d3
+limestone_brazier, #ffe8ab
+nuke_the_swamps_music_disc, #ede4cc
+pennywort, #3aaf4a
+pennywort_salad, #555c26
+soul_brazier, #c2ffff

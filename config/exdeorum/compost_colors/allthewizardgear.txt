@@ -1,0 +1,13 @@
+// Compost colors for allthewizardgear. You may add your own colors, change existing ones, or remove colors that aren't needed.
+allthemodium_mage_boots, #fff2c5
+allthemodium_mage_chestplate, #d7af82
+allthemodium_mage_helmet, #e6ccbc
+allthemodium_mage_leggings, #ffe1be
+unobtainium_mage_boots, #ffdeff
+unobtainium_mage_chestplate, #bfc2f5
+unobtainium_mage_helmet, #9dccf4
+unobtainium_mage_leggings, #f2e1ff
+vibranium_mage_boots, #bcffff
+vibranium_mage_chestplate, #62b9bc
+vibranium_mage_helmet, #96e1ed
+vibranium_mage_leggings, #acf5fe

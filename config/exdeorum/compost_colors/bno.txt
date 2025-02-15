@@ -1,0 +1,25 @@
+// Compost colors for bno. You may add your own colors, change existing ones, or remove colors that aren't needed.
+aluminum_ingot, #afafc3
+aluminum_nugget, #afafbf
+copper_nugget, #d38343
+lead_ingot, #9da8b4
+lead_nugget, #475476
+nickel_ingot, #d0d2bc
+nickel_nugget, #a7a872
+osmium_ingot, #c2c2dc
+osmium_nugget, #bcd9e1
+raw_aluminum, #a5a5b6
+raw_lead, #848684
+raw_nickel, #cccdb9
+raw_osmium, #9797b2
+raw_silver, #c3c3c3
+raw_tin, #b1b1b1
+raw_uranium, #75a862
+raw_zinc, #c0d0c3
+silver_ingot, #f1f1f1
+silver_nugget, #aadada
+tin_ingot, #a4a4a4
+tin_nugget, #839db4
+uranium_ingot, #90ac8d
+zinc_ingot, #c3d4c8
+zinc_nugget, #c0dada

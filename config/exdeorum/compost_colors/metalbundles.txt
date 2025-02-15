@@ -1,0 +1,6 @@
+// Compost colors for metalbundles. You may add your own colors, change existing ones, or remove colors that aren't needed.
+copper_bundle, #e47044
+diamond_bundle, #43d7c0
+golden_bundle, #ffc83d
+iron_bundle, #bfbbb5
+netherite_bundle, #473e40

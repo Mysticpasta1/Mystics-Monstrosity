@@ -1,0 +1,12 @@
+// Compost colors for furnish. You may add your own colors, change existing ones, or remove colors that aren't needed.
+cobweb, #ffffff
+iron_bars_top, #c8ccc6
+letter, #ffffff
+paper_poster, #ffffff
+paper_postit, #ffffff
+paper_sheet_empty, #ffffff
+paper_sheet_empty_ink, #fffffe
+paper_sheet_filled, #ffffff
+paper_sheet_filled_ink, #fffff5
+paper_sheet_side, #ffffff
+paper_sheet_side_filled, #ffffff

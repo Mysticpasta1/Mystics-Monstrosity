@@ -1,0 +1,24 @@
+
+#Snowman common settings
+[common]
+	#Damage dealt by one snowgolem snowball
+	#Range: 0.0 ~ 100.0
+	snowballDamage = 1.0
+	#Only deal damage to hostile creatures
+	onlyHostile = true
+	#Allow players to deal damage with snowballs
+	playersDealDamage = false
+	#Convert creatures killed by snowgolem to a snowgolem
+	convert = false
+	#Chance of converting killed creature to a snowgolem if enabled
+	#Range: 0.0 ~ 1.0
+	convert_chance = 1.0
+	#Add a short freeze/slowness to a creature hit by a snowball
+	slowness = true
+	#Prevent snowgolems from leaving a snow trail
+	prevent_snow_trail = false
+	#Prevent snowgolems from taking damage in hot biomes
+	disable_heat_damage = false
+	#Prevent snowgolems from taking damage in rain (or in water)
+	disable_water_damage = false
+

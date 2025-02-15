@@ -1,0 +1,20 @@
+// Compost colors for integrateddynamics. You may add your own colors, change existing ones, or remove colors that aren't needed.
+bucket_liquid_chorus, #fff8ff
+bucket_menril_resin, #f1ffff
+crystalized_chorus_chunk, #ffffff
+crystalized_menril_chunk, #f8ffff
+enhancement_offset, #c3eaf1
+labeller, #eeffff
+logic_director, #f8dcf7
+menril_berries, #f4ffff
+menril_door, #65696f
+menril_sapling, #dcffff
+menril_torch, #ffffff
+menril_torch_stone, #ffffff
+on_the_dynamics_of_integration, #97aaaa
+portable_logic_programmer, #afc0c6
+proto_chorus, #c6daf1
+variable, #84c5d2
+variable_transformer_input, #c0e0e0
+variable_transformer_output, #cdebeb
+wrench, #ebffff

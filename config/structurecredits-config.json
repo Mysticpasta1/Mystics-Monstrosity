@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "showOnlyOneTime": true,
+  "chatMessage": false,
+  "showCreator": true,
+  "customStructureName": {
+    "minecraft:swamp_hut": "a_cat:cat_hut"
+  },
+  "dontShowAll": [
+    "minecraft:",
+    "dimdungeons:"
+  ],
+  "dontShow": [
+    "minecraft:plains_village",
+    "minecraft:desert_village",
+    "additionalstructures:pillar_ruin_3",
+    "bettermineshafts:mineshaft_overgrown",
+    "explorify:farmstead",
+    "dimdoors:enclosed_gateway",
+    "dungeondelight:farm_house_big",
+    "explorations:forgotten_well",
+    "adorabuild_structures:birch_house_small_2",
+    "naturaldecormod:birch_tree_fungus_2",
+    "naturaldecormod:birch_tree_fungus",
+    "create_pillagers_arise:createpillageroutpost",
+    "arsstructures:magic_house"
+  ]
+}

@@ -1,0 +1,17 @@
+// Compost colors for enemyexpansion. You may add your own colors, change existing ones, or remove colors that aren't needed.
+bottled_flutterfly, #dc8397
+deathstick, #434444
+headbiter_helmet, #9394c0
+healing_eye, #ff5a9a
+horsehead_helmet, #84a279
+meathead_helmet, #a84340
+phantasm_boots, #434668
+phantasm_chestplate, #585b7d
+phantasm_helmet, #405072
+phantasm_leggings, #6f6b82
+phantom_eye, #4bf00e
+scorpion_tail, #573d3a
+silverhead_helmet, #787979
+troll_molar, #ffffda
+trollface, #aba794
+wasp_thorax, #52413c

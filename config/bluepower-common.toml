@@ -1,0 +1,33 @@
+
+[WorldGen]
+
+	#Toggle blocks being generated into the world
+	[WorldGen.Volcano]
+		#Volcano related configs
+		#Generate Volcano
+		generateVolcano = true
+		#Volcano Spawn Chance
+		volcanoSpawnChance = 0.005
+		#Possible to generate Tungsten in the Volcano
+		generateTungstenInVolcano = true
+		#Volcano Active To Inactive Ratio
+		volcanoActiveToInactiveRatio = 0.3
+		#Biomes that volcanoes should generate
+		volcanoBiomeCategoryWhitelist = "taiga,extreme_hills,jungle,mesa,plains,savanna,icy,beach,forest,ocean,desert,river,swamp,mushroom"
+
+[Recipes]
+	#Toggle recipes to be enabled or not
+	#Any item name (minecraft:bucket,minecraft:minecart) added here will be blacklisted from being able to melt down into its raw materials.
+	alloyFurnaceBlacklist = "minecraft:iron_nugget,minecraft:gold_nugget,minecraft:gold_ingot,minecraft:iron_ingot"
+	#Generate Json Datapack for Alloy Furnace (Only used to generate recycling recipes)
+	alloyFurnaceDatapackGenerator = true
+
+[Other]
+	#Miscellaneous other configs
+	#Server Template Saving by Ops only
+	ServerTemplateOpsonly = false
+	#Enable Gate Ticking Sounds
+	tickingSounds = true
+	#Albedo Support Lamp Brightness
+	albedoBrightness = 0.01
+

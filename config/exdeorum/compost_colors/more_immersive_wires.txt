@@ -1,0 +1,6 @@
+// Compost colors for more_immersive_wires. You may add your own colors, change existing ones, or remove colors that aren't needed.
+ae_coil, #723265
+ae_dense_coil, #553437
+cc_coil, #826958
+id_coil, #515e61
+rs_coil, #5a4032

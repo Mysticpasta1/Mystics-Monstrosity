@@ -1,0 +1,7 @@
+// Compost colors for compactxpbottles. You may add your own colors, change existing ones, or remove colors that aren't needed.
+x16experiencebottle, #bbf773
+x1kexperiencebottle, #8dbe90
+x256experiencebottle, #b8d784
+x4experiencebottle, #bef15c
+x4kexperiencebottle, #c89079
+x64experiencebottle, #b9f886

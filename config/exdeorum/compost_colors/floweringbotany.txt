@@ -1,0 +1,2 @@
+// Compost colors for floweringbotany. You may add your own colors, change existing ones, or remove colors that aren't needed.
+floramobius, #d7fec5

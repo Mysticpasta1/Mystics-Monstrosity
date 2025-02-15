@@ -1,0 +1,9 @@
+// Compost colors for hostilenetworks. You may add your own colors, change existing ones, or remove colors that aren't needed.
+blank_data_model, #7cc3b9
+deep_learner, #8e9394
+end_prediction, #78947c
+nether_prediction, #943d19
+overworld_prediction, #406639
+prediction, #939393
+prediction_matrix, #78899e
+twilight_prediction, #572268

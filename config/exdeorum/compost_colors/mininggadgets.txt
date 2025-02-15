@@ -1,0 +1,25 @@
+// Compost colors for mininggadgets. You may add your own colors, change existing ones, or remove colors that aren't needed.
+upgrade_battery_1, #dcdade
+upgrade_battery_2, #e3dedd
+upgrade_battery_3, #dceadd
+upgrade_battery_creative, #c6afc3
+upgrade_efficiency_1, #e7e3e3
+upgrade_efficiency_2, #e6dedd
+upgrade_efficiency_3, #e6dad9
+upgrade_efficiency_4, #e6d4d4
+upgrade_efficiency_5, #e6d2d0
+upgrade_empty, #e7e7e7
+upgrade_fortune_1, #c9d9cc
+upgrade_fortune_2, #e0e8af
+upgrade_fortune_3, #b5edda
+upgrade_freezing, #edf5f5
+upgrade_light_placer, #d2e6e8
+upgrade_magnet, #d7bbb1
+upgrade_range_1, #dad9dc
+upgrade_range_2, #dadcde
+upgrade_range_3, #dae0e1
+upgrade_silk, #e3e0a2
+upgrade_size_1, #c2dcd4
+upgrade_size_2, #83eba1
+upgrade_size_3, #78d0af
+upgrade_void_junk, #af87af

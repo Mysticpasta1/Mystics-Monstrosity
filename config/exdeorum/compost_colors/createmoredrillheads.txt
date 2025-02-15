@@ -1,0 +1,4 @@
+// Compost colors for createmoredrillheads. You may add your own colors, change existing ones, or remove colors that aren't needed.
+amethyst_dusts, #fec8ff
+emerald_dusts, #3eff7a
+quartz_dusts, #f7e1d2

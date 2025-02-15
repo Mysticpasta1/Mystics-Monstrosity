@@ -1,0 +1,23 @@
+// Compost colors for ecologicsdelight. You may add your own colors, change existing ones, or remove colors that aren't needed.
+coconut_cookie, #dd8e46
+coconut_custard, #a89b91
+coconut_knife, #7a4825
+coconut_milk, #f2ffff
+coconut_shake, #f7ffff
+cooked_penguin, #4d4d7a
+crab_stew, #c08654
+crushed_azalea_flower, #b4697f
+ice_knife, #aacdff
+ice_shake, #f7fcff
+penguin, #5c5c7a
+penguin_sandwich, #97753d
+penguin_stuffed_potato, #a0795a
+prickly_pear_cider, #d094d9
+prickly_pear_glazed_coconut, #a45246
+prickly_pear_ice_cream, #af2f5c
+prickly_pear_jem, #dd9de1
+prickly_pear_juice, #c693c3
+prickly_pear_pie, #fea476
+walnut_cookie, #ffb965
+walnut_juice, #dcc6b9
+walnut_salad, #936128

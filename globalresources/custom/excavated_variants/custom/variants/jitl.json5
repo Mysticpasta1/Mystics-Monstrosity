@@ -1,0 +1,157 @@
+/* 
+ * Copyright (c) 2024 Luke Bemish and contributors.
+ * SPDX-License-Identifier: LGPL-3.0-or-later
+ */
+
+{
+    mod_id: 'jitl',
+    provided_stones: [
+    ],
+    provided_ores: [
+        {
+            id: 'jitl_iridium_ore',
+            stone: [
+                'stone',
+                'deepslate',
+            ],
+            block_id: [
+                'jitl:iridium_ore',
+                'jitl:deepslate_iridium_ore',
+            ],
+            lang: {
+                en_us: 'Iridium Ore',
+            },
+            types: [
+                'stone',
+            ],
+        },
+        {
+            id: 'jitl_lunium_ore',
+            stone: [
+                'stone',
+                'deepslate',
+            ],
+            block_id: [
+                'jitl:lunium_ore',
+                'jitl:deepslate_lunium_ore',
+            ],
+            lang: {
+                en_us: 'Lunium Ore',
+            },
+            types: [
+                'stone',
+            ],
+        },
+        {
+            id: 'jitl_sapphire_ore',
+            stone: [
+                'stone',
+                'deepslate',
+            ],
+            block_id: [
+                'jitl:sapphire_ore',
+                'jitl:deepslate_sapphire_ore',
+            ],
+            lang: {
+                en_us: 'Sapphire Ore',
+            },
+            types: [
+                'stone',
+            ],
+        },
+        {
+            id: 'jitl_shadium_ore',
+            stone: [
+                'stone',
+                'deepslate',
+            ],
+            block_id: [
+                'jitl:shadium_ore',
+                'jitl:deepslate_shadium_ore',
+            ],
+            lang: {
+                en_us: 'Shadium Ore',
+            },
+            types: [
+                'stone',
+            ],
+        },
+        {
+            id: 'jitl_verdite_ore',
+            stone: [
+                'stone',
+                'deepslate',
+            ],
+            block_id: [
+                'jitl:verdite_ore',
+                'jitl:deepslate_verdite_ore',
+            ],
+            lang: {
+                en_us: 'Verdite Ore',
+            },
+            types: [
+                'stone',
+            ],
+        },
+        {
+            id: 'jitl_bloodcrust_ore',
+            stone: [
+                'netherrack',
+            ],
+            block_id: [
+                'jitl:bloodcrust_ore',
+            ],
+            lang: {
+                en_us: 'Bloodcrust Ore',
+            },
+            types: [
+                'nether',
+            ],
+        },
+        {
+            id: 'jitl_crimson_quartz_ore',
+            stone: [
+                'netherrack',
+            ],
+            block_id: [
+                'jitl:crimson_quartz_ore',
+            ],
+            lang: {
+                en_us: 'Crimson Quartz Ore',
+            },
+            types: [
+                'nether',
+            ],
+        },
+        {
+            id: 'jitl_firestone_ore',
+            stone: [
+                'basalt',
+            ],
+            block_id: [
+                'jitl:firestone_ore',
+            ],
+            lang: {
+                en_us: 'Firestone Ore',
+            },
+            types: [
+                'nether',
+            ],
+        },
+        {
+            id: 'jitl_warped_quartz_ore',
+            stone: [
+                'netherrack',
+            ],
+            block_id: [
+                'jitl:warped_quartz_ore',
+            ],
+            lang: {
+                en_us: 'Warped Quartz Ore',
+            },
+            types: [
+                'nether',
+            ],
+        },
+    ],
+}

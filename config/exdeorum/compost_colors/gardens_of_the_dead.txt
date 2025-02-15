@@ -1,0 +1,14 @@
+// Compost colors for gardens_of_the_dead. You may add your own colors, change existing ones, or remove colors that aren't needed.
+blistercrown, #ff6c44
+glowing_soul_spore, #b5e480
+soul_spore, #b11f18
+soulblight_door, #a5a093
+soulblight_fungus, #cd9461
+soulblight_hanging_sign, #6f7fdd
+soulblight_sign, #825748
+soulblight_sprouts, #a49b2a
+tall_blistercrown, #ff8347
+whistlecane, #90083c
+whistlecane_door, #ac1247
+whistlecane_hanging_sign, #629896
+whistlecane_sign, #ae0a46

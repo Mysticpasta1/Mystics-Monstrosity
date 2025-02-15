@@ -1,0 +1,11 @@
+// Compost colors for woodster. You may add your own colors, change existing ones, or remove colors that aren't needed.
+acacia_ladder, #e67c43
+bamboo_ladder, #ffed6f
+birch_ladder, #fee7a4
+cherry_ladder, #fffff7
+crimson_ladder, #8c4362
+dark_oak_ladder, #5f4111
+jungle_ladder, #ca8e61
+mangrove_ladder, #89342c
+spruce_ladder, #936f44
+warped_ladder, #39a59b

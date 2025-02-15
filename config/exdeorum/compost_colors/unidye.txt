@@ -1,0 +1,3 @@
+// Compost colors for unidye. You may add your own colors, change existing ones, or remove colors that aren't needed.
+custom_candle, #ffffff
+custom_stained_glass_pane, #ffffff

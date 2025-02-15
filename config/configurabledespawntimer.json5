@@ -1,0 +1,10 @@
+{
+	// The delay in ticks when an item should despawn. Minecraft's default time is 6000 ticks. 1 second is 20 ticks.
+	// min: 1, max: 2.147483647E9
+	"globalItemDespawnTimeInTicks": 12000,
+	// The delay in ticks when experience orbs should despawn. Minecraft's default time is 6000 ticks. 1 second is 20 ticks.
+	// min: 1, max: 2.147483647E9
+	"globalExperienceOrbDespawnTimeInTicks": 12000,
+	// Whether items thrown/dropped by players should not despawn at all. Works for manual dropping and also on death. Overrides the other time settings.
+	"preventDespawnForPlayerItems": false
+}

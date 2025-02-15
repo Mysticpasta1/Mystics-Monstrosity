@@ -1,0 +1,12 @@
+// Compost colors for createappliedkinetics. You may add your own colors, change existing ones, or remove colors that aren't needed.
+incomplete_calculation_processor, #f8d3e0
+incomplete_calculation_processor_press, #c6c6c6
+incomplete_engineering_processor, #c8d4cc
+incomplete_engineering_processor_press, #c0c0c0
+incomplete_logic_processor, #ffd996
+incomplete_logic_processor_press, #cccccc
+incomplete_printed_calculation_circuit, #b4e0ff
+incomplete_printed_engineering_circuit, #5ac3c3
+incomplete_printed_logic_circuit, #ffc900
+incomplete_silicon_press, #bbbbbb
+incomplete_silicon_print, #737373

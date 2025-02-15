@@ -1,0 +1,222 @@
+[ignitium]
+equipSound = "minecraft:item.armor.equip_netherite"
+mendingBonus = 0.15
+fireResistant = true
+quiverSlots = 12
+
+[ignitium.durability]
+toolDurability = 2355
+bowDurability = 0
+addedShieldDurability = 450
+
+[ignitium.enchanting]
+offenseEnchantability = 15
+defenseEnchantability = 15
+
+[ignitium.offense]
+addedAttackDamage = 6.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[ignitium.defense]
+gauntletArmorAmount = 6
+armorToughness = 4.0
+knockbackResistance = 0.15
+baseProtectionAmmount = 9.0
+afterBasePercentReduction = 0.9
+
+[ignitium.crafting]
+repairItem = ["cataclysm:ignitium_ingot"]
+craftingItem = ""
+isSingleAddition = true
+onlyReplaceResource = ["Netherite"]
+smithingTemplate = "cataclysm:ignitium_upgrade_smithing_template"
+[witherite]
+equipSound = "minecraft:item.armor.equip_netherite"
+mendingBonus = 0.0
+fireResistant = true
+quiverSlots = 11
+
+[witherite.durability]
+toolDurability = 2409
+bowDurability = 0
+addedShieldDurability = 400
+
+[witherite.enchanting]
+offenseEnchantability = 15
+defenseEnchantability = 15
+
+[witherite.offense]
+addedAttackDamage = 5.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[witherite.defense]
+gauntletArmorAmount = 4
+armorToughness = 3.5
+knockbackResistance = 0.12
+baseProtectionAmmount = 8.5
+afterBasePercentReduction = 0.875
+
+[witherite.crafting]
+repairItem = ["cataclysm:witherite_ingot"]
+craftingItem = ""
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[amethystCrabShell]
+equipSound = "minecraft:item.armor.equip_netherite"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[amethystCrabShell.durability]
+toolDurability = 2031
+bowDurability = 0
+addedShieldDurability = 350
+
+[amethystCrabShell.enchanting]
+offenseEnchantability = 15
+defenseEnchantability = 15
+
+[amethystCrabShell.offense]
+addedAttackDamage = 4.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[amethystCrabShell.defense]
+gauntletArmorAmount = 3
+armorToughness = 2.0
+knockbackResistance = 0.1
+baseProtectionAmmount = 6.5
+afterBasePercentReduction = 0.875
+
+[amethystCrabShell.crafting]
+repairItem = ["cataclysm:amethyst_crab_shell"]
+craftingItem = ""
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[cursium]
+equipSound = "minecraft:item.armor.equip_netherite"
+mendingBonus = 0.15
+fireResistant = true
+quiverSlots = 11
+
+[cursium.durability]
+toolDurability = 2409
+bowDurability = 0
+addedShieldDurability = 450
+
+[cursium.enchanting]
+offenseEnchantability = 15
+defenseEnchantability = 15
+
+[cursium.offense]
+addedAttackDamage = 5.5
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[cursium.defense]
+gauntletArmorAmount = 5
+armorToughness = 4.0
+knockbackResistance = 0.05
+baseProtectionAmmount = 9.0
+afterBasePercentReduction = 0.9
+
+[cursium.crafting]
+repairItem = ["cataclysm:cursium_ingot"]
+craftingItem = ""
+isSingleAddition = true
+onlyReplaceResource = ["Netherite"]
+smithingTemplate = "cataclysm:cursium_upgrade_smithing_template"
+[blackSteel]
+equipSound = "minecraft:item.armor.equip_generic"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[blackSteel.durability]
+toolDurability = 750
+bowDurability = 0
+addedShieldDurability = 225
+
+[blackSteel.enchanting]
+offenseEnchantability = 25
+defenseEnchantability = 25
+
+[blackSteel.offense]
+addedAttackDamage = 2.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[blackSteel.defense]
+gauntletArmorAmount = 0
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 4.0
+afterBasePercentReduction = 0.675
+
+[blackSteel.crafting]
+repairItem = ["cataclysm:black_steel_ingot"]
+craftingItem = ""
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[boneReptile]
+equipSound = "minecraft:item.armor.equip_netherite"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[boneReptile.durability]
+toolDurability = 1923
+bowDurability = 0
+addedShieldDurability = 0
+
+[boneReptile.enchanting]
+offenseEnchantability = 25
+defenseEnchantability = 15
+
+[boneReptile.offense]
+addedAttackDamage = 3.5
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[boneReptile.defense]
+gauntletArmorAmount = 4
+armorToughness = 3.0
+knockbackResistance = 0.2
+baseProtectionAmmount = 0.0
+afterBasePercentReduction = 0.0
+
+[boneReptile.crafting]
+repairItem = ["cataclysm:ancient_metal_ingot"]
+craftingItem = ""
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"

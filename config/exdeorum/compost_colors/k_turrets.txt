@@ -1,0 +1,14 @@
+// Compost colors for k_turrets. You may add your own colors, change existing ones, or remove colors that aren't needed.
+bullet, #d2d2d2
+copper_plate, #ffc5a2
+exp_link, #c9fe89
+explosive_powder, #e16508
+fire_shield, #7ce1ff
+gauss_bullet, #556555
+light_upgrade, #fff7cd
+looting_link, #c53225
+magnet_upgrade, #ffffff
+raw_titanium, #868679
+recall_upgrade, #f8ffff
+titanium_ingot, #ffffff
+wrench, #cfcfcf

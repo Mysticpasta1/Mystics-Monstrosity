@@ -1,0 +1,5 @@
+// Compost colors for taxtg. You may add your own colors, change existing ones, or remove colors that aren't needed.
+generator_cherryblossom_tree, #9b6287
+generator_jungle_tree, #55986b
+generator_oak_tree, #62a26f
+generator_spruce_tree, #61b676

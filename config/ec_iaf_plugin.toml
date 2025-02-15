@@ -1,0 +1,518 @@
+[silver]
+equipSound = "minecraft:item.armor.equip_chain"
+mendingBonus = 1.0
+fireResistant = false
+quiverSlots = 7
+
+[silver.durability]
+toolDurability = 460
+bowDurability = 550
+addedShieldDurability = 152
+
+[silver.enchanting]
+offenseEnchantability = 18
+defenseEnchantability = 20
+
+[silver.offense]
+addedAttackDamage = 1.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 2.5
+
+[silver.defense]
+gauntletArmorAmount = 2
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 2.4324324
+afterBasePercentReduction = 0.3445946
+
+[silver.crafting]
+repairItem = ["iceandfire:silver_ingot"]
+craftingItem = "iceandfire:silver_ingot"
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[copper]
+equipSound = "minecraft:item.armor.equip_gold"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 3
+
+[copper.durability]
+toolDurability = 300
+bowDurability = 300
+addedShieldDurability = 101
+
+[copper.enchanting]
+offenseEnchantability = 10
+defenseEnchantability = 15
+
+[copper.offense]
+addedAttackDamage = 0.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 2.0
+
+[copper.defense]
+gauntletArmorAmount = 2
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 1.6216216
+afterBasePercentReduction = 0.22972973
+
+[copper.crafting]
+repairItem = ["minecraft:copper_ingot"]
+craftingItem = "minecraft:copper_ingot"
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[jungleMyrmexChitin]
+equipSound = "minecraft:item.armor.equip_leather"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 9
+
+[jungleMyrmexChitin.durability]
+toolDurability = 600
+bowDurability = 0
+addedShieldDurability = 203
+
+[jungleMyrmexChitin.enchanting]
+offenseEnchantability = 8
+defenseEnchantability = 15
+
+[jungleMyrmexChitin.offense]
+addedAttackDamage = 1.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[jungleMyrmexChitin.defense]
+gauntletArmorAmount = 4
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 3.2432432
+afterBasePercentReduction = 0.45945945
+
+[jungleMyrmexChitin.crafting]
+repairItem = ["iceandfire:myrmex_jungle_chitin"]
+craftingItem = "iceandfire:myrmex_jungle_chitin"
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[desertMyrmexChitin]
+equipSound = "minecraft:item.armor.equip_leather"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 9
+
+[desertMyrmexChitin.durability]
+toolDurability = 600
+bowDurability = 0
+addedShieldDurability = 203
+
+[desertMyrmexChitin.enchanting]
+offenseEnchantability = 8
+defenseEnchantability = 15
+
+[desertMyrmexChitin.offense]
+addedAttackDamage = 1.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[desertMyrmexChitin.defense]
+gauntletArmorAmount = 4
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 3.2432432
+afterBasePercentReduction = 0.45945945
+
+[desertMyrmexChitin.crafting]
+repairItem = ["iceandfire:myrmex_desert_chitin"]
+craftingItem = "iceandfire:myrmex_desert_chitin"
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[fireDragonSteel]
+equipSound = "minecraft:item.armor.equip_diamond"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 16
+
+[fireDragonSteel.durability]
+toolDurability = 8000
+bowDurability = 10000
+addedShieldDurability = 1622
+
+[fireDragonSteel.enchanting]
+offenseEnchantability = 10
+defenseEnchantability = 30
+
+[fireDragonSteel.offense]
+addedAttackDamage = 21.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 1
+velocityMultiplier = 4.5
+
+[fireDragonSteel.defense]
+gauntletArmorAmount = 6
+armorToughness = 6.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 25.945946
+afterBasePercentReduction = 1.0
+
+[fireDragonSteel.crafting]
+repairItem = ["iceandfire:dragonsteel_fire_ingot"]
+craftingItem = "iceandfire:dragonsteel_fire_ingot"
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[iceDragonSteel]
+equipSound = "minecraft:item.armor.equip_diamond"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 16
+
+[iceDragonSteel.durability]
+toolDurability = 8000
+bowDurability = 10000
+addedShieldDurability = 1622
+
+[iceDragonSteel.enchanting]
+offenseEnchantability = 10
+defenseEnchantability = 30
+
+[iceDragonSteel.offense]
+addedAttackDamage = 21.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 1
+velocityMultiplier = 4.5
+
+[iceDragonSteel.defense]
+gauntletArmorAmount = 6
+armorToughness = 6.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 25.945946
+afterBasePercentReduction = 1.0
+
+[iceDragonSteel.crafting]
+repairItem = ["iceandfire:dragonsteel_ice_ingot"]
+craftingItem = "iceandfire:dragonsteel_ice_ingot"
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[lightningDragonSteel]
+equipSound = "minecraft:item.armor.equip_diamond"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 16
+
+[lightningDragonSteel.durability]
+toolDurability = 8000
+bowDurability = 10000
+addedShieldDurability = 1622
+
+[lightningDragonSteel.enchanting]
+offenseEnchantability = 10
+defenseEnchantability = 30
+
+[lightningDragonSteel.offense]
+addedAttackDamage = 21.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 1
+velocityMultiplier = 4.5
+
+[lightningDragonSteel.defense]
+gauntletArmorAmount = 6
+armorToughness = 6.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 25.945946
+afterBasePercentReduction = 1.0
+
+[lightningDragonSteel.crafting]
+repairItem = ["iceandfire:dragonsteel_lightning_ingot"]
+craftingItem = "iceandfire:dragonsteel_lightning_ingot"
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[dragonScale]
+equipSound = "minecraft:item.armor.equip_netherite"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[dragonScale.durability]
+toolDurability = 2031
+bowDurability = 0
+addedShieldDurability = 365
+
+[dragonScale.enchanting]
+offenseEnchantability = 15
+defenseEnchantability = 15
+
+[dragonScale.offense]
+addedAttackDamage = 4.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[dragonScale.defense]
+gauntletArmorAmount = 3
+armorToughness = 3.0
+knockbackResistance = 0.10000000149011612
+baseProtectionAmmount = 5.837838
+afterBasePercentReduction = 0.8270271
+
+[dragonScale.crafting]
+repairItem = ["repair items are hardcoded for dragon scale materials"]
+craftingItem = ""
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[yellowDeathWormChitin]
+equipSound = "minecraft:item.armor.equip_iron"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[yellowDeathWormChitin.durability]
+toolDurability = 250
+bowDurability = 0
+addedShieldDurability = 152
+
+[yellowDeathWormChitin.enchanting]
+offenseEnchantability = 14
+defenseEnchantability = 9
+
+[yellowDeathWormChitin.offense]
+addedAttackDamage = 2.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[yellowDeathWormChitin.defense]
+gauntletArmorAmount = 2
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 2.4324324
+afterBasePercentReduction = 0.3445946
+
+[yellowDeathWormChitin.crafting]
+repairItem = ["iceandfire:deathworm_chitin_yellow"]
+craftingItem = ""
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[redDeathWormChitin]
+equipSound = "minecraft:item.armor.equip_iron"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[redDeathWormChitin.durability]
+toolDurability = 250
+bowDurability = 0
+addedShieldDurability = 152
+
+[redDeathWormChitin.enchanting]
+offenseEnchantability = 14
+defenseEnchantability = 9
+
+[redDeathWormChitin.offense]
+addedAttackDamage = 2.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[redDeathWormChitin.defense]
+gauntletArmorAmount = 2
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 2.4324324
+afterBasePercentReduction = 0.3445946
+
+[redDeathWormChitin.crafting]
+repairItem = ["iceandfire:deathworm_chitin_red"]
+craftingItem = ""
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[whiteDeathWormChitin]
+equipSound = "minecraft:item.armor.equip_iron"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[whiteDeathWormChitin.durability]
+toolDurability = 250
+bowDurability = 0
+addedShieldDurability = 152
+
+[whiteDeathWormChitin.enchanting]
+offenseEnchantability = 14
+defenseEnchantability = 9
+
+[whiteDeathWormChitin.offense]
+addedAttackDamage = 2.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[whiteDeathWormChitin.defense]
+gauntletArmorAmount = 2
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 2.4324324
+afterBasePercentReduction = 0.3445946
+
+[whiteDeathWormChitin.crafting]
+repairItem = ["iceandfire:deathworm_chitin_white"]
+craftingItem = ""
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[seaSerpentScale]
+equipSound = "minecraft:item.armor.equip_diamond"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[seaSerpentScale.durability]
+toolDurability = 1561
+bowDurability = 0
+addedShieldDurability = 304
+
+[seaSerpentScale.enchanting]
+offenseEnchantability = 10
+defenseEnchantability = 10
+
+[seaSerpentScale.offense]
+addedAttackDamage = 3.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[seaSerpentScale.defense]
+gauntletArmorAmount = 3
+armorToughness = 2.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 4.864865
+afterBasePercentReduction = 0.6891892
+
+[seaSerpentScale.crafting]
+repairItem = ["repair items are hardcoded for sea serpent scale materials"]
+craftingItem = ""
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[trollLeather]
+equipSound = "minecraft:item.armor.equip_diamond"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[trollLeather.durability]
+toolDurability = 1561
+bowDurability = 0
+addedShieldDurability = 203
+
+[trollLeather.enchanting]
+offenseEnchantability = 10
+defenseEnchantability = 10
+
+[trollLeather.offense]
+addedAttackDamage = 3.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[trollLeather.defense]
+gauntletArmorAmount = 3
+armorToughness = 2.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 3.2432432
+afterBasePercentReduction = 0.45945945
+
+[trollLeather.crafting]
+repairItem = ["repair items are hardcoded for troll leather materials"]
+craftingItem = ""
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[dragonBone]
+equipSound = "minecraft:item.armor.equip_generic"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[dragonBone.durability]
+toolDurability = 1660
+bowDurability = 0
+addedShieldDurability = 0
+
+[dragonBone.enchanting]
+offenseEnchantability = 22
+defenseEnchantability = 0
+
+[dragonBone.offense]
+addedAttackDamage = 4.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[dragonBone.defense]
+gauntletArmorAmount = 0
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 0.0
+afterBasePercentReduction = 0.0
+
+[dragonBone.crafting]
+repairItem = ["iceandfire:dragonbone"]
+craftingItem = "iceandfire:dragonbone"
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"

@@ -1,0 +1,10 @@
+// Compost colors for yuushya. You may add your own colors, change existing ones, or remove colors that aren't needed.
+ctm_alert_0, #ffe8dc
+ctm_alert_1, #ffe8dc
+ctm_alert_2, #ffe8dc
+ctm_alert_3, #ffe8dc
+ctm_alert_4, #ffe8dc
+ctm_alert_5, #ffe8dc
+everlasting_wood, #a48668
+floating_bloom, #9df4ff
+form_trans_item, #d7e3e8

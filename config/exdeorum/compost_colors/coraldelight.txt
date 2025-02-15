@@ -1,0 +1,27 @@
+// Compost colors for coraldelight. You may add your own colors, change existing ones, or remove colors that aren't needed.
+brain_coral_cookie, #ffb579
+brain_coral_ice_cream, #ff82c6
+brain_coral_knife, #f170af
+brain_coral_pasta, #ab5b69
+brain_coral_pie, #ffc094
+brain_jem, #ffc2ff
+bubble_coral_ice_cream, #d42cc2
+bubble_coral_juice, #dd93ff
+bubble_jem, #dd8eff
+coral_jelly, #cc8778
+coral_kelp_roll, #574d4a
+coral_kelp_roll_slice, #7f5066
+fire_coral_cider, #f294af
+fire_coral_knife, #e14340
+fire_coral_salad, #be4829
+fire_jem, #f4a0bc
+horn_coral_cookie, #ffc964
+horn_coral_knife, #f8d747
+horn_coral_pie, #ffe772
+horn_jem, #ffffca
+horn_sauce, #b59d2d
+tube_coral_cookie, #feaf7a
+tube_coral_knife, #4669d2
+tube_coral_pie, #e1b8a1
+tube_coral_wrap, #cfb493
+tube_jem, #8cbbff

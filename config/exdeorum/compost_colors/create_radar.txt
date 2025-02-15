@@ -1,0 +1,2 @@
+// Compost colors for create_radar. You may add your own colors, change existing ones, or remove colors that aren't needed.
+guided_fuze, #97907d

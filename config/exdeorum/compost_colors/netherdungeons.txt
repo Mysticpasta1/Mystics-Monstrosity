@@ -1,0 +1,27 @@
+// Compost colors for netherdungeons. You may add your own colors, change existing ones, or remove colors that aren't needed.
+artichoke_fruit, #ffff97
+cooked_hoglin_leg, #ae5737
+cursed_bow, #a1a0a0
+ginger_door, #fff8b4
+ginger_hanging_sign, #fcc97d
+ginger_sign, #ffe8a0
+gold_chain, #ffffff
+hoglin_leg, #ffacb2
+isolepis, #ab0a3a
+luminophore_bottle, #ffffff
+luminophore_lantern, #9a72ca
+magmacube_lantern, #5c3c30
+magmacube_lantern_empty, #483d40
+mauve_fungus, #e36e83
+music_disc_a_long_way, #e7a596
+neofolia, #c3d7e7
+neofolia_petal, #d3b4f7
+neofolia_sprout, #b1e3e8
+piglins_axe, #f7a239
+piglins_sword, #ffac37
+spore_bundle, #bcb2a0
+tall_isolepis, #a70a3c
+tartar, #806166
+teary_fungus, #7db6d3
+warped_nether_wart, #91d7e3
+wither_skeleton_sword, #797573

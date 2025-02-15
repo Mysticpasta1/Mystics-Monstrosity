@@ -1,0 +1,19 @@
+{
+	"interaction_mode": "RECLUSIVE",
+	"open_screen_when_placed": true,
+	"keyboard_layout": "QWERTY",
+	"background_start_color": -1072754929,
+	"background_end_color": -804319473,
+	"title_colors": false,
+	"show_instrument": true,
+	"config_button": true,
+	"config_button_position": "LEFT",
+	"keyboard_color_mode": "PRESSED",
+	"tooltip_title_colors": true,
+	"tooltips": true,
+	"tooltip_line_arrangement": [
+		"NOTE",
+		"PITCH"
+	],
+	"solmization": false
+}

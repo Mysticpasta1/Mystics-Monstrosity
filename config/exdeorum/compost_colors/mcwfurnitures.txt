@@ -1,0 +1,3 @@
+// Compost colors for mcwfurnitures. You may add your own colors, change existing ones, or remove colors that aren't needed.
+cabinet_door, #faca78
+cabinet_drawer, #eabe6b

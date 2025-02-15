@@ -1,0 +1,7 @@
+
+#Misc Ring Settings
+[misc_ring_settings]
+	#Number of ticks duration for the Ring of the Miner cooldown [0-240, default: 80]
+	#Range: 0 ~ 120
+	ringMinerCooldown = 80
+

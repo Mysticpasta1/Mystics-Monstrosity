@@ -1,0 +1,20 @@
+#COMMON CONFIGURATION
+#the maximum number of cores that a player can have.
+#Range: 0 ~ 1000
+AURA_AUG_AOE = 5
+#the maximum number of cores that a player can have.
+#Range: 0 ~ 100000
+AURA_AUG_TIME_PLUS = 5
+#The delay reduction that each "Accelerate" will give.
+#Range: 0 ~ 4
+AURA_AUG_ACCELERATE = 4
+#The base Aura duration.
+#Range: 0 ~ 100000
+AURA_BASE_REACH = 5
+#The base Aura Reach.
+#Range: 1 ~ 100000
+AURA_BASE_TIME = 20
+#The base Aura Delay.
+#Range: 1 ~ 100000
+AURA_BASE_DELAY = 20
+

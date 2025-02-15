@@ -1,0 +1,6 @@
+
+#Vein generation
+[general_vein]
+	#Compat Priority.
+	compatPriority = ["create", "immersiveengineering", "mekanism", "thermal", "elementalcraft", "wizards_reborn", "biggerreactors", "evilcraft", "bigreactors", "crossroads", "eidolon", "embers", "occultism"]
+

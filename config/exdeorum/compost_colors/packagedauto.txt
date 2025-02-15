@@ -1,0 +1,7 @@
+// Compost colors for packagedauto. You may add your own colors, change existing ones, or remove colors that aren't needed.
+distributor_marker, #6f8984
+me_package_component, #eefaeb
+package, #a88665
+package_component, #dce4d0
+recipe_holder, #f8ab6f
+volume_package, #698dac

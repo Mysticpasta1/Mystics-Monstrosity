@@ -1,0 +1,6 @@
+// Compost colors for yungscavebiomes. You may add your own colors, change existing ones, or remove colors that aren't needed.
+frost_lily, #c3d0ff
+ice_sheet, #cfffff
+icicle, #c9f1ff
+prickly_peach, #fb8c4d
+prickly_vines, #70791f

@@ -1,0 +1,24 @@
+// Compost colors for refinedstoragedelight. You may add your own colors, change existing ones, or remove colors that aren't needed.
+advanced_cookie, #ffc679
+advanced_ice_cream, #8afff1
+advanced_jem, #d3ffff
+advanced_shake, #c2ffff
+basic_cookie, #ffc57c
+basic_ice_cream, #c3beb4
+basic_jem, #e1f7ff
+improved_cookie, #ffc369
+improved_ice_cream, #fff08d
+improved_jem, #fffffb
+improved_stew, #ffca65
+pasta_with_processor_binding, #c09461
+processor_binding_cider, #d6ffff
+processor_binding_jem, #dcffff
+processor_binding_stew, #988051
+processor_knife, #98bf90
+processor_salad, #90ab82
+processor_stew, #a1c396
+quartz_enriched_iron_knife, #aba293
+silicon_juice, #aebbd6
+silicon_knife, #7c6f6e
+silicon_pasta, #625564
+silicon_stew, #8e7c6b

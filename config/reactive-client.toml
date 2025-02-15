@@ -1,0 +1,14 @@
+
+#Client Side Options:
+[config]
+	#Whether to show the sources of each Power in JEI. Disable this for a greater challenge.
+	showPowerSources = false
+	#Whether to render all Powers using vanilla Water's icon. Use if Rubidium or other rendering mods make the custom water textures break.
+	doNotChangeWaterTexture = false
+	#Whether to allow Litmus Paper to use multicolored text. Disable if the colored text is hard to read.
+	colorizeLitmusOutput = true
+	#Whether to show Powers as JEI ingredients.
+	listPowersAsIngredients = true
+	#Whether gateways should change their renderer to attempt to be compatible with Iris/Oculus if it is detected. Disable if rendering of gateways looks bad or you want them to be invisible with shaders on.
+	irisCompat = true
+

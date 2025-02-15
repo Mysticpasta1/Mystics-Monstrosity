@@ -1,0 +1,133 @@
+/* 
+ * Copyright (c) 2024 Luke Bemish and contributors.
+ * SPDX-License-Identifier: LGPL-3.0-or-later
+ */
+{
+    mod_id: 'railcraft',
+    provided_stones: [
+        {
+            block_id: 'railcraft:abyssal_stone',
+            types: [
+                'stone',
+            ],
+            id: 'railcraft_abyssal_stone',
+            lang: {
+                en_us: 'Abyssal',
+            },
+        },
+        {
+            block_id: 'railcraft:quarried_stone',
+            types: [
+                'stone',
+            ],
+            id: 'railcraft_quarried_stone',
+            lang: {
+                en_us: 'Quarried',
+            },
+        },
+    ],
+    provided_ores: [
+        {
+            id: 'railcraft_lead_ore',
+            stone: [
+                'stone',
+                'deepslate',
+            ],
+            block_id: [
+                'railcraft:lead_ore',
+                'railcraft:deepslate_lead_ore',
+            ],
+            lang: {
+                en_us: 'Lead Ore',
+            },
+            types: [
+                'stone',
+            ],
+        },
+        {
+            id: 'railcraft_nickel_ore',
+            stone: [
+                'stone',
+                'deepslate',
+            ],
+            block_id: [
+                'railcraft:nickel_ore',
+                'railcraft:deepslate_nickel_ore',
+            ],
+            lang: {
+                en_us: 'Nickel Ore',
+            },
+            types: [
+                'stone',
+            ],
+        },
+        {
+            id: 'railcraft_silver_ore',
+            stone: [
+                'stone',
+                'deepslate',
+            ],
+            block_id: [
+                'railcraft:silver_ore',
+                'railcraft:deepslate_silver_ore',
+            ],
+            lang: {
+                en_us: 'Silver Ore',
+            },
+            types: [
+                'stone',
+            ],
+        },
+        {
+            id: 'railcraft_sulfur_ore',
+            stone: [
+                'stone',
+                'deepslate',
+            ],
+            block_id: [
+                'railcraft:sulfur_ore',
+                'railcraft:deepslate_sulfur_ore',
+            ],
+            lang: {
+                en_us: 'Sulfur Ore',
+            },
+            types: [
+                'stone',
+            ],
+        },
+        {
+            id: 'railcraft_tin_ore',
+            stone: [
+                'stone',
+                'deepslate',
+            ],
+            block_id: [
+                'railcraft:tin_ore',
+                'railcraft:deepslate_tin_ore',
+            ],
+            lang: {
+                en_us: 'Tin Ore',
+            },
+            types: [
+                'stone',
+            ],
+        },
+        {
+            id: 'railcraft_zinc_ore',
+            stone: [
+                'stone',
+                'deepslate',
+            ],
+            block_id: [
+                'railcraft:zinc_ore',
+                'railcraft:deepslate_zinc_ore',
+            ],
+            lang: {
+                en_us: 'Zinc Ore',
+            },
+            types: [
+                'stone',
+            ],
+        },
+    ],
+}

@@ -1,0 +1,16 @@
+// Compost colors for mysticalexpansion. You may add your own colors, change existing ones, or remove colors that aren't needed.
+divinium_coal, #ffff00
+divinium_essence, #ffff00
+divinium_gemstone, #fffe00
+divinium_ingot, #ffff00
+divinium_nugget, #f5f000
+etherium_coal, #ef1d9
+etherium_essence, #4e6ca
+etherium_gemstone, #ffe7
+etherium_ingot, #fff1
+etherium_nugget, #ffda
+extremium_coal, #7d2d18
+extremium_essence, #982d00
+extremium_gemstone, #7c291b
+extremium_ingot, #802a1c
+extremium_nugget, #732619

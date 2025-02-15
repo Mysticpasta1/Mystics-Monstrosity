@@ -1,0 +1,9 @@
+// Compost colors for umbral_skies. You may add your own colors, change existing ones, or remove colors that aren't needed.
+arctic_gloves, #ffffff
+fiery_gloves, #ffffd3
+ironwood_gloves, #fffef5
+knightmetal_gloves, #ffffff
+naga_gloves, #daeed6
+phantom_gloves, #e6f2dd
+steeleaf_gloves, #ebffe1
+yeti_gloves, #ffffff

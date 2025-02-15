@@ -1,0 +1,26 @@
+// Compost colors for stoneworked. You may add your own colors, change existing ones, or remove colors that aren't needed.
+carved_armor_trim_smithing_template, #6e9191
+celesteel_armor_boots, #e3e3e3
+celesteel_armor_chestplate, #ededed
+celesteel_armor_helmet, #ededed
+celesteel_armor_leggings, #e8e8e8
+celesteel_axe, #dddddd
+celesteel_hoe, #d2d2d2
+celesteel_ingot, #fefefe
+celesteel_pickaxe, #d2d2d2
+celesteel_shovel, #e3e3e3
+celesteel_sword, #e0e0e0
+celesteel_upgrade_smithing_template, #ffffff
+gold_ribbon, #ffe14b
+lead_armor_boots, #434343
+lead_armor_chestplate, #505050
+lead_armor_helmet, #3d3d3d
+lead_armor_leggings, #434343
+lead_axe, #544732
+lead_hoe, #574830
+lead_ingot, #4e4e4e
+lead_pickaxe, #52462f
+lead_shovel, #574a32
+lead_sword, #4a4743
+raw_celesteel, #e6e6e6
+raw_lead, #4d4d4d

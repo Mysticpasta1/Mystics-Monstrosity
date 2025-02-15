@@ -1,0 +1,4 @@
+// Compost colors for integrated_stronghold. You may add your own colors, change existing ones, or remove colors that aren't needed.
+disc_fragment_sight, #5f4d5f
+music_disc_forlorn, #474e4b
+music_disc_sight, #645465

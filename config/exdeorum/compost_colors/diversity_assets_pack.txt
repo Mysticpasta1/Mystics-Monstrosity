@@ -1,0 +1,2 @@
+// Compost colors for diversity_assets_pack. You may add your own colors, change existing ones, or remove colors that aren't needed.
+felfolk_fluff_tuft, #fffffa

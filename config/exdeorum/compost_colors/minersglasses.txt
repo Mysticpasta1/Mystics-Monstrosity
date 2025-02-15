@@ -1,0 +1,13 @@
+// Compost colors for minersglasses. You may add your own colors, change existing ones, or remove colors that aren't needed.
+coal_glasses, #bf7f5b
+copper_glasses, #ff9858
+diamond_glasses, #79d0ff
+emerald_glasses, #b5b262
+glasses, #ffb964
+glasses_template, #f48741
+gold_glasses, #ffaf54
+iron_glasses, #eeae8a
+lapis_glasses, #c5878e
+lens, #d7ffff
+netherite_glasses, #827c7a
+redstone_glasses, #fe7958

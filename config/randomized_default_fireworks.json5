@@ -1,0 +1,6 @@
+{
+	// If enabled, default Fireworks will explode even during Elytra flight.
+	"generateDuringElytra": false,
+	// Comma-separated list of dye colors to avoid when creating Explosions.
+	"blocklistColors": "black,gray,light_gray,white"
+}

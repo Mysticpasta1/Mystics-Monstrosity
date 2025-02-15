@@ -1,0 +1,2 @@
+// Compost colors for ae2_toggleable_view_cell. You may add your own colors, change existing ones, or remove colors that aren't needed.
+toggleable_view_cell, #afaa84

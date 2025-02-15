@@ -1,0 +1,8 @@
+// Compost colors for angelring. You may add your own colors, change existing ones, or remove colors that aren't needed.
+angel_ring, #ffeb58
+diamond_ring, #44ffff
+energetic_angel_ring, #ff6f4e
+hardened_angel_ring, #bbbfb5
+leadstone_angel_ring, #6e6cdd
+reinforced_angel_ring, #fff280
+resonant_angel_ring, #37a8a8

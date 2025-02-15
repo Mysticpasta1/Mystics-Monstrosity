@@ -1,0 +1,10 @@
+// Compost colors for friendsfoesdelight. You may add your own colors, change existing ones, or remove colors that aren't needed.
+cooked_crab_meat, #ffffeb
+cooked_rascal_meat, #d7d7d7
+crab_meat, #ffffff
+crab_potato, #f4a04d
+glare_meat, #8daf40
+pasta_with_crab, #d67f4a
+rascal_meat, #f5f5f5
+tuff_golem_heart, #a1a49d
+wildfire_meat, #ffd600

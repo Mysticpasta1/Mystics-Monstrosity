@@ -1,0 +1,3 @@
+// Compost colors for colourfulllamas. You may add your own colors, change existing ones, or remove colors that aren't needed.
+llama_steak, #ff5448
+llama_steak_cooked, #894b34

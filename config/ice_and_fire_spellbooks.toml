@@ -1,0 +1,4 @@
+#Defines armor values for Dragon Priest armor. Default is [6, 9, 12, 7]
+#[head, legs, chest, feet]
+dragonsteel_armor_values = [5, 0, 0, 0]
+

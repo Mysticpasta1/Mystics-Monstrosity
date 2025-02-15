@@ -1,0 +1,84 @@
+
+#Configuration for moon phase effects
+[moon_phase_effects]
+
+	[moon_phase_effects.Phase_0]
+		#Effect for moon phase 0
+		effect = "minecraft:regeneration"
+		#Duration of effect (in seconds) for moon phase 0
+		#Range: 1 ~ 3600
+		duration = 20
+		#Level of effect for moon phase 0
+		#Range: 0 ~ 255
+		level = 0
+
+	[moon_phase_effects.Phase_1]
+		#Effect for moon phase 1
+		effect = "minecraft:regeneration"
+		#Duration of effect (in seconds) for moon phase 1
+		#Range: 1 ~ 3600
+		duration = 20
+		#Level of effect for moon phase 1
+		#Range: 0 ~ 255
+		level = 0
+
+	[moon_phase_effects.Phase_2]
+		#Effect for moon phase 2
+		effect = "minecraft:regeneration"
+		#Duration of effect (in seconds) for moon phase 2
+		#Range: 1 ~ 3600
+		duration = 20
+		#Level of effect for moon phase 2
+		#Range: 0 ~ 255
+		level = 0
+
+	[moon_phase_effects.Phase_3]
+		#Effect for moon phase 3
+		effect = "minecraft:regeneration"
+		#Duration of effect (in seconds) for moon phase 3
+		#Range: 1 ~ 3600
+		duration = 20
+		#Level of effect for moon phase 3
+		#Range: 0 ~ 255
+		level = 0
+
+	[moon_phase_effects.Phase_4]
+		#Effect for moon phase 4
+		effect = "minecraft:regeneration"
+		#Duration of effect (in seconds) for moon phase 4
+		#Range: 1 ~ 3600
+		duration = 20
+		#Level of effect for moon phase 4
+		#Range: 0 ~ 255
+		level = 0
+
+	[moon_phase_effects.Phase_5]
+		#Effect for moon phase 5
+		effect = "minecraft:regeneration"
+		#Duration of effect (in seconds) for moon phase 5
+		#Range: 1 ~ 3600
+		duration = 20
+		#Level of effect for moon phase 5
+		#Range: 0 ~ 255
+		level = 0
+
+	[moon_phase_effects.Phase_6]
+		#Effect for moon phase 6
+		effect = "minecraft:regeneration"
+		#Duration of effect (in seconds) for moon phase 6
+		#Range: 1 ~ 3600
+		duration = 20
+		#Level of effect for moon phase 6
+		#Range: 0 ~ 255
+		level = 0
+
+	[moon_phase_effects.Phase_7]
+		#Effect for moon phase 7
+		effect = "minecraft:regeneration"
+		#Duration of effect (in seconds) for moon phase 7
+		#Range: 1 ~ 3600
+		duration = 20
+		#Level of effect for moon phase 7
+		#Range: 0 ~ 255
+		level = 0
+

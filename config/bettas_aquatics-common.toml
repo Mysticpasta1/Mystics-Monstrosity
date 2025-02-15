@@ -1,0 +1,55 @@
+
+["Configs for Bettas & Aquatics!"]
+	#How long should algae stages take to grow? Default is 3 days.
+	"Algae Growth Rate" = 3
+	#How often should this fish spawn? Default is 3.
+	"Betta Spawn Weight" = 3
+	#How often should this fish spawn? Default is 1.
+	"Snail Spawn Weight" = 1
+	#How often should this fish spawn? Default is 4.
+	"Koi Spawn Weight" = 4
+	#How often should this fish spawn? Default is 4.
+	"Tetra Spawn Weight" = 4
+	#How often should this fish spawn? Default is 4.
+	"Cherry Barb Spawn Weight" = 4
+	#How often should this fish spawn? Default is 4.
+	"Goldfish Spawn Weight" = 4
+	#How often should this fish spawn? Default is 4.
+	"Guppy Spawn Weight" = 4
+	#How often should this fish spawn? Default is 8.
+	"Seahorse Spawn Weight" = 8
+	#How often should this fish spawn? Default is 10.
+	"Clownfish Spawn Weight" = 10
+	#How often should this fish spawn? Default is 8.
+	"Starfish Spawn Weight" = 8
+	#How often should this fish spawn? Default is 6.
+	"Angelfish Spawn Weight" = 6
+	#How often should this fish spawn? Default is 5.
+	"Filefish Spawn Weight" = 5
+	#How often should this fish spawn? Default is 2.
+	"Sea Slug Spawn Weight" = 2
+	#How often should this fish spawn? Default is 2.
+	"Blue Glaucus Spawn Weight" = 2
+	#How often should this fish spawn? Default is 3.
+	"Silver Shark Spawn Weight" = 3
+	#How often should this fish spawn? Default is 1.
+	"Jellyfish Spawn Weight" = 1
+	#How often should this fish spawn? Default is 2.
+	"Ghost Shrimp Spawn Weight" = 2
+	#How often should this fish spawn? Default is 1.
+	"Isopod Spawn Weight" = 1
+	#How often should this fish spawn? Default is 1.
+	"Rainbow Snakehead Spawn Weight" = 1
+	#How often should this fish spawn? Default is 3.
+	"Dwarf Crab Spawn Weight" = 3
+	#How often should this fish spawn? Default is 3.
+	"Leafy Seadragon Spawn Weight" = 3
+	#How often should this fish spawn? Default is 4.
+	"Crystal Shrimp Spawn Weight" = 4
+	#How often should this fish spawn? Default is 3.
+	"Pleco Spawn Weight" = 3
+	#How often should this fish spawn? Default is 2.
+	"Aquatic Salamander Spawn Weight" = 2
+	#How often should this fish spawn? Default is 2.
+	"Peacock Mantis Shrimp Spawn Weight" = 2
+

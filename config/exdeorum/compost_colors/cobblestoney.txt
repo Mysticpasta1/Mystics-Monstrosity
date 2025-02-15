@@ -1,0 +1,4 @@
+// Compost colors for cobblestoney. You may add your own colors, change existing ones, or remove colors that aren't needed.
+loam, #bfb5e4
+mud, #84432a
+silt, #c6a770

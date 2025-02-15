@@ -1,0 +1,6 @@
+// Compost colors for mekanismgenerators. You may add your own colors, change existing ones, or remove colors that aren't needed.
+hohlraum, #ffffff
+module_geothermal_generator_unit, #fbfff7
+module_solar_recharging_unit, #fbfff7
+solar_panel, #a5b4c2
+turbine_blade, #ffffff

@@ -1,0 +1,25 @@
+// Compost colors for floral_flair. You may add your own colors, change existing ones, or remove colors that aren't needed.
+black_hyacinth, #293a2c
+blue_hyacinth, #4b7dac
+chocolate_cosmos, #291f0f
+dawn_orchid, #54644d
+fairy_blossom, #e07565
+foxnip, #cfb27d
+frosted_foxnip, #a1d6e1
+gem_of_the_jungle, #fae314
+lunula, #7d96d3
+morning_orchid, #b2bb2f
+muscari, #517862
+orange_cosmos, #dc8226
+pink_cosmos, #ebb1b4
+pink_hyacinth, #b497b2
+pulse_petal, #b85844
+purpureum, #e75178
+rose, #d78d62
+scilla, #73a2a7
+stonette, #e3c2ff
+sunset_orchid, #beaf62
+thorn_blossom, #9aae54
+twilight_orchid, #8097a2
+white_cosmos, #f0eab5
+yellow_hyacinth, #787d2f

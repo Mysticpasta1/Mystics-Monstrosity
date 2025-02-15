@@ -1,0 +1,15 @@
+
+["Config for LavaWalker Enchantment Mod"]
+	#Lavawalker is exclusive with Frostwalker
+	exclusiveWithFrostWalker = true
+	#Lavawalker is a treasure enchantment
+	isTreasure = true
+	#Maximum level of Lavawalker
+	max_enchantment_level = 2
+	#Obsidian melting velocity
+	#Allowed Values: VERY_SLOW, SLOW, NORMAL, FAST, VERY_FAST
+	meltSpeed = "NORMAL"
+	#Frequency of appearance of Lavawalker
+	#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+	rarity = "RARE"
+

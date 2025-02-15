@@ -1,0 +1,25 @@
+// Compost colors for taxov. You may add your own colors, change existing ones, or remove colors that aren't needed.
+armor_captain_boots, #161616
+armor_captain_chestplate, #51334e
+armor_captain_helmet, #d7d4cc
+armor_captain_leggings, #ffffff
+armor_pirate_boots, #2d2618
+armor_pirate_chestplate, #522004
+armor_pirate_helmet, #252525
+armor_pirate_leggings, #e0e0e
+disc_marine, #464451
+disc_pirate, #52413a
+marine_axe, #a19b96
+marine_pickaxe, #79706f
+marine_sword, #79767d
+pirate_axe, #a49a8e
+pirate_pickaxe, #7f6b57
+pirate_sword, #7f7269
+ship_marine, #d3ab98
+ship_marine_zombie, #939772
+ship_piglin, #f2a47c
+ship_pirate, #9b653a
+ship_pirate_zombie, #7c763e
+ship_skeleton, #f1f1f1
+ship_witch, #73656e
+ship_wither, #515151

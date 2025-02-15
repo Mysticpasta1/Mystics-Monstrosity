@@ -1,0 +1,4 @@
+// Compost colors for corail_recycler. You may add your own colors, change existing ones, or remove colors that aren't needed.
+copper_nugget, #ffffff
+diamond_shard, #ffffff
+netherite_nugget, #ffffff

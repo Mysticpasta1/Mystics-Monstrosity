@@ -1,0 +1,8 @@
+// Compost colors for swampier_swamps. You may add your own colors, change existing ones, or remove colors that aren't needed.
+big_lily_pad, #b8b8b8
+cattail, #898d44
+cooked_frog_leg, #a85830
+frog_leg, #ee6f64
+gas_bottle, #dce1b1
+small_lily_pad, #b1b1b1
+swamp_vine, #a8a8a8

@@ -1,0 +1,3 @@
+// Compost colors for dazzle. You may add your own colors, change existing ones, or remove colors that aren't needed.
+dim_redstone_torch, #976948
+invisible_torch, #fefefe

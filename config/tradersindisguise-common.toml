@@ -1,0 +1,33 @@
+
+["Config for Traders in Disguise"]
+	#Chance wandering trader is actually Ambusher. Will be a 1 in (your number) chance. Default value is 20, meaning a 1 in 20 (or 5%) chance.
+	"Ambusher Chance Bound" = 20
+	#Whether or not Sickle Ambushers can spawn from wandering traders. Default: true
+	"Spawn Sickle Ambushers" = true
+	#Whether or not Bow Ambushers can spawn from wandering traders. Default: true
+	"Spawn Bow Ambushers" = true
+	#The maximum amount of damage any Ambusher can take in one hit. Does not apply to the void or /kill. Default: 10
+	"Ambusher Damage Cap" = 10
+	#Whether or not Ambushers can spawn in raids. If true, Ambushers will appear in raid waves based on the next 2 config options. Default: false
+	"Spawn Ambushers in Raids" = false
+	#How many Sickle Ambushers in each raid wave. Must have no more and no less than 8 integers. Default: 0, 0, 0, 0, 0, 1, 0, 1
+	"Sickle Ambusher Wave Count" = [0, 0, 0, 0, 0, 1, 0, 1]
+	#How many Bow Ambushers in each raid wave. Must have no more and no less than 8 integers. Default: 0, 0, 0, 0, 1, 0, 0, 1
+	"Bow Ambusher Wave Count" = [0, 0, 0, 0, 1, 0, 0, 1]
+	#Level of the swiftness effect given by the Ruthless Sickle. Counts from 0, so 0 is level 1, 1 is level 2, etc. Also affects Sickle Ambusher. Default: 1
+	"Sickle Swiftness Level" = 1
+	#Duration of the swiftness effect given by the Ruthless Sickle measured in ticks. Also affects Sickle Ambusher. Default: 20
+	"Sickle Swiftness Duration" = 20
+	#Duration of the blindness effect given by the Ruthless Sickle measured in ticks. Also affects Sickle Ambusher. Default: 60
+	"Sickle Blindness Duration" = 60
+	#The damage multiplier of the Ruthless Sickle when striking a mob that's under half health. Also affects Sickle Ambusher. Default: 3.0
+	"Sickle Damage Multiplier" = 3.0
+	#Level of the slowness effect given by the Trifectal Bow. Counts from 0, so 0 is level 1, 1 is level 2, etc. Also affects Bow Ambusher. Default: 6
+	"Bow Slowness Level" = 6
+	#Level of the weakness effect given by the Trifectal Bow. Counts from 0, so 0 is level 1, 1 is level 2, etc. Also affects Bow Ambusher Default: 6
+	"Bow Weakness Level" = 6
+	#Duration of the slowness effect given by the Trifectal Bow measured in ticks. Also affects Bow Ambusher. Default: 20
+	"Bow Slowness Duration" = 20
+	#Duration of the weakness effect given by the Trifectal Bow measured in ticks. Also affects Bow Ambusher. Default: 20
+	"Bow Weakness Duration" = 20
+

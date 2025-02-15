@@ -1,0 +1,13 @@
+// Compost colors for palegardenbackport. You may add your own colors, change existing ones, or remove colors that aren't needed.
+closed_eyeblossom, #ffffff
+mod_icon, #faeee3
+open_eyeblossom, #ffffff
+pale_hanging_moss, #939a90
+pale_oak_boat, #d7c8c8
+pale_oak_chest_boat, #bca58e
+pale_oak_door, #ffffff
+pale_oak_hanging_sign, #e7d7d7
+pale_oak_sapling, #9b968d
+pale_oak_sign, #f5e3e3
+resin_brick, #fff0bc
+resin_clump, #ffeab6

@@ -1,0 +1,11 @@
+// Compost colors for projectedelight. You may add your own colors, change existing ones, or remove colors that aren't needed.
+aeternalis_knife, #fbf7a7
+aeternalis_shake, #eafef4
+aethrnalis_cookie, #ffc575
+aethrnalis_jem, #f0ffff
+aethrnalis_sandwich, #c2a050
+covalence_dust_salad, #347f5b
+dark_matter_hamburger, #79542c
+dark_matter_knife, #442837
+red_matter_apple, #ff7332
+red_matter_knife, #f29140

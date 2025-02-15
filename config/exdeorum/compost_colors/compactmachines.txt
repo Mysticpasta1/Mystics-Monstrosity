@@ -1,0 +1,4 @@
+// Compost colors for compactmachines. You may add your own colors, change existing ones, or remove colors that aren't needed.
+chunkloader_upgrade, #5b8357
+personal_shrinking_device, #e3f8ff
+tunnel, #ffffff

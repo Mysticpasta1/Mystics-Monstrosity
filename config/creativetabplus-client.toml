@@ -1,0 +1,27 @@
+#Sorting mode of creative tabs
+#NAME -> Display name of the tab
+#NAMESPACE -> Namespace of the tab (typically the mod id its from)
+#Allowed Values: NAME, NAMESPACE
+sortMode = "NAME"
+#Direction to sort tabs
+#ASC -> Ascending (sorted a-z)
+#DESC -> Descending (sorted z-a)
+#Allowed Values: ASC, DESC
+sortDirection = "ASC"
+#Method for the search box to find tabs
+#CONTAINS -> included if the tab's search key contains the search term
+#STARTS -> included if the tab's search key starts with the search term
+#REGEX -> included if the tab's search key matches the regex in the search box
+#Allowed Values: CONTAINS, STARTS, REGEX
+searchMode = "CONTAINS"
+#List of ways a tab's search key is obtained. Each value is searched and added to a page in the order they are here. A tab will only show in the first value its found in.
+#NAME - Display name of the tab
+#MOD_NAME - The display name of the mod the tab is from if found. (wont be found if the namespace does not match the modid)
+#REG_KEY - Internal id of the tab
+#NAMESPACE - The namespace of the tab, typically the modid of the mod its from
+searchValues = ["NAME", "MOD_NAME"]
+#If true, the mod will not move the vanilla creative tabs ever, If false, they are sorted and search just like every other tab
+preservePageOne = true
+#Saves the last search to be resumed next time the creative inventory is opened.
+saveSearch = true
+

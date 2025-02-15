@@ -1,0 +1,96 @@
+
+[Common]
+	#Range: 0.1 ~ 50.0
+	"Turret and drone projectile speed" = 50.0
+	#List of mob ids to be excluded from default targets
+	"Target list exceptions" = ["minecraft:zombified_piglin"]
+	"Set ownership automatically" = true
+	#Range: 1 ~ 128
+	"Drones will keep to the owner at such distance" = 30
+
+["Turret stats"]
+
+	["Turret stats"."Arrow turret"]
+		#Range: 10.0 ~ 1.7976931348623157E308
+		Health = 60.0
+		#Range: 8.0 ~ 128.0
+		Range = 32.0
+		#Range: 0.0 ~ 100.0
+		Armor = 3.0
+		#In ticks
+		#Range: 1 ~ 60
+		"Fire rate" = 20
+		#Range: 1 ~ 100
+		"Base damage" = 6
+
+	["Turret stats"."Bullet turret"]
+		#Range: 10.0 ~ 1.7976931348623157E308
+		Health = 60.0
+		#Range: 8.0 ~ 128.0
+		Range = 32.0
+		#Range: 0.0 ~ 100.0
+		Armor = 3.0
+		#In ticks
+		#Range: 1 ~ 60
+		"Fire rate" = 20
+		#Range: 1 ~ 100
+		"Iron bullet damage" = 8
+
+	["Turret stats"."Fire charge turret"]
+		#Range: 10.0 ~ 1.7976931348623157E308
+		Health = 60.0
+		#Range: 8.0 ~ 128.0
+		Range = 32.0
+		#Range: 0.0 ~ 100.0
+		Armor = 3.0
+		#In ticks
+		#Range: 1 ~ 60
+		"Fire rate" = 20
+		#Range: 1 ~ 100
+		Damage = 6
+
+	["Turret stats"."Brick turret"]
+		#Range: 10.0 ~ 1.7976931348623157E308
+		Health = 60.0
+		#Range: 8.0 ~ 128.0
+		Range = 32.0
+		#Range: 0.0 ~ 100.0
+		Armor = 3.0
+		#In ticks
+		#Range: 1 ~ 60
+		"Fire rate" = 20
+		#Range: 1 ~ 100
+		"Brick damage" = 9
+
+	["Turret stats"."Gauss turret"]
+		#Range: 10.0 ~ 1.7976931348623157E308
+		Health = 60.0
+		#Range: 8.0 ~ 128.0
+		Range = 32.0
+		#Range: 0.0 ~ 100.0
+		Armor = 3.0
+		#In ticks
+		#Range: 1 ~ 60
+		"Fire rate" = 20
+		#Range: 1 ~ 100
+		Damage = 12
+
+	["Turret stats"."Cobble turret"]
+		#Range: 10.0 ~ 1.7976931348623157E308
+		Health = 60.0
+		#Range: 0.0 ~ 128.0
+		Range = 32.0
+		#Range: 0.0 ~ 100.0
+		Armor = 3.0
+		#In ticks
+		#Range: 1 ~ 60
+		"Fire rate" = 20
+		#Range: 1 ~ 100
+		Damage = 3
+
+	["Turret stats"."Storage drone"]
+		#Range: 10.0 ~ 1.7976931348623157E308
+		Health = 50.0
+		#Range: 0.0 ~ 100.0
+		Armor = 0.0
+

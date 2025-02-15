@@ -1,0 +1,25 @@
+// Compost colors for woodwevegot. You may add your own colors, change existing ones, or remove colors that aren't needed.
+aspen_ladder, #ffcfa5
+baobab_ladder, #bca570
+blue_enchanted_ladder, #657de6
+cika_ladder, #b56b58
+cypress_ladder, #c9bc8e
+ebony_ladder, #393939
+fir_ladder, #c58e68
+florus_ladder, #769d51
+green_enchanted_ladder, #52c668
+holly_ladder, #ffe7c8
+ironwood_ladder, #c6c0bc
+jacaranda_ladder, #edafae
+mahogany_ladder, #c578a2
+maple_ladder, #a8988d
+palm_ladder, #d6c5a0
+pine_ladder, #e7d9b4
+rainbow_eucalyptus_ladder, #a88979
+redwood_ladder, #da6868
+sakura_ladder, #bc3d54
+skyris_ladder, #9de0fc
+white_mangrove_ladder, #ffffff
+willow_ladder, #829057
+witch_hazel_ladder, #3d9461
+zelkova_ladder, #d3783d

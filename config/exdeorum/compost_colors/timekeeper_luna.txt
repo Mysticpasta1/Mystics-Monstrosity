@@ -1,0 +1,5 @@
+// Compost colors for timekeeper_luna. You may add your own colors, change existing ones, or remove colors that aren't needed.
+calendar_local, #f2c3c6
+calendar_real, #acbee1
+calendar_serene, #f1d2e6
+calendar_vanilla, #ddc2f1

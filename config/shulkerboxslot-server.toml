@@ -1,0 +1,5 @@
+#If enabled, renders the equipped shulker box on players.
+renderShulkerBox = true
+#If enabled and renderShulkerBox is true, renders the equipped shulker box on players if they are wearing an elytra or cape.
+renderWithElytraAndCapes = true
+

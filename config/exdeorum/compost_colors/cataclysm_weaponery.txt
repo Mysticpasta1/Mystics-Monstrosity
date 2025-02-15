@@ -1,0 +1,6 @@
+// Compost colors for cataclysm_weaponery. You may add your own colors, change existing ones, or remove colors that aren't needed.
+ignitium_axe, #704b18
+ignitium_hoe, #5f3d15
+ignitium_pickaxe, #6f4716
+ignitium_shovel, #6b4a1e
+ignitium_sword, #ac7c1f

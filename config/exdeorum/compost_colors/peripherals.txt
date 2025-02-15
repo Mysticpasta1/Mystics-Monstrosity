@@ -1,0 +1,8 @@
+// Compost colors for peripherals. You may add your own colors, change existing ones, or remove colors that aren't needed.
+ender_bag, #334d43
+facade_tool, #c0bfe4
+keyboard, #838282
+magnet, #432640
+magnetic_card, #ffffff
+player_card, #766857
+spawner_card, #8d6c69

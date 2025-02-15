@@ -1,0 +1,34 @@
+#Blocking requires both hands, meaning the hand not holding the sword must be empty.
+require_both_hands = false
+#Prioritize usable off-hand items over sword blocking from the main hand. Items not recognized by default can be included in a dedicated item tag.
+prioritize_off_hand = true
+#Damage sword when blocking an attack depending on the amount of damage blocked. Sword is only damaged when at least three damage points have been blocked, just like a shield.
+damage_sword = false
+#The minimum attack strength required to be able to start blocking.
+#Range: 0.0 ~ 1.0
+required_attack_strength = 0.0
+#Percentage an incoming attack will be reduced by when blocking.
+#Range: 0.0 ~ 1.0
+blocked_damage = 0.5
+#Allow blocking with swords, which will reduce most incoming attacks by 50% and render a parry animation.
+allow_blocking = true
+#Amount of ticks after starting to block in which an attack will be completely nullified like when blocking with a shield.
+#Range: 0 ~ 72000
+parry_window = 10
+#Percentage to reduce knockback by while sword blocking.
+#Range: 0.0 ~ 1.0
+knockback_reduction = 0.2
+#Arc of available protection depending on what angle the attack is coming from and where the player is looking (means the lower this angle the closer you need to be facing your attacker).
+#Range: 0.0 ~ 360.0
+protection_arc = 360.0
+#The strength a parried attacker will be knocked back by.
+#Range: 0.1 ~ 5.0
+parry_knockback_strength = 0.5
+#Damage sword when successfully parrying depending on the amount of damage blocked. Sword is only damaged when at least three damage points have been parried, just like a shield.
+damage_sword_on_parry = false
+#Incoming projectiles such as arrows or tridents will ricochet while blocking.
+deflect_projectiles = false
+#Percentage to slow down movement to while blocking.
+#Range: 0.0 ~ 1.0
+blocking_slowdown = 0.2
+

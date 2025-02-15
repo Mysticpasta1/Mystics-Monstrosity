@@ -1,0 +1,19 @@
+
+#Render settings
+[renderSettings]
+	#Default: true. Whether a Crystal should render rays.
+	renderRays = true
+	#Default: 256. Whether a Crystal should render rays based on distance to a player.
+	#Range: 64 ~ 1024
+	raysDistance = 256
+	#Default: true. Whether a Kiln should render items.
+	renderItems = true
+	#Default: 256. Whether a Kiln should render items based on distance to a player.
+	#Range: 64 ~ 1024
+	itemsDistance = 256
+	#Default: true. Whether a Grinder should render gears.
+	renderGears = true
+	#Default: 256. Whether a Grinder should render gears based on distance to a player.
+	#Range: 64 ~ 1024
+	gearsDistance = 256
+

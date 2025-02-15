@@ -1,0 +1,23 @@
+
+[MiscConfig]
+
+	[MiscConfig.LiquidSculkMatterConfig]
+		#The probability of this fluid emitting WARDEN_AMBIENT sound per tick - Default: [0.1%]
+		ProbabilityOfProducingSound = 0.001
+		#The probability of this fluid producing particle effects per tick - Default: [20%]
+		ProbabilityOfParticleGeneration = 0.2
+		#Is it allowed for the fluid to emit WARDEN_AMBIENT sound - Default: [true]
+		isFluidProduceSound = true
+		#Is it allowed for the fluid to produce SCULK_CHARGE_POP particles - Default: [true]
+		isFluidGenerateParticles = true
+
+	[MiscConfig.LiquidDragonBreathConfig]
+		#The probability of this fluid emitting ENDER_DRAGON_AMBIENT sound per tick - Default: [0.1%]
+		ProbabilityOfProducingSound = 0.001
+		#The probability of this fluid producing particle effects per tick - Default: [20%]
+		ProbabilityOfParticleGeneration = 0.2
+		#Is it allowed for the fluid to emit ENDER-DRAGON_AMBIENT sound - Default: [true]
+		isFluidProduceSound = true
+		#Is it allowed for the fluid to produce DRAGON_BREATH particles - Default: [true]
+		isFluidGenerateParticles = true
+

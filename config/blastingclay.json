@@ -1,0 +1,22 @@
+{
+  "blasting_list": [
+    "minecraft:clay_ball, minecraft:brick, 0.3",
+    "minecraft:clay, minecraft:terracotta, 0.35",
+    "minecraft:white_terracotta, minecraft:white_glazed_terracotta, 0.1",
+    "minecraft:orange_terracotta, minecraft:orange_glazed_terracotta, 0.1",
+    "minecraft:magenta_terracotta, minecraft:magenta_glazed_terracotta, 0.1",
+    "minecraft:light_blue_terracotta, minecraft:light_blue_glazed_terracotta, 0.1",
+    "minecraft:yellow_terracotta, minecraft:yellow_glazed_terracotta, 0.1",
+    "minecraft:lime_terracotta, minecraft:lime_glazed_terracotta, 0.1",
+    "minecraft:pink_terracotta, minecraft:pink_glazed_terracotta, 0.1",
+    "minecraft:gray_terracotta, minecraft:gray_glazed_terracotta, 0.1",
+    "minecraft:light_gray_terracotta, minecraft:light_gray_glazed_terracotta, 0.1",
+    "minecraft:cyan_terracotta, minecraft:cyan_glazed_terracotta, 0.1",
+    "minecraft:purple_terracotta, minecraft:purple_glazed_terracotta, 0.1",
+    "minecraft:blue_terracotta, minecraft:blue_glazed_terracotta, 0.1",
+    "minecraft:brown_terracotta, minecraft:brown_glazed_terracotta, 0.1",
+    "minecraft:green_terracotta, minecraft:green_glazed_terracotta, 0.1",
+    "minecraft:red_terracotta, minecraft:red_glazed_terracotta, 0.1",
+    "minecraft:black_terracotta, minecraft:black_glazed_terracotta, 0.1"
+  ]
+}

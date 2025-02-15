@@ -1,0 +1,14 @@
+
+["Configs for Wood Enjoyer"]
+	#Enchantment table buffs for tools with warped handle
+	#With 15 bookshelves, tool with warped handle will have the max enchantment cost 30 + x
+	#Higher costs lead to better enchantments
+	#Range: 0 ~ 20
+	warpedHandleBuff = 3
+	#Durability buff that comes with lunar handle
+	#If you want the modifier to add %50 durability, enter 1.5
+	#Range: 1.0 ~ 5.0
+	lunarHandleBuff = 1.175
+	#Chisel items put in dispenser being able to carve the blocks next to the dispenser
+	chiselDispenseBehavior = true
+

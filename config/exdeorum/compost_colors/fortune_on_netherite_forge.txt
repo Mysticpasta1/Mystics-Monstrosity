@@ -1,0 +1,2 @@
+// Compost colors for fortune_on_netherite_forge. You may add your own colors, change existing ones, or remove colors that aren't needed.
+raw_debris, #72463a

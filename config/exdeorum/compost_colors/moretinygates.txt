@@ -1,0 +1,7 @@
+// Compost colors for moretinygates. You may add your own colors, change existing ones, or remove colors that aren't needed.
+tiny_diode, #fffafa
+tiny_generator, #f2bebf
+tiny_limiter, #f1eded
+tiny_nand_gate, #e8e4e4
+tiny_nor_gate, #e7e3e3
+tiny_xnor_gate, #eeeaea

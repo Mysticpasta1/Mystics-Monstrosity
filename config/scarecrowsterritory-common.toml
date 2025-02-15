@@ -1,0 +1,45 @@
+# Options in this section are only relevant whenever OpenBlocks Trophies is installed.
+["Trophies integration"]
+    # Should the integration with OpenBlocks Trophies be enabled? If true, scarecrows will only spawn mobs for which their trophy is placed nearby.
+    # Allowed values: true, false - Default: false
+    enableTrophyIntegration = false
+
+    # What should be the range in blocks in which the scarecrow checks for trophies? A value of 2 would mean the scarecrow checks a 5x5x5 area around itself.
+    # Allowed range: 1 ~ 3 - Default: 1
+    trophyCheckRange = 1
+
+    # What should be the maximum number of trophies for which the scarecrow will spawn mobs?
+    # Allowed range: 1 ~ 1000 - Default: 8
+    maxTrophies = 8
+
+    # What should be the chance that the scarecrows spawn an entity from a surrounding trophy every tick?
+    # Allowed range: 0.0 ~ 1.0 - Default: 0.0
+    forcedSpawnChance = 0.0
+
+# Options in this section are only relevant whenever In Control! is installed.
+["In Control! integration"]
+    # Should the scarecrows bypass any game stage checks for spawned mobs?
+    # Allowed values: true, false - Default: true
+    byPassGameStageCheck = true
+
+[General]
+    # Should the scarecrows keep spawners in range activated?
+    # Allowed values: true, false - Default: true
+    loadSpawners = true
+
+    # In what range will the scarecrows load spawners?
+    # Allowed range: 1.0 ~ 25.0 - Default: 5.0
+    loadSpawnerRange = 5.0
+
+    # Should mobs passively spawn within the scarecrows' range
+    # Allowed values: true, false - Default: true
+    passiveMobSpawning = true
+
+    # In what range will mobs passively spawn?
+    # Allowed range: 1.0 ~ 128.0 - Default: 8.0
+    passiveMobRange = 8.0
+
+    # How many blocks away in addition to passiveMobRange and loadSpawnerRange should mobs be prevented from despawning? I.e. no despawn range = max(passiveMobRange, loadSpawnerRange) + noDespawnBuffer.
+    # Allowed range: 0.0 ~ 128.0 - Default: 10.0
+    noDespawnBuffer = 10.0
+

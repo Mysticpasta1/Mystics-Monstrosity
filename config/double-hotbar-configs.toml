@@ -1,0 +1,22 @@
+
+#Configs for Double Hotbar
+[client]
+	disableMod = false
+	displayDoubleHotbar = true
+	#Range: 1 ~ 3
+	inventoryRow = 3
+	#Range: 0 ~ 100
+	shift = 21
+	allowDoubleTap = true
+	#Range: 150 ~ 600
+	doubleTapWindow = 300
+	holdToSwap = true
+	#Range: 50 ~ 1000
+	holdTime = 200
+	#Range: 0 ~ 22
+	renderCrop = 0
+	holdToSwapBar = false
+	#Range: 0 ~ 100
+	wooshVolume = 100
+	reverseBars = false
+

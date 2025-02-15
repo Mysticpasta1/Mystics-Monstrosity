@@ -1,0 +1,13 @@
+// Compost colors for supplementariesdelight. You may add your own colors, change existing ones, or remove colors that aren't needed.
+ash_knife, #70614b
+candy_cookie, #ffbf78
+candy_jem, #ffdeff
+candy_pancake, #ed9752
+kelp_soap_roll, #57574e
+lumisene_ice_cream, #ffffd7
+lumisene_shake, #ffffff
+lumisene_stew, #ae8c57
+pancake_dumplings, #afa446
+soap_dust, #ffc6ff
+soap_sandwich, #cf8d66
+soup_ice_cream, #ffb2ee

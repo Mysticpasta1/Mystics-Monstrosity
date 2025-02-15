@@ -1,0 +1,4 @@
+// Compost colors for signpost. You may add your own colors, change existing ones, or remove colors that aren't needed.
+brush, #9e8c70
+generation_wand, #907362
+tool, #ffffff

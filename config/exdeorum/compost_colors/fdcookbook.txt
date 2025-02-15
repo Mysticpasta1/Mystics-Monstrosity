@@ -1,0 +1,3 @@
+// Compost colors for fdcookbook. You may add your own colors, change existing ones, or remove colors that aren't needed.
+fd_cookbook, #624e61
+fdcookbook_baked, #372c33

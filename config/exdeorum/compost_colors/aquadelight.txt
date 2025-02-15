@@ -1,0 +1,2 @@
+// Compost colors for aquadelight. You may add your own colors, change existing ones, or remove colors that aren't needed.
+turtle_meat, #ffeaa2

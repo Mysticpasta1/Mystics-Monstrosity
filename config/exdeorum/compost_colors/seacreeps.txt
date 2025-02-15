@@ -1,0 +1,15 @@
+// Compost colors for seacreeps. You may add your own colors, change existing ones, or remove colors that aren't needed.
+acheivement_icon, #6f6fe1
+chill_sea_creep_icon, #b4ffff
+coral_sea_creep_icon, #69ab9b
+deep_sea_creep_icon, #8c8eff
+frozen_gunpowder, #abd4dd
+gunpowder_syringe, #9a9898
+gunpowder_syringe_full, #aaa8a8
+sandy_sea_creep_icon, #8e694a
+scorched_gunpowder, #5e3223
+scorched_icon_2, #a05026
+scorched_sea_creep_icon, #894b28
+scorched_trophy_icon, #9b652d
+sea_creep_icon, #75fcff
+wet_gunpowder, #7ae6b8

@@ -1,0 +1,3 @@
+// Compost colors for davespotioneering. You may add your own colors, change existing ones, or remove colors that aren't needed.
+compound_brewing_stand, #fffcff
+reinforced_cauldron, #3c332a

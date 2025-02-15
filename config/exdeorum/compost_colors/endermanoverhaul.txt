@@ -1,0 +1,14 @@
+// Compost colors for endermanoverhaul. You may add your own colors, change existing ones, or remove colors that aren't needed.
+ancient_pearl, #297084
+badlands_hood, #98504b
+bubble_pearl, #ebfcff
+corrupted_blade, #ac9391
+corrupted_pearl, #44659d
+crimson_pearl, #d05c50
+enderman_tooth, #dabcb1
+icy_pearl, #9adeff
+savanna_hood, #ca9a84
+snowy_hood, #94aec8
+soul_pearl, #54a2d0
+summoner_pearl, #6b78b8
+warped_pearl, #657a7c

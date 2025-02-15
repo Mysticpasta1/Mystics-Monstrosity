@@ -1,0 +1,22 @@
+// Compost colors for tis3d. You may add your own colors, change existing ones, or remove colors that aren't needed.
+audio_module, #202020
+code_book, #e0cab6
+display_module, #202020
+execution_module, #202020
+facade_module, #202020
+infrared_module, #202020
+key, #ffffff
+keypad_module, #202020
+manual, #ffffff
+prism, #ffffff
+queue_module, #202020
+random_access_memory_module, #202020
+random_module, #202020
+read_only_memory_module, #202020
+redstone_module, #202020
+sequencer_module, #202020
+serial_port_module, #202020
+skeleton_key, #ffffff
+stack_module, #202020
+terminal_module, #202020
+timer_module, #202020

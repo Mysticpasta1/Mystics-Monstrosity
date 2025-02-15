@@ -1,0 +1,10 @@
+// Compost colors for enigmaticdelicacy. You may add your own colors, change existing ones, or remove colors that aren't needed.
+cosmic_cake_slice, #a26c94
+divine_fruit_pie, #c97c8c
+divine_fruit_pie_block, #e08997
+etherium_machete, #a8fff5
+harmonious_grail, #9e6878
+ichoroot_soup, #966126
+purified_dragon_breath, #fce6ff
+stuffed_astral_potato, #c870d3
+weapon_charm, #c0985a

@@ -1,0 +1,113 @@
+
+#Client options
+[client]
+	#Specifies if Minecraft music should play at all. Used for if you want the boss music to play but not the Minecraft music.
+	#Default: true
+	playMinecraftMusic = true
+	#Toggles the OptiFine warning upon joining a world.
+	#Default: true
+	optifineWarning = true
+	#Toggles April Fools special effects.
+	#Default: true
+	aprilFools = true
+	#Toggles the patron cosmetic for nonamecrackers2's Wither Storm backers.
+	#Default: true
+	patronCosmetic = true
+	#Toggles the custom main menu panorama added by the mod.
+	#Default: true
+	customPanorama = true
+
+	#Compatibility
+	[client.compatibility]
+		#The distant renderer allows for the Wither Storm to be rendered from much greater distances than what vanilla allows. Disable if you're facing issues with it.
+		#Default: true
+		distantRenderer = true
+		#Specifies if an overlay should be applied to entities that renders wither sickness
+		#Requires restart.
+		#Default: true
+		witherSicknessLayer = true
+
+	#Accessibility
+	[client.accessibility]
+		#Toggle to enable/disable the chromatic aberration effect.
+		#Default: true
+		chromaticAberration = true
+		#Specifies whether or not a white overlay should cover the screen during certain events.
+		#Default: true
+		blindingEffects = true
+		#Specifies whether or not camera shake effects should be used.
+		#Default: true
+		cameraShakeEffects = true
+		#Turn off to disable the ear ringing effects used in the mod.
+		#Default: true
+		earRingingEffects = true
+
+	#Preference
+	[client.preference]
+		#Toggles the rendering of the debris cloud surrounding the Wither Storm.
+		#Default: true
+		renderDebrisCloud = true
+		#Toggles the rendering of debris rings that surround the Wither Storm (much more performant than the debris cloud).
+		#Default: true
+		renderDebrisRings = true
+		#Toggles the rendering of the tractor beams.
+		#Default: true
+		renderTractorBeams = true
+		#Turn off to disable the overlay that appears when inside a tractor beam.
+		#Default: true
+		renderTractorBeamOverlay = true
+		#Specifies if sky ambience affects (sky darkening) should render when a Wither Storm is nearby.
+		#Default: true
+		renderSkyAmbienceEffects = true
+		#Specifies if particles inside the tractor beams of the Wither Storm should render.
+		#Default: true
+		tractorBeamParticles = true
+		#Specifies if fog should be applied to Wither Storms being rendered from a distance.
+		#Default: true
+		distantFog = true
+		#Specifies if a purple shine should render behind the Wither Storm at night.
+		#Default: true
+		renderShine = true
+		#Specifies if a pulsating effect, mimicking endermen pulling the Wither Storm apart, should be rendered once its evolution is complete.
+		#Default: true
+		renderPulse = true
+		#Hides the debris rings until the Wither Storm has split (phase 6).
+		#Default: false
+		hideDebrisRingsUntilSplit = false
+		#Specifies if the emissive decal (eyes and teeth) for the Wither Storm heads should be rendered.
+		#Default: true
+		renderEmissiveDecalForHeads = true
+
+	#Boss music
+	[client.boss_music]
+		#Toggles the Wither Storm boss theme. NOTE: this theme is from MC:SM and is subject to copyright.
+		#Default: false
+		playWitherStormTheme = false
+		#Toggles the Withered Symbiont theme, created for CWSM by Mar Mar.
+		#Default: true
+		playSymbiontTheme = true
+
+	#Instancing
+	[client.instancing]
+		#Specifies if CWSM should use more performant rendering when rendering Block Clusters and the Wither Storm's mass. NOTE: It is not recommended to disable this option unless necessary.
+		#Default: true
+		vertexBufferRendering = true
+		#Builds instanced vertex buffers off thread to help reduce stuttering. It is only recommended to disable this if facing compatibility issues.
+		#Default: true
+		asyncBufferBuilders = true
+
+	#Performance
+	[client.performance]
+		#Setting this value to false will disable the debris cloud when rendering the Wither Storm from large distances.
+		#Default: true
+		renderDistantDebris = true
+		#Specifies if the low res models should be used when being rendered via the distant renderer.
+		#Default: false
+		witherStormLOD = false
+		#Uses larger cubes to make up the the phase 4 and up models. May result in a performance increase.
+		#Default: false
+		lowResModels = false
+		#Toggles the rendering of Block Clusters.
+		#Default: true
+		blockClusterRendering = true
+

@@ -1,0 +1,4 @@
+#List of mod id for which tab will appear first.
+# If you add a library mod without tab here, dependencies of the library mods will be grouped together
+priorityModTabs = ["l2library", "farmersdelight"]
+

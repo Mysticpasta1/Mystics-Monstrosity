@@ -1,0 +1,23 @@
+// Compost colors for aiotbotania. You may add your own colors, change existing ones, or remove colors that aren't needed.
+alfsteel_aiot, #f06428
+alfsteel_hoe, #da5728
+alfsteel_shovel, #ff6926
+elementium_aiot, #d45e82
+livingrock_aiot, #ddd2be
+livingrock_axe, #ffffff
+livingrock_hoe, #fef5eb
+livingrock_pickaxe, #ffffff
+livingrock_shears, #c9b9a8
+livingrock_shovel, #ffffff
+livingrock_sword, #fff7e1
+livingwood_aiot, #34150b
+livingwood_axe, #34150b
+livingwood_hoe, #33140b
+livingwood_pickaxe, #33150b
+livingwood_shears, #33140b
+livingwood_shovel, #34150b
+livingwood_sword, #34150b
+manasteel_aiot, #4d519d
+terra_aiot, #5a9a65
+terra_hoe, #51845c
+terra_shovel, #4e9b6c

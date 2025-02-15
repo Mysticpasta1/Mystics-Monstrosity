@@ -1,0 +1,7 @@
+
+[Client]
+	#Night vision flashing fix
+	nightVisionFlashingFix = true
+	#Replace swim animation
+	replaceSwimAnimation = true
+

@@ -1,0 +1,14 @@
+{
+  "icon": "sandyton.png",
+  "name": "Sandyton",
+  "authors": [
+    "Thaylar"
+  ],
+  "desc": "Build your own small desert oasis!",
+  "mods": [
+  "structurize",
+  "minecolonies"
+  ],
+  "version": "1",
+  "pack-format": "1"
+}

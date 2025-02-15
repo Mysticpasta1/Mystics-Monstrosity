@@ -1,0 +1,111 @@
+[terrible]
+equipSound = "minecraft:item.armor.equip_iron"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[terrible.durability]
+toolDurability = 1372
+bowDurability = 0
+addedShieldDurability = 253
+
+[terrible.enchanting]
+offenseEnchantability = 12
+defenseEnchantability = 12
+
+[terrible.offense]
+addedAttackDamage = 3.5
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[terrible.defense]
+gauntletArmorAmount = 5
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 4.0540543
+afterBasePercentReduction = 0.57432437
+
+[terrible.crafting]
+repairItem = ["aquamirae:ship_graveyard_echo", "aquamirae:anglers_fang"]
+craftingItem = ""
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[threeBolt]
+equipSound = "minecraft:item.armor.equip_iron"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[threeBolt.durability]
+toolDurability = 4117
+bowDurability = 0
+addedShieldDurability = 760
+
+[threeBolt.enchanting]
+offenseEnchantability = 9
+defenseEnchantability = 9
+
+[threeBolt.offense]
+addedAttackDamage = 2.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[threeBolt.defense]
+gauntletArmorAmount = 7
+armorToughness = 2.0
+knockbackResistance = 0.1
+baseProtectionAmmount = 12.162163
+afterBasePercentReduction = 0.999
+
+[threeBolt.crafting]
+repairItem = [""]
+craftingItem = ""
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[abyssal]
+equipSound = "minecraft:item.armor.equip_iron"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[abyssal.durability]
+toolDurability = 2196
+bowDurability = 0
+addedShieldDurability = 405
+
+[abyssal.enchanting]
+offenseEnchantability = 12
+defenseEnchantability = 12
+
+[abyssal.offense]
+addedAttackDamage = 3.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[abyssal.defense]
+gauntletArmorAmount = 6
+armorToughness = 3.0
+knockbackResistance = 0.1
+baseProtectionAmmount = 6.4864864
+afterBasePercentReduction = 0.9189189
+
+[abyssal.crafting]
+repairItem = [""]
+craftingItem = ""
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"

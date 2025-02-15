@@ -1,0 +1,604 @@
+{
+  // Show/hide mechanism name in GUI. Priority over client.
+  "nameMechanism": true,
+  
+  // How long will it take for a request to send resources from output slots to ME? (In ticks)
+  // Minimum: 1
+  "tickOutputSlots": 20,
+  
+  // Alfheim Market for all types
+  "AlfheimMarketSettings": {
+  
+    // How much mana does it take to create.
+    // Minimum: 1
+    "recipeCost": 500,
+    
+    // Maximum mana output per recipe per tick. Total speed is calculated as workingDuration * craftTime
+    // Minimum: 1
+    "workingDuration": 25,
+    
+    "advancedAlfheimMarket": {
+    
+      // Max amount of crafting at a time
+      // Range: 1 - 64
+      "countCraft": 16,
+      
+      // Crafting speed increase factor
+      // Minimum: 1
+      "craftTime": 1,
+      
+      // Mana Storage
+      // Minimum: 1000
+      "manaStorage": 50000000
+    },
+    
+    "baseAlfheimMarket": {
+    
+      // Max amount of crafting at a time
+      // Range: 1 - 64
+      "countCraft": 4,
+      
+      // Crafting speed increase factor
+      // Minimum: 1
+      "craftTime": 1,
+      
+      // Mana Storage
+      // Minimum: 1
+      "manaStorage": 2500000
+    },
+    
+    "ultimateAlfheimMarket": {
+    
+      // Max amount of crafting at a time
+      // Range: 1 - 64
+      "countCraft": 32,
+      
+      // Crafting speed increase factor
+      // Minimum: 1
+      "craftTime": 1,
+      
+      // Mana Storage
+      // Minimum: 1000
+      "manaStorage": 100000000
+    },
+    
+    "upgradedAlfheimMarket": {
+    
+      // Max amount of crafting at a time
+      // Range: 1 - 64
+      "countCraft": 8,
+      
+      // Crafting speed increase factor
+      // Minimum: 1
+      "craftTime": 1,
+      
+      // Mana Storage
+      // Minimum: 1
+      "manaStorage": 10000000
+    }
+  },
+  
+  // Apothecary for all types
+  "ApothecarySettings": {
+  
+    // Speed of crafting. Total speed is calculated as workingDuration * craftTime
+    // Minimum: 1
+    "workingDuration": 20,
+    
+    "advancedApothecary": {
+    
+      // Max amount of crafting at a time
+      // Range: 1 - 64
+      "countCraft": 16,
+      
+      // Crafting speed increase factor
+      // Minimum: 1
+      "craftTime": 1,
+      
+      // Water storage
+      // Minimum: 1000
+      "fluidStorage": 64000
+    },
+    
+    "baseApothecary": {
+    
+      // Max amount of crafting at a time
+      // Range: 1 - 64
+      "countCraft": 4,
+      
+      // Crafting speed increase factor
+      // Minimum: 1
+      "craftTime": 1,
+      
+      // Water storage
+      // Minimum: 1000
+      "fluidStorage": 16000
+    },
+    
+    "ultimateApothecary": {
+    
+      // Max amount of crafting at a time
+      // Range: 1 - 64
+      "countCraft": 32,
+      
+      // Crafting speed increase factor
+      // Minimum: 1
+      "craftTime": 1,
+      
+      // Water storage
+      // Minimum: 1000
+      "fluidStorage": 128000
+    },
+    
+    "upgradedApothecary": {
+    
+      // Max amount of crafting at a time
+      // Range: 1 - 64
+      "countCraft": 8,
+      
+      // Crafting speed increase factor
+      // Minimum: 1
+      "craftTime": 1,
+      
+      // Water storage
+      // Minimum: 1000
+      "fluidStorage": 32000
+    }
+  },
+  
+  // Daisy for all types
+  "DaisySettings": {
+  
+    // How many ticks until the next update
+    // Minimum: 1
+    "ticksToNextUpdate": 5,
+    
+    "advancedDaisy": {
+    
+      // Crafting duration. This number is multiplied by the crafting time in the recipe.
+      "durationTime": 1,
+      
+      // How much of an item can be stored in a slot. Affects how many items can be made at once.
+      // Range: 1 - 64
+      "sizeItemSlots": 16
+    },
+    
+    "baseDaisy": {
+    
+      // Crafting duration. This number is multiplied by the crafting time in the recipe.
+      "durationTime": 1,
+      
+      // How much of an item can be stored in a slot. Affects how many items can be made at once.
+      // Range: 1 - 64
+      "sizeItemSlots": 4
+    },
+    
+    "ultimateDaisy": {
+    
+      // Crafting duration. This number is multiplied by the crafting time in the recipe.
+      "durationTime": 1,
+      
+      // How much of an item can be stored in a slot. Affects how many items can be made at once.
+      // Range: 1 - 64
+      "sizeItemSlots": 32
+    },
+    
+    "upgradedDaisy": {
+    
+      // Crafting duration. This number is multiplied by the crafting time in the recipe.
+      "durationTime": 1,
+      
+      // How much of an item can be stored in a slot. Affects how many items can be made at once.
+      // Range: 1 - 64
+      "sizeItemSlots": 8
+    }
+  },
+  
+  // Greenhouse settings
+  "GreenhouseSettings": {
+  
+    // Energy Storage
+    // Minimum: 1
+    "energyCapacity": 1000000,
+    
+    // Cost energy for one interaction
+    // Minimum: 1
+    "energyCost": 2000,
+    
+    // Max add energy
+    // Minimum: 1
+    "energyTransfer": 2147483647,
+    
+    // Base mana Storage
+    // Minimum: 1
+    "manaStorage": 1000000,
+    
+    // Sleep greenhouse
+    // Minimum: 1
+    "sleep": 20,
+    
+    // Mana for some flowers
+    "Flowers": {
+    
+      // Entropinnyum (For one tnt)
+      // Minimum: 1
+      "entropinnyum": 6500,
+      
+      // Kekimurus (For one full cake)
+      // Minimum: 1
+      "kekimurus": 7200,
+      
+      // Munchdew (For one foliage)
+      // Minimum: 1
+      "munchdew": 160,
+      
+      // Narslimmus (For one slime ball)
+      // Minimum: 1
+      "narslimmus": 100,
+      
+      // Narslimmus (For one flower)
+      // Minimum: 1
+      "rafflowsia": 100,
+      
+      // Narslimmus (For one experience point)
+      // Minimum: 1
+      "rosaArcana": 50
+    }
+  },
+  
+  // Industrial Agglomeration Factory for all types
+  "IndustrialAgglomerationFactorySettings": {
+  
+    // Maximum mana output per recipe per tick. Total speed is calculated as workingDuration * craftTime
+    // Minimum: 1
+    "workingDuration": 5000,
+    
+    "advancedAgglomeration": {
+    
+      // Max amount of crafting at a time
+      // Range: 1 - 64
+      "countCraft": 16,
+      
+      // Crafting speed increase factor
+      // Minimum: 1
+      "craftTime": 1,
+      
+      // Mana Storage
+      // Minimum: 1000
+      "manaStorage": 50000000
+    },
+    
+    "baseAgglomeration": {
+    
+      // Max amount of crafting at a time
+      // Range: 1 - 64
+      "countCraft": 4,
+      
+      // Crafting speed increase factor
+      // Minimum: 1
+      "craftTime": 1,
+      
+      // Mana Storage
+      // Minimum: 1
+      "manaStorage": 2500000
+    },
+    
+    "ultimateAgglomeration": {
+    
+      // Max amount of crafting at a time
+      // Range: 1 - 64
+      "countCraft": 32,
+      
+      // Crafting speed increase factor
+      // Minimum: 1
+      "craftTime": 1,
+      
+      // Mana Storage
+      // Minimum: 1000
+      "manaStorage": 100000000
+    },
+    
+    "upgradedAgglomeration": {
+    
+      // Max amount of crafting at a time
+      // Range: 1 - 64
+      "countCraft": 8,
+      
+      // Crafting speed increase factor
+      // Minimum: 1
+      "craftTime": 1,
+      
+      // Mana Storage
+      // Minimum: 1
+      "manaStorage": 10000000
+    }
+  },
+  
+  // Jaded Amaranthus settings
+  "JadedAmaranthusSettings": {
+  
+    // Cooldown per recipe. For all color petal/petal block/flower
+    // Minimum: 1
+    "cooldown": 30,
+    
+    // Cost mana per one craft for petal/petal block/flower
+    // Minimum: 1
+    "costMana": 200,
+    
+    // Count craft. For petal countCraft * 2. For petal block = countCraft as for a flower
+    // Minimum: 1
+    "countCraft": 1,
+    
+    // Mana Storage
+    // Minimum: 1
+    "manaStorage": 1000000
+  },
+  
+  // ManaInfuser for all types (For request mod Mythical Botany)
+  "ManaInfuserSettings": {
+  
+    // Maximum mana output per recipe per tick. Total speed is calculated as workingDuration * craftTime
+    // Minimum: 1
+    "workingDuration": 5000,
+    
+    "advancedManaInfuser": {
+    
+      // Max amount of crafting at a time
+      // Range: 1 - 64
+      "countCraft": 16,
+      
+      // Crafting speed increase factor
+      // Minimum: 1
+      "craftTime": 1,
+      
+      // Mana Storage
+      // Minimum: 1000
+      "manaStorage": 50000000
+    },
+    
+    "baseManaInfuser": {
+    
+      // Max amount of crafting at a time
+      // Range: 1 - 64
+      "countCraft": 4,
+      
+      // Crafting speed increase factor
+      // Minimum: 1
+      "craftTime": 1,
+      
+      // Mana Storage
+      // Minimum: 1
+      "manaStorage": 2500000
+    },
+    
+    "ultimateManaInfuser": {
+    
+      // Max amount of crafting at a time
+      // Range: 1 - 64
+      "countCraft": 32,
+      
+      // Crafting speed increase factor
+      // Minimum: 1
+      "craftTime": 1,
+      
+      // Mana Storage
+      // Minimum: 1000
+      "manaStorage": 100000000
+    },
+    
+    "upgradedManaInfuser": {
+    
+      // Max amount of crafting at a time
+      // Range: 1 - 64
+      "countCraft": 8,
+      
+      // Crafting speed increase factor
+      // Minimum: 1
+      "craftTime": 1,
+      
+      // Mana Storage
+      // Minimum: 1
+      "manaStorage": 10000000
+    }
+  },
+  
+  // Mana pool settings for all types
+  "ManaPoolSettings": {
+  
+    "advancedManaPool": {
+    
+      // Max amount of crafting at a time
+      // Range: 1 - 64
+      "countCraft": 16,
+      
+      // Crafting time in ticks
+      // Minimum: 1
+      "craftTime": 10,
+      
+      // Mana Storage
+      // Minimum: 1
+      "manaStorage": 50000000
+    },
+    
+    "baseManaPool": {
+    
+      // Max amount of crafting at a time
+      // Range: 1 - 64
+      "countCraft": 4,
+      
+      // Crafting time in ticks
+      // Minimum: 1
+      "craftTime": 10,
+      
+      // Mana Storage
+      // Minimum: 1
+      "manaStorage": 2500000
+    },
+    
+    "ultimateManaPool": {
+    
+      // Max amount of crafting at a time
+      // Range: 1 - 64
+      "countCraft": 32,
+      
+      // Crafting time in ticks
+      // Minimum: 1
+      "craftTime": 10,
+      
+      // Mana Storage
+      // Minimum: 1
+      "manaStorage": 100000000
+    },
+    
+    "upgradedManaPool": {
+    
+      // Max amount of crafting at a time
+      // Range: 1 - 64
+      "countCraft": 8,
+      
+      // Crafting time in ticks
+      // Minimum: 1
+      "craftTime": 10,
+      
+      // Mana Storage
+      // Minimum: 1
+      "manaStorage": 10000000
+    }
+  },
+  
+  // Orechid for all types
+  "OrechidSettings": {
+  
+    // How much mana is required to create 1 ore.
+    // Minimum: 1
+    "recipeCost": 10000,
+    
+    "advancedOrechid": {
+    
+      // 'Rest' time after crafting. In ticks
+      // Minimum: 1
+      "cooldown": 10,
+      
+      // Max amount of crafting at a time
+      // Range: 1 - 64
+      "countCraft": 16,
+      
+      // Mana Storage
+      // Minimum: 1000
+      "manaStorage": 50000000
+    },
+    
+    "baseOrechid": {
+    
+      // 'Rest' time after crafting. In ticks
+      // Minimum: 1
+      "cooldown": 10,
+      
+      // Max amount of crafting at a time
+      // Range: 1 - 64
+      "countCraft": 4,
+      
+      // Mana Storage
+      // Minimum: 1
+      "manaStorage": 2500000
+    },
+    
+    "ultimateOrechid": {
+    
+      // 'Rest' time after crafting. In ticks
+      // Minimum: 1
+      "cooldown": 10,
+      
+      // Max amount of crafting at a time
+      // Range: 1 - 64
+      "countCraft": 32,
+      
+      // Mana Storage
+      // Minimum: 1000
+      "manaStorage": 100000000
+    },
+    
+    "upgradedOrechid": {
+    
+      // 'Rest' time after crafting. In ticks
+      // Minimum: 1
+      "cooldown": 10,
+      
+      // Max amount of crafting at a time
+      // Range: 1 - 64
+      "countCraft": 8,
+      
+      // Mana Storage
+      // Minimum: 1
+      "manaStorage": 10000000
+    }
+  },
+  
+  // Runic Altar for all types
+  "RunicAltarSettings": {
+  
+    // Mana cost per craft tick. Total speed is calculated as manaCost * craftTime
+    // Minimum: 1
+    "manaCost": 100,
+    
+    "advancedRunicAltar": {
+    
+      // Max amount of crafting at a time
+      // Range: 1 - 64
+      "countCraft": 16,
+      
+      // Crafting speed increase factor
+      // Minimum: 1
+      "craftTime": 1,
+      
+      // Mana Storage
+      // Minimum: 1
+      "manaStorage": 50000000
+    },
+    
+    "baseRunicAltar": {
+    
+      // Max amount of crafting at a time
+      // Range: 1 - 64
+      "countCraft": 4,
+      
+      // Crafting speed increase factor
+      // Minimum: 1
+      "craftTime": 1,
+      
+      // Mana Storage
+      // Minimum: 1
+      "manaStorage": 2500000
+    },
+    
+    "ultimateRunicAltar": {
+    
+      // Max amount of crafting at a time
+      // Range: 1 - 64
+      "countCraft": 32,
+      
+      // Crafting speed increase factor
+      // Minimum: 1
+      "craftTime": 1,
+      
+      // Mana Storage
+      // Minimum: 1
+      "manaStorage": 100000000
+    },
+    
+    "upgradedRunicAltar": {
+    
+      // Max amount of crafting at a time
+      // Range: 1 - 64
+      "countCraft": 8,
+      
+      // Crafting speed increase factor
+      // Minimum: 1
+      "craftTime": 1,
+      
+      // Mana Storage
+      // Minimum: 1
+      "manaStorage": 10000000
+    }
+  }
+}

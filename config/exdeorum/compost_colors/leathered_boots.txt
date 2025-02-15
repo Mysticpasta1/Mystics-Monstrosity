@@ -1,0 +1,7 @@
+// Compost colors for leathered_boots. You may add your own colors, change existing ones, or remove colors that aren't needed.
+leather_upgrade_smithing_template, #806b51
+leathered_chainmail_boots, #ffffff
+leathered_diamond_boots, #ffffff
+leathered_gold_boots, #ffffff
+leathered_iron_boots, #ffffff
+leathered_netherite_boots, #ffffff

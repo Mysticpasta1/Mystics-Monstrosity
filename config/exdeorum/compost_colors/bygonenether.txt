@@ -1,0 +1,7 @@
+// Compost colors for bygonenether. You may add your own colors, change existing ones, or remove colors that aren't needed.
+crushed_withered_debris, #373740
+netherite_bell, #4d3c43
+netherite_scrap_ingot, #7c5247
+netherite_scrap_nugget, #7c5146
+warped_ender_pearl, #19b8a2
+wither_waltz_music_disc, #322d40

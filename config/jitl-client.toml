@@ -1,0 +1,8 @@
+
+["Client configs for JITL"]
+	#If set to 'true', you will get a message on every login with an update check.
+	"Send Player update Messages: " = true
+	#Determines the position of the Essence bar in-game. 
+	#Allowed Values: OVER_EXPERIENCE_BAR, ABOVE_HUNGER_BAR, LEFT_OF_HOTBAR, RIGHT_OF_HOTBAR, BELOW_CROSSHAIR
+	"Essence Bar Position: " = "ABOVE_HUNGER_BAR"
+

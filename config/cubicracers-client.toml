@@ -1,0 +1,5 @@
+
+[kart]
+	#Range: 0.0 ~ 1.0
+	kart_volume = 0.25
+

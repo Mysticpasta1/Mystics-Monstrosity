@@ -1,0 +1,23 @@
+// Compost colors for celestisynth. You may add your own colors, change existing ones, or remove colors that aren't needed.
+celestial_core, #cc8aaa
+celestial_core_heated, #ffae9b
+celestial_debugger, #5e72f1
+celestial_netherite_ingot, #9baab1
+crimson_piece, #d0444e
+eyebomination, #3c7d57
+lunar_scrap, #a18abf
+lunar_stone_boots, #b96447
+lunar_stone_chestplate, #cc785e
+lunar_stone_helmet, #987073
+lunar_stone_leggings, #73587a
+solar_crystal, #ff7ca7
+solar_crystal_boots, #dc573c
+solar_crystal_chestplate, #fc7c50
+solar_crystal_helmet, #d95f65
+solar_crystal_leggings, #cd4361
+star_monolith, #4a5064
+star_monolith_blood, #801c19
+starstruck_feather, #fffaff
+starstruck_scrap, #61578a
+supernal_netherite_ingot, #bb9397
+wintereis_shard, #8af8ff

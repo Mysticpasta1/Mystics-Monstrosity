@@ -1,0 +1,8 @@
+#The Dimension that Gaia will connect to. Results may vary based on the Level chosen. Existing portals will remain regardless of what is set here until they are broken, however they may no longer connect.
+startDimension = "minecraft:overworld"
+#Change how the portal can be created. If true, the portal will check where it is allowed to spawn based on the type of list and what contents are in the list.
+portalCheck = true
+#Changes whether the portal_biomes Biome Tag is a blacklist or a whitelist. A blacklist will exclude biomes from the portal, anything not on the list is allowed. A whitelist will allow biomes for the portal, anything on the list is allowed. If portalCheck is false, this value is unused.
+#Allowed Values: BLACKLIST, WHITELIST
+listType = "WHITELIST"
+

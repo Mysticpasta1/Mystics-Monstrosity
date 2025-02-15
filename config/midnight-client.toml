@@ -1,0 +1,3 @@
+#Limits gamma/brightness in The Midnight by 50%.
+limitBrightness = true
+

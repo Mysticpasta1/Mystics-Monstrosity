@@ -1,0 +1,2 @@
+// Compost colors for littlecontraptions. You may add your own colors, change existing ones, or remove colors that aren't needed.
+contraption_barge, #a16239

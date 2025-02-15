@@ -1,0 +1,268 @@
+
+["Mob Settings"]
+
+	["Mob Settings"."Igniter settings"]
+		#How many Igniters each wave
+		#Requires game restart
+		#Must have no more and no less than 8 integers
+		igniter_raidcount = [0, 0, 1, 2, 0, 2, 1, 4]
+		#Controls if Igniter should cause block damage with its fireballs.
+		#As of now its fireballs will still use the normal fire block; basically don't set this to true if you care about your world.
+		#Default = false
+		#Note that Igniter's block damage is still affected by the mobGriefing gamerule
+		igniter_canBurnBlocks = false
+
+	["Mob Settings"."Twittollager Settings"]
+		#How many Twittollagers each wave
+		#Requires game restart
+		#Must have no more and no less than 8 integers
+		twittollager_raidcount = [0, 0, 0, 0, 1, 0, 2, 1]
+
+	["Mob Settings"."Preserver Settings"]
+		#How many Preservers each wave
+		#Requires game restart
+		#Must have no more and no less than 8 integers
+		preserver_raidcount = [0, 0, 0, 1, 2, 0, 3, 4]
+		#Illagers the Preserver will ignore.
+		#Format must be like 'examplemod:entity'. Example: "minecraft:zombie"
+		#You can use the /summon command to scroll through and find the IDs for mobs you want!
+		#Requires game restart
+		preserver_cannotProtect = ["illageandspillage:magispeller", "illageandspillage:spiritcaller", "illageandspillage:freakager"]
+
+	["Mob Settings"."Engineer Settings"]
+		#How many Engineers each wave
+		#Requires game restart
+		#Must have no more and no less than 8 integers
+		engineer_raidcount = [0, 0, 0, 1, 0, 2, 1, 2]
+		#Maximum amount of machines the engineer can build
+		#Set to a negative number to disable limit entirely
+		#Default = 3
+		engineer_machine_limit = 3
+		#Raiders in this list will NOT retreat to nearby Hinders when low on health.
+		#This only affects mobs that extend the "Raider" class.
+		#Format must be like 'examplemod:entity'. Example: "minecraft:zombie"
+		#You can use the /summon command to scroll through and find the IDs for mobs you want!
+		#Requires game restart
+		hinder_excluded = ["minecraft:ravager", "illageandspillage:twittollager", "illageandspillage:absorber", "illageandspillage:crocofang", "illageandspillage:magispeller", "illageandspillage:spiritcaller", "illageandspillage:freakager", "illageandspillage:ragno"]
+
+	["Mob Settings"."Absorber Settings"]
+		#How many Absorbers each wave
+		#Requires game restart
+		#Must have no more and no less than 8 integers
+		absorber_raidcount = [0, 0, 0, 0, 1, 0, 0, 2]
+		#The damage mode for Absorber.
+		#On false, Absorber will always take 1 damage from anything. On true, Absorber will take a maximum of 1 damage per hit.
+		#Default = false
+		absorber_damageMode = false
+
+	["Mob Settings"."Crocofang Settings"]
+		#How many Crocofangs each wave
+		#Requires game restart
+		#Must have no more and no less than 8 integers
+		crocofang_raidcount = [0, 0, 1, 0, 1, 2, 1, 3]
+		#Mobs put in this list will be randomly chosen to be the mob riding a Crocofang.
+		#Format must be like 'examplemod:entity'. Example: "minecraft:zombie"
+		#You can use the /summon command to scroll through and find the IDs for mobs you want!
+		#Invalid entity registry names will have the Crocofang being ridden by nothing. Same goes for if this list is empty
+		#Only entities extending the Abstract Raider class will actually join the Raid upon spawning
+		#Requires game restart
+		crocofang_rideableMobs = ["minecraft:pillager", "illageandspillage:igniter", "minecraft:vindicator"]
+
+	["Mob Settings"."Spiritcaller settings"]
+		#Spiritcaller's max health
+		#Requires game restart
+		#Default: 160.0
+		spiritcaller_health = 160.0
+		#How many Spiritcallers each wave
+		#Requires game restart
+		#Must have no more and no less than 8 integers
+		spiritcaller_raidcount = [0, 0, 0, 0, 0, 0, 0, 0]
+		#Controls if Spiritcaller should despawn if it spawns in the 7th wave before the bonus wave.
+		#Overrides spiritcaller_raidcount
+		#Default = true
+		spiritcaller_onlyOneAllowed = true
+		#Should the Spiritcaller only be allowed to fight once all other raiders in the wave are killed?
+		#Default = true
+		spiritcaller_forcefield = true
+		#Mobs put in this list have 'souls' the Spiritcaller can steal.
+		#Format must be like 'examplemod:entity'. Example: "minecraft:zombie"
+		#You can use the /summon command to scroll through and find the IDs for mobs you want!
+		#Requires game restart
+		spiritcaller_stealableMobs = ["minecraft:villager", "minecraft:wandering_trader", "minecraft:pig", "minecraft:cow", "minecraft:sheep", "minecraft:chicken", "minecraft:cat", "minecraft:zombie", "minecraft:husk", "minecraft:skeleton", "minecraft:stray", "minecraft:creeper", "minecraft:spider", "minecraft:enderman"]
+		#Mobs put in this list won't be attacked by mobs attacking the Spiritcaller, when their souls are taken.
+		#Format must be like 'examplemod:entity'. Example: "minecraft:zombie"
+		#You can use the /summon command to scroll through and find the IDs for mobs you want!
+		#Only actually happens if the mob is in spiritcaller_stealableMobs
+		#Requires game restart
+		spiritcaller_wontAttack = ["minecraft:villager", "minecraft:wandering_trader"]
+
+	["Mob Settings"."Freakager & Ragno Settings"]
+		#Freakager's max health
+		#Requires game restart
+		#Default: 160.0
+		freakager_health = 160.0
+		#Ragno's max health
+		#Requires game restart
+		#Default: 180.0
+		ragno_health = 180.0
+		#How many Freakagers each wave
+		#Requires game restart
+		#Must have no more and no less than 8 integers
+		freakager_raidcount = [0, 0, 0, 0, 0, 0, 0, 0]
+		#Controls if Freakager should despawn if it spawns in the 7th wave before the bonus wave.
+		#Overrides freakager_raidcount
+		#Default = true
+		freakager_onlyOneAllowed = true
+		#Should the Freakager only be allowed to fight once all other raiders in the wave are killed?
+		#Default = true
+		freakager_forcefield = true
+		#How many Old Freakagers each wave
+		#Requires game restart
+		#Must have no more and no less than 8 integers
+		oldfreakager_raidcount = [0, 0, 0, 0, 0, 0, 0, 0]
+
+	["Mob Settings"."Magispeller Settings"]
+		#Magispeller's max health
+		#Requires game restart
+		#Default: 250.0
+		magispeller_health = 250.0
+		#How many Magispellers each wave
+		#Requires game restart
+		#Must have no more and no less than 8 integers
+		magispeller_raidcount = [0, 0, 0, 0, 0, 0, 0, 0]
+		#Controls if Magispeller should despawn if it spawns in the 7th wave before the bonus wave.
+		#Overrides magispeller_raidcount
+		#Default = true
+		magispeller_onlyOneAllowed = true
+		#Should the Magispeller only be allowed to fight once all other raiders in the wave are killed?
+		#Default = true
+		magispeller_forcefield = true
+		#Determines if Magispeller is allowed to use balloons to break his fall.
+		#Default = true
+		magispeller_balloonAllowed = true
+		#Determines if Magispeller's death animation should distract other-team mobs. Mainly for Mob Battles.
+		#Default = true
+		magispeller_distractEnemies = true
+		#How many Old Magispellers each wave
+		#Requires game restart
+		#Must have no more and no less than 8 integers
+		oldmagispeller_raidcount = [0, 0, 0, 0, 0, 0, 0, 0]
+
+	["Mob Settings"."Devastator Settings"]
+		#Blocks the Devastator can't break.
+		#Format must be like 'examplemod:block'. Example: "minecraft:bedrock"
+		#You can use the /setblock command to scroll through and find the IDs for blocks you want!
+		#Invalid registry names will do nothing, so if you notice the Devastator is destroying a block it shouldn't, check this list for errors
+		#Requires game restart
+		devastator_cantBreak = ["minecraft:obsidian", "minecraft:bedrock", "minecraft:command_block", "minecraft:chain_command_block", "minecraft:repeating_command_block", "minecraft:barrier"]
+		#Controls if Devastator should leave behind ghost blocks in its destruction
+		#Don't set this to true if you care about your world.
+		#Default = false
+		#Note that Devastator's block damage is still affected by the mobGriefing gamerule
+		devastator_ghostBlocks = false
+		#Time that Ghost Blocks take to repair
+		#Default = 6000 (5 minutes)
+		#Range: > 1
+		ghostblock_repairTime = 6000
+
+	["Mob Settings"."Boss Randomizer Settings"]
+		#How many Boss Randomizers each wave
+		#Requires game restart
+		#Must have no more and no less than 8 integers
+		#Note that Boss Randomizers on the final Raid wave will be considered the 'Final Boss'
+		bossrandomizer_raidcount = [0, 0, 0, 0, 1, 0, 0, 1]
+		#Mobs put in this list will be randomly selected by the Boss Randomizer.
+		#Format must be like 'examplemod:entity'. Example: "minecraft:zombie"
+		#You can use the /summon command to scroll through and find the IDs for mobs you want!
+		#Invalid entity registry names will spawn the boss randomizer itself as an illager. Same goes for if this list is empty
+		#Only entities extending the Abstract Raider class will actually join the Raid upon spawning
+		#Requires game restart
+		bossrandomizer_bosstypes = ["illageandspillage:spiritcaller", "illageandspillage:freakager"]
+		#Mobs put in this list will be randomly selected by the Final Boss Randomizer. Only insanely powerful mobs like the Magispeller should go here
+		#Format must be like 'examplemod:entity'. Example: "minecraft:zombie"
+		#You can use the /summon command to scroll through and find the IDs for mobs you want!
+		#Invalid entity registry names will spawn the boss randomizer itself as an illager. Same goes for if this list is empty
+		#Only entities extending the Abstract Raider class will actually join the Raid upon spawning
+		#Requires game restart
+		bossrandomizer_finalbosstypes = ["illageandspillage:magispeller"]
+		#Controls if the Boss Randomizer should despawn if it spawns in the 7th wave before the bonus wave.
+		#Overrides bossrandomizer_raidcount
+		#Default = true
+		bossrandomizer_onlyOneAllowed = true
+		#Should Boss Randomizer be allowed to spawn special bosses depending on the calendar date?
+		#Default = true
+		bossrandomizer_seasonalBosses = true
+		#Should Boss Randomizer broadcast the spawning of a boss with a sound?
+		#Default = true
+		bossrandomizer_broadcastBossSpawn = true
+
+["Item Settings"]
+	#Time in minutes that the Spellbound Book will go into cooldown for.
+	#Default = 60 (1 hour)
+	#Set to 0 to disable cooldown
+	#Range: > 0
+	spellboundbook_rechargeTime = 60
+	#Time in minutes that the Spellbound Book gives Misconduction for.
+	#Default = 40
+	#Range: > 1
+	spellboundbook_effectTime = 40
+	#Mobs in this list can be banished using the Totem of Banishment
+	#Format must be like 'examplemod:entity'. Example: "minecraft:zombie"
+	#You can use the /summon command to scroll through and find the IDs for mobs you want!
+	#Requires game restart
+	banishable_mobs = ["minecraft:vex"]
+
+["Misc settings"]
+	#Whether or not to play boss music
+	#Default = true
+	boss_music = true
+	#Determines how to display bossbars for bosses:
+	#0 = Never show
+	#1 = Only show outside of raids
+	#2 = Always show
+	#3 = Change raid bossbar to boss name and health (NOTE: May cause issues with other mods that change the raid bossbar)
+	#Requires game restart
+	#Default = 3
+	bossbar_type = 3
+	#Whether or not the sky should darken when a boss' bossbar is displayed
+	#Requires game restart
+	#Default = true
+	bosses_darken_sky = true
+	#Determines if mobs will run away and then watch a boss while it performs its intro animation. Mainly for Mob Battles.
+	#Default = true
+	mobs_watchIntros = true
+
+["Nightmare Mode"]
+	#Nightmare Mode increases damage, resistance, and revamps attacks of all bosses to make them significantly harder
+	#See the "Harder Illage and Spillage" mod on Curseforge for more info about the changes
+	#Requires game restart
+	#THIS IS VERY UNFINISHED! ONLY THE CONFIG OPTIONS BELOW HAVE BEEN IMPLEMENTED!
+	#Default = false
+	nightmare_mode = false
+	#ULTIMATE NIGHTMARE replaces all mobs (except the few required to beat the game) with a random I&S mob (including bosses)
+	#Needless to say, don't set this to true if you care about your world
+	#Default = false
+	"ULTIMATE NIGHTMARE" = false
+
+	["Nightmare Mode"."Spiritcaller settings"]
+		#The Spiritcaller's damage will be multiplied by this number
+		#Only applies when Nightmare Mode is enabled
+		#Default: 2.5
+		spiritcaller_damage_multiplier = 2.5
+
+	["Nightmare Mode"."Freakager & Ragno settings"]
+		#The Freakager's damage will be multiplied by this number
+		#Only applies when Nightmare Mode is enabled
+		#Default: 2.5
+		freakager_damage_multiplier = 2.5
+		#Ragno's damage will be multiplied by this number
+		#Only applies when Nightmare Mode is enabled
+		#Default: 5.0
+		ragno_damage_multiplier = 5.0
+
+	["Nightmare Mode"."Magispeller settings"]
+		#The Magispeller's damage will be multiplied by this number
+		#Only applies when Nightmare Mode is enabled
+		#Default: 2.5
+		magispeller_damage_multiplier = 2.5
+

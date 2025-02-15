@@ -1,0 +1,176 @@
+
+[allaySteel]
+	#Define if Allay Steel Tools can deal range attack (WARNING: This function could lead to game crash, keep FALSE in Mohist and Arklight server!).
+	allayAttackSpec = true
+	#Define if Allay Steel Tools can dig in range.
+	allayBreakSpec = true
+	#If it's true, Allay Steel Tools will consume durability based on the number of targets.
+	allayAttackDamage = true
+	#If it's true, Allay Steel Tools will consume durability based on the number of blocks.
+	allayBreakDamage = true
+	#If it's true, Allay Steel Tools will be able to break blocks with block entity in range(eg. Chests and Shulker Box).
+	allayBreakWithEntity = false
+	#Define the max area attack range of Allay Steel Tools.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	allayAttackRange = 14.0
+	#Define the max area break range of Allay Steel Tools.
+	#Range: > 0
+	allayBreakRange = 14
+	#Define the max area break amount of Allay Steel Tools.
+	#Range: > 0
+	allayBreakLimit = 64
+	#Define the heal amount in each second when player equipped full set.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	allayHealthHeal = 2.0
+
+[disc]
+	#Define the damage multiple rate of Disc Axe.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	discAxeBase = 500.0
+	#Define the base chance to get special drops for Disc Sword.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	discSwordBase = 20.0
+	#Define the extra chance to get special drops for Disc Sword by enchantment each level.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	discSwordEnch = 5.0
+	#Define the base chance to get special drops for Disc Pickaxe.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	discPickaxeBase = 10.0
+	#Define the extra chance to get special drops for Disc Pickaxe by enchantment each level.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	discPickaxeEnch = 5.0
+	#Define the base chance to get special drops for Disc Shovel.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	discShovelBase = 50.0
+	#Define the extra chance to get special drops for Disc Shovel by enchantment each level.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	discShovelEnch = 20.0
+	#Define the chance to get rare drops for Disc Shovel.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	discShovelRare = 0.2
+	#Define the extra percentage for adding drops of Disc Mace per block.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	discMaceMulti = 40.0
+
+[dungeonSteel]
+	#Define if Dungeon Steel Axe can generate special drops.
+	dungeonAxeSpec = true
+	#Define if Dungeon Steel Sword can generate special drops.
+	dungeonSwordSpec = true
+	#Define the base chance to get special drops for Dungeon Axe.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	dungeonAxeBase = 10.0
+	#Define the extra chance to get special drops for Dungeon Axe by enchantment each level.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	dungeonAxeEnch = 15.0
+	#Define the base chance to get special drops for Dungeon Sword.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	dungeonSwordBase = 10.0
+	#Define the extra chance to get special drops for Dungeon Sword by enchantment each level.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	dungeonSwordEnch = 5.0
+	#Define the extra damage of Dungeon Hammer per block.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	dungeonHammerMulti = 3.0
+	#Define the percentage of healing amount of Dungeon Axe.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	dungeonAxeHeal = 50.0
+	#Define the percentage of healing amount of Dungeon Sword.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	dungeonSwordHeal = 20.0
+	#Define the healing amount of Dungeon Pickaxe.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	dungeonPickaxeHeal = 4.0
+
+[echoium]
+	#Define the extra damage dealt by Echoium Tools based on the percentage of target's armor value.
+	#Range: > 0
+	echoiumExtraDamage = 50
+	#Define the max extra damage dealt by Echoium Tools, 0 means no limitation.
+	#Range: > 0
+	echoiumExtraLimit = 0
+	#Define the percentage of sonic boom damage from you for each Echoium armor you wear.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	echoiumSonicBoomAdd = 50.0
+	#Define if player can stop Warden spawning when player equipped full set.
+	echoiumStopSpawn = true
+
+[etherite]
+	#Define the extra damage dealt by Etherite Tools based on the percentage of target's lost Health.
+	#Range: > 0
+	etheriteExtraDamage = 15
+	#Define the max extra damage dealt by Etherite Tools, 0 means no limitation.
+	#Range: > 0
+	etheriteExtraLimit = 100
+	#Define the heal amount in each second when player equipped full set.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	etheriteHealthHeal = 1.0
+	#Define if player can get the creative flight ability when player equipped full set.
+	etheriteFlight = true
+
+[primitive]
+	#Define the extra damage dealt by Primitive Tools based on the percentage of Source Health.
+	#Range: > 0
+	primitiveExtraDamage = 30
+
+[magicItems]
+	#Define the amount of damage can be repaired by Obsidian Steel Nugget.
+	#Range: > 0
+	nuggetMaxRepair = 100
+	#Define the max extra level which Reinforce Book can upgrade (It's also the Enlightened Book's max extra level).
+	#Range: > 0
+	bookMaxReinforce = 4
+	#If it's true, Ancient Book can apply enchantments to any items (e.g Enchanting Silk Touch to a diamond).
+	bookEnchantAnything = false
+	#If it's true, Enlightened Book can apply enchantments with exceeded max level.
+	bookEnchantExceed = true
+	#Define the extra damage dealt by Tools with Vanitas effect based on the percentage of target's Health.
+	#Range: > 0
+	vanitasEffectDamage = 5
+	#Define the max extra damage dealt by Tools with Vanitas effect, 0 means no limitation.
+	#Range: > 0
+	vanitasEffectLimit = 100
+
+[misc]
+	#Define the chance of converting Dungeon Steel Ingot.
+	#Range: 0 ~ 100
+	dungeonSteelChance = 30
+	#Define the cool-down of Totem Of Unbreaking (in tick).
+	#Range: > 0
+	totemCooldown = 1200
+	#If it's false, Totem of Unbreaking will not add Unbreakable tag to item.
+	totemUnbreaking = true
+	#If it's false, Totem of Unbreaking will not work like Totem of Undying.
+	totemUndying = true
+	#If it's false, Contract of Mirroring will not duplicate items.
+	contractCopy = true
+	#If it's false, Contract of Mirroring will not use for getting entities spawn egg.
+	contractSeal = true
+	#If it's false, Contract of Mirroring will not deal lethal damage to user.
+	contractDamage = true
+	#Define the percentage of Contract of Mirroring to seal entities (getting entities spawn egg).
+	#Range: 0 ~ 100
+	contractLimit = 20
+	#If it's true, Ancient Book can apply enchantments to any items (e.g Enchanting Silk Touch to a diamond).
+	bookEnchantAnything = false
+	#Define the damage of Sonic Boom Wand.
+	#Range: > 0
+	sonicDamage = 10
+	#Define the max attack range of Sonic Boom Wand.
+	#Range: > 0
+	sonicLength = 20
+	#Define the cool-down of Sonic Boom Wand (in tick).
+	#Range: > 0
+	sonicCooldown = 20
+	#Define if Sonic Boom Wand can destroy dropped items.
+	sonicDestroyItems = false
+	#Define the minimum level requirement for Evolutium enlightening.
+	#Range: > 0
+	EvolutiumMinLevel = 120
+	#Define the XP level costed by Evolutium enlightening.
+	#Range: > 0
+	EvolutiumCost = 30
+	#Define the percentage of maximum damage you suffered when you hold Totem of Blessing.
+	#Range: 0 ~ 100
+	TotemProtect = 40
+

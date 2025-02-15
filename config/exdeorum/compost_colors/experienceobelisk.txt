@@ -1,0 +1,21 @@
+// Compost colors for experienceobelisk. You may add your own colors, change existing ones, or remove colors that aren't needed.
+astute_assembly, #44584d
+attunement_staff, #47654a
+bibliophage, #44983d
+cognitium_bucket, #aec99d
+cognitive_alloy, #414a58
+cognitive_amalgam, #394357
+cognitive_axe, #625f57
+cognitive_crystal, #3d7f51
+cognitive_flux, #414d6b
+cognitive_hoe, #5e5748
+cognitive_pickaxe, #625e54
+cognitive_shovel, #686457
+cognitive_sword, #4d5765
+daydream_bottle, #e7dcbf
+dummy_sword, #4d5765
+enlightened_amulet, #97b99e
+experience_jelly, #6bff2c
+forgotten_dust, #afb2c8
+nightmare_bottle, #b97dca
+primordial_assembly, #545b37

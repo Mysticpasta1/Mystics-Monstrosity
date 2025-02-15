@@ -1,0 +1,3 @@
+// Compost colors for advancedbook. You may add your own colors, change existing ones, or remove colors that aren't needed.
+book, #a8916f
+paint, #fffbff

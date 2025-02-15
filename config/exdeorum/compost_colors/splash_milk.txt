@@ -1,0 +1,4 @@
+// Compost colors for splash_milk. You may add your own colors, change existing ones, or remove colors that aren't needed.
+lingering_milk_bottle, #ffffff
+milk_bottle, #ffffff
+splash_milk_bottle, #ffffff

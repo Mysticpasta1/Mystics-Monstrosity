@@ -1,0 +1,4 @@
+// Compost colors for celestial_enchantments. You may add your own colors, change existing ones, or remove colors that aren't needed.
+advanced_celestial_catalyst, #d4ffff
+basic_celestial_catalyst, #ffffae
+legendary_celestial_catalyst, #ffcdff

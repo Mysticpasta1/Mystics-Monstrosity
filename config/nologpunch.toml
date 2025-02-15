@@ -1,0 +1,6 @@
+
+#If whatever you are holding is not a tool or has no tool types, it will not be able to break these block tags
+[nologpunch]
+	#Apply restrictions to minecaft:logs
+	logs = true
+

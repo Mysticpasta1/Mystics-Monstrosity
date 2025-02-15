@@ -1,0 +1,11 @@
+
+[general]
+	creative_tab = true
+	#Drop stuff when in creative
+	drop_in_creative = false
+	#Save generated resources to disk in a 'debug' folder in your game directory. Mainly for debug purposes but can be used to generate assets in all wood types for your mods :0
+	debug_save_dynamic_pack = false
+	generic_bark = ""
+	#leaves that wont spawn leaf piles
+	leaf_piles_blacklist = []
+

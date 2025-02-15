@@ -1,0 +1,28 @@
+{
+  "general": {
+    "randomiseOrigins": true,
+    "randomiserMessages": true,
+    "randomiseAllLayers": false
+  },
+  "command": {
+    "randomiseCommand": true,
+    "limitCommandUses": false,
+    "randomiseCommandUses": 3
+  },
+  "lives": {
+    "enableLives": false,
+    "startingLives": 10,
+    "livesBetweenRandomises": 1
+  },
+  "sleep": {
+    "sleepRandomisesOrigin": false,
+    "sleepsBetweenRandomises": 1
+  },
+  "advanced": {
+    "randomiseOnFirstJoin": true,
+    "allowDuplicateOrigins": false,
+    "deathRandomisesOrigin": true,
+    "showOriginScreenOnDeath": false,
+    "resetToHumanOrigin": false
+  }
+}

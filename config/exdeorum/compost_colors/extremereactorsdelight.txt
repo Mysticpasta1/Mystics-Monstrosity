@@ -1,0 +1,21 @@
+// Compost colors for extremereactorsdelight. You may add your own colors, change existing ones, or remove colors that aren't needed.
+blutonium_cookie, #3030be
+blutonium_knife, #4640bf
+blutonium_pasta, #4e4ef4
+blutonium_roll, #6662cd
+cyanite_knife, #87b9dc
+cyanite_roll, #b5e3ff
+graphite_cookie, #939396
+graphite_knife, #837d75
+inanite_knife, #f22357
+inanite_roll, #ff5089
+insanite_cookie, #52d9ae
+insanite_knife, #55c294
+ludicrite_knife, #a239c6
+ludicrite_pasta, #dd6eff
+magentite_knife, #ff5ff4
+radioactive_roll, #ccbb79
+ridiculite_knife, #d7abca
+ridiculite_roll, #ffdcfc
+yellorium_cookie, #e8dd4d
+yellorium_knife, #c5b63a

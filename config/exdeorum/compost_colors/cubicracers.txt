@@ -1,0 +1,12 @@
+// Compost colors for cubicracers. You may add your own colors, change existing ones, or remove colors that aren't needed.
+b_dasher, #7d9daf
+flame_flyer, #8aa56e
+hollow_road_block, #7a6f57
+item_box_spawn_item, #8ee4ff
+mach_celere, #5e73b9
+rally_romper, #824637
+road_maker, #fff0cd
+standard_kart, #f4c3d2
+wild_wiggler, #eea14d
+wild_wing, #8d5b6c
+zipper, #575a5e

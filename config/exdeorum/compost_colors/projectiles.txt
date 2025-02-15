@@ -1,0 +1,21 @@
+// Compost colors for projectiles. You may add your own colors, change existing ones, or remove colors that aren't needed.
+amethyst_arrow, #bb9eb1
+bamboo_arrow, #c5e08a
+bone_arrow, #c9be9e
+chorus_arrow, #a7868d
+cobweb_arrow, #faf5e6
+copper_arrow, #be8965
+diamond_arrow, #86b49d
+dynamite, #c05133
+echo_arrow, #6e8675
+ender_arrow, #5e7c65
+gold_arrow, #c69d5c
+iron_arrow, #a29782
+nether_quartz_arrow, #bba88e
+netherite_arrow, #7f725c
+obsidian_arrow, #706254
+prismarine_arrow, #91a486
+slime_arrow, #8ea86f
+soul_arrow, #86e4e0
+tnt_arrow, #aa664e
+wood_arrow, #a59068

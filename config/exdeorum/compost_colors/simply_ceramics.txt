@@ -1,0 +1,9 @@
+// Compost colors for simply_ceramics. You may add your own colors, change existing ones, or remove colors that aren't needed.
+bowl_shaping_tool, #ffffda
+cutting_string, #c3ac93
+dried_clay_dust, #d27851
+large_base_plate, #ffffff
+medium_base_plate, #ffffff
+plate_shaping_tool, #ffffdd
+pot_shaping_tool, #ffffda
+small_base_plate, #ffffff

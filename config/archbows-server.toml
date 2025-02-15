@@ -1,0 +1,66 @@
+
+#Configure weapons conditions
+[weapons]
+	#Arbalest Load Time, Default=80
+	arbalest_load-time_modifier = 80
+	#Multiplier for the projectile speed for projectiles shot from Arbalest, Default=4.25
+	#Range: 0.1 ~ 3.4028234663852886E38
+	arbalest_projectile_speed_multiplier = 4.25
+	#Pistol Crossbow Load Time, Default=10
+	pistol_crossbow_load-time_modifier = 10
+	#Multiplier for the projectile speed for projectiles shot from  Pistol Crossbow, Default=1.65
+	#Range: 0.1 ~ 3.4028234663852886E38
+	pistol_crossbow_projectile_speed_multiplier = 1.65
+	#Heavy Crossbow Load Time, Default=45
+	heavy_crossbow_load-time_modifier = 45
+	#Multiplier for the projectile speed for projectiles shot from  Heavy Crossbow, Default=3.75
+	#Range: 0.1 ~ 3.4028234663852886E38
+	heavy_crossbow_projectile_speed_multiplier = 3.75
+	#Short Bow Drawspeed, Default=15
+	#Range: 0.1 ~ 100.0
+	short_bow_drawspeed_modifier = 15.0
+	#Multiplier for the projectile speed for projectiles shot from Short Bow, Default=1.8
+	#Range: 0.1 ~ 100.0
+	short_bow_projectile_speed_multiplier = 1.8
+	#Recurve Bow Drawspeed, Default=20
+	#Range: 0.1 ~ 100.0
+	recurve_bow_drawspeed_modifier = 20.0
+	#Multiplier for the projectile speed for projectiles shot from Recurve Bow, Default=3.3
+	#Range: 0.1 ~ 100.0
+	recurve_bow_projectile_speed_multiplier = 3.3
+	#Flat Bow Drawspeed, Default=65
+	#Range: 0.1 ~ 100.0
+	flat_bow_drawspeed_modifier = 65.0
+	#Multiplier for the projectile speed for projectiles shot from Flat Bow, Default=4
+	#Range: 0.1 ~ 100.0
+	flat_bow_projectile_speed_multiplier = 4.0
+	#Long Bow Drawspeed, Default=85
+	#Range: 0.1 ~ 100.0
+	long_bow_drawspeed_modifier = 85.0
+	#Multiplier for the projectile speed for projectiles shot from Long Bow, Default=4.5
+	#Range: 0.1 ~ 100.0
+	long_bow_projectile_speed_multiplier = 4.5
+
+[requires-game-restart]
+	arbalest_durability = 825
+	pistol_crossbow_durability = 415
+	heavy_crossbow_durability = 625
+	short_bow_durability = 310
+	recurve_bow_durability = 410
+	flat_bow_durability = 435
+	long_bow_durability = 455
+
+[World-Generation]
+	##forge:is_plains, Default=15
+	flax1Tries = 15
+	##forge:is_plains, Default=7
+	flax1XZspread = 7
+	##forge:is_plains, Default=4
+	flax1Yspread = 4
+	##forge:is_desert and #forge:is_sandy, Default=15
+	flax2Tries = 15
+	##forge:is_desert and #forge:is_sandy, Default=7
+	flax2XZspread = 7
+	##forge:is_desert and #forge:is_sandy, Default=4
+	flax2Yspread = 4
+

@@ -1,0 +1,29 @@
+#To reset this config to default, delete this file and rerun the game.
+#Movement Speed penalty while traversing leaves, 0 = no penalty (Range : 0 - 100)
+SpeedPenalty = 27 #Default: 27
+
+#Whether Armor value reduces movement penalty
+ArmorBonus = true #Defualt: true
+
+#List of leaves (false = Blacklist)
+LeavesWhitelist = false #Default: false
+Traversable=[
+
+]
+
+#List of Entities that can/cannot traverse leaves (false = Blacklist)
+EntityWhitelist = false #Default: false
+Entities=[
+ "minecraft:sheep",
+ "minecraft:pig",
+ "minecraft:cow",
+ "minecraft:chicken",
+ "minecraft:donkey",
+ "minecraft:llama",
+ "minecraft:trader_llama",
+ "minecraft:mule",
+ "minecraft:frog",
+ "minecraft:goat",
+ "minecraft:mooshroom",
+ "minecraft:turtle"
+]

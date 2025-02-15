@@ -1,0 +1,4 @@
+// Compost colors for farmingforblockheads. You may add your own colors, change existing ones, or remove colors that aren't needed.
+green_fertilizer, #cdebaf
+red_fertilizer, #f4c6bc
+yellow_fertilizer, #f0d7b5

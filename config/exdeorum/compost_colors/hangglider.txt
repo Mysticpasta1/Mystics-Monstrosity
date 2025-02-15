@@ -1,0 +1,5 @@
+// Compost colors for hangglider. You may add your own colors, change existing ones, or remove colors that aren't needed.
+glider_framework, #c9c9c9
+glider_wing, #ffbbbb
+hang_glider, #ffb8b6
+reinforced_hang_glider, #dcb1b4

@@ -1,0 +1,7 @@
+// Compost colors for ae2things. You may add your own colors, change existing ones, or remove colors that aren't needed.
+disk_drive_16k, #727f66
+disk_drive_1k, #6b3a43
+disk_drive_256k, #da91e6
+disk_drive_4k, #75613a
+disk_drive_64k, #b8acd2
+disk_housing, #553a55

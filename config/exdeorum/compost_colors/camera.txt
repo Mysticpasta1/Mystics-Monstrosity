@@ -1,0 +1,4 @@
+// Compost colors for camera. You may add your own colors, change existing ones, or remove colors that aren't needed.
+album, #878073
+camera, #3c3c3c
+image_frame, #462500

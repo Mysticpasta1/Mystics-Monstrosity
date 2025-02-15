@@ -1,0 +1,20 @@
+// Compost colors for appflux. You may add your own colors, change existing ones, or remove colors that aren't needed.
+charged_redstone, #ffa0a0
+core_16k, #e7afaf
+core_1k, #d09e9e
+core_256k, #ffc3c2
+core_4k, #d4a5a5
+core_64k, #f1bfbf
+energy_processor, #f12925
+energy_processor_press, #f8f8f8
+fe_16k_cell, #7dd982
+fe_1k_cell, #97bf83
+fe_256k_cell, #93c8a2
+fe_4k_cell, #a1da7d
+fe_64k_cell, #86daa4
+fe_cell_housing, #86c687
+harden_insulating_resin, #8ee487
+induction_card, #cfaa94
+insulating_resin, #b4f8b5
+printed_energy_processor, #ff3434
+redstone_crystal, #ff2828

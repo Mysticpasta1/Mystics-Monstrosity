@@ -1,0 +1,25 @@
+// Compost colors for armourers_workshop. You may add your own colors, change existing ones, or remove colors that aren't needed.
+armourers-hammer, #e6e1da
+blending-tool, #fff5e7
+block-marker, #ffffff
+burn-tool, #f5f7fa
+colour-noise-tool, #fffff0
+colour-picker, #ffffff
+dodge-tool, #ffffff
+dye-bottle, #ffffff
+gift-sack, #ffffff
+hue-tool, #fbf1e3
+linking-tool, #ffffff
+mannequin-tool, #fffeee
+paint-roller, #fffff1
+paintbrush, #ffffff
+shade-noise-tool, #fffbf1
+skin-template, #ffffff
+skin-unlock-chest, #93917a
+skin-unlock-feet, #aeab89
+skin-unlock-head, #a7a284
+skin-unlock-legs, #9e9b7f
+skin-unlock-outfit, #8e8e7a
+skin-unlock-wings, #a2a080
+soap, #ffffff
+wand-of-style, #ffe3f2

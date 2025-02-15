@@ -1,0 +1,13 @@
+// Compost colors for tinyredstone. You may add your own colors, change existing ones, or remove colors that aren't needed.
+blueprint, #ffffff
+dark_panel_cover, #ffffff
+light_panel_cover, #ffffff
+redstone_wrench, #752918
+silicon, #ffffff
+silicon_compound, #fffffa
+tiny_color_selector, #7a5a39
+tiny_redstone, #910000
+tiny_redstone_bridge, #c3655a
+tiny_redstone_torch, #ff8650
+tiny_super_repeater, #da544b
+trim_panel_cover, #ffffff

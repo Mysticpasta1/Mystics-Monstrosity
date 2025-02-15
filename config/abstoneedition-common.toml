@@ -1,0 +1,133 @@
+[blocks]
+    # if true, Marble Blocks are enabled
+    # Allowed values: true, false - Default: true
+    enableMarble = true
+
+    # if true, Black Marble Blocks are enabled
+    # Allowed values: true, false - Default: true
+    enableBlackMarble = true
+
+    # if true, Bloodstone Blocks are enabled
+    # Allowed values: true, false - Default: true
+    enableBloodstone = true
+
+    # if true, Stone Brick Block is enabled
+    # Allowed values: true, false - Default: true
+    enableStoneBrickBlock = true
+
+    # if true, Andesite Brick Blocks are enabled
+    # Allowed values: true, false - Default: true
+    enableAndesiteBricks = true
+
+    # if true, Diorite Brick Blocks are enabled
+    # Allowed values: true, false - Default: true
+    enableDioriteBricks = true
+
+    # if true, Granite Brick Blocks are enabled
+    # Allowed values: true, false - Default: true
+    enableGraniteBricks = true
+
+    # if true, Water Stone is enabled
+    # Allowed values: true, false - Default: true
+    enableWaterStone = true
+
+    # if true, Mud is enabled
+    # Allowed values: true, false - Default: true
+    enableMud = true
+
+    # if true, Brown Brick Blocks are enabled
+    # Allowed values: true, false - Default: true
+    enableBrownBricks = true
+
+    # if true, Volcanic Stone Blocks are enabled
+    # Allowed values: true, false - Default: true
+    enableVolcanicStone = true
+
+    # if true, Stone Path Blocks are enabled
+    # Allowed values: true, false - Default: true
+    enableStonePath = true
+
+    # if true, Stone Pattern is enabled
+    # Allowed values: true, false - Default: true
+    enableStonePattern = true
+
+    # if true, Limestone Blocks are enabled
+    # Allowed values: true, false - Default: true
+    enableLimestone = true
+
+    # if true, Asphalt is enabled
+    # Allowed values: true, false - Default: true
+    enableAsphalt = true
+
+    # if true, Pebble Blocks are enabled
+    # Allowed values: true, false - Default: true
+    enablePebbles = true
+
+    # if true, Charred Blocks are enabled
+    # Allowed values: true, false - Default: true
+    enableCharredBlocks = true
+
+    # if true, Gray Brick Blocks are enabled
+    # Allowed values: true, false - Default: true
+    enableGrayBricks = true
+
+    # if true, Stone Tiles are enabled
+    # Allowed values: true, false - Default: true
+    enableStoneTiles = true
+
+    # if true, Smooth Glowstone Blocks are enabled
+    # Allowed values: true, false - Default: true
+    enableSmoothGlowstone = true
+
+    # if true, Glowstone Brick Blocks are enabled
+    # Allowed values: true, false - Default: true
+    enableGlowstoneBricks = true
+
+    # if true, Glowstone Blocks are enabled
+    # Allowed values: true, false - Default: true
+    enableGlowstone = true
+
+    # if true, Copper Blocks and Items are enabled
+    # Allowed values: true, false - Default: true
+    enableCopper = true
+
+    # if true, Silver Blocks and Items are enabled
+    # Allowed values: true, false - Default: true
+    enableSilver = true
+
+    # if true, Smooth Stone Brick Blocks are enabled
+    # Allowed values: true, false - Default: true
+    enableSmoothStoneBricks = true
+
+    # if true, Aztec Blocks are enabled
+    # Allowed values: true, false - Default: true
+    enableAztec = true
+
+    # if true, Smooth Stone Blocks are enabled
+    # Allowed values: true, false - Default: true
+    enableSmoothStone = true
+
+    # if true, Bismuth Blocks and Items are enabled
+    # Allowed values: true, false - Default: true
+    enableBismuth = true
+
+    # if true, Obsidian Blocks and Items are enabled
+    # Allowed values: true, false - Default: true
+    enableObsidian = true
+
+    # if true, Uranium Blocks and Items are enabled
+    # Allowed values: true, false - Default: true
+    enableUranium = true
+
+    # if true, new blocks added in 1.19+ are enabled
+    # Allowed values: true, false - Default: true
+    enableMinecraft19 = true
+
+    # if true, concrete slab, stair and wall blocks are enabled
+    # Allowed values: true, false - Default: true
+    enableConcrete = true
+
+    # if true, terracotta slab, stair and wall blocks are enabled
+    # Allowed values: true, false - Default: true
+    enableTerracotta = true
+

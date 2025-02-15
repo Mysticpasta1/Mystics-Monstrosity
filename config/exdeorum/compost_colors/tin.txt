@@ -1,0 +1,13 @@
+// Compost colors for tin. You may add your own colors, change existing ones, or remove colors that aren't needed.
+bronze_axe, #fffeea
+bronze_chain, #ffffff
+bronze_hoe, #fffff0
+bronze_ingot, #ffffeb
+bronze_nugget, #ffffff
+bronze_pickaxe, #fff0dc
+bronze_shovel, #fffff7
+bronze_sword, #f7c5af
+raw_tin, #ffffeb
+tin_chain, #ffffff
+tin_ingot, #f1ffff
+tin_nugget, #ffffff

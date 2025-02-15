@@ -1,0 +1,4 @@
+// Compost colors for quicksilver. You may add your own colors, change existing ones, or remove colors that aren't needed.
+raw_silver, #a0ccca
+silver_ingot, #d7f8f7
+silver_nugget, #b8dedd

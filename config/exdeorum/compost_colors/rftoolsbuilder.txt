@@ -1,0 +1,16 @@
+// Compost colors for rftoolsbuilder. You may add your own colors, change existing ones, or remove colors that aren't needed.
+shape_card_def, #ffffff
+shape_card_liquid, #c2c8da
+shape_card_pump, #c9c9cd
+shape_card_pump_clear, #c6c9d2
+shape_card_quarry, #c6ccc3
+shape_card_quarry_clear, #c3cdc8
+shape_card_quarry_clear_fortune, #c8c9c5
+shape_card_quarry_clear_silk, #c8d0c5
+shape_card_quarry_fortune, #cac9c0
+shape_card_quarry_silk, #cad0c0
+shape_card_void, #ffffff
+space_chamber_card, #96b5b9
+vehicle_card, #878797
+vehicle_control_module, #19468a
+vehicle_status_module, #325a96

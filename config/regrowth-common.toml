@@ -1,0 +1,38 @@
+
+["Regrowth Control Values"]
+	#Debug Level: 0 = Off, 1 = Log, 2 = Chat+Log
+	#Range: 0 ~ 2
+	debugLevel = 0
+	#Eating Heals: 0-No, 1-yes
+	#Range: 0.0 ~ 1.0
+	eatingHeals = 0.99
+	#Torch Light Level - Villagers will only place torches on blocks this dark or darker.
+	#Range: 0 ~ 10
+	"torchLightLevel " = 3
+	#Mushroom X axis density - 3 dense to 11 sparse
+	#Range: 3 ~ 11
+	"mushroomXDensity " = 6
+	#Mushroom Z axis density - 3 dense to 11 sparse
+	#Range: 3 ~ 11
+	"mushroomZDensity " = 6
+	#Mushroom Minimum Biome Temperature
+	#Range: -2.0 ~ 2.0
+	mushroomMinTemp = 0.2
+	#Mushroom Maximum Biome Temperature
+	#Range: -2.0 ~ 2.0
+	mushroomMaxTemp = 1.2
+	#When block is over bell, villagers build walls. This block is created over bell when village is new.  If block is 'Air' players can't turn off wall building.
+	playerWallControlBlockString = "minecraft:cobblestone_wall"
+
+["Regrowth Mobs 6464"]
+	#RegrowthMobs String 6464
+	defaultRegrowthMobsActual = "minecraft:cow,both,300.0;minecraft:horse,eat,180.0;minecraft:donkey,eat,180.0;minecraft:sheep,eat,120.0;minecraft:pig,reforest,450.0;minecraft:bee,grow,500.0;minecraft:chicken,grow,320.0;minecraft:villager,chrwvt,2.0;minecraft:creeper,tall,90.0;minecraft:zombie,stumble, 30.0;minecraft:bat,stumble, 30.0;minecraft:skeleton,mushroom, 40.0;minecraft:tropical_fish,coral, 15.0;minecraft:squid,coral, 15.0;"
+
+["Regrowth Wall Foundations"]
+	#Blocks villagers can build walls on .
+	wallFoundationsList = ["minecraft:grass_block", "minecraft:sand", "minecraft:red_sand", "minecraft:netherrack", "minecraft:sandstone", "minecraft:podzol", "minecraft:dirt", "minecraft:stone", "minecraft:coarse_dirt"]
+
+["Regrowth Biome Wall Data 6464"]
+	#Biome Meeting Wall Data String 6464
+	defaultBiomeWallDataActual = "Regrowth:default,40,minecraft:cobblestone_wall,minecraft:oak_fence;minecraft:plains,40,minecraft:cobblestone_wall,minecraft:oak_fence;minecraft:desert,40,minecraft:sandstone_wall,minecraft:birch_fence;minecraft:extreme_hills,40,minecraft:cobblestone_wall,minecraft:spruce_fence;minecraft:taiga,40,minecraft:mossy_cobblestone_wall,minecraft:spruce_fence;minecraft:savanna,40,minecraft:stone_brick_wall,minecraft:acacia_fence;minecraft:icy,40,minecraft:diorite_wall,minecraft:spruce_fence;minecraft:the_end,40,minecraft:end_stone_brick_wall,minecraft:birch_fence;minecraft:beach,40,minecraft:sandstone_wall,minecraft:oak_fence;minecraft:forest,40,minecraft:mossy_stone_brick_wall,minecraft:oak_fence;minecraft:mesa,40,minecraft:red_sandstone_wall,minecraft:oak_fence;minecraft:jungle,40,minecraft:granite_wall,minecraft:jungle_fence;minecraft:river,40,minecraft:mossy_cobblestone_wall,minecraft:oak_fence;minecraft:nether,40,minecraft:blackstone_wall,minecraft:nether_brick_fence;Regrowth:minimum,32,regrowth:minimum_wall_size,regrowth:fence_placeholder"
+

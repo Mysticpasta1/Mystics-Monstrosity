@@ -1,0 +1,9 @@
+#List of items that can be stolen (format: modid:itemid)
+stealableItems = ["minecraft:diamond", "minecraft:gold_ingot", "minecraft:emerald", "minecraft:iron_ingot", "minecraft:book", "ojs_rpg_origins:sapphire"]
+#Chance to successfully steal an item
+#Range: 0.0 ~ 1.0
+stealChance = 0.1
+#Cooldown in ticks between steal attempts
+#Range: > 0
+cooldownTicks = 100
+

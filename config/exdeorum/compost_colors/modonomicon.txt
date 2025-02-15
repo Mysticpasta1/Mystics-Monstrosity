@@ -1,0 +1,5 @@
+// Compost colors for modonomicon. You may add your own colors, change existing ones, or remove colors that aren't needed.
+modonomicon_blue, #757073
+modonomicon_green, #847d64
+modonomicon_purple, #86657c
+modonomicon_red, #945e54

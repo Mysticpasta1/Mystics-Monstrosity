@@ -1,0 +1,3 @@
+// Compost colors for breezy. You may add your own colors, change existing ones, or remove colors that aren't needed.
+gust_gauge, #e1c391
+hot_air_balloon, #8d8d8d

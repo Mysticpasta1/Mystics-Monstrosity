@@ -1,0 +1,10 @@
+
+["Config Screen Settings"]
+	#Enable or disable configuration screen to edit in live different Eruannie's mod settings.
+	Config_Screen = true
+	#Change the side in which the banner configuration will be displayed.
+	Mirrored_Banner = true
+	#Select the type of configuration button to display.
+	#Allowed Values: BOOK, BANNER
+	Button_Type = "BANNER"
+

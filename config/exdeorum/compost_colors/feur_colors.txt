@@ -1,0 +1,2 @@
+// Compost colors for feur_colors. You may add your own colors, change existing ones, or remove colors that aren't needed.
+color_cleaner, #d6ffe4

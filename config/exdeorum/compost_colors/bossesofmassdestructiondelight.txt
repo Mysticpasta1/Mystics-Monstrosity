@@ -1,0 +1,15 @@
+// Compost colors for bossesofmassdestructiondelight. You may add your own colors, change existing ones, or remove colors that aren't needed.
+brimstone_nectar_ice_cream, #ff941e
+brimstone_nectar_jem, #ffeaab
+brimstone_nectar_pie, #ffbf57
+crushed_void_lily, #cf7d75
+crystal_fruit_ice_cream, #fb80be
+crystal_fruit_jem, #ffcfff
+crystal_fruit_salad, #a87672
+crystal_fruit_shake, #febbff
+glazed_obsidian_heart, #80435e
+obsidian_heart_sandwich, #a87951
+soul_star_knife, #bfffff
+soul_star_stew, #a5f4dd
+star_lily_salad, #b29b8e
+void_blossom_leaf, #ff9aed

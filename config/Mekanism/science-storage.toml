@@ -1,0 +1,12 @@
+
+#Science Energy Storage Config. This config is synced from server to client.
+[storage]
+	#Base energy storage (Joules).
+	airCompressor = "40000"
+	#Base energy storage (Joules).
+	adsorptionTypeSeawaterMetalExtractor = "40000"
+	#Base energy storage (Joules).
+	organicLiquidExtractor = "40000"
+	#Base energy storage (Joules).
+	seawaterPump = "40000"
+

@@ -1,0 +1,18 @@
+// Compost colors for glazedresymmetry. You may add your own colors, change existing ones, or remove colors that aren't needed.
+black_glazed_shard, #af7375
+blue_glazed_shard, #7fb4fb
+brown_glazed_shard, #b1cdc6
+cyan_glazed_shard, #cfffff
+glazed_shard, #ffc091
+gray_glazed_shard, #afbbbf
+green_glazed_shard, #faffd9
+light_blue_glazed_shard, #cdffff
+light_gray_glazed_shard, #d9feff
+lime_glazed_shard, #fbff94
+magenta_glazed_shard, #ffcfff
+orange_glazed_shard, #cfffda
+pink_glazed_shard, #ffedff
+purple_glazed_shard, #e096ff
+red_glazed_shard, #ffb2a7
+white_glazed_shard, #fffff2
+yellow_glazed_shard, #ffffb1

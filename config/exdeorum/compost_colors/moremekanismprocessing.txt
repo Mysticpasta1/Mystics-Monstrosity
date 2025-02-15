@@ -1,0 +1,27 @@
+// Compost colors for moremekanismprocessing. You may add your own colors, change existing ones, or remove colors that aren't needed.
+aluminum_ingot, #ffffff
+azure_silver_ingot, #ffffff
+bismuth_ingot, #ffffff
+calorite_ingot, #ffffff
+cobalt_ingot, #ffffff
+crimson_iron_ingot, #ffffff
+desh_ingot, #ffffff
+draconium_ingot, #ffffff
+gem_apatite, #ffffff
+gem_bort, #ffffff
+gem_cinnabar, #ffffff
+gem_dilithium, #ffffff
+gem_green_sapphire, #ffffff
+gem_niter, #ffffff
+gem_peridot, #ffffff
+gem_ruby, #ffffff
+gem_sapphire, #ffffff
+iridium_ingot, #ffffff
+lithium_ingot, #ffffff
+nickel_ingot, #ffffff
+ostrum_ingot, #ffffff
+platinum_ingot, #ffffff
+silver_ingot, #ffffff
+titanium_ingot, #ffffff
+tungsten_ingot, #ffffff
+zinc_ingot, #ffffff

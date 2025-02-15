@@ -1,0 +1,6 @@
+{
+	// When enabled, the trades of the wandering trader will never lock up.
+	"wanderingTraderInfiniteTrades": true,
+	// When enabled, the trades of villagers will never lock up.
+	"villagerInfiniteTrades": true
+}

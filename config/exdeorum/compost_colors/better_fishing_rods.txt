@@ -1,0 +1,26 @@
+// Compost colors for better_fishing_rods. You may add your own colors, change existing ones, or remove colors that aren't needed.
+common_enchantment_book, #6c6561
+cooked_meat_bundle, #cf8e64
+coraly_fishing_rod, #51726e
+epic_enchantment_book, #6c0b4e
+golden_fishing_rod, #ffff0c
+legendary_enchantment_book, #11654d
+legendary_enchantment_book_bundle, #7f482f
+lucky_coraly_fishing_rod, #3a9178
+lucky_fishing_rod, #688e61
+lucky_golden_fishing_rod, #97e164
+lucky_meaty_fishing_rod, #9d7941
+lucky_orely_fishing_rod, #e3c589
+lucky_pad, #18dd07
+lucky_pad_fragment, #cd704
+lucky_slimy_fishing_rod, #58d74e
+lucky_villager_fishing_rod, #577c2c
+lucky_wheaty_fishing_rod, #a8aa30
+meat_bundle, #ff8278
+meaty_fishing_rod, #ff8e84
+mixed_ore_chunk, #ccc9ae
+orely_fishing_rod, #f5e394
+rare_enchantment_book, #6c5107
+slimy_fishing_rod, #6fb844
+villager_fishing_rod, #6e5c22
+wheaty_fishing_rod, #bf8c26

@@ -1,0 +1,51 @@
+# Configuration File
+
+@CONFIG_VERSION: 1.0
+
+##########################################################################################################
+# Accessibility Options
+#--------------------------------------------------------------------------------------------------------#
+# You may disable certain items or features from being obtainable/usable here.
+# 
+# Check more details in Enigmatic Legacy's Config Files.
+##########################################################################################################
+
+"Accessibility Options" {
+    # Whether or not Divine Fruit Pie Block should be enabled. [default: true, synchronized: yes]
+    B:DivineFruitPieBlockEnabled=true
+
+    # Whether or not Divine Fruit Pie should be enabled. [default: true, synchronized: yes]
+    B:DivineFruitPieEnabled=true
+
+    # Whether or not Etherium Machete should be enabled. [default: true, synchronized: yes]
+    B:EtheriumMacheteEnabled=true
+
+    # Whether or not Etherium Stove should be enabled. [default: true, synchronized: yes]
+    B:EtheriumStoveEnabled=true
+
+    # Whether or not Glory of Weapon Master should be enabled. [default: true, synchronized: yes]
+    B:GloryofWeaponMasterEnabled=true
+
+    # Whether or not Harmonious Grail should be enabled. [default: true, synchronized: yes]
+    B:HarmoniousGrailEnabled=true
+
+    # Whether or not Ichoroot Soup should be enabled. [default: true, synchronized: yes]
+    B:IchorootSoupEnabled=true
+
+    # Whether or not Infini-Farmland should be enabled. [default: true, synchronized: yes]
+    B:InfiniFarmlandEnabled=true
+
+    # Whether or not Infini-Soil should be enabled. [default: true, synchronized: yes]
+    B:InfiniSoilEnabled=true
+
+    # Whether or not Purified Dragon Breath should be enabled. [default: true, synchronized: yes]
+    B:PurifiedDragonBreathEnabled=true
+
+    # Whether or not Slice of Cosmic Cake should be enabled. [default: true, synchronized: yes]
+    B:SliceofCosmicCakeEnabled=true
+
+    # Whether or not Stuffed Astral Potato should be enabled. [default: true, synchronized: yes]
+    B:StuffedAstralPotatoEnabled=true
+}
+
+

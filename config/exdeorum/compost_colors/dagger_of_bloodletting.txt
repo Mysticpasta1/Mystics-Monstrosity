@@ -1,0 +1,4 @@
+// Compost colors for dagger_of_bloodletting. You may add your own colors, change existing ones, or remove colors that aren't needed.
+bladeofbloodletting, #b8a286
+daggerofbloodletting, #968266
+daggeroforb, #a4a490

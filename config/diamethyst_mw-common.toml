@@ -1,0 +1,884 @@
+
+#Glaives
+[diamethyst_glaives]
+
+	#Diamethyst Golden Glaive
+	[diamethyst_glaives.diamethyst_gold_glaive]
+		#Durability [default: 150]
+		#Range: 1 ~ 3000
+		diamethystGoldGlaiveDurability = 150
+		#Attack speed [default: 2.5]
+		#Range: 0.0 ~ 6.0
+		diamethystGoldGlaiveAttackSpeed = 2.5
+		#Attack damage bonus [default: 2.0]
+		#Range: 0.0 ~ 40.0
+		diamethystGoldGlaiveAttackDamageBonus = 2.0
+		#Attack reach [default: 2]
+		#Range: 0 ~ 10
+		diamethystGoldGlaiveAttackReach = 2
+		#Enchantability [default: 30]
+		#Range: 1 ~ 50
+		diamethystGoldGlaiveEnchantability = 30
+		#Enable fire damage [default: true]
+		diamethystGoldGlaiveEnableFireDamage = true
+		#Enable sweep damage [default: true]
+		diamethystGoldGlaiveEnableSweepDamage = true
+
+	#Diamethyst Copper Glaive
+	[diamethyst_glaives.diamethyst_copper_glaive]
+		#Durability [default: 250]
+		#Range: 1 ~ 3000
+		diamethystCopperGlaiveDurability = 250
+		#Attack speed [default: 2.5]
+		#Range: 0.0 ~ 6.0
+		diamethystCopperGlaiveAttackSpeed = 2.5
+		#Attack damage bonus [default: 2.0]
+		#Range: 0.0 ~ 40.0
+		diamethystCopperGlaiveAttackDamageBonus = 2.0
+		#Attack reach [default: 2]
+		#Range: 0 ~ 10
+		diamethystCopperGlaiveAttackReach = 2
+		#Enchantability [default: 15]
+		#Range: 1 ~ 50
+		diamethystCopperGlaiveEnchantability = 15
+		#Enable weakness effect [default: true]
+		diamethystCopperGlaiveEnableWeaknessEffect = true
+		#Enable sweep damage [default: true]
+		diamethystCopperGlaiveEnableSweepDamage = true
+
+	#Diamethyst Iron Glaive
+	[diamethyst_glaives.diamethyst_iron_glaive]
+		#Durability [default: 300]
+		#Range: 1 ~ 3000
+		diamethystIronGlaiveDurability = 300
+		#Attack speed [default: 2.5]
+		#Range: 0.0 ~ 6.0
+		diamethystIronGlaiveAttackSpeed = 2.5
+		#Attack damage bonus [default: 2.0]
+		#Range: 0.0 ~ 40.0
+		diamethystIronGlaiveAttackDamageBonus = 2.0
+		#Attack reach [default: 2]
+		#Range: 0 ~ 10
+		diamethystIronGlaiveAttackReach = 2
+		#Enchantability [default: 15]
+		#Range: 1 ~ 50
+		diamethystIronGlaiveEnchantability = 15
+		#Enable wither damage [default: true]
+		diamethystIronGlaiveEnableWitherDamage = true
+		#Enable sweep damage [default: true]
+		diamethystIronGlaiveEnableSweepDamage = true
+
+	#Diamethyst Lapis Glaive
+	[diamethyst_glaives.diamethyst_lapis_glaive]
+		#Durability [default: 500]
+		#Range: 1 ~ 3000
+		diamethystLapisGlaiveDurability = 500
+		#Attack speed [default: 2.6]
+		#Range: 0.0 ~ 6.0
+		diamethystLapisGlaiveAttackSpeed = 2.6
+		#Attack damage bonus [default: 2.0]
+		#Range: 0.0 ~ 40.0
+		diamethystLapisGlaiveAttackDamageBonus = 2.0
+		#Attack reach [default: 2]
+		#Range: 0 ~ 10
+		diamethystLapisGlaiveAttackReach = 2
+		#Enchantability [default: 16]
+		#Range: 1 ~ 50
+		diamethystLapisGlaiveEnchantability = 16
+		#Enable confusion effect [default: true]
+		diamethystLapisGlaiveEnableConfusionEffect = true
+		#Enable sweep damage [default: true]
+		diamethystLapisGlaiveEnableSweepDamage = true
+
+	#Diamethyst Quartz Glaive
+	[diamethyst_glaives.diamethyst_quartz_glaive]
+		#Durability [default: 600]
+		#Range: 1 ~ 3000
+		diamethystQuartzGlaiveDurability = 600
+		#Attack speed [default: 2.6]
+		#Range: 0.0 ~ 6.0
+		diamethystQuartzGlaiveAttackSpeed = 2.6
+		#Attack damage bonus [default: 2.0]
+		#Range: 0.0 ~ 40.0
+		diamethystQuartzGlaiveAttackDamageBonus = 2.0
+		#Attack reach [default: 2]
+		#Range: 0 ~ 10
+		diamethystQuartzGlaiveAttackReach = 2
+		#Enchantability [default: 17]
+		#Range: 1 ~ 50
+		diamethystQuartzGlaiveEnchantability = 17
+		#Enable levitation effect [default: true]
+		diamethystQuartzGlaiveEnableLevitationEffect = true
+		#Enable Nether damage [default: true]
+		diamethystQuartzGlaiveEnableNetherDamage = true
+		#Enable sweep damage [default: true]
+		diamethystQuartzGlaiveEnableSweepDamage = true
+
+	#Diamethyst Prismarine Glaive
+	[diamethyst_glaives.diamethyst_prismarine_glaive]
+		#Durability [default: 700]
+		#Range: 1 ~ 3000
+		diamethystPrismarineGlaiveDurability = 700
+		#Attack speed [default: 2.6]
+		#Range: 0.0 ~ 6.0
+		diamethystPrismarineGlaiveAttackSpeed = 2.6
+		#Attack damage bonus [default: 2.0]
+		#Range: 0.0 ~ 40.0
+		diamethystPrismarineGlaiveAttackDamageBonus = 2.0
+		#Attack reach [default: 2]
+		#Range: 0 ~ 10
+		diamethystPrismarineGlaiveAttackReach = 2
+		#Enchantability [default: 18]
+		#Range: 1 ~ 50
+		diamethystPrismarineGlaiveEnchantability = 18
+		#Enable bonus water damage [default: true]
+		diamethystPrismarineGlaiveEnableBonusWaterDamage = true
+		#Enable sweep damage [default: true]
+		diamethystPrismarineGlaiveEnableSweepDamage = true
+
+	#Diamethyst Emerald Glaive
+	[diamethyst_glaives.diamethyst_emerald_glaive]
+		#Durability [default: 825]
+		#Range: 1 ~ 3000
+		diamethystEmeraldGlaiveDurability = 825
+		#Attack speed [default: 2.6]
+		#Range: 0.0 ~ 6.0
+		diamethystEmeraldGlaiveAttackSpeed = 2.6
+		#Attack damage bonus [default: 2.0]
+		#Range: 0.0 ~ 40.0
+		diamethystEmeraldGlaiveAttackDamageBonus = 2.0
+		#Attack reach [default: 2]
+		#Range: 0 ~ 10
+		diamethystEmeraldGlaiveAttackReach = 2
+		#Enchantability [default: 20]
+		#Range: 1 ~ 50
+		diamethystEmeraldGlaiveEnchantability = 20
+		#Enable poison damage [default: true]
+		diamethystEmeraldGlaiveEnablePoisonDamage = true
+		#Enable sweep damage [default: true]
+		diamethystEmeraldGlaiveEnableSweepDamage = true
+
+	#Diamethyst Diamond Glaive
+	[diamethyst_glaives.diamethyst_diamond_glaive]
+		#Durability [default: 1675]
+		#Range: 1 ~ 3000
+		diamethystDiamondGlaiveDurability = 1675
+		#Attack speed [default: 2.7]
+		#Range: 0.0 ~ 6.0
+		diamethystDiamondGlaiveAttackSpeed = 2.7
+		#Attack damage bonus [default: 2.0]
+		#Range: 0.0 ~ 40.0
+		diamethystDiamondGlaiveAttackDamageBonus = 2.0
+		#Attack reach [default: 2]
+		#Range: 0 ~ 10
+		diamethystDiamondGlaiveAttackReach = 2
+		#Enchantability [default: 25]
+		#Range: 1 ~ 50
+		diamethystDiamondGlaiveEnchantability = 25
+		#Enable freezing damage [default: true]
+		diamethystDiamondGlaiveEnableFreezingDamage = true
+		#Enable sweep damage [default: true]
+		diamethystDiamondGlaiveEnableSweepDamage = true
+
+	#Diamethyst Netherite Glaive
+	[diamethyst_glaives.diamethyst_netherite_glaive]
+		#Durability [default: 2200]
+		#Range: 1 ~ 4000
+		diamethystNetheriteGlaiveDurability = 2200
+		#Attack speed [default: 2.8]
+		#Range: 0.0 ~ 6.0
+		diamethystNetheriteGlaiveAttackSpeed = 2.8
+		#Attack damage bonus [default: 2.0]
+		#Range: 0.0 ~ 40.0
+		diamethystNetheriteGlaiveAttackDamageBonus = 2.0
+		#Attack reach [default: 3]
+		#Range: 0 ~ 10
+		diamethystNetheriteGlaiveAttackReach = 3
+		#Enchantability [default: 30]
+		#Range: 1 ~ 50
+		diamethystNetheriteGlaiveEnchantability = 30
+		#Enable fire damage [default: true]
+		diamethystNetheriteGlaiveEnableFireDamage = true
+		#Enable poison damage [default: true]
+		diamethystNetheriteGlaiveEnablePoisonDamage = true
+		#Enable sweep damage [default: true]
+		diamethystNetheriteGlaiveEnableSweepDamage = true
+
+#Halberds
+[diamethyst_halberds]
+
+	#Diamethyst Golden Halberd
+	[diamethyst_halberds.diamethyst_gold_halberd]
+		#Durability [default: 160]
+		#Range: 1 ~ 3000
+		diamethystGoldHalberdDurability = 160
+		#Attack speed [default: 1.2]
+		#Range: 0.0 ~ 6.0
+		diamethystGoldHalberdAttackSpeed = 1.2
+		#Attack damage bonus [default: 2.0]
+		#Range: 0.0 ~ 40.0
+		diamethystGoldHalberdAttackDamageBonus = 2.0
+		#Attack reach [default: 2]
+		#Range: 0 ~ 10
+		diamethystGoldHalberdAttackReach = 2
+		#Enchantability [default: 30]
+		#Range: 1 ~ 50
+		diamethystGoldHalberdEnchantability = 30
+		#Enable fire damage [default: true]
+		diamethystGoldHalberdEnableFireDamage = true
+		#Enable sharpness damage [default: true]
+		diamethystGoldHalberdEnableSharpnessDamage = true
+
+	#Diamethyst Copper Halberd
+	[diamethyst_halberds.diamethyst_copper_halberd]
+		#Durability [default: 260]
+		#Range: 1 ~ 3000
+		diamethystCopperHalberdDurability = 260
+		#Attack speed [default: 1.2]
+		#Range: 0.0 ~ 6.0
+		diamethystCopperHalberdAttackSpeed = 1.2
+		#Attack damage bonus [default: 2.0]
+		#Range: 0.0 ~ 40.0
+		diamethystCopperHalberdAttackDamageBonus = 2.0
+		#Attack reach [default: 2]
+		#Range: 0 ~ 10
+		diamethystCopperHalberdAttackReach = 2
+		#Enchantability [default: 15]
+		#Range: 1 ~ 50
+		diamethystCopperHalberdEnchantability = 15
+		#Enable weakness effect [default: true]
+		diamethystCopperHalberdEnableWeaknessEffect = true
+		#Enable sharpness damage [default: true]
+		diamethystCopperHalberdEnableSharpnessDamage = true
+
+	#Diamethyst Iron Halberd
+	[diamethyst_halberds.diamethyst_iron_halberd]
+		#Durability [default: 310]
+		#Range: 1 ~ 3000
+		diamethystIronHalberdDurability = 310
+		#Attack speed [default: 1.2]
+		#Range: 0.0 ~ 6.0
+		diamethystIronHalberdAttackSpeed = 1.2
+		#Attack damage bonus [default: 2.0]
+		#Range: 0.0 ~ 40.0
+		diamethystIronHalberdAttackDamageBonus = 2.0
+		#Attack reach [default: 2]
+		#Range: 0 ~ 10
+		diamethystIronHalberdAttackReach = 2
+		#Enchantability [default: 15]
+		#Range: 1 ~ 50
+		diamethystIronHalberdEnchantability = 15
+		#Enable wither damage [default: true]
+		diamethystIronHalberdEnableWitherDamage = true
+		#Enable sharpness damage [default: true]
+		diamethystIronHalberdEnableSharpnessDamage = true
+
+	#Diamethyst Lapis Halberd
+	[diamethyst_halberds.diamethyst_lapis_halberd]
+		#Durability [default: 520]
+		#Range: 1 ~ 3000
+		diamethystLapisHalberdDurability = 520
+		#Attack speed [default: 1.3]
+		#Range: 0.0 ~ 6.0
+		diamethystLapisHalberdAttackSpeed = 1.3
+		#Attack damage bonus [default: 2.0]
+		#Range: 0.0 ~ 40.0
+		diamethystLapisHalberdAttackDamageBonus = 2.0
+		#Attack reach [default: 2]
+		#Range: 0 ~ 10
+		diamethystLapisHalberdAttackReach = 2
+		#Enchantability [default: 16]
+		#Range: 1 ~ 50
+		diamethystLapisHalberdEnchantability = 16
+		#Enable confusion effect [default: true]
+		diamethystLapisHalberdEnableConfusionEffect = true
+		#Enable sharpness damage [default: true]
+		diamethystLapisHalberdEnableSharpnessDamage = true
+
+	#Diamethyst Quartz Halberd
+	[diamethyst_halberds.diamethyst_quartz_halberd]
+		#Durability [default: 630]
+		#Range: 1 ~ 3000
+		diamethystQuartzHalberdDurability = 630
+		#Attack speed [default: 1.3]
+		#Range: 0.0 ~ 6.0
+		diamethystQuartzHalberdAttackSpeed = 1.3
+		#Attack damage bonus [default: 2.0]
+		#Range: 0.0 ~ 40.0
+		diamethystQuartzHalberdAttackDamageBonus = 2.0
+		#Attack reach [default: 2]
+		#Range: 0 ~ 10
+		diamethystQuartzHalberdAttackReach = 2
+		#Enchantability [default: 17]
+		#Range: 1 ~ 50
+		diamethystQuartzHalberdEnchantability = 17
+		#Enable levitation effect [default: true]
+		diamethystQuartzHalberdEnableLevitationEffect = true
+		#Enable Nether damage [default: true]
+		diamethystQuartzHalberdEnableNetherDamage = true
+		#Enable sharpness damage [default: true]
+		diamethystQuartzHalberdEnableSharpnessDamage = true
+
+	#Diamethyst Prismarine Halberd
+	[diamethyst_halberds.diamethyst_prismarine_halberd]
+		#Durability [default: 750]
+		#Range: 1 ~ 3000
+		diamethystPrismarineHalberdDurability = 750
+		#Attack speed [default: 1.3]
+		#Range: 0.0 ~ 6.0
+		diamethystPrismarineHalberdAttackSpeed = 1.3
+		#Attack damage bonus [default: 2.0]
+		#Range: 0.0 ~ 40.0
+		diamethystPrismarineHalberdAttackDamageBonus = 2.0
+		#Attack reach [default: 2]
+		#Range: 0 ~ 10
+		diamethystPrismarineHalberdAttackReach = 2
+		#Enchantability [default: 18]
+		#Range: 1 ~ 50
+		diamethystPrismarineHalberdEnchantability = 18
+		#Enable bonus water damage [default: true]
+		diamethystPrismarineHalberdEnableBonusWaterDamage = true
+		#Enable sharpness damage [default: true]
+		diamethystPrismarineHalberdEnableSharpnessDamage = true
+
+	#Diamethyst Emerald Halberd
+	[diamethyst_halberds.diamethyst_emerald_halberd]
+		#Durability [default: 900]
+		#Range: 1 ~ 3000
+		diamethystEmeraldHalberdDurability = 900
+		#Attack speed [default: 1.3]
+		#Range: 0.0 ~ 6.0
+		diamethystEmeraldHalberdAttackSpeed = 1.3
+		#Attack damage bonus [default: 2.0]
+		#Range: 0.0 ~ 40.0
+		diamethystEmeraldHalberdAttackDamageBonus = 2.0
+		#Attack reach [default: 2]
+		#Range: 0 ~ 10
+		diamethystEmeraldHalberdAttackReach = 2
+		#Enchantability [default: 20]
+		#Range: 1 ~ 50
+		diamethystEmeraldHalberdEnchantability = 20
+		#Enable poison damage [default: true]
+		diamethystEmeraldHalberdEnablePoisonDamage = true
+		#Enable sharpness damage [default: true]
+		diamethystEmeraldHalberdEnableSharpnessDamage = true
+
+	#Diamethyst Diamond Halberd
+	[diamethyst_halberds.diamethyst_diamond_halberd]
+		#Durability [default: 1720]
+		#Range: 1 ~ 3000
+		diamethystDiamondHalberdDurability = 1720
+		#Attack speed [default: 1.4]
+		#Range: 0.0 ~ 6.0
+		diamethystDiamondHalberdAttackSpeed = 1.4
+		#Attack damage bonus [default: 2.0]
+		#Range: 0.0 ~ 40.0
+		diamethystDiamondHalberdAttackDamageBonus = 2.0
+		#Attack reach [default: 2]
+		#Range: 0 ~ 10
+		diamethystDiamondHalberdAttackReach = 2
+		#Enchantability [default: 25]
+		#Range: 1 ~ 50
+		diamethystDiamondHalberdEnchantability = 25
+		#Enable freezing damage [default: true]
+		diamethystDiamondHalberdEnableFreezingDamage = true
+		#Enable sharpness damage [default: true]
+		diamethystDiamondHalberdEnableSharpnessDamage = true
+
+	#Diamethyst Netherite Halberd
+	[diamethyst_halberds.diamethyst_netherite_halberd]
+		#Durability [default: 2300]
+		#Range: 1 ~ 4000
+		diamethystNetheriteHalberdDurability = 2300
+		#Attack speed [default: 1.5]
+		#Range: 0.0 ~ 6.0
+		diamethystNetheriteHalberdAttackSpeed = 1.5
+		#Attack damage bonus [default: 2.0]
+		#Range: 0.0 ~ 40.0
+		diamethystNetheriteHalberdAttackDamageBonus = 2.0
+		#Attack reach [default: 3]
+		#Range: 0 ~ 10
+		diamethystNetheriteHalberdAttackReach = 3
+		#Enchantability [default: 30]
+		#Range: 1 ~ 50
+		diamethystNetheriteHalberdEnchantability = 30
+		#Enable fire damage [default: true]
+		diamethystNetheriteHalberdEnableFireDamage = true
+		#Enable poison damage [default: true]
+		diamethystNetheriteHalberdEnablePoisonDamage = true
+		#Enable sharpness damage [default: true]
+		diamethystNetheriteHalberdEnableSharpnessDamage = true
+
+#Lochaber Axes
+[diamethyst_lochaber_axes]
+
+	#Diamethyst Golden Lochaber Axe
+	[diamethyst_lochaber_axes.diamethyst_gold_lochaber_axe]
+		#Durability [default: 200]
+		#Range: 1 ~ 3000
+		diamethystGoldLochaberAxeDurability = 200
+		#Attack speed [default: 1.0]
+		#Range: 0.0 ~ 6.0
+		diamethystGoldLochaberAxeAttackSpeed = 1.0
+		#Attack damage bonus [default: 2.0]
+		#Range: 0.0 ~ 40.0
+		diamethystGoldLochaberAxeAttackDamageBonus = 2.0
+		#Attack reach [default: 2]
+		#Range: 0 ~ 10
+		diamethystGoldLochaberAxeAttackReach = 2
+		#Enchantability [default: 30]
+		#Range: 1 ~ 50
+		diamethystGoldLochaberAxeEnchantability = 30
+		#Enable fire damage [default: true]
+		diamethystGoldLochaberAxeEnableFireDamage = true
+		#Enable shield disabling [default: true]
+		diamethystGoldLochaberAxeEnableShieldDisabling = true
+		#Enable knockback [default: true]
+		diamethystGoldLochaberAxeEnableKnockback = true
+
+	#Diamethyst Copper Lochaber Axe
+	[diamethyst_lochaber_axes.diamethyst_copper_lochaber_axe]
+		#Durability [default: 300]
+		#Range: 1 ~ 3000
+		diamethystCopperLochaberAxeDurability = 300
+		#Attack speed [default: 1.0]
+		#Range: 0.0 ~ 6.0
+		diamethystCopperLochaberAxeAttackSpeed = 1.0
+		#Attack damage bonus [default: 2.0]
+		#Range: 0.0 ~ 40.0
+		diamethystCopperLochaberAxeAttackDamageBonus = 2.0
+		#Attack reach [default: 2]
+		#Range: 0 ~ 10
+		diamethystCopperLochaberAxeAttackReach = 2
+		#Enchantability [default: 15]
+		#Range: 1 ~ 50
+		diamethystCopperLochaberAxeEnchantability = 15
+		#Enable weakness effect [default: true]
+		diamethystCopperLochaberAxeEnableWeaknessEffect = true
+		#Enable shield disabling [default: true]
+		diamethystCopperLochaberAxeEnableShieldDisabling = true
+		#Enable knockback [default: true]
+		diamethystCopperLochaberAxeEnableKnockback = true
+
+	#Diamethyst Iron Lochaber Axe
+	[diamethyst_lochaber_axes.diamethyst_iron_lochaber_axe]
+		#Durability [default: 400]
+		#Range: 1 ~ 3000
+		diamethystIronLochaberAxeDurability = 400
+		#Attack speed [default: 1.0]
+		#Range: 0.0 ~ 6.0
+		diamethystIronLochaberAxeAttackSpeed = 1.0
+		#Attack damage bonus [default: 2.0]
+		#Range: 0.0 ~ 40.0
+		diamethystIronLochaberAxeAttackDamageBonus = 2.0
+		#Attack reach [default: 2]
+		#Range: 0 ~ 10
+		diamethystIronLochaberAxeAttackReach = 2
+		#Enchantability [default: 15]
+		#Range: 1 ~ 50
+		diamethystIronLochaberAxeEnchantability = 15
+		#Enable wither damage [default: true]
+		diamethystIronLochaberAxeEnableWitherDamage = true
+		#Enable shield disabling [default: true]
+		diamethystIronLochaberAxeEnableShieldDisabling = true
+		#Enable knockback [default: true]
+		diamethystIronLochaberAxeEnableKnockback = true
+
+	#Diamethyst Lapis Lochaber Axe
+	[diamethyst_lochaber_axes.diamethyst_lapis_lochaber_axe]
+		#Durability [default: 600]
+		#Range: 1 ~ 3000
+		diamethystLapisLochaberAxeDurability = 600
+		#Attack speed [default: 1.1]
+		#Range: 0.0 ~ 6.0
+		diamethystLapisLochaberAxeAttackSpeed = 1.1
+		#Attack damage bonus [default: 2.0]
+		#Range: 0.0 ~ 40.0
+		diamethystLapisLochaberAxeAttackDamageBonus = 2.0
+		#Attack reach [default: 2]
+		#Range: 0 ~ 10
+		diamethystLapisLochaberAxeAttackReach = 2
+		#Enchantability [default: 16]
+		#Range: 1 ~ 50
+		diamethystLapisLochaberAxeEnchantability = 16
+		#Enable confusion effect [default: true]
+		diamethystLapisLochaberAxeEnableConfusionEffect = true
+		#Enable shield disabling [default: true]
+		diamethystLapisLochaberAxeEnableShieldDisabling = true
+		#Enable knockback [default: true]
+		diamethystLapisLochaberAxeEnableKnockback = true
+
+	#Diamethyst Quartz Lochaber Axe
+	[diamethyst_lochaber_axes.diamethyst_quartz_lochaber_axe]
+		#Durability [default: 700]
+		#Range: 1 ~ 3000
+		diamethystQuartzLochaberAxeDurability = 700
+		#Attack speed [default: 1.1]
+		#Range: 0.0 ~ 6.0
+		diamethystQuartzLochaberAxeAttackSpeed = 1.1
+		#Attack damage bonus [default: 2.0]
+		#Range: 0.0 ~ 40.0
+		diamethystQuartzLochaberAxeAttackDamageBonus = 2.0
+		#Attack reach [default: 2]
+		#Range: 0 ~ 10
+		diamethystQuartzLochaberAxeAttackReach = 2
+		#Enchantability [default: 17]
+		#Range: 1 ~ 50
+		diamethystQuartzLochaberAxeEnchantability = 17
+		#Enable levitation effect [default: true]
+		diamethystQuartzLochaberAxeEnableLevitationEffect = true
+		#Enable Nether damage [default: true]
+		diamethystQuartzLochaberAxeEnableNetherDamage = true
+		#Enable shield disabling [default: true]
+		diamethystQuartzLochaberAxeEnableShieldDisabling = true
+		#Enable knockback [default: true]
+		diamethystQuartzLochaberAxeEnableKnockback = true
+
+	#Diamethyst Prismarine Lochaber Axe
+	[diamethyst_lochaber_axes.diamethyst_prismarine_lochaber_axe]
+		#Durability [default: 800]
+		#Range: 1 ~ 3000
+		diamethystPrismarineLochaberAxeDurability = 800
+		#Attack speed [default: 1.1]
+		#Range: 0.0 ~ 6.0
+		diamethystPrismarineLochaberAxeAttackSpeed = 1.1
+		#Attack damage bonus [default: 2.0]
+		#Range: 0.0 ~ 40.0
+		diamethystPrismarineLochaberAxeAttackDamageBonus = 2.0
+		#Attack reach [default: 2]
+		#Range: 0 ~ 10
+		diamethystPrismarineLochaberAxeAttackReach = 2
+		#Enchantability [default: 18]
+		#Range: 1 ~ 50
+		diamethystPrismarineLochaberAxeEnchantability = 18
+		#Enable bonus water damage [default: true]
+		diamethystPrismarineLochaberAxeEnableBonusWaterDamage = true
+		#Enable shield disabling [default: true]
+		diamethystPrismarineLochaberAxeEnableShieldDisabling = true
+		#Enable knockback [default: true]
+		diamethystPrismarineLochaberAxeEnableKnockback = true
+
+	#Diamethyst Emerald Lochaber Axe
+	[diamethyst_lochaber_axes.diamethyst_emerald_lochaber_axe]
+		#Durability [default: 950]
+		#Range: 1 ~ 3000
+		diamethystEmeraldLochaberAxeDurability = 950
+		#Attack speed [default: 1.1]
+		#Range: 0.0 ~ 6.0
+		diamethystEmeraldLochaberAxeAttackAttackSpeed = 1.1
+		#Attack damage bonus [default: 2.0]
+		#Range: 0.0 ~ 40.0
+		diamethystEmeraldLochaberAxeAttackDamageBonus = 2.0
+		#Attack reach [default: 2]
+		#Range: 0 ~ 10
+		diamethystEmeraldLochaberAxeAttackReach = 2
+		#Enchantability [default: 20]
+		#Range: 1 ~ 50
+		diamethystEmeraldLochaberAxeEnchantability = 20
+		#Enable poison damage [default: true]
+		diamethystEmeraldLochaberAxeEnablePoisonDamage = true
+		#Enable shield disabling [default: true]
+		diamethystEmeraldLochaberAxeEnableShieldDisabling = true
+		#Enable knockback [default: true]
+		diamethystEmeraldLochaberAxeEnableKnockback = true
+
+	#Diamethyst Diamond Lochaber Axe
+	[diamethyst_lochaber_axes.diamethyst_diamond_lochaber_axe]
+		#Durability [default: 1800]
+		#Range: 1 ~ 3000
+		diamethystDiamondLochaberAxeDurability = 1800
+		#Attack speed [default: 1.2]
+		#Range: 0.0 ~ 6.0
+		diamethystDiamondLochaberAxeAttackSpeed = 1.2
+		#Attack damage bonus [default: 2.0]
+		#Range: 0.0 ~ 40.0
+		diamethystDiamondLochaberAxeAttackDamageBonus = 2.0
+		#Attack reach [default: 2]
+		#Range: 0 ~ 10
+		diamethystDiamondLochaberAxeAttackReach = 2
+		#Enchantability [default: 25]
+		#Range: 1 ~ 50
+		diamethystDiamondLochaberAxeEnchantability = 25
+		#Enable freezing damage [default: true]
+		diamethystDiamondLochaberAxeEnableFreezingDamage = true
+		#Enable shield disabling [default: true]
+		diamethystDiamondLochaberAxeEnableShieldDisabling = true
+		#Enable knockback [default: true]
+		diamethystDiamondLochaberAxeEnableKnockback = true
+
+	#Diamethyst Netherite Lochaber Axe
+	[diamethyst_lochaber_axes.diamethyst_netherite_lochaber_axe]
+		#Durability [default: 2500]
+		#Range: 1 ~ 4000
+		diamethystNetheriteLochaberAxeDurability = 2500
+		#Attack speed [default: 1.3]
+		#Range: 0.0 ~ 6.0
+		diamethystNetheriteLochaberAxeAttackSpeed = 1.3
+		#Attack damage bonus [default: 2.0]
+		#Range: 0.0 ~ 40.0
+		diamethystNetheriteLochaberAxeAttackDamageBonus = 2.0
+		#Attack reach [default: 3]
+		#Range: 0 ~ 10
+		diamethystNetheriteLochaberAxeAttackReach = 3
+		#Enchantability [default: 30]
+		#Range: 1 ~ 50
+		diamethystNetheriteLochaberAxeEnchantability = 30
+		#Enable fire damage [default: true]
+		diamethystNetheriteLochaberAxeEnableFireDamage = true
+		#Enable poison damage [default: true]
+		diamethystNetheriteLochaberAxeEnablePoisonDamage = true
+		#Enable shield disabling [default: true]
+		diamethystNetheriteLochaberAxeEnableShieldDisabling = true
+		#Enable knockback [default: true]
+		diamethystNetheriteLochaberAxeEnableKnockback = true
+
+#Ranseurs
+[diamethyst_ranseurs]
+
+	#Diamethyst Golden Ranseur
+	[diamethyst_ranseurs.diamethyst_gold_ranseur]
+		#Durability [default: 140]
+		#Range: 1 ~ 3000
+		diamethystGoldRanseurDurability = 140
+		#Attack speed [default: 2.8]
+		#Range: 0.0 ~ 6.0
+		diamethystGoldRanseurAttackSpeed = 2.8
+		#Attack damage bonus [default: 2.0]
+		#Range: 0.0 ~ 40.0
+		diamethystGoldRanseurAttackDamageBonus = 2.0
+		#Attack reach [default: 2]
+		#Range: 0 ~ 10
+		diamethystGoldRanseurAttackReach = 2
+		#Enchantability [default: 30]
+		#Range: 1 ~ 50
+		diamethystGoldRanseurEnchantability = 30
+		#Enable fire damage [default: true]
+		diamethystGoldRanseurEnableFireDamage = true
+		#Enable armor bypass [default: true]
+		diamethystGoldRanseurEnableArmorBypass = true
+		#Enable rider dismount [default: true]
+		diamethystGoldRanseurEnableRiderDismount = true
+		#Dismount rider chance [default: 50]
+		#Range: 1 ~ 100
+		diamethystGoldRanseurDismountRiderChance = 50
+
+	#Diamethyst Copper Ranseur
+	[diamethyst_ranseurs.diamethyst_copper_ranseur]
+		#Durability [default: 240]
+		#Range: 1 ~ 3000
+		diamethystCopperRanseurDurability = 240
+		#Attack speed [default: 2.8]
+		#Range: 0.0 ~ 6.0
+		diamethystCopperRanseurAttackSpeed = 2.8
+		#Attack damage bonus [default: 2.0]
+		#Range: 0.0 ~ 40.0
+		diamethystCopperRanseurAttackDamageBonus = 2.0
+		#Attack reach [default: 2]
+		#Range: 0 ~ 10
+		diamethystCopperRanseurAttackReach = 2
+		#Enchantability [default: 15]
+		#Range: 1 ~ 50
+		diamethystCopperRanseurEnchantability = 15
+		#Enable weakness effect [default: true]
+		diamethystCopperRanseurEnableWeaknessEffect = true
+		#Enable armor bypass [default: true]
+		diamethystCopperRanseurEnableArmorBypass = true
+		#Enable rider dismount [default: true]
+		diamethystCopperRanseurEnableRiderDismount = true
+		#Dismount rider chance [default: 50]
+		#Range: 1 ~ 100
+		diamethystCopperRanseurDismountRiderChance = 50
+
+	#Diamethyst Iron Ranseur
+	[diamethyst_ranseurs.diamethyst_iron_ranseur]
+		#Durability [default: 290]
+		#Range: 1 ~ 3000
+		diamethystIronRanseurDurability = 290
+		#Attack speed [default: 2.8]
+		#Range: 0.0 ~ 6.0
+		diamethystIronRanseurAttackSpeed = 2.8
+		#Attack damage bonus [default: 2.0]
+		#Range: 0.0 ~ 40.0
+		diamethystIronRanseurAttackDamageBonus = 2.0
+		#Attack reach [default: 2]
+		#Range: 0 ~ 10
+		diamethystIronRanseurAttackReach = 2
+		#Enchantability [default: 15]
+		#Range: 1 ~ 50
+		diamethystIronRanseurEnchantability = 15
+		#Enable wither damage [default: true]
+		diamethystIronRanseurEnableWitherDamage = true
+		#Enable armor bypass [default: true]
+		diamethystIronRanseurEnableArmorBypass = true
+		#Enable rider dismount [default: true]
+		diamethystIronRanseurEnableRiderDismount = true
+		#Dismount rider chance [default: 50]
+		#Range: 1 ~ 100
+		diamethystIronRanseurDismountRiderChance = 50
+
+	#Diamethyst Lapis Ranseur
+	[diamethyst_ranseurs.diamethyst_lapis_ranseur]
+		#Durability [default: 480]
+		#Range: 1 ~ 3000
+		diamethystLapisRanseurDurability = 480
+		#Attack speed [default: 2.9]
+		#Range: 0.0 ~ 6.0
+		diamethystLapisRanseurAttackSpeed = 2.9
+		#Attack damage bonus [default: 2.0]
+		#Range: 0.0 ~ 40.0
+		diamethystLapisRanseurAttackDamageBonus = 2.0
+		#Attack reach [default: 2]
+		#Range: 0 ~ 10
+		diamethystLapisRanseurAttackReach = 2
+		#Enchantability [default: 16]
+		#Range: 1 ~ 50
+		diamethystLapisRanseurEnchantability = 16
+		#Enable confusion effect [default: true]
+		diamethystLapisRanseurEnableConfusionEffect = true
+		#Enable armor bypass [default: true]
+		diamethystLapisRanseurEnableArmorBypass = true
+		#Enable rider dismount [default: true]
+		diamethystLapisRanseurEnableRiderDismount = true
+		#Dismount rider chance [default: 50]
+		#Range: 1 ~ 100
+		diamethystLapisRanseurDismountRiderChance = 50
+
+	#Diamethyst Quartz Ranseur
+	[diamethyst_ranseurs.diamethyst_quartz_ranseur]
+		#Durability [default: 570]
+		#Range: 1 ~ 3000
+		diamethystQuartzRanseurDurability = 570
+		#Attack speed [default: 2.9]
+		#Range: 0.0 ~ 6.0
+		diamethystQuartzRanseurAttackSpeed = 2.9
+		#Attack damage bonus [default: 2.0]
+		#Range: 0.0 ~ 40.0
+		diamethystQuartzRanseurAttackDamageBonus = 2.0
+		#Attack reach [default: 2]
+		#Range: 0 ~ 10
+		diamethystQuartzRanseurAttackReach = 2
+		#Enchantability [default: 17]
+		#Range: 1 ~ 50
+		diamethystQuartzRanseurEnchantability = 17
+		#Enable levitation effect [default: true]
+		diamethystQuartzRanseurEnableLevitationEffect = true
+		#Enable Nether damage [default: true]
+		diamethystQuartzRanseurEnableNetherDamage = true
+		#Enable armor bypass [default: true]
+		diamethystQuartzRanseurEnableArmorBypass = true
+		#Enable rider dismount [default: true]
+		diamethystQuartzRanseurEnableRiderDismount = true
+		#Dismount rider chance [default: 50]
+		#Range: 1 ~ 100
+		diamethystQuartzRanseurDismountRiderChance = 50
+
+	#Diamethyst Prismarine Ranseur
+	[diamethyst_ranseurs.diamethyst_prismarine_ranseur]
+		#Durability [default: 680]
+		#Range: 1 ~ 3000
+		diamethystPrismarineRanseurDurability = 680
+		#Attack speed [default: 2.9]
+		#Range: 0.0 ~ 6.0
+		diamethystPrismarineRanseurAttackSpeed = 2.9
+		#Attack damage bonus [default: 2.0]
+		#Range: 0.0 ~ 40.0
+		diamethystPrismarineRanseurAttackDamageBonus = 2.0
+		#Attack reach [default: 2]
+		#Range: 0 ~ 10
+		diamethystPrismarineRanseurAttackReach = 2
+		#Enchantability [default: 18]
+		#Range: 1 ~ 50
+		diamethystPrismarineRanseurEnchantability = 18
+		#Enable bonus water damage [default: true]
+		diamethystPrismarineRanseurEnableBonusWaterDamage = true
+		#Enable armor bypass [default: true]
+		diamethystPrismarineRanseurEnableArmorBypass = true
+		#Enable rider dismount [default: true]
+		diamethystPrismarineRanseurEnableRiderDismount = true
+		#Dismount rider chance [default: 50]
+		#Range: 1 ~ 100
+		diamethystPrismarineRanseurDismountRiderChance = 50
+
+	#Diamethyst Emerald Ranseur
+	[diamethyst_ranseurs.diamethyst_emerald_ranseur]
+		#Durability [default: 850]
+		#Range: 1 ~ 3000
+		diamethystEmeraldRanseurDurability = 850
+		#Attack speed [default: 2.9]
+		#Range: 0.0 ~ 6.0
+		diamethystEmeraldRanseurAttackSpeed = 2.9
+		#Attack damage bonus [default: 2.0]
+		#Range: 0.0 ~ 40.0
+		diamethystEmeraldRanseurAttackDamageBonus = 2.0
+		#Attack reach [default: 2]
+		#Range: 0 ~ 10
+		diamethystEmeraldRanseurAttackReach = 2
+		#Enchantability [default: 20]
+		#Range: 1 ~ 50
+		diamethystEmeraldRanseurEnchantability = 20
+		#Enable poison damage [default: true]
+		diamethystEmeraldRanseurEnablePoisonDamage = true
+		#Enable armor bypass [default: true]
+		diamethystEmeraldRanseurEnableArmorBypass = true
+		#Enable rider dismount [default: true]
+		diamethystEmeraldRanseurEnableRiderDismount = true
+		#Dismount rider chance [default: 50]
+		#Range: 1 ~ 100
+		diamethystEmeraldRanseurDismountRiderChance = 50
+
+	#Diamethyst Diamond Ranseur
+	[diamethyst_ranseurs.diamethyst_diamond_ranseur]
+		#Durability [default: 1650]
+		#Range: 1 ~ 3000
+		diamethystDiamondRanseurDurability = 1650
+		#Attack speed [default: 3.0]
+		#Range: 0.0 ~ 6.0
+		diamethystDiamondRanseurAttackSpeed = 3.0
+		#Attack damage bonus [default: 2.0]
+		#Range: 0.0 ~ 40.0
+		diamethystDiamondRanseurAttackDamageBonus = 2.0
+		#Attack reach [default: 2]
+		#Range: 0 ~ 10
+		diamethystDiamondRanseurAttackReach = 2
+		#Enchantability [default: 25]
+		#Range: 1 ~ 50
+		diamethystDiamondRanseurEnchantability = 25
+		#Enable freezing damage [default: true]
+		diamethystDiamondRanseurEnableFreezingDamage = true
+		#Enable armor bypass [default: true]
+		diamethystDiamondRanseurEnableArmorBypass = true
+		#Enable rider dismount [default: true]
+		diamethystDiamondRanseurEnableRiderDismount = true
+		#Dismount rider chance [default: 50]
+		#Range: 1 ~ 100
+		diamethystDiamondRanseurDismountRiderChance = 50
+
+	#Diamethyst Netherite Ranseur
+	[diamethyst_ranseurs.diamethyst_netherite_ranseur]
+		#Durability [default: 2100]
+		#Range: 1 ~ 4000
+		diamethystNetheriteRanseurDurability = 2100
+		#Attack speed [default: 3.1]
+		#Range: 0.0 ~ 6.0
+		diamethystNetheriteRanseurAttackSpeed = 3.1
+		#Attack damage bonus [default: 2.0]
+		#Range: 0.0 ~ 40.0
+		diamethystNetheriteRanseurAttackDamageBonus = 2.0
+		#Attack reach [default: 3]
+		#Range: 0 ~ 10
+		diamethystNetheriteRanseurAttackReach = 3
+		#Enchantability [default: 30]
+		#Range: 1 ~ 50
+		diamethystNetheriteRanseurEnchantability = 30
+		#Enable fire damage [default: true]
+		diamethystNetheriteRanseurEnableFireDamage = true
+		#Enable poison damage [default: true]
+		diamethystNetheriteRanseurEnablePoisonDamage = true
+		#Enable armor bypass [default: true]
+		diamethystNetheriteRanseurEnableArmorBypass = true
+		#Enable rider dismount [default: true]
+		diamethystNetheriteRanseurEnableRiderDismount = true
+		#Dismount rider chance [default: 50]
+		#Range: 1 ~ 100
+		diamethystNetheriteRanseurDismountRiderChance = 50
+

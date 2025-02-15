@@ -1,0 +1,23 @@
+// Compost colors for ars_technica. You may add your own colors, change existing ones, or remove colors that aren't needed.
+amethyst_dust, #ca9aff
+calibrated_precision_mechanism, #ffd6ac
+gargantuan_experience_gem, #e3ff2a
+giant_experience_gem, #cfff3d
+glyph_carve, #a7bfa2
+glyph_fuse, #c9debb
+glyph_insert, #afc6a8
+glyph_obliterate, #bbd3b2
+glyph_pack, #b9d0af
+glyph_polish, #b2c9ab
+glyph_press, #bbd2af
+glyph_telefeast, #afc8aa
+glyph_whirl, #afc8a8
+pocket_factory_disc, #e0b973
+quartz_dust, #fbeadd
+spy_monocle, #c6c890
+technomancer_boots, #979797
+technomancer_chestplate, #b6b6b6
+technomancer_helmet, #a7a7a7
+technomancer_leggings, #acacac
+thread_pressure, #beabaf
+transmutation_focus, #e6bf79

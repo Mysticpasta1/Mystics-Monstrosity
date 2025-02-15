@@ -1,0 +1,49 @@
+
+# Options related to the Meat Rack. It is used to decay rotten meat to leather and then to bone
+[MeatRack]
+	#Range: 1 ~ 100000
+	"Tick Amount Before Leather, 20 ticks = 1s" = 2400
+	#Range: 1 ~ 100000
+	"Tick Amount Before Bone, 20 ticks = 1s" = 2400
+
+# Options related to the Honey Pond. It is used to heal the player and can be recharger with honey bottle
+[HoneyPond]
+	#Range: 0 ~ 100000
+	"Max Healing Charges" = 10
+	#Range: 0 ~ 100000
+	"Health Restored Per Use" = 6
+	#Range: 0 ~ 100000
+	"Healing Charges Restored By Honey Bottle" = 5
+
+# Options related to the Xp Storage. It stores and gives back player experience
+[XpStorage]
+	#Range: 0 ~ 1000000
+	"Maximum Stored Experience" = 2000
+
+# Options related to explosion when breaking Coal Ore blocks with Iron Pickaxe.
+[IronOnCoalExplosion]
+	"Enable Iron Pickaxe On Coal Block Explosion" = true
+	#Range: 0.0 ~ 1.0
+	"Chance Of Explosion" = 0.03
+
+[Obelisk]
+	" Default Obelisk Xp Values In Creative Tab" = [250, 500, 1000, 1500]
+	" Can Obelisk Be Destroyed" = false
+
+[MudTrap]
+	#Range: 0 ~ 100
+	" Default Height Of The Mud Trap Poison Gas" = 3
+	#Range: 0 ~ 100
+	" Default Diameter Of The Mud Trap Poison Gas" = 1
+
+[Spawners]
+
+	[Spawners.SpiderEggs]
+		#Range: 1 ~ 1000
+		" Horizontal Detection Range Of Spider Eggs In Blocks" = 10
+		#Range: 1 ~ 1000
+		" Y Detection Range Of Spider Eggs" = 4
+
+		[Spawners.SpiderEggs." Mobs spawning when activated"]
+			" Formatted like 'mob namespace; weight'" = ["minecraft:spider;20"]
+

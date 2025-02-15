@@ -1,0 +1,5 @@
+// Compost colors for short_circuit. You may add your own colors, change existing ones, or remove colors that aren't needed.
+circuit, #a48766
+integrated_circuit, #b5835b
+labelling_stick, #fffff2
+poking_stick, #de918d

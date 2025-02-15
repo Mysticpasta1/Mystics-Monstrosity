@@ -1,0 +1,19 @@
+// Compost colors for woodworkers_delight. You may add your own colors, change existing ones, or remove colors that aren't needed.
+acorn, #8e502d
+amethyst_short_sword, #9a7096
+apple_jam, #e3b6a7
+cooper_short_sword, #aa6550
+diamond_short_sword, #699086
+forest_cake, #c8aa9a
+framed_glass_pane, #d6d9d4
+glow_berry_jam, #eabb90
+gold_short_sword, #bb834a
+honey_planks, #e49130
+iron_short_sword, #907a73
+jar, #c9a5ae
+netherite_short_sword, #6f4e4e
+saw, #a79894
+short_sword_base, #7c574b
+sweet_berry_jam, #cd8089
+treated_plate, #936557
+treated_stick, #7d584b

@@ -1,0 +1,5 @@
+// Compost colors for create_enchantment_industry. You may add your own colors, change existing ones, or remove colors that aren't needed.
+enchanting_guide, #835e68
+experience_rotor, #8dc2a7
+hyper_experience_bottle, #4de1f4
+ink_bucket, #909090

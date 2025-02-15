@@ -1,0 +1,18 @@
+
+["Configs for Better Minecarts Mod"]
+	#Damage Dealt by Minecarts
+	minecartDamage = 20.0
+	#Should Locomotives be able to load chunks?
+	furnaceMinecartsLoadChunks = true
+	#Should Mobs panic after whistle?
+	mobsPanicAfterWhistle = true
+	#Whistle panic range
+	#Range: 5 ~ 60
+	mobsPanicAfterWhistleRange = 30
+	#Can you control the locomotive from the whole train?
+	keyControlFromTheWholeTrain = true
+	#Should steam whistle use steam?
+	whistleUseSteamOnSteamLocomotive = true
+	#Should Locomotives explode after fall damage?
+	locomotiveExplodeAfterFallDamage = true
+

@@ -1,0 +1,28 @@
+
+#General settings
+[general]
+	#Adjust the color of the bubbles outline | args = r,g,b,a
+	outlineColor = [0, 0, 0, 220]
+	#Adjust the color of the bubbles inside | args = r,g,b,a
+	insideColor = [203, 203, 203, 220]
+	#Adjust the color of the bubbles text | args = r,g,b,a
+	textColor = [0, 0, 0, 220]
+	#Adjust duration time of bubbles
+	#Range: 0 ~ 60
+	durationBubbles = 10
+	#Max Bubbles Stackable on a player's head
+	#Range: > 0
+	maxBubblesStack = 0
+	#Max line width
+	#Range: > 50
+	lineWidth = 150
+	#Size of bubble
+	#Range: 0 ~ 20
+	sizeBubble = 0
+	#Enable Bubbles Listener
+	bubblesListener = true
+	#See the bubbles through blocks or not ( like name )
+	throughBlock = true
+	#Force Format chat is bubbles don't appear
+	forceFormatChat = false
+

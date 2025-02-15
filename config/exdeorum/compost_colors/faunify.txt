@@ -1,0 +1,4 @@
+// Compost colors for faunify. You may add your own colors, change existing ones, or remove colors that aren't needed.
+blowpipe, #73a730
+dust_powder, #a7a2a4
+quill, #f1aa83

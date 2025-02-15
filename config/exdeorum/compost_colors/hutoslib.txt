@@ -1,0 +1,7 @@
+// Compost colors for hutoslib. You may add your own colors, change existing ones, or remove colors that aren't needed.
+cured_clay_flask, #974d3e
+diamond_knapper, #44906c
+hutoslib_logo, #fef2d9
+iron_knapper, #a19680
+obsidian_flakes, #4a196b
+raw_clay_flask, #6b6b6b

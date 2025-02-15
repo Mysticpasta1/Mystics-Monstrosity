@@ -1,0 +1,2 @@
+// Compost colors for ring_of_enderchest. You may add your own colors, change existing ones, or remove colors that aren't needed.
+ring_of_enderchest, #225a75

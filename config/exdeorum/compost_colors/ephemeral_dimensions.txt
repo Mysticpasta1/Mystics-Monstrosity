@@ -1,0 +1,23 @@
+// Compost colors for ephemeral_dimensions. You may add your own colors, change existing ones, or remove colors that aren't needed.
+ed_candy_cane, #d0989a
+ed_choca_grass_plant, #ffffd4
+ed_choco_bar, #e48066
+ed_choco_lollipop, #f2c8af
+ed_cotton_candy, #ffb9ca
+ed_disc_dream_fracture, #444448
+ed_disc_paradise_blocks, #474852
+ed_lollipop, #ffdea1
+ed_napolitain, #d28966
+ed_plant_candy_cane_bush, #73976b
+ed_plant_choco_bush, #ffffd6
+ed_plant_choco_lollipop, #e4b193
+ed_plant_cocoa_bush, #cda275
+ed_plant_cookie_bush, #b58d40
+ed_plant_cotton_candy, #ffb6c8
+ed_plant_lollipop, #ffcc82
+ed_raw_sleep_soup, #917248
+ed_sleep_soup, #a08765
+ed_wb_plant_grass, #cfcfcf
+ed_wb_plant_grass_tall, #d7d4d7
+ed_wb_plant_orchid, #b6b6b6
+ed_wb_plant_poppy, #727272

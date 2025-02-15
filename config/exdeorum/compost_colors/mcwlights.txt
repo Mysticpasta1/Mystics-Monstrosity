@@ -1,0 +1,10 @@
+// Compost colors for mcwlights. You may add your own colors, change existing ones, or remove colors that aren't needed.
+bell_lantern, #ab907c
+chain_lantern, #a88c76
+copper_chain, #d36c4a
+covered_lantern, #a49382
+cross_lantern, #a88973
+festive_lantern, #937c76
+golden_chain, #ffff33
+striped_lantern, #a28473
+tavern_lantern, #9d877d

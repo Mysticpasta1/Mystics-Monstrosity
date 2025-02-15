@@ -1,0 +1,436 @@
+
+[Enchantments]
+
+	[Enchantments.Weapon]
+		#Apoptosis Blade: Wither effect duration per level in seconds
+		#Range: 0 ~ 100
+		apoptosisBladeWitherDuration = 2
+		#Cluster Awareness: The damage increased by each surrounding creature
+		#Range: 0.0 ~ 1024.0
+		clusterAwarenessDamage = 0.03
+		#Cluster Awareness: The range radius used to obtain organisms
+		#Range: 0 ~ 100
+		clusterAwarenessRadius = 12
+		#Death Blade: Can increase attack damage equivalent to the maximum life of the target
+		#Range: 0.0 ~ 1.0
+		deathBladePercentDamage = 0.008
+		#Death Blow: How much critical damage attribute can be increased
+		#Range: 0.0 ~ 1024.0
+		deathBlowAttribute = 0.25
+		#Destruction Crack: How many seconds of destructive effect can be given to the target
+		#Range: 0 ~ 1024
+		destructionCrackDuration = 5
+		#Fierce Slash: How much damage can each level increase
+		#Range: 0.0 ~ 1024.0
+		fierceSlashDamage = 0.08
+		#Hidden Blade: How much damage can each level increase
+		#Range: 0.0 ~ 1024.0
+		hiddenBladeDamage = 0.1
+		#Knight Slash: How much damage can each level increase
+		#Range: 0.0 ~ 1024.0
+		knightSlashDamage = 0.15
+		#Light Armor Killer: When the target armor is below what level, it can trigger the damage enhancement effect
+		#Range: 0 ~ 100
+		lightArmorKillerArmor = 8
+		#Light Armor Killer: How much damage can each level increase
+		#Range: 0.0 ~ 1024.0
+		lightArmorKillerDamage = 0.25
+		#Magic Blade: How much additional magic damage can each level deal
+		#Range: 0.0 ~ 1024.0
+		magicBladeDamage = 0.2
+		#Misfortune Blade: How much damage can each level increase
+		#Range: 0.0 ~ 1024.0
+		misfortuneBladeDamage = 0.12
+		#Quenched Blade: How much damage can the combustion time increase every 1 second
+		#Range: 0.0 ~ 1024.0
+		quenchedBladeDamagePerSecond = 0.008
+		#Quenched Blade: What is the maximum amount of combustion time that can increase damage
+		#Range: 0 ~ 1024
+		quenchedBladeMaxFire = 60
+		#Quick Step Puncture: How much damage can each level increase
+		#Range: 0.0 ~ 1024.0
+		quickStepPunctureDamage = 0.16
+		#Quick Step Puncture: How much force will be used to repel the target
+		#Range: 0.0 ~ 1024.0
+		quickStepPunctureKnockback = 0.3
+		#Revenge: How much damage can each level increase
+		#Range: 0.0 ~ 1024.0
+		revengeDamage = 0.08
+		#Shadow Touch: When the brightness is below what level, it will trigger additional damage
+		#Range: 1 ~ 15
+		shadowTouchBrightness = 5
+		#Shadow Touch: How many additional Abyss damage can be caused
+		#Range: 0 ~ 1024
+		shadowTouchDamage = 2
+		#Suppression Blade: Suppressed effect duration per level in seconds
+		#Range: 0 ~ 1024
+		suppressionBladeEffectDuration = 10
+		#Unstable Blade: What is the probability of triggering additional damage
+		#Range: 0.0 ~ 1.0
+		unstableBladeChance = 0.1
+		#Unstable Blade: How much damage can each level increase
+		#Range: 0.0 ~ 1024.0
+		unstableBladeDamage = 0.25
+		#Upward Pick: Levitation effect duration per level in seconds
+		#Range: 0 ~ 1024
+		upwardPickEffectDuration = 1
+		#Vampire Slash: How many attack damage points can you heal after an attack
+		#Range: 0.0 ~ 10.0
+		vampireSlashHealRate = 0.1
+		#Void Chain: Causing damage equivalent to attack damage to targets around the target
+		#Range: 0.0 ~ 10.0
+		voidChainSpread = 0.1
+		#Void Chain: What radius will the attack cause damage to the target within
+		#Range: 0 ~ 1024
+		voidChainRadius = 6
+		#Words Of Wisdom: How much attack damage can each experience level increase
+		#Range: 0.0 ~ 1024.0
+		wordsOfWisdomDamage = 0.002
+		#Words Of Wisdom: What is the maximum experience level that can be calculated
+		#Range: 0 ~ 4096
+		wordsOfWisdomMaxLevel = 300
+
+	[Enchantments.Armor]
+		#Abyssal Contact: Abyss damage reduction
+		#Range: 0.0 ~ 1.0
+		abyssalContactReduction = 0.06
+		#Abyssal Contact: Other damage amplification
+		#Range: 0.0 ~ 10.0
+		abyssalContactAmplification = 0.12
+		#Celestial Shelter: Max damage to take as percentage of max health
+		#Range: 0.0 ~ 1.0
+		celestialShelterDamageCap = 0.25
+		#Corruption Body: Duration of corruption in seconds to inflict to attacker
+		#Range: 0 ~ 600
+		corruptionBodyDuration = 30
+		#Corrupt Scholar: Duration of negative effects to get when pick up exp orbs
+		#Range: 0 ~ 600
+		corruptScholarDuration = 5
+		#Corrupt Scholar: Chance per level to get negative effects when pick up exp orbs
+		#Range: 0.0 ~ 1.0
+		corruptScholarChance = 0.25
+		#Corrupt Scholar: Exp pickup bonus per level
+		#Range: 0.0 ~ 1.0
+		corruptScholarExpBonus = 0.8
+		#Dimension Explorer: Duration of effects in seconds to gain
+		#Range: 0 ~ 600
+		dimensionExplorerDuration = 60
+		#Echo Effect: Percentage of max health to heal
+		#Range: 0.0 ~ 1.0
+		echoEffectHeal = 0.05
+		#Echo Effect: Cool down of totem effect
+		#Range: 0 ~ 60000
+		echoEffectCooldown = 600
+		#Eyes in Shadows: maximum light level to give Night Vision
+		#Range: 0 ~ 15
+		eyesInShadowsMaxLight = 5
+		#Fireproof Boots: fire damage reduction
+		#Range: 0.0 ~ 1.0
+		fireproofBootsReduction = 0.85
+		#Flame Strike: duration of fire per level to inflict
+		#Range: 0 ~ 600
+		flameStrikeDuration = 2
+		#Fleet of Foot: speed bonus
+		#Range: 0.0 ~ 1.0
+		fleetOfFootSpeed = 0.1
+		#Frost Thorn: thorn damage
+		#Range: 0 ~ 100
+		frostThornDamage = 1
+		#Frost Thorn: duration per level to slow down
+		#Range: 0 ~ 600
+		frostThornDuration = 2
+		#Gift of Thunder God: percentage of lost health to heal per level
+		#Range: 0.0 ~ 1.0
+		giftOfThunderGodHeal = 0.1
+		#Gift of Thunder God: duration of effects to gain
+		#Range: 0 ~ 600
+		giftOfThunderGodDuration = 10
+		#Have a Nice Dream: duration of effects to gain
+		#Range: 0 ~ 600
+		haveANiceDreamDuration = 60
+		#Knowledge Scholar: Exp pickup bonus
+		#Range: 0.0 ~ 1.0
+		knowledgeScholarExpBonus = 0.1
+		#Life Shield: Absorption healing percentage
+		#Range: 0.0 ~ 1.0
+		lifeShieldPercentage = 0.2
+		#Origin of Life: Duration of positive effects to get when healing
+		#Range: 0 ~ 600
+		originOfLifeDuration = 5
+		#Origin of Life: Chance per level to get positive effects when healing
+		#Range: 0.0 ~ 1.0
+		originOfLifeChance = 0.1
+		#Potion Affinity: Effect duration extionsion per level
+		#Range: 0.0 ~ 1.0
+		potionAffinityExtension = 0.15
+		#Solid Armor: Damage reduction per level
+		#Range: 0.0 ~ 1.0
+		solidArmorReduction = 0.03
+		#Trauma Absorption: Healing per level
+		#Range: 0.0 ~ 1.0
+		traumaAbsorptionHeal = 0.04
+		#Void Protection: Void damage reduction per level
+		#Range: 0.0 ~ 1.0
+		voidProtectionReduction = 0.04
+		#Death Hatred: Damage for surrounding mobs
+		#Range: 0 ~ 100
+		deathHatredDamage = 15
+		#Death Hatred: Radius for damaging surrounding mobs
+		#Range: 0 ~ 24
+		deathHatredRadius = 6
+		#Death Pack: Duration in seconds for positive effects
+		#Range: 0 ~ 100
+		deathPackDuration = 10
+		#Death Pack: Chance of not dying together
+		#Range: 0.0 ~ 1.0
+		deathPackChance = 0.2
+		#Death Pack: Radius for detection
+		#Range: 0 ~ 24
+		deathPackRadius = 12
+		#Parting Wish: Percentage of max health to heal
+		#Range: 0.0 ~ 1.0
+		partingWishHeal = 0.3
+		#Parting Wish: Radius for detection
+		#Range: 0 ~ 24
+		partingWishRadius = 12
+		#The Source of Sin: Chance of redirecting anger
+		#Range: 0.0 ~ 1.0
+		theSourceOfSinChance = 0.1
+		#The Source of Sin: Radius for detection
+		#Range: 0 ~ 24
+		theSourceOfSinRadius = 3
+		#Destroy Resonance: Damage as percentage of incoming damage to deal
+		#Range: 0.0 ~ 1.0
+		destroyResonanceDamage = 0.1
+		#Destroy Resonance: Radius for damage
+		#Range: 0 ~ 24
+		destroyResonanceRadius = 6
+
+	[Enchantments.Bow]
+		#Sharp Arrow: How much damage can arrows increase
+		#Range: 0.0 ~ 1024.0
+		sharpArrowDamage = 0.2
+		#Morning Star: What is the probability of summoning lightning
+		#Range: 0.0 ~ 1.0
+		morningStarChance = 0.25
+		#Divine Projection: How much damage can each grid distance increase for arrows
+		#Range: 0.0 ~ 1.0
+		divineProjectionDamage = 0.03
+		#Burst Arrow: What is the probability of an explosion occurring
+		#Range: 0.0 ~ 1.0
+		burstArrowChance = 0.2
+		#Burst Arrow: How much explosive strength will it cause
+		#Range: 0 ~ 100
+		burstArrowStrength = 3
+		#Arrow Storm: Will cause damage equivalent to the original damage to targets around the target
+		#Range: 0.0 ~ 100.0
+		arrowStormDamage = 0.1
+		#Arrow Storm: What radius of target will it cause damage to
+		#Range: 0 ~ 100
+		arrowStormRadius = 5
+
+	[Enchantments.Shield]
+		#Scorching Shield: How long will a blocking attack cause the attacker to burn
+		#Range: 0 ~ 1024
+		scorchingShieldFireTime = 20
+		#Reactive Block: How much force will be used to repel the attacker after blocking the attack
+		#Range: 0 ~ 100
+		reactiveBlockKnockback = 1
+		#Holy Shield: How many seconds of damage absorption effect will be obtained after blocking an attack
+		#Range: 0 ~ 1024
+		holyShieldEffectDuration = 5
+		#Constraints Shield: How many times will the enchantment effect be triggered after blocking
+		#Range: 0 ~ 100
+		constraintsShieldPrepare = 4
+		#Constraints Shield: Will cause damage equivalent to how much block damage to the attacker
+		#Range: 0.0 ~ 1024.0
+		constraintsShieldDamageMult = 0.2
+
+	[Enchantments.Trident]
+		#Explosive Halberd: Chance per level to cause explosion
+		#Range: 0.0 ~ 1.0
+		explosiveHalberdChance = 0.2
+		#Explosive Halberd: Explosion level (3 = Creeper)
+		#Range: 1 ~ 10
+		explosiveHalberdExplosionLevel = 3
+		#Sharp Halberd: Damage bonus per level
+		#Range: 0.0 ~ 1.0
+		sharpHalberdBonus = 0.2
+
+	[Enchantments.Tool]
+		#Accelerate Growth: durability cost of fertilizing crops
+		#Range: 0 ~ 10000
+		accelerateGrowthDurabilityCost = 20
+		#Born in Shadow: Interval in seconds to recover durability
+		#Range: 1 ~ 1000
+		bornInShadowInterval = 10
+		#Born in Shadow: Max brightness to recover durability
+		#Range: 0 ~ 15
+		bornInShadowMaxLight = 5
+		#Born in Shadow: Durability to recover per level
+		#Range: 0 ~ 1000
+		bornInShadowRecover = 1
+		#Photo Dynamic: Min brightness to boost mining speed
+		#Range: 0 ~ 15
+		photoDynamicMinLight = 10
+		#Photo Dynamic: Mining speed bonus per level
+		#Range: 0.0 ~ 10.0
+		photoDynamicSpeedBonus = 0.12
+		#Photosynthesis: Interval in seconds to recover durability
+		#Range: 1 ~ 1000
+		photosynthesisInterval = 10
+		#Photosynthesis: Min brightness to recover durability
+		#Range: 0 ~ 15
+		photosynthesisMinLight = 10
+		#Photosynthesis: Durability to recover per level
+		#Range: 0 ~ 1000
+		photosynthesisRecover = 1
+
+	[Enchantments.Curse]
+		#Curse of Corrosion: time interval in seconds between durability lost
+		#Range: 1 ~ 100
+		curseOfCorrosionInterval = 5
+		#Curse of Corrosion: durability lost per level per time interval
+		#Range: 1 ~ 100
+		curseOfCorrosionDurabilityLost = 1
+		#Curse of Weakness: Attack lost per level
+		#Range: 0.0 ~ 0.2
+		curseOfWeaknessAttackLost = 0.15
+		#Destruction Curse: explosion damage amplification per level
+		#Range: 0.0 ~ 10.0
+		destructionCurseExplosion = 0.4
+		#Destruction Curse: other damage amplification per level
+		#Range: 0.0 ~ 10.0
+		destructionCurseOther = 0.25
+		#Curse of Gravity: attack speed lost per level
+		#Range: 0.0 ~ 0.2
+		curseOfGravityAttackSpeedLost = 0.1
+		#Curse of Illiteracy: exp lost per level
+		#Range: 0.0 ~ 0.33
+		curseOfIlliteracyExpLost = 0.15
+		#Powerless Curse: Mining speed lost per level
+		#Range: 0.0 ~ 0.2
+		powerlessCurseMiningSpeedLost = 0.15
+		#Curse of Withering: max health lost per level per piece
+		#Range: 0.0 ~ 0.25
+		curseOfWitheringHealthLost = 0.05
+
+[Table]
+	#Tool Enchantment Affinity gives extra rounds of enchanting.
+	#This value determines chance per affinity to gain extra rounds
+	#Common tool and armor affinity is 15, and gold is 22-25
+	#Range: 0.0 ~ 1.0
+	extraRollPerAffinity = 0.1
+	#Tool Enchantment Affinity gives extra weight to enchantments, making rare enchantments more frequent.
+	#This value determines extra weight per affinity. Default weights for enchantments are 1-10
+	#Common tool and armor affinity is 15, and gold is 22-25
+	#Range: 0.0 ~ 10.0
+	extraWeightPerAffinity = 0.1
+	#Chance for book to gain Curse enchantments
+	#Range: 0.0 ~ 1.0
+	bookCurseChance = 0.15
+	#Tool Enchantment Affinity reduce the chance to have curse enchantments.
+	#This value determines the affinity value where there will be no curse at all, before weight reductions (see below)
+	#Common tool and armor affinity is 15, and gold is 22-25
+	#Range: 0 ~ 100
+	noCurseAffinity = 30
+	#Chance for gears to gain Curse enchantments, per points of affinity lower than noCurseAffinity
+	#Note that Advanced enchanting has 2x chance, and Legendary has 3x chance to get Curse
+	#Range: 0.0 ~ 1.0
+	baseCurseChance = 0.01
+	#Extra weights for enchantments will also reduce curse chance
+	#This value determines how much curse chance to decrease per additional weight
+	#Range: 0.0 ~ 1.0
+	weightCurseReduction = 0.02
+	#Maximum chance for items to be enchanted with curse (per rank)
+	#Advanced enchanting will have 2x chance, and legendary will have 3x chance
+	#Range: 0.0 ~ 1.0
+	maxCurseChancePerRank = 0.15
+	#Chaotic Pendant from Celestial Artifacts gives 3 extra enchantment levels, but it also gives extra weights
+	#This value determines how much weight it will give to enchantments. It also helps reducing curse enchantment chance
+	#Range: 0 ~ 100
+	chaoticPendantWeightBonus = 10
+
+[Toggles]
+	withering_blade = true
+	upward_pick = true
+	vampire_slash = true
+	unstable_blade = true
+	fierce_slash = true
+	revenge = true
+	hidden_blade = true
+	misfortune_blade = true
+	knight_slash = true
+	fatal_blow = true
+	light_armor_killer = true
+	quick_step_puncture = true
+	cluster_awareness = true
+	quenched_blade = true
+	words_of_wisdom = true
+	destruction_crack = true
+	suppression_blade = true
+	death_blade = true
+	magic_blade = true
+	void_chain = true
+	shadow_touch = true
+	hand_of_thief = true
+	void_protection = true
+	abyssal_contact = true
+	solid_armor = true
+	flame_strike = true
+	destroy_resonance = true
+	frost_thorns = true
+	trauma_absorption = true
+	eyes_in_the_shadows = true
+	have_a_nice_dream = true
+	corrupt_scholar = true
+	knowledge_scholar = true
+	moon_blessing = true
+	sun_blessing = true
+	rain_and_dew_grace = true
+	gift_of_thunder_god = true
+	the_source_of_sin = true
+	echo_effect = true
+	origin_of_life = true
+	life_shield = true
+	turtle_assimilation = true
+	celestial_shelter = true
+	potion_affinity = true
+	pure_body = true
+	dolphin_assimilation = true
+	leopard_assimilation = true
+	corruption_body = true
+	holy_prayer = true
+	dimension_explorer = true
+	fireproof_boots = true
+	fleet_of_foot = true
+	rabbit_assimilation = true
+	parting_wish = true
+	death_hatred = true
+	death_pact = true
+	arrow_of_traction = true
+	arrow_storm = true
+	explosive_arrow = true
+	lightning_arrow = true
+	sharp_arrow = true
+	divine_projection = true
+	constraints_shield = true
+	holy_shield = true
+	reactive_block = true
+	scorching_shield = true
+	sharp_halberd_tip = true
+	explosive_halberd = true
+	photo_dynamic = true
+	accelerate_growth = true
+	born_in_shadow = true
+	photosynthesis = true
+	destruction_curse = true
+	overeating_curse = true
+	curse_of_weakness = true
+	powerless_curse = true
+	dragging_curse = true
+	curse_of_gravity = true
+	curse_of_withering = true
+	curse_of_illiteracy = true
+	cures_of_corrosion = true
+

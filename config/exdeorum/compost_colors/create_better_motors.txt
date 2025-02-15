@@ -1,0 +1,15 @@
+// Compost colors for create_better_motors. You may add your own colors, change existing ones, or remove colors that aren't needed.
+copper_coil, #f17966
+copper_wire, #a76143
+diamond_wire, #5c8670
+empty_coil, #553719
+golden_coil, #ffc233
+golden_wire, #a4752a
+iron_coil, #ababab
+iron_wire, #7d6b58
+lava_quartz, #ffffbe
+link_tube, #cacab4
+polished_lava_quartz, #ffff8e
+reggarfonite_coil, #61cdd0
+reggarfonite_gem, #8affff
+reggarfonite_sheet, #70f7f8

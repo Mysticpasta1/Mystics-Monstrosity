@@ -1,0 +1,5 @@
+// Compost colors for create_connected. You may add your own colors, change existing ones, or remove colors that aren't needed.
+control_chip, #faaa23
+incomplete_control_chip, #ffde52
+music_disc_elevator, #3a6973
+music_disc_interlude, #58754d

@@ -1,0 +1,2 @@
+// Compost colors for rgbblocks. You may add your own colors, change existing ones, or remove colors that aren't needed.
+paint_bucket, #9b9b9b

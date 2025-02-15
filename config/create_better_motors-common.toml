@@ -1,0 +1,136 @@
+#Responsible for how much energy is generated per 1 stress unit in a tick
+#Default value is supposed to be compatible with default configuration of Create: Better Motors
+#Range: 0.0 ~ 1.7976931348623157E308
+suToEnergy = 0.029296875
+#Multiplier of wire conductivity
+#Range: 0.0 ~ 1.7976931348623157E308
+conductivityMultiplier = 1.0
+#Maximum depth of network pathfinding
+#Range: > 1
+maxPathfindingDepth = 32
+#Maximum wire length
+#Range: > 1
+maxWireLength = 16
+
+#Make sure config changes are duplicated on both Clients and the Server when running a dedicated Server,
+# as the config isnt synced between Clients and Server.
+#Alternator
+[alternator]
+	#Alternator max input in ⚡ (Energy transfer, not generation).
+	#Range: > 0
+	generator_max_output = 5000
+	#Alternator internal capacity in ⚡.
+	#Range: > 0
+	generator_capacity = 5000
+	#Alternator efficiency relative to base conversion rate.
+	#Range: 0.01 ~ 3.0
+	generator_efficiency = 0.75
+	#Forge Energy conversion rate (in ⚡/t at 256 RPM, value is the ⚡/t generated and consumed is at 256rpm).
+	#Range: > 0
+	"⚡_at_max_rpm" = 609
+	#Max stress for the Alternator and Electric Motor (in SU at 256 RPM).
+	#Range: > 0
+	max_stress = 10000
+	#If audio should be enabled or not.
+	audio_enabled = true
+
+[Motors]
+	#Maximum motor SU multiplier
+	#Range: 0.0 ~ 1.7976931348623157E308
+	motorSuMultiplier = 1.0
+
+	#General Settings
+	[Motors."basic motor"]
+		#Internal energy capacity of an basic motor
+		#Range: > 1
+		"basic MotorCapacity" = 64000
+		#Generated SU of an basic motor
+		#Range: 1.0 ~ 1.7976931348623157E308
+		basicMotorStress = 3024.0
+		#Top Speed of an basic motor
+		#Range: 1.0 ~ 1.7976931348623157E308
+		basicMotorSpeed = 32.0
+
+	#General Settings
+	[Motors."starter motor"]
+		#Internal energy capacity of a starter motor
+		#Range: > 1
+		starterMotorCapacity = 44000
+		#Generated SU of a starter motor
+		#Range: 1.0 ~ 1.7976931348623157E308
+		starterMotorStress = 1028.0
+		#Top Speed of a starter motor
+		#Range: 1.0 ~ 1.7976931348623157E308
+		starterMotorSpeed = 16.0
+
+	#General Settings
+	[Motors."blazing motor"]
+		#Internal energy capacity of a blazing motor
+		#Range: > 1
+		blazingMotorCapacity = 124000
+		#Generated SU of a blazing motor
+		#Range: 1.0 ~ 1.7976931348623157E308
+		blazingMotorStress = 10024.0
+		#Top Speed of a blazing motor
+		#Range: 1.0 ~ 1.7976931348623157E308
+		blazingMotorSpeed = 124.0
+
+	#General Settings
+	[Motors."hardened motor"]
+		#Internal energy capacity of a hardened motor
+		#Range: > 1
+		hardenedMotorCapacity = 84000
+		#Generated SU of a hardened motor
+		#Range: 1.0 ~ 1.7976931348623157E308
+		hardenedMotorStress = 8024.0
+		#Top Speed of a hardened motor
+		#Range: 1.0 ~ 1.7976931348623157E308
+		hardenedMotorSpeed = 64.0
+
+	#General Settings
+	[Motors."niotic motor"]
+		#Internal energy capacity of a niotic motor
+		#Range: > 1
+		nioticMotorCapacity = 164000
+		#Generated SU of a niotic motor
+		#Range: 1.0 ~ 1.7976931348623157E308
+		nioticMotorStress = 100024.0
+		#Top Speed of a niotic motor
+		#Range: 1.0 ~ 1.7976931348623157E308
+		nioticMotorSpeed = 148.0
+
+	#General Settings
+	[Motors."spirited motor"]
+		#Internal energy capacity of a spirited motor
+		#Range: > 1
+		" spiritedMotorCapacity" = 224000
+		#Generated SU of a spirited motor
+		#Range: 1.0 ~ 1.7976931348623157E308
+		" spiritedMotorStress" = 300024.0
+		#Top Speed of a spirited motor
+		#Range: 1.0 ~ 1.7976931348623157E308
+		spiritedMotorSpeed = 200.0
+
+	#General Settings
+	[Motors."nitro motor"]
+		#Internal energy capacity of a nitro motor
+		#Range: > 1
+		" nitroMotorCapacity" = 524000
+		#Generated SU of a nitro motor
+		#Range: 1.0 ~ 1.7976931348623157E308
+		" spiritedMotorStress" = 600024.0
+		#Top Speed of a nitro motor
+		#Range: 1.0 ~ 1.7976931348623157E308
+		nitroMotorSpeed = 256.0
+
+[accumulator]
+	#Internal energy capacity of a accumulator
+	#Range: > 1
+	" AccumulatorCapacity" = 40000000
+	#Internal energy Max Receive of a accumulator
+	#Range: > 1
+	" MaxReceive" = 40384
+	#Internal energy Max Extract of a accumulator
+	#Range: > 1
+	" MaxExtract" = 40384
+

@@ -1,0 +1,14 @@
+// Compost colors for bloodmagicdelight. You may add your own colors, change existing ones, or remove colors that aren't needed.
+combinationalcaralyst_juice, #c3f5c2
+combinationalcatalyst_jem, #d4ffe8
+lavacrystal_stew, #d79352
+pasta_with_lavacrystal, #dc985e
+soul_knife, #8dfef7
+strong_tau_cookie, #ffcf5c
+strong_tau_ice_cream, #ffeb20
+strong_tau_jem, #ffffae
+strong_tau_pie, #e37032
+tau_fruit_pie, #c5223e
+tau_stew, #c22f11
+weak_tau_cookie, #ffa75e
+weak_tau_ice_cream, #ff2d22

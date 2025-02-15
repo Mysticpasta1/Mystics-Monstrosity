@@ -1,0 +1,18 @@
+
+["Spore Blossoms Pollinate"]
+	#1 : X chance to grow the crop.
+	#Range: 0 ~ 10000
+	"Random Crop Grow Chance" = 1
+	#1 : X chance to grow the crop's neighbors.
+	#Range: 0 ~ 10000
+	"Random Crop Neighbor Grow Chance" = 3
+	#How far to check upwards for the spore blossom.
+	#Range: 0 ~ 16
+	"Max Spore Blossom Height" = 5
+	#How far to check sideways for the spore blossom.
+	#Range: 0 ~ 16
+	"Max Spore Blossom Horizontal Range" = 4
+	#How far should this crop check for neighboring crops.
+	#Range: 0 ~ 10
+	"Pollinate Neighbor Check" = 4
+

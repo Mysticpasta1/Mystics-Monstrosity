@@ -1,0 +1,32 @@
+#Color of the book text. Default: FF7B593D
+MainFontColor = "FF7B593D"
+#Color of the secondary text (page numbers, etc). Default: FFEFE4CA
+SecondaryFontColor = "FFEFE4CA"
+
+[WritableBookScreen]
+	#Show 'Done' button in the Scholar book edit screen. Default: false
+	ShowDoneButton = false
+	#Singleplayer game will be paused when book edit screen is open.
+	#This will affect vanilla book edit screen as well
+	#Set to 'true' to restore vanilla behavior.
+	#Default: false
+	Pause = false
+
+[WrittenBookScreen]
+	#Show 'Done' button in the Scholar book view screen. Default: false
+	ShowDoneButton = false
+	#Singleplayer game will be paused when book view screen is open.
+	#This will affect vanilla book view screen as well
+	#Set to 'true' to restore vanilla behavior.
+	#Default: false
+	Pause = false
+
+[LecternScreen]
+	#Show 'Done' button in the Scholar lectern screen. Default: false
+	ShowDoneButton = false
+	#Singleplayer game will be paused when lectern screen is open.
+	#This will affect vanilla lectern screen as well
+	#Set to 'true' to restore vanilla behavior.
+	#Default: false
+	Pause = false
+

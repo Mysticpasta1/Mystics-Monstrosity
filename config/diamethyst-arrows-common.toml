@@ -1,0 +1,146 @@
+
+#Diamethyst Web Arrow
+[diamethyst_web_arrow]
+	#Arrow damage [default: 3.0]
+	#Range: 1.0 ~ 10.0
+	diamethystWebArrowDamage = 3.0
+	#Slowness duration [default: 5]
+	#Range: 1 ~ 60
+	diamethystWebArrowSlownessDuration = 5
+	#Slowness level [default: 2]
+	#Range: 0 ~ 4
+	diamethystWebArrowSlownessLevel = 2
+
+#Diamethyst Weeping Arrow
+[diamethyst_weeping_arrow]
+	#Arrow damage [default: 3.0]
+	#Range: 1.0 ~ 10.0
+	diamethystWeepingArrowDamage = 3.0
+	#Confusion duration [default: 5]
+	#Range: 1 ~ 60
+	diamethystWeepingArrowConfusionDuration = 5
+	#Poison duration [default: 5]
+	#Range: 1 ~ 60
+	diamethystWeepingArrowPoisonDuration = 5
+	#Slowness level [default: 2]
+	#Range: 0 ~ 4
+	diamethystWeepingArrowPoisonLevel = 2
+	#Weakness duration [default: 5]
+	#Range: 1 ~ 60
+	diamethystWeepingArrowWeaknessDuration = 5
+	#Weakness level [default: 2]
+	#Range: 0 ~ 4
+	diamethystWeepingArrowWeaknessLevel = 2
+
+#Diamethyst Wither Arrow
+[diamethyst_wither_arrow]
+	#Arrow damage [default: 3.0]
+	#Range: 1.0 ~ 10.0
+	diamethystWitherArrowDamage = 3.0
+	#Wither duration [default: 5]
+	#Range: 1 ~ 60
+	diamethystWitherArrowWitherDuration = 5
+	#Wither level [default: 0]
+	#Range: 0 ~ 4
+	diamethystWitherArrowWitherLevel = 0
+
+	#Wither Skeleton Options
+	[diamethyst_wither_arrow.wither_skeleton_options]
+		#Enable wither skeleton damage [default: true]
+		diamethystWitherArrowEnableBonusWitherSkeletonDamage = true
+		#Wither skeleton damage [default: 8.0]
+		#Range: 1.0 ~ 20.0
+		diamethystWitherArrowBonusWitherSkeletonDamage = 8.0
+
+	#Wither Cloud Options
+	[diamethyst_wither_arrow.wither_cloud_options]
+		#Enable wither cloud [default: true]
+		diamethystWitherArrowEnableWitherCloud = true
+		#Cloud duration [default: 10]
+		#Range: 1 ~ 30
+		diamethystWitherArrowWitherCloudDuration = 10
+		#Cloud radius [default: 3.0]
+		#Range: 0.0 ~ 10.0
+		diamethystWitherArrowWitherCloudRadius = 3.0
+		#Cloud effect duration [default: 15]
+		#Range: 1 ~ 60
+		diamethystWitherArrowWitherCloudEffectDuration = 15
+		#Cloud effect level [default: 1]
+		#Range: 0 ~ 4
+		diamethystWitherArrowWitherCloudEffectLevel = 1
+
+#Diamethyst Prismarine Arrow
+[diamethyst_prismarine_arrow]
+	#Arrow damage [default: 3.0]
+	#Range: 1.0 ~ 10.0
+	diamethystPrismarineArrowDamage = 3.0
+
+	#Bonus Water Damage Options
+	[diamethyst_prismarine_arrow.bonus_water_damage_options]
+		#Enable extra water damage [default: true]
+		diamethystPrismarineArrowEnabledBonusWaterDamage = true
+		#Bonus water damage [default: 8.0]
+		#Range: 0.0 ~ 20.0
+		diamethystPrismarineArrowBonusWaterDamage = 8.0
+
+#Diamethyst Smoke Arrow
+[diamethyst_smoke_arrow]
+	#Arrow damage [default: 3.0]
+	#Range: 1.0 ~ 10.0
+	diamethystSmokeArrowDamage = 3.0
+
+#Diamethyst Water Arrow
+[diamethyst_water_arrow]
+	#Arrow damage [default: 3.0]
+	#Range: 1.0 ~ 10.0
+	diamethystWaterArrowDamage = 3.0
+
+#Diamethyst Lava Arrow
+[diamethyst_lava_arrow]
+	#Arrow damage [default: 3.0]
+	#Range: 1.0 ~ 10.0
+	diamethystLavaArrowDamage = 3.0
+
+#Diamethyst Water Sponge Arrow
+[diamethyst_water_sponge_arrow]
+	#Arrow damage [default: 3.0]
+	#Range: 1.0 ~ 10.0
+	diamethystWaterSpongeArrowDamage = 3.0
+
+#Diamethyst Lava Sponge Arrow
+[diamethyst_lava_sponge_arrow]
+	#Arrow damage [default: 3.0]
+	#Range: 1.0 ~ 10.0
+	diamethystLavaSpongeArrowDamage = 3.0
+
+#Diamethyst Glow Arrow
+[diamethyst_glow_arrow]
+	#Arrow damage [default: 3.0]
+	#Range: 1.0 ~ 10.0
+	diamethystGlowArrowDamage = 3.0
+	#Enable glowing effect [default: true]
+	diamethystGlowArrowEnableGlowEffect = true
+
+#Diamethyst Dragon Breath Arrow
+[diamethyst_dragon_breath_arrow]
+	#Arrow damage [default: 3.0]
+	#Range: 1.0 ~ 10.0
+	diamethystDragonBreathArrowDamage = 3.0
+
+	#Dragon Breath Cloud Options
+	[diamethyst_dragon_breath_arrow.wither_cloud_options]
+		#Enable dragon breath cloud [default: true]
+		diamethystDragonBreathArrowEnableCloud = true
+		#Cloud duration [default: 20]
+		#Range: 1 ~ 40
+		diamethystDragonBreathArrowCloudDuration = 20
+		#Cloud radius [default: 6.0]
+		#Range: 0.0 ~ 20.0
+		diamethystDragonBreathArrowCloudRadius = 6.0
+		#Cloud effect duration [default: 15]
+		#Range: 1 ~ 60
+		diamethystDragonBreathArrowCloudEffectDuration = 15
+		#Cloud effect level [default: 1]
+		#Range: 0 ~ 4
+		diamethystDragonBreathArrowCloudEffectLevel = 1
+

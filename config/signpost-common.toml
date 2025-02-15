@@ -1,0 +1,31 @@
+
+[world_gen_defaults]
+	#Enables the generation of signposts and waystones in villages
+	enable_generation = true
+	#Defines whether village signposts can have any waystones as destination or just the ones generated in other villages
+	only_target_other_villages = true
+	#The maximum number of signposts that can spawn in one village. Will be ignored for 'Repurposed Structures' villages, use data packs for that.
+	#Range: > 0
+	max_signposts_per_village = 2
+	#Decide what waystone models are generated in villages
+	#You can look up the model names at https://www.curseforge.com/minecraft/mc-mods/signpost/pages/waystone-models
+	allowed_waystone_models = ["simple_0", "simple_1", "simple_2", "detailed_0", "detailed_1"]
+	#Disables generator blocks/signs being replaced with actual ones and makes them visible. Only enable this if you want to design structures with auto generated waystones / sign posts
+	debug_mode = false
+
+	[world_gen_defaults.naming]
+		#The names of waystones generated in villages will consist of a prefix, an infix and a postfix, each randomly selected from these lists.
+		#e.g.: If "tol ", "ker" and "dra" are selected, the name will be "Tol Kerdra"
+		#Here are some language-specific examples:
+		#english:
+		#village_name_prefixes = ["", "", "", "", "", "", "", "", "", "", "", "little ", "grand ", "St ", "new "]
+		#village_name_infixes = ["black", "bow", "long", "cal", "glen", "elk", "taylors", "man", "spring", "cats", "brad", "leakes", "singers", "thorn", "lake", "burn", "chip", "brace", "raven", "middle"]
+		#village_name_postfixes = ["ville", "bridge", "ham", " island", "cester", "water", "town", " creek", " valley", "view", "bury", "burgh", "ington", "field", "dale", " port", "worth", "sey", "don", "pool", "wood", "ley", "ford", " hill", "gate"]
+		#german:
+		#village_name_prefixes = ["", "", "", "", "klein", "groß", "nieder", "ober", "bad ", "hinter", "neu "]
+		#village_name_infixes = ["", "sege", "mühl", "sängers", "bach", "stein", "holz", "würz", "höch", "wolfs", "katz", "hunds", "lauter", "hildes", "heides", "ochsen", "ochs", "königs", "neu", "schafs", "rotten", "ger", "schweins", "frank", "hexen", "münch", "ber", "see", "freuden"]
+		#village_name_postfixes = ["heim", "stadt", "stedt", "berg", "tal", "hausen", "dorf", "ingen", "burg", "furt", "haven", "feld", "felde", "brück", "brücken", "kirch", "horn", "brunn", "loch", "fluch", "en", "beck", "end", "walde", "wind", "garten", "ach", "au", "hofen"]
+		village_name_prefixes = ["ak", "dev", "dol ", "ed", "il", "og", "por", "rov", "tek ", "tar", "tol ", "ves", ""]
+		village_name_infixes = ["do ", "en", "go", "na", "nah ", "ker", "ol", "ora", "ra", "rem", "ro"]
+		village_name_postfixes = ["ar", "blo", "bo", "bro", "do", "dra", "er", "ker", "lia", "tek"]
+

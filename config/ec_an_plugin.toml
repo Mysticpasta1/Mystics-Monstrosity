@@ -1,0 +1,148 @@
+[netherite_iron]
+equipSound = "minecraft:item.armor.equip_netherite"
+mendingBonus = 0.3
+fireResistant = true
+quiverSlots = 11
+
+[netherite_iron.durability]
+toolDurability = 2281
+bowDurability = 0
+addedShieldDurability = 0
+
+[netherite_iron.enchanting]
+offenseEnchantability = 15
+defenseEnchantability = 15
+
+[netherite_iron.offense]
+addedAttackDamage = 4.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[netherite_iron.defense]
+gauntletArmorAmount = 4
+armorToughness = 3.5
+knockbackResistance = 0.1
+baseProtectionAmmount = 0.0
+afterBasePercentReduction = 0.0
+
+[netherite_iron.crafting]
+repairItem = ["advancednetherite:netherite_iron_ingot"]
+craftingItem = ""
+isSingleAddition = true
+onlyReplaceResource = []
+smithingTemplate = "minecraft:netherite_upgrade_smithing_template"
+[netherite_gold]
+equipSound = "minecraft:item.armor.equip_netherite"
+mendingBonus = 1.5
+fireResistant = true
+quiverSlots = 12
+
+[netherite_gold.durability]
+toolDurability = 2313
+bowDurability = 0
+addedShieldDurability = 0
+
+[netherite_gold.enchanting]
+offenseEnchantability = 25
+defenseEnchantability = 25
+
+[netherite_gold.offense]
+addedAttackDamage = 4.5
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[netherite_gold.defense]
+gauntletArmorAmount = 4
+armorToughness = 3.5
+knockbackResistance = 0.1
+baseProtectionAmmount = 0.0
+afterBasePercentReduction = 0.0
+
+[netherite_gold.crafting]
+repairItem = ["advancednetherite:netherite_gold_ingot"]
+craftingItem = ""
+isSingleAddition = true
+onlyReplaceResource = []
+smithingTemplate = "minecraft:netherite_upgrade_smithing_template"
+[netherite_emerald]
+equipSound = "minecraft:item.armor.equip_netherite"
+mendingBonus = 0.5
+fireResistant = true
+quiverSlots = 13
+
+[netherite_emerald.durability]
+toolDurability = 2651
+bowDurability = 0
+addedShieldDurability = 0
+
+[netherite_emerald.enchanting]
+offenseEnchantability = 20
+defenseEnchantability = 20
+
+[netherite_emerald.offense]
+addedAttackDamage = 5.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[netherite_emerald.defense]
+gauntletArmorAmount = 4
+armorToughness = 3.5
+knockbackResistance = 0.1
+baseProtectionAmmount = 0.0
+afterBasePercentReduction = 0.0
+
+[netherite_emerald.crafting]
+repairItem = ["advancednetherite:netherite_emerald_ingot"]
+craftingItem = ""
+isSingleAddition = true
+onlyReplaceResource = []
+smithingTemplate = "minecraft:netherite_upgrade_smithing_template"
+[netherite_diamond]
+equipSound = "minecraft:item.armor.equip_netherite"
+mendingBonus = 0.5
+fireResistant = true
+quiverSlots = 14
+
+[netherite_diamond.durability]
+toolDurability = 3092
+bowDurability = 0
+addedShieldDurability = 0
+
+[netherite_diamond.enchanting]
+offenseEnchantability = 15
+defenseEnchantability = 15
+
+[netherite_diamond.offense]
+addedAttackDamage = 5.5
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[netherite_diamond.defense]
+gauntletArmorAmount = 5
+armorToughness = 4.0
+knockbackResistance = 0.1
+baseProtectionAmmount = 0.0
+afterBasePercentReduction = 0.0
+
+[netherite_diamond.crafting]
+repairItem = ["advancednetherite:netherite_diamond_ingot"]
+craftingItem = ""
+isSingleAddition = true
+onlyReplaceResource = []
+smithingTemplate = "minecraft:netherite_upgrade_smithing_template"

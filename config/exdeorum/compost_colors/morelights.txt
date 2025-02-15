@@ -1,0 +1,10 @@
+// Compost colors for morelights. You may add your own colors, change existing ones, or remove colors that aren't needed.
+pyle_headlight, #5b5c61
+skinny_tube_light, #d0c5bb
+small_armored_light, #7a7972
+small_cage_light, #8d938e
+small_edison_bulb, #c6b9af
+small_green_sconce, #c0b56c
+small_light_with_reflector, #c5a486
+small_tube_light, #b1b5af
+yet_another_screwdriver, #ffffff

@@ -1,0 +1,2 @@
+// Compost colors for voidtotem. You may add your own colors, change existing ones, or remove colors that aren't needed.
+totem_of_void_undying, #6e9bff

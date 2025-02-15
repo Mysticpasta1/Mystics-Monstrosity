@@ -1,0 +1,3 @@
+// Compost colors for aetheric_tetranomicon. You may add your own colors, change existing ones, or remove colors that aren't needed.
+phoenix_scrap, #ffac4d
+valkyrian_scrap, #c8dddd

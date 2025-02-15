@@ -1,0 +1,2 @@
+// Compost colors for createsupplementaries. You may add your own colors, change existing ones, or remove colors that aren't needed.
+flax_bread, #b58050

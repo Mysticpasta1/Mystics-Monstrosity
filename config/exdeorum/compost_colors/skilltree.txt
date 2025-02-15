@@ -1,0 +1,24 @@
+// Compost colors for skilltree. You may add your own colors, change existing ones, or remove colors that aren't needed.
+amnesia_scroll, #cdc383
+armored_quiver, #696f73
+arsonist_necklace, #ff9120
+assassin_necklace, #ffaf34
+bone_quiver, #a49a8d
+copper_nugget, #ff8751
+copper_ring, #fb7c52
+diamond_quiver, #6b8dab
+fiery_quiver, #a14d43
+fisherman_necklace, #ffab15
+gem, #b5009d
+gilded_quiver, #b97c48
+golden_ring, #ffd926
+healer_necklace, #ff8a46
+healing_quiver, #b55f9e
+iron_ring, #d0d0d0
+quiver, #7a4134
+scholar_necklace, #e1af34
+silent_quiver, #9b8d9a
+simple_necklace, #ffb80e
+toxic_quiver, #8eae4a
+traveler_necklace, #ffb92c
+wisdom_scroll, #e1ac83

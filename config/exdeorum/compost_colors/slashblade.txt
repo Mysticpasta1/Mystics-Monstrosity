@@ -1,0 +1,16 @@
+// Compost colors for slashblade. You may add your own colors, change existing ones, or remove colors that aren't needed.
+bladestand_1, #907fff
+bladestand_1w, #907fff
+bladestand_2, #907fff
+bladestand_2w, #907fff
+bladestand_s, #907fff
+bladestand_v, #907fff
+proudsoul, #907fff
+proudsoul_activated, #907fff
+proudsoul_awakened, #907fff
+proudsoul_crystal, #907fff
+proudsoul_ingot, #907fff
+proudsoul_sphere, #907fff
+proudsoul_tiny, #907fff
+proudsoul_trapezohedron, #907fff
+slashblade, #907fff

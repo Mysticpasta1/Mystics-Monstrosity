@@ -1,0 +1,16 @@
+{
+  "function": {
+    "Ore Cane Max Height": {
+      "comment": "Control the max height of Ore cane. Default value is 3.",
+      "value": 3
+    },
+    "All Item Mode": {
+      "comment": "Enable All Item Mode.",
+      "value": false
+    },
+    "Enable Bone meal grow ore canes": {
+      "comment": "Enable Bone meal grow ore cane.",
+      "value": false
+    }
+  }
+}

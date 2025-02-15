@@ -1,0 +1,9 @@
+// Compost colors for rpg_better_elder_guardian_1201. You may add your own colors, change existing ones, or remove colors that aren't needed.
+blessed_blade, #9447b5
+blessed_necklace, #b8c0d9
+coocked_elder_meat, #e4d3b9
+elder_guardian_scute, #b2b8ae
+elder_guardian_spike, #58627f
+holy_water, #d3ffff
+raw_elder_meat, #abdae1
+relic_scrap_guardian, #bfcac9

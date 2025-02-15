@@ -1,0 +1,6 @@
+
+#MINECART TWEAKS
+[general]
+	#Set this to true to screw your users with a cart that has friction!
+	useVanillaCart = false
+

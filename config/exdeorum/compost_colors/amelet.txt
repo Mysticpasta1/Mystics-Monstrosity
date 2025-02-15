@@ -1,0 +1,21 @@
+// Compost colors for amelet. You may add your own colors, change existing ones, or remove colors that aren't needed.
+box_amuleto, #cfb2dc
+box_amuleto_super, #cfb2dc
+box_amuleto_ultime, #cfb2dc
+eon_e_totem_of_undying, #e0ab64
+eon_evil_totem_of_undying, #daa150
+eon_totem_of_undying, #e8bb68
+explosive_totem_of_undying, #f0b45c
+ferro_totem_of_undying, #dda255
+flash_ban_totem_of_undying, #e0af62
+ghastly_totem_of_undying, #ffd776
+iron_golem_totem_of_undying, #eeb868
+na_totem_of_undying, #eeb25f
+nutria_totem_of_undying, #eeb961
+reviil_evill_totem_of_undying, #eda555
+reviil_totem_of_undying, #f1a254
+rotting_totem_of_undying, #edaf5b
+skeletal_totem_of_undying, #fbb962
+stinging_totem_of_undying, #cde782
+teleporting_totem_of_undying, #ffb666
+tentacled_totem_of_undying, #ffd275

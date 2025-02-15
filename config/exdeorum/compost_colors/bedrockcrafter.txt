@@ -1,0 +1,5 @@
+// Compost colors for bedrockcrafter. You may add your own colors, change existing ones, or remove colors that aren't needed.
+bedrock_chunk, #575757
+bedrock_door, #656565
+bedrock_glass_pane, #a5a5a5
+bedrock_pickaxe, #645740

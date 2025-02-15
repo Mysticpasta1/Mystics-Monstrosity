@@ -1,0 +1,5 @@
+// Compost colors for wirelessredstone. You may add your own colors, change existing ones, or remove colors that aren't needed.
+circuit, #5c5048
+frequency_sniffer, #d0bebe
+frequency_tool, #ffffff
+remote, #ffffff

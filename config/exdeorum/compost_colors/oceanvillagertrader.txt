@@ -1,0 +1,8 @@
+// Compost colors for oceanvillagertrader. You may add your own colors, change existing ones, or remove colors that aren't needed.
+sea_pickle, #ffffff
+starfish, #1e8cb4
+turtle_armor_boots, #36a048
+turtle_armor_chestplate, #98c279
+turtle_armor_leggings, #37a14a
+turtle_axe, #79af68
+turtle_sword, #46a052

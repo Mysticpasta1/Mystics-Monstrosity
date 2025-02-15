@@ -1,0 +1,2 @@
+// Compost colors for jrftl. You may add your own colors, change existing ones, or remove colors that aren't needed.
+prepared_flesh, #844b32

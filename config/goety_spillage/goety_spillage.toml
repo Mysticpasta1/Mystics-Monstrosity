@@ -1,0 +1,9 @@
+
+[General]
+	#Move where the Freaky Robe indicator is located horizontally from its original position (- = Left, + = Right), Default: 0
+	#Range: > -2147483647
+	freakyGuiHorizontal = 0
+	#Move where the Freaky Robe indicator is located vertically from its original position (- = Up, + = Down), Default: 0
+	#Range: > -2147483647
+	freakyGuiVertical = 0
+

@@ -1,0 +1,2 @@
+// Compost colors for egyptian_decoration_pack. You may add your own colors, change existing ones, or remove colors that aren't needed.
+mod_icon, #fff24e

@@ -1,0 +1,12 @@
+// Compost colors for cataclysm_ut. You may add your own colors, change existing ones, or remove colors that aren't needed.
+aspectoftheend, #910a91
+bottomlesslavabucket, #8e4747
+bottomlesssandbucket, #f2f2a1
+crabbait, #bfcf36
+cursegem, #40ffe8
+hammer, #948386
+lava_absorbant_sponge, #c35c58
+lifefire, #ff9b0e
+mechdrill, #907373
+netheritesummon, #8d6979
+terminus, #fc7a94

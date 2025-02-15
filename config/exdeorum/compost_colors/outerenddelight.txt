@@ -1,0 +1,22 @@
+// Compost colors for outerenddelight. You may add your own colors, change existing ones, or remove colors that aren't needed.
+azure_berries_in_sauce, #738698
+azure_bud_cider, #b1dcff
+azure_cider, #a1c9ff
+azure_pasta, #66ccf8
+cobalt_crystalline_berries_cookie, #ffc58a
+cobalt_crystalline_berries_jem, #deffff
+cobalt_crystalline_berries_shake, #b6e4ff
+end_ham, #665e70
+floral_sauce, #8ca194
+mint_crystalline_berries_cookie, #ffcf7a
+mint_crystalline_berries_jem, #d7ffff
+mint_crystalline_berries_pie, #f4f2aa
+mint_crystalline_berries_shake, #aafffa
+pasta_with_azure, #896c5a
+rose_crystalline_berries_cookie, #ffbf83
+rose_crystalline_berries_jem, #fffeff
+rose_crystalline_berries_shake, #ffcdff
+sinker_tooth_knife, #d9c8a7
+spectragel_ice_cream, #83bbd4
+spectragel_pie, #ddcca5
+spectragle_jem, #b6f7ff

@@ -1,0 +1,9 @@
+{
+  "icon": "9x9.png",
+  "name": "9x9",
+  "authors": [ "Mirality" ],
+  "desc": "Inspired by Direwolf20's favourite building, this looflirpa style allows for both compactness and customisability.",
+  "mods": [ "domum_ornamentum", "structurize", "minecolonies" ],
+  "version": "4",
+  "pack-format": "1"
+}

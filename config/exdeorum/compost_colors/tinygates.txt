@@ -1,0 +1,10 @@
+// Compost colors for tinygates. You may add your own colors, change existing ones, or remove colors that aren't needed.
+tiny_and_gate, #ded9d9
+tiny_clock, #ffffff
+tiny_counter, #fff1f1
+tiny_edge_detector, #ffedeb
+tiny_not_gate, #fffcfc
+tiny_or_gate, #e3dcdc
+tiny_rs_latch, #f1cfcd
+tiny_t_flip_flop, #ffffff
+tiny_xor_gate, #e4dede

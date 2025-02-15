@@ -1,0 +1,5 @@
+// Compost colors for letfishlove. You may add your own colors, change existing ones, or remove colors that aren't needed.
+cod_roe, #f1bb82
+pufferfish_roe, #ffca39
+salmon_roe, #ea5555
+tropical_fish_roe, #ff9d5a

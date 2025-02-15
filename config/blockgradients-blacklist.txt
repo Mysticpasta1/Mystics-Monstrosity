@@ -1,0 +1,6 @@
+minecraft:grass_block
+minecraft:grindstone
+minecraft:big_dripleaf
+minecraft:*_carpet
+mcw*:*
+everycomp:*

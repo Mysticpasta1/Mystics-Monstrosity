@@ -1,0 +1,11 @@
+// Compost colors for pineapple_delight. You may add your own colors, change existing ones, or remove colors that aren't needed.
+pineapple, #fedc1e
+pineapple_crop, #82c90f
+pineapple_fried_rice, #ffd055
+pineapple_ice_cream, #ffffbc
+pineapple_juice, #ffffd0
+pineapple_milk_shake, #ffffdd
+pineapple_pie, #ffd252
+pineapple_pie_side, #ffbb44
+pineapple_side, #ffe339
+pineapple_wild_crop, #82c90f

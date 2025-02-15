@@ -1,0 +1,5 @@
+#If AE2 Inscriber recipes should be remove and replaced with Create Sequenced Assembly recipes
+#instead. This also removes the inscriber crafting recipe, and the recipes for crushing various
+#things in the inscriber as Create has compatibility for these built in.
+overwrite_ae2_recipes = true
+

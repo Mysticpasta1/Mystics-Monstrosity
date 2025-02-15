@@ -1,0 +1,13 @@
+// Compost colors for appmek. You may add your own colors, change existing ones, or remove colors that aren't needed.
+chemical_cell_housing, #656f83
+chemical_storage_cell_16k, #8ce6d3
+chemical_storage_cell_1k, #849ab5
+chemical_storage_cell_256k, #a8d4ff
+chemical_storage_cell_4k, #a7d3be
+chemical_storage_cell_64k, #91e4ff
+creative_chemical_cell, #b1b4ff
+portable_chemical_storage_cell_16k, #a5aec3
+portable_chemical_storage_cell_1k, #b2a1c5
+portable_chemical_storage_cell_256k, #b1a5d6
+portable_chemical_storage_cell_4k, #b8afc2
+portable_chemical_storage_cell_64k, #aaafd6

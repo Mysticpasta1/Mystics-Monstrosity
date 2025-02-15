@@ -1,0 +1,4 @@
+// Compost colors for cataclysmartifacts. You may add your own colors, change existing ones, or remove colors that aren't needed.
+ancient_metal_pendant, #e6c69b
+death_eye, #691f78
+eternal_abyssal_apple, #7f29ff

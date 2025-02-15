@@ -1,0 +1,17 @@
+// Compost colors for ascended_quark. You may add your own colors, change existing ones, or remove colors that aren't needed.
+ambrosium_torch_arrow, #f8eb70
+blue_swet_in_a_bucket, #a1b1be
+blue_swet_in_a_skyroot_bucket, #728278
+conberry_ladder, #bc9478
+cruderoot_ladder, #b6aee3
+golden_swet_in_a_bucket, #c0b896
+golden_swet_in_a_skyroot_bucket, #918a50
+phoenix_flamerang, #bc7648
+quicksoil_framed_glass_pane, #b9ae5e
+quicksoil_glass_shard, #ffeb76
+roseroot_ladder, #fff0f8
+skyroot_ladder, #767555
+slime_in_a_skyroot_bucket, #6e8455
+sunroot_ladder, #fff7d7
+valkyrie_pickarang, #d0cd9d
+yagroot_ladder, #7a6e91

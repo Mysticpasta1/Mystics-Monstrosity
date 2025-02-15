@@ -1,0 +1,21 @@
+
+["Directional Indicator"]
+	# Enables the directional damage indicator
+	"Enable Directional Indicator" = true
+	# Red (0-255)
+	"Directional Indicator Red" = 206
+	# Green (0-255)
+	"Directional Indicator Green" = 0
+	# Blue (0-255)
+	"Directional Indicator Blue" = 37
+	# Alpha (0-255)
+	"Directional Indicator Alpha" = 255
+	# Distance from the center of the screen that the directional damage indicator appears.
+	"Directional Indicator Distance" = 0
+	# Time for damage indicator to show (in ticks)
+	"Indicate Time" = 25
+
+["Damage Text"]
+	# Enables damage text
+	"Enable Damage Text" = true
+

@@ -1,0 +1,1804 @@
+{
+  "entries": [
+    {
+      "item": "create:wheat_flour",
+      "emc": 8
+    },
+    {
+      "item": "create:polished_rose_quartz",
+      "emc": 768
+    },
+    {
+      "item": "create:powdered_obsidian",
+      "emc": 32
+    },
+    {
+      "item": "create:sturdy_sheet",
+      "emc": 128
+    },
+    {
+      "item": "create:zinc_ingot",
+      "emc": 256
+    },
+    {
+      "item": "create:brass_ingot",
+      "emc": 384
+    },
+    {
+      "item": "create:cinder_flour",
+      "emc": 1
+    },
+    {
+      "item": "create:iron_sheet",
+      "emc": 256
+    },
+    {
+      "item": "create:copper_sheet",
+      "emc": 128
+    },
+    {
+      "item": "create:brass_sheet",
+      "emc": 384
+    },
+    {
+      "item": "create:golden_sheet",
+      "emc": 2048
+    },
+    {
+      "item": "create:builders_tea",
+      "emc": 128
+    },
+    {
+      "item": "create:precision_mechanism",
+      "emc": 2528
+    },
+    {
+      "item": "create:blaze_cake_base",
+      "emc": 48
+    },
+    {
+      "item": "create:blaze_cake",
+      "emc": 333
+    },
+    {
+      "item": "create:chocolate_bucket",
+      "emc": 128
+    },
+    {
+      "item": "create:bar_of_chocolate",
+      "emc": 32
+    },
+    {
+      "item": "create:sweet_roll",
+      "emc": 32
+    },
+    {
+      "item": "create:chocolate_glazed_berries",
+      "emc": 40
+    },
+    {
+      "item": "create:honeyed_apple",
+      "emc": 176
+    },
+    {
+      "item": "create:experience_nugget",
+      "emc": 1
+    },
+    {
+      "item": "create:andesite_casing",
+      "emc": 120
+    },
+    {
+      "item": "create:brass_casing",
+      "emc": 416
+    },
+    {
+      "item": "create:copper_casing",
+      "emc": 160
+    },
+    {
+      "item": "create:railway_casing",
+      "emc": 544
+    },
+    {
+      "item": "create:honey_bucket",
+      "emc": 192
+    },
+    {
+      "item": "create:track",
+      "emc": 64
+    },
+    {
+      "item": "minecraft:cobblestone",
+      "emc": 1
+    },
+    {
+      "item": "create:polished_rose_quartz",
+      "emc": 768
+    },
+    {
+      "item": "create:powdered_obsidian",
+      "emc": 32
+    },
+    {
+      "item": "create:sturdy_sheet",
+      "emc": 128
+    },
+    {
+      "item": "create:zinc_ingot",
+      "emc": 256
+    },
+    {
+      "item": "create:brass_ingot",
+      "emc": 384
+    },
+    {
+      "item": "create:cinder_flour",
+      "emc": 1
+    },
+    {
+      "item": "create:iron_sheet",
+      "emc": 256
+    },
+    {
+      "item": "create:copper_sheet",
+      "emc": 128
+    },
+    {
+      "item": "create:brass_sheet",
+      "emc": 384
+    },
+    {
+      "item": "create:golden_sheet",
+      "emc": 2048
+    },
+    {
+      "item": "create:builders_tea",
+      "emc": 128
+    },
+    {
+      "item": "create:precision_mechanism",
+      "emc": 2528
+    },
+    {
+      "item": "create:blaze_cake_base",
+      "emc": 48
+    },
+    {
+      "item": "create:blaze_cake",
+      "emc": 333
+    },
+    {
+      "item": "create:chocolate_bucket",
+      "emc": 128
+    },
+    {
+      "item": "create:bar_of_chocolate",
+      "emc": 32
+    },
+    {
+      "item": "create:sweet_roll",
+      "emc": 32
+    },
+    {
+      "item": "create:chocolate_glazed_berries",
+      "emc": 40
+    },
+    {
+      "item": "create:honeyed_apple",
+      "emc": 176
+    },
+    {
+      "item": "create:experience_nugget",
+      "emc": 1
+    },
+    {
+      "item": "create:andesite_casing",
+      "emc": 120
+    },
+    {
+      "item": "create:brass_casing",
+      "emc": 416
+    },
+    {
+      "item": "create:copper_casing",
+      "emc": 160
+    },
+    {
+      "item": "create:railway_casing",
+      "emc": 544
+    },
+    {
+      "item": "create:honey_bucket",
+      "emc": 288
+    },
+    {
+      "item": "create:track",
+      "emc": 64
+    },
+    {
+      "item": "rootsclassic:redcurrant",
+      "emc": 128
+    },
+    {
+      "item": "rootsclassic:whitecurrant",
+      "emc": 128
+    },
+    {
+      "item": "rootsclassic:blackcurrant",
+      "emc": 128
+    },
+    {
+      "item": "rootsclassic:elderberry",
+      "emc": 128
+    },
+    {
+      "item": "rootsclassic:nightshade",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:milk_bottle",
+      "emc": 8
+    },
+    {
+      "item": "minecraft:glass_bottle",
+      "emc": 1
+    },
+    {
+      "item": "projecte:low_covalence_dust",
+      "emc": 1
+    },
+    {
+      "item": "irons_spellbooks:frozen_bone",
+      "emc": 24
+    },
+    {
+      "item": "twigs:bamboo_leaves",
+      "emc": 1
+    },
+    {
+      "item": "maple:rice",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:stone_slab",
+      "emc": 1
+    },
+    {
+      "item": "#forge:dyes",
+      "emc": 16
+    },
+    {
+      "item": "twigs:twig",
+      "emc": 8
+    },
+    {
+      "item": "wilder_wilds:orange_cosmo_flower",
+      "emc": 16
+    },
+    {
+      "item": "immersiveengineering:seed",
+      "emc": 16
+    },
+    {
+      "item": "simplefarming:cantaloupe_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:amaranth_seeds",
+      "emc": 16
+    },
+    {
+      "item": "simplefarming:peanut_seeds",
+      "emc": 16
+    },
+    {
+      "item": "hexerei:sage_seed",
+      "emc": 16
+    },
+    {
+      "item": "silentgear:stone_rod",
+      "emc": 1
+    },
+    {
+      "item": "extractinator:silt",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:bread",
+      "emc": 72
+    },
+    {
+      "item": "exdeorum:dust",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:cobblestone_slab",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:amethyst_shard",
+      "emc": 1024
+    },
+    {
+      "item": "#forge:fruits",
+      "emc": 128
+    },
+    {
+      "item": "#forge:glass",
+      "emc": 1
+    },
+    {
+      "item": "supplementaries:ash",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:sugar",
+      "emc": 32
+    },
+    {
+      "item": "#forge:mushrooms",
+      "emc": 32
+    },
+    {
+      "item": "croptopia:roe",
+      "emc": 64
+    },
+    {
+      "item": "#minecraft:terracotta",
+      "emc": 64
+    },
+    {
+      "item": "#c:black_glass_panes",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:clay",
+      "emc": 64
+    },
+    {
+      "item": "minecraft:leather",
+      "emc": 64
+    },
+    {
+      "item": "minecraft:netherite_ingot",
+      "emc": 73728
+    },
+    {
+      "item": "jitl:cloudia_planks",
+      "emc": 8
+    },
+    {
+      "item": "gobber2:gobber2_globette",
+      "emc": 1024
+    },
+    {
+      "item": "minecraft:axolotl_bucket",
+      "emc": 352
+    },
+    {
+      "item": "productivebees:milk_bottle",
+      "emc": 4
+    },
+    {
+      "item": "minecraft:tadpole_bucket",
+      "emc": 352
+    },
+    {
+      "item": "underdasea:fishnet",
+      "emc": 64
+    },
+    {
+      "item": "minecraft:gold_nugget",
+      "emc": 128
+    },
+    {
+      "item": "minecraft:iron_nugget",
+      "emc": 28
+    },
+    {
+      "item": "minecraft:paper",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:brick",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:nether_brick",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:bowl",
+      "emc": 12
+    },
+    {
+      "item": "#forge:dirt",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:grass_block",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:podzol",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:mycelium",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:dirt_path",
+      "emc": 1
+    },
+    {
+      "item": "supplementaries:raked_gravel",
+      "emc": 4
+    },
+    {
+      "item": "deep_aether:golden_grass_seeds",
+      "emc": 16
+    },
+    {
+      "item": "createcafe:cassava_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:bell_pepper_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:sadiroot_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:rice_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:radish_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:onion_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:flax_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:barley_seeds",
+      "emc": 16
+    },
+    {
+      "item": "supplementaries:flax_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:corn_seeds",
+      "emc": 16
+    },
+    {
+      "item": "car:canola_seeds",
+      "emc": 16
+    },
+    {
+      "item": "archbows:flax_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:frost_melon_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:tea_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:hops_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:tomato_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:strawberry_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:peanut_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:green_bean_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:eggplant_seeds",
+      "emc": 16
+    },
+    {
+      "item": "croptopia:artichoke_seed",
+      "emc": 16
+    },
+    {
+      "item": "croptopia:asparagus_seed",
+      "emc": 16
+    },
+    {
+      "item": "croptopia:barley_seed",
+      "emc": 16
+    },
+    {
+      "item": "croptopia:basil_seed",
+      "emc": 16
+    },
+    {
+      "item": "croptopia:bellpepper_seed",
+      "emc": 16
+    },
+    {
+      "item": "croptopia:blackbean_seed",
+      "emc": 16
+    },
+    {
+      "item": "croptopia:broccoli_seed",
+      "emc": 16
+    },
+    {
+      "item": "croptopia:cauliflower_seed",
+      "emc": 16
+    },
+    {
+      "item": "croptopia:celery_seed",
+      "emc": 16
+    },
+    {
+      "item": "croptopia:mustard_seed",
+      "emc": 16
+    },
+    {
+      "item": "croptopia:lettuce_seed",
+      "emc": 16
+    },
+    {
+      "item": "croptopia:leek_seed",
+      "emc": 16
+    },
+    {
+      "item": "croptopia:kale_seed",
+      "emc": 16
+    },
+    {
+      "item": "croptopia:hops_seed",
+      "emc": 16
+    },
+    {
+      "item": "croptopia:cucumber_seed",
+      "emc": 16
+    },
+    {
+      "item": "croptopia:corn_seed",
+      "emc": 16
+    },
+    {
+      "item": "croptopia:coffee_seed",
+      "emc": 16
+    },
+    {
+      "item": "croptopia:chile_pepper_seed",
+      "emc": 16
+    },
+    {
+      "item": "croptopia:spinach_seed",
+      "emc": 16
+    },
+    {
+      "item": "croptopia:soybean_seed",
+      "emc": 16
+    },
+    {
+      "item": "croptopia:rutabaga_seed",
+      "emc": 16
+    },
+    {
+      "item": "croptopia:peanut_seed",
+      "emc": 16
+    },
+    {
+      "item": "croptopia:oat_seed",
+      "emc": 16
+    },
+    {
+      "item": "croptopia:zucchini_seed",
+      "emc": 16
+    },
+    {
+      "item": "croptopia:yam_seed",
+      "emc": 16
+    },
+    {
+      "item": "croptopia:vanilla_seeds",
+      "emc": 16
+    },
+    {
+      "item": "croptopia:turnip_seed",
+      "emc": 16
+    },
+    {
+      "item": "croptopia:turmeric_seed",
+      "emc": 16
+    },
+    {
+      "item": "croptopia:tomatillo_seed",
+      "emc": 16
+    },
+    {
+      "item": "croptopia:tea_seed",
+      "emc": 16
+    },
+    {
+      "item": "croptopia:sweetpotato_seed",
+      "emc": 16
+    },
+    {
+      "item": "croptopia:squash_seed",
+      "emc": 16
+    },
+    {
+      "item": "nifty:tomato_seeds",
+      "emc": 16
+    },
+    {
+      "item": "nifty:pear_seeds",
+      "emc": 16
+    },
+    {
+      "item": "nifty:orange_seeds",
+      "emc": 16
+    },
+    {
+      "item": "mowziesmobs:foliaath_seed",
+      "emc": 16
+    },
+    {
+      "item": "forbidden_arcanus:golden_orchid_seeds",
+      "emc": 16
+    },
+    {
+      "item": "dawnoftimebuilder:grape_seeds",
+      "emc": 16
+    },
+    {
+      "item": "dawnoftimebuilder:camellia_seeds",
+      "emc": 16
+    },
+    {
+      "item": "croptopia:roasted_sunflower_seeds",
+      "emc": 16
+    },
+    {
+      "item": "croptopia:roasted_pumpkin_seeds",
+      "emc": 16
+    },
+    {
+      "item": "occultism:datura_seeds",
+      "emc": 16
+    },
+    {
+      "item": "nifty:flax_seeds",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:sunchokeseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:papyrusseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:guaranaseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:calabashseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:bokchoyseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:yuccaseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:sorghumseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:canolaseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:barrelcactusseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:aloeseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:alfalfaseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:zucchiniseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:wintersquashseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:lotusseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:nettlesseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:nopalesseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:tealeafseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:tomatilloseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:turnipseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:waterchestnutseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:chiaseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:cattailseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:riceseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:sisalseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:sesameseedsseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:scallionseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:ryeseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:rutabagaseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:sweetpotatoseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:taroseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:soybeanseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:spiceleafseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:spinachseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:rhubarbseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:radishseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:quinoaseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:peasseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:milletseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:lettuceseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:lentilseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:leekseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:kohlrabiseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:parsnipseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:peanutseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:kenafseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:okraseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:oatsseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:mustardseedsseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:garlicseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:flaxseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:eggplantseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:cucumberseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:cottonseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:cornseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:jicamaseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:juteseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:kaleseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:broccoliseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:brusselsproutseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:cassavaseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:cauliflowerseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:celeryseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:chickpeaseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:chilipepperseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:coffeebeanseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:gingerseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:mustardseedsitem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:sesameseedsitem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:agaveseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:amaranthseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:arrowrootseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:artichokeseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:barleyseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:asparagusseeditem",
+      "emc": 16
+    },
+    {
+      "item": "pamhc2crops:beanseeditem",
+      "emc": 16
+    },
+    {
+      "item": "exdeorum:grass_seeds",
+      "emc": 16
+    },
+    {
+      "item": "wilder_wilds:flowering_dandelion_seed_flower",
+      "emc": 16
+    },
+    {
+      "item": "jitl:airroot_seeds",
+      "emc": 16
+    },
+    {
+      "item": "jitl:tomato_seeds",
+      "emc": 16
+    },
+    {
+      "item": "jitl:zatpedal_seeds",
+      "emc": 16
+    },
+    {
+      "item": "jitl:spineberry_seeds",
+      "emc": 16
+    },
+    {
+      "item": "jitl:glowa_seeds",
+      "emc": 16
+    },
+    {
+      "item": "jitl:crakebulb_seeds",
+      "emc": 16
+    },
+    {
+      "item": "blue_skies:scalefruit_seeds",
+      "emc": 16
+    },
+    {
+      "item": "blue_skies:fiery_bean_seeds",
+      "emc": 16
+    },
+    {
+      "item": "hexalia:mandrake_seeds",
+      "emc": 16
+    },
+    {
+      "item": "hexalia:sunfire_tomato_seeds",
+      "emc": 16
+    },
+    {
+      "item": "hexalia:rabbage_seeds",
+      "emc": 16
+    },
+    {
+      "item": "hexalia:ancient_seed",
+      "emc": 16
+    },
+    {
+      "item": "hexerei:seed_mixture",
+      "emc": 16
+    },
+    {
+      "item": "jitl:floro_seeds",
+      "emc": 16
+    },
+    {
+      "item": "jitl:crackencane_seeds",
+      "emc": 16
+    },
+    {
+      "item": "spawn:roasted_sunflower_seeds",
+      "emc": 16
+    },
+    {
+      "item": "undergarden:gloomgourd_seeds",
+      "emc": 16
+    },
+    {
+      "item": "netherexp:cerebrage_seeds",
+      "emc": 16
+    },
+    {
+      "item": "silentgear:flax_seeds",
+      "emc": 16
+    },
+    {
+      "item": "silentgear:fluffy_seeds",
+      "emc": 16
+    },
+    {
+      "item": "bluepower:flax_seeds",
+      "emc": 16
+    },
+    {
+      "item": "blue_skies:pine_fruit_seeds",
+      "emc": 16
+    },
+    {
+      "item": "landsoficaria:spelt_seeds",
+      "emc": 16
+    },
+    {
+      "item": "blue_skies:winter_leaf_seeds",
+      "emc": 16
+    },
+    {
+      "item": "simplefarming:turnip_seeds",
+      "emc": 16
+    },
+    {
+      "item": "simplefarming:sweet_potato_seeds",
+      "emc": 16
+    },
+    {
+      "item": "simplefarming:squash_seeds",
+      "emc": 16
+    },
+    {
+      "item": "simplefarming:spinach_seeds",
+      "emc": 16
+    },
+    {
+      "item": "simplefarming:soybean_seeds",
+      "emc": 16
+    },
+    {
+      "item": "simplefarming:sorghum_seeds",
+      "emc": 16
+    },
+    {
+      "item": "simplefarming:cumin_seeds",
+      "emc": 16
+    },
+    {
+      "item": "simplefarming:quinoa_seeds",
+      "emc": 16
+    },
+    {
+      "item": "spawn:sunflower_seeds",
+      "emc": 16
+    },
+    {
+      "item": "simplefarming:lettuce_seeds",
+      "emc": 16
+    },
+    {
+      "item": "simplefarming:oat_seeds",
+      "emc": 16
+    },
+    {
+      "item": "simplefarming:pea_seeds",
+      "emc": 16
+    },
+    {
+      "item": "simplefarming:pepper_seeds",
+      "emc": 16
+    },
+    {
+      "item": "simplefarming:radish_seeds",
+      "emc": 16
+    },
+    {
+      "item": "simplefarming:rice_seeds",
+      "emc": 16
+    },
+    {
+      "item": "simplefarming:rye_seeds",
+      "emc": 16
+    },
+    {
+      "item": "simplefarming:zucchini_seeds",
+      "emc": 16
+    },
+    {
+      "item": "simplefarming:yam_seeds",
+      "emc": 16
+    },
+    {
+      "item": "simplefarming:barley_seeds",
+      "emc": 16
+    },
+    {
+      "item": "simplefarming:broccoli_seeds",
+      "emc": 16
+    },
+    {
+      "item": "simplefarming:kenaf_seeds",
+      "emc": 16
+    },
+    {
+      "item": "simplefarming:ginger_seeds",
+      "emc": 16
+    },
+    {
+      "item": "simplefarming:eggplant_seeds",
+      "emc": 16
+    },
+    {
+      "item": "simplefarming:cucumber_seeds",
+      "emc": 16
+    },
+    {
+      "item": "simplefarming:cassava_seeds",
+      "emc": 16
+    },
+    {
+      "item": "simplefarming:cotton_seeds",
+      "emc": 16
+    },
+    {
+      "item": "simplefarming:corn_seeds",
+      "emc": 16
+    },
+    {
+      "item": "farmersdelight:straw",
+      "emc": 24
+    },
+    {
+      "item": "minecraft:packed_ice",
+      "emc": 9
+    },
+    {
+      "item": "#forge:glass_panes",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:honey_block",
+      "emc": 192
+    },
+    {
+      "item": "mysticalagriculture:honey_essence",
+      "emc": 47
+    },
+    {
+      "item": "vintagedelight:honey_mason_jar",
+      "emc": 144
+    },
+    {
+      "item": "cyclic:honey_bucket",
+      "emc": 288
+    },
+    {
+      "item": "minecraft:white_concrete_powder",
+      "emc": 68
+    },
+    {
+      "item": "minecraft:light_gray_concrete_powder",
+      "emc": 100
+    },
+    {
+      "item": "minecraft:gray_concrete_powder",
+      "emc": 84
+    },
+    {
+      "item": "minecraft:black_concrete_powder",
+      "emc": 36
+    },
+    {
+      "item": "minecraft:brown_concrete_powder",
+      "emc": 52
+    },
+    {
+      "item": "minecraft:red_concrete_powder",
+      "emc": 36
+    },
+    {
+      "item": "minecraft:orange_concrete_powder",
+      "emc": 52
+    },
+    {
+      "item": "minecraft:yellow_concrete_powder",
+      "emc": 36
+    },
+    {
+      "item": "minecraft:lime_concrete_powder",
+      "emc": 132
+    },
+    {
+      "item": "minecraft:green_concrete_powder",
+      "emc": 84
+    },
+    {
+      "item": "minecraft:cyan_concrete_powder",
+      "emc": 948
+    },
+    {
+      "item": "minecraft:light_blue_concrete_powder",
+      "emc": 932
+    },
+    {
+      "item": "minecraft:blue_concrete_powder",
+      "emc": 884
+    },
+    {
+      "item": "minecraft:purple_concrete_powder",
+      "emc": 900
+    },
+    {
+      "item": "minecraft:magenta_concrete_powder",
+      "emc": 1180
+    },
+    {
+      "item": "minecraft:pink_concrete_powder",
+      "emc": 84
+    },
+    {
+      "item": "minecraft:diamond_helmet",
+      "emc": 40960
+    },
+    {
+      "item": "minecraft:diamond_chestplate",
+      "emc": 65536
+    },
+    {
+      "item": "ae2:printed_silicon",
+      "emc": 257
+    },
+    {
+      "item": "chemlib:thorium_ingot",
+      "emc": 8
+    },
+    {
+      "item": "nuclearcraft:thorium_ingot",
+      "emc": 8
+    },
+    {
+      "item": "the_bumblezone:pollen_puff",
+      "emc": 512
+    },
+    {
+      "item": "silentgems:black_diamond",
+      "emc": 8192
+    },
+    {
+      "item": "silentgems:white_diamond",
+      "emc": 8192
+    },
+    {
+      "item": "tombstone:impregnated_diamond",
+      "emc": 8192
+    },
+    {
+      "item": "mysticrift_blocks:blood_diamond",
+      "emc": 8192
+    },
+    {
+      "item": "mysticrift_blocks:emeraldite",
+      "emc": 8192
+    },
+    {
+      "item": "mysticrift_blocks:golden_harmony",
+      "emc": 8192
+    },
+    {
+      "item": "mysticrift_blocks:amethystium",
+      "emc": 8192
+    },
+    {
+      "item": "#forge:eggs",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:dragon_breath",
+      "emc": 148
+    },
+    {
+      "item": "glimmering_gardens:firefly_bottle_full",
+      "emc": 16
+    },
+    {
+      "item": "mekanism:dust_diamond",
+      "emc": 8192
+    },
+    {
+      "item": "mekanism:dust_emerald",
+      "emc": 16384
+    },
+    {
+      "item": "#forge:bark",
+      "emc": 10
+    },
+    {
+      "item": "fortune_on_netherite_forge:raw_debris",
+      "emc": 12288
+    },
+    {
+      "item": "autumnity:snail_goo",
+      "emc": 32
+    },
+    {
+      "item": "spawn:mucus",
+      "emc": 32
+    },
+    {
+      "item": "autumnity:sap_bottle",
+      "emc": 32
+    },
+    {
+      "item": "#forge:leather",
+      "emc": 64
+    },
+    {
+      "item": "quark:ravager_hide",
+      "emc": 128
+    },
+    {
+      "item": "botania:metamorphic_mountain_stone",
+      "emc": 16
+    },
+    {
+      "item": "botania:metamorphic_forest_stone",
+      "emc": 16
+    },
+    {
+      "item": "botania:metamorphic_plains_stone",
+      "emc": 16
+    },
+    {
+      "item": "botania:metamorphic_fungal_stone",
+      "emc": 16
+    },
+    {
+      "item": "botania:metamorphic_desert_stone",
+      "emc": 16
+    },
+    {
+      "item": "botania:metamorphic_taiga_stone",
+      "emc": 16
+    },
+    {
+      "item": "botania:metamorphic_mesa_stone",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:warped_nylium",
+      "emc": 2
+    },
+    {
+      "item": "minecraft:crimson_nylium",
+      "emc": 2
+    },
+    {
+      "item": "quark:myalite",
+      "emc": 16
+    },
+    {
+      "item": "quark:shale",
+      "emc": 16
+    },
+    {
+      "item": "quark:jasper",
+      "emc": 16
+    },
+    {
+      "item": "quark:limestone",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:soul_soil",
+      "emc": 50
+    },
+    {
+      "item": "neapolitan:banana_stalk",
+      "emc": 32
+    },
+    {
+      "item": "neapolitan:banana_frond",
+      "emc": 32
+    },
+    {
+      "item": "neapolitan:vanilla_pods",
+      "emc": 16
+    },
+    {
+      "item": "quark:glow_shroom_block",
+      "emc": 16
+    },
+    {
+      "item": "quark:glow_shroom_stem",
+      "emc": 16
+    },
+    {
+      "item": "quark:glow_shroom",
+      "emc": 32
+    },
+    {
+      "item": "galosphere:bowl_lichen",
+      "emc": 16
+    },
+    {
+      "item": "upgrade_aquatic:beachgrass",
+      "emc": 1
+    },
+    {
+      "item": "incubation:twig_nest",
+      "emc": 10
+    },
+    {
+      "item": "netherdungeons:neofolia",
+      "emc": 32
+    },
+    {
+      "item": "upgrade_aquatic:tall_beachgrass",
+      "emc": 1
+    },
+    {
+      "item": "quark:chorus_twist",
+      "emc": 1
+    },
+    {
+      "item": "quark:chorus_weeds",
+      "emc": 1
+    },
+    {
+      "item": "quark:glow_lichen_growth",
+      "emc": 1
+    },
+    {
+      "item": "supplementaries:wild_flax",
+      "emc": 1
+    },
+    {
+      "item": "quark:glow_shroom_ring",
+      "emc": 1
+    },
+    {
+      "item": "neapolitan:adzuki_beans",
+      "emc": 16
+    },
+    {
+      "item": "upgrade_aquatic:pickerelweed",
+      "emc": 16
+    },
+    {
+      "item": "the_bumblezone:beehive_beeswax",
+      "emc": 8
+    },
+    {
+      "item": "underdasea:aquacrystal",
+      "emc": 8
+    },
+    {
+      "item": "underdasea:lumisand",
+      "emc": 1
+    },
+    {
+      "item": "swampier_swamps:swamp_vine",
+      "emc": 8
+    },
+    {
+      "item": "rainbowoaks:rainbow_leaves",
+      "emc": 1
+    },
+    {
+      "item": "rainbowoaks:rainbow_sapling",
+      "emc": 32
+    },
+    {
+      "item": "ars_nouveau:sourceberry_bush",
+      "emc": 16
+    },
+    {
+      "item": "vintagedelight:salt_dust",
+      "emc": 8
+    },
+    {
+      "item": "swampier_swamps:cattail",
+      "emc": 16
+    },
+    {
+      "item": "swampier_swamps:big_lily_pad",
+      "emc": 16
+    },
+    {
+      "item": "swampier_swamps:small_lily_pad",
+      "emc": 16
+    },
+    {
+      "item": "feur_builder:diamond_cluster",
+      "emc": 11264
+    },
+    {
+      "item": "feur_builder:gold_cluster",
+      "emc": 5120
+    },
+    {
+      "item": "feur_builder:emerald_cluster",
+      "emc": 19456
+    },
+    {
+      "item": "feur_builder:redstone_cluster",
+      "emc": 3136
+    },
+    {
+      "item": "feur_builder:coal_cluster",
+      "emc": 3200
+    },
+    {
+      "item": "feur_builder:quartz_cluster",
+      "emc": 3328
+    },
+    {
+      "item": "geosmelt:soul_powder",
+      "emc": 128
+    },
+    {
+      "item": "netherexp:fossil_fuel",
+      "emc": 128
+    },
+    {
+      "item": "xkdeco:sandstone_pillar",
+      "emc": 4
+    },
+    {
+      "item": "xkdeco:red_sandstone_pillar",
+      "emc": 4
+    },
+    {
+      "item": "xkdeco:stone_brick_pillar",
+      "emc": 1
+    },
+    {
+      "item": "xkdeco:blackstone_pillar",
+      "emc": 4
+    },
+    {
+      "item": "xkdeco:gilded_blackstone_bricks",
+      "emc": 4
+    },
+    {
+      "item": "xkdeco:maya_mossy_stonebricks",
+      "emc": 10
+    },
+    {
+      "item": "xkdeco:maya_stonebricks",
+      "emc": 10
+    },
+    {
+      "item": "xkdeco:aztec_mossy_stonebricks",
+      "emc": 10
+    },
+    {
+      "item": "xkdeco:cut_obsidian",
+      "emc": 64
+    },
+    {
+      "item": "xkdeco:crying_obsidian_bricks",
+      "emc": 768
+    },
+    {
+      "item": "xkdeco:cut_gold_block",
+      "emc": 18432
+    },
+    {
+      "item": "xkdeco:inscription_bronze_block",
+      "emc": 78
+    },
+    {
+      "item": "xkdeco:steel_pillar",
+      "emc": 96
+    },
+    {
+      "item": "xkdeco:factory_block_rusting",
+      "emc": 10
+    },
+    {
+      "item": "xkdeco:factory_block_rusted",
+      "emc": 10
+    },
+    {
+      "item": "xkdeco:light_column_base",
+      "emc": 16
+    },
+    {
+      "item": "xkdeco:egyptian_brick_column",
+      "emc": 4
+    },
+    {
+      "item": "xkdeco:greek_column",
+      "emc": 1024
+    },
+    {
+      "item": "xkdeco:maya_column",
+      "emc": 10
+    },
+    {
+      "item": "xkdeco:maya_stonebrick_column",
+      "emc": 10
+    },
+    {
+      "item": "quark:cobblestone_vertical_slab",
+      "emc": 1
+    },
+    {
+      "item": "quark:cobblestone_bricks_slab",
+      "emc": 1
+    },
+    {
+      "item": "quark:cobblestone_bricks_vertical_slab",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:mossy_cobblestone_slab",
+      "emc": 1
+    },
+    {
+      "item": "quark:mossy_cobblestone_vertical_slab",
+      "emc": 1
+    },
+    {
+      "item": "quark:mossy_cobblestone_bricks_slab",
+      "emc": 1
+    },
+    {
+      "item": "quark:mossy_cobblestone_bricks_vertical_slab",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:smooth_stone_slab",
+      "emc": 1
+    },
+    {
+      "item": "quark:smooth_stone_vertical_slab",
+      "emc": 1
+    },
+    {
+      "item": "quark:stone_brick_vertical_slab",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:mossy_stone_brick_slab",
+      "emc": 1
+    },
+    {
+      "item": "quark:mossy_stone_brick_vertical_slab",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:stone_brick_slab",
+      "emc": 1
+    },
+    {
+      "item": "supplementaries:stone_tile_slab",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:white_concrete",
+      "emc": 64
+    },
+    {
+      "item": "minecraft:orange_concrete",
+      "emc": 48
+    },
+    {
+      "item": "minecraft:magenta_concrete",
+      "emc": 1176 
+    },
+    {
+      "item": "minecraft:light_blue_concrete",
+      "emc": 928
+    },
+    {
+      "item": "minecraft:yellow_concrete",
+      "emc": 	32
+    },
+    {
+      "item": "minecraft:lime_concrete",
+      "emc": 128  
+    },
+    {
+      "item": "minecraft:pink_concrete",
+      "emc": 80
+    },
+    {
+      "item": "minecraft:gray_concrete",
+      "emc": 80
+    },
+    {
+      "item": "minecraft:light_gray_concrete",
+      "emc": 96  
+    },
+    {
+      "item": "minecraft:cyan_concrete",
+      "emc": 944
+    },
+    {
+      "item": "minecraft:purple_concrete",
+      "emc": 896
+    },
+    {
+      "item": "minecraft:blue_concrete",
+      "emc": 880
+    },
+    {
+      "item": "minecraft:brown_concrete",
+      "emc": 48
+    },
+    {
+      "item": "minecraft:red_concrete",
+      "emc": 80
+    },
+    {
+      "item": "minecraft:green_concrete",
+      "emc": 32 
+    },
+    {
+      "item": "minecraft:black_concrete",
+      "emc": 32
+    }
+  ]
+}

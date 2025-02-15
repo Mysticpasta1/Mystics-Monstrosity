@@ -1,0 +1,27 @@
+// Compost colors for mob_grinding_utils. You may add your own colors, change existing ones, or remove colors that aren't needed.
+absorption_upgrade, #d64416
+fan_upgrade_height, #af4328
+fan_upgrade_speed, #ae4a23
+fan_upgrade_width, #b44428
+fluid_xp_bucket, #acb690
+gm_chicken_feed, #ffffda
+gm_chicken_feed_cursed, #ffebde
+golden_egg, #ffffee
+mob_swab, #ffffff
+mob_swab_used, #ffffff
+monocle, #ffffff
+null_sword, #ffffff
+nutritious_chicken_feed, #dedd7d
+rotten_egg, #ffff48
+saw_upgrade_arthropod, #cd3e0b
+saw_upgrade_beheading, #d4550c
+saw_upgrade_fire, #d0480e
+saw_upgrade_looting, #d75e0e
+saw_upgrade_sharpness, #d3470b
+saw_upgrade_smite, #d25c0b
+solid_xp_baby, #ddda3c
+solid_xp_mould_baby, #ddda3c
+solid_xp_mould_blank, #eab95b
+spawner_upgrade_height, #d64012
+spawner_upgrade_width, #d64012
+xp_solidifier_upgrade, #dc6414

@@ -1,0 +1,9 @@
+// Compost colors for betterminecarts. You may add your own colors, change existing ones, or remove colors that aren't needed.
+bio_diesel_fuel, #fceebc
+crafting_minecart_item, #7f695a
+crossed_rail, #b5aa93
+crowbar, #ee6e6e
+diesel_locomotive, #75829b
+electric_locomotive, #ffff3d
+signal_rail, #ab8a78
+steam_locomotive, #d7d9d3

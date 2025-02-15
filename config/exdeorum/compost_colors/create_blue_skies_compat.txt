@@ -1,0 +1,9 @@
+// Compost colors for create_blue_skies_compat. You may add your own colors, change existing ones, or remove colors that aren't needed.
+crushed_aquite_ore, #ffffff
+crushed_charoite_ore, #ffffff
+crushed_falsite_ore, #ffffff
+crushed_horizonite_ore, #fffff2
+crushed_ventium_ore, #ffffff
+falsite_sheet, #b4a8ff
+horizonite_sheet, #ffa55e
+ventium_sheet, #ff8484

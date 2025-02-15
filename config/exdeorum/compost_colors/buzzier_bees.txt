@@ -1,0 +1,16 @@
+// Compost colors for buzzier_bees. You may add your own colors, change existing ones, or remove colors that aren't needed.
+bee_bottle, #ccd7e6
+buttercup, #ffffff
+cupric_candle, #c36f4d
+ender_candle, #47334b
+endermite_bottle, #b4b8e1
+four_leaf_clover, #468a34
+glazed_porkchop, #fffff2
+honey_apple, #ffffdd
+honey_bread, #fffeb5
+honeycomb_banner_pattern, #fffff1
+honeycomb_door, #ffdd34
+pink_clover, #ffffff
+silverfish_bottle, #bccae3
+soul_candle, #654e41
+white_clover, #ffffff

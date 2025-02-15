@@ -1,0 +1,4 @@
+{
+	// Whether the Minecraft logo should be shown at the top of the credits screen.
+	"showMinecraftLogoInCredits": true
+}

@@ -1,0 +1,16 @@
+// Compost colors for logicchips. You may add your own colors, change existing ones, or remove colors that aren't needed.
+and_gate, #3c3d37
+and_gate_3, #484343
+chip, #333333
+dynamic_gate, #615050
+nand_gate, #403d37
+nand_gate_3, #524343
+nor_gate, #3c3d37
+nor_gate_3, #484343
+not_gate, #393336
+or_gate, #403d37
+or_gate_3, #524343
+xnor_gate, #3d3d37
+xnor_gate_3, #4e4343
+xor_gate, #3d3d37
+xor_gate_3, #4e4343

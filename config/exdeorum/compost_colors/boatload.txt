@@ -1,0 +1,27 @@
+// Compost colors for boatload. You may add your own colors, change existing ones, or remove colors that aren't needed.
+acacia_furnace_boat, #976447
+bamboo_furnace_raft, #8e8254
+birch_furnace_boat, #aea17a
+cherry_furnace_boat, #d9a7a2
+crimson_boat, #8c415f
+crimson_chest_boat, #8e514b
+crimson_furnace_boat, #805061
+dark_oak_furnace_boat, #664e37
+jungle_furnace_boat, #91725a
+large_acacia_boat, #b46134
+large_birch_boat, #ddc88a
+large_cherry_boat, #ffd4d0
+large_crimson_boat, #8a415f
+large_dark_oak_boat, #623d1b
+large_jungle_boat, #a57350
+large_mangrove_boat, #8a3933
+large_oak_boat, #ac8c58
+large_spruce_boat, #825f39
+large_warped_boat, #2f7c76
+mangrove_furnace_boat, #7f4d46
+oak_furnace_boat, #947f5e
+spruce_furnace_boat, #796247
+warped_boat, #2f7d78
+warped_chest_boat, #55785b
+warped_furnace_boat, #477670
+wide_bamboo_raft, #c9b658

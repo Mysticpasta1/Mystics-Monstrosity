@@ -1,0 +1,10 @@
+#Cooldown of the ore generator (in seconds)
+#Range: > 0
+oreGeneratorCooldown = 4
+#Energy cost of fabricating ore/ores
+#Range: 0 ~ 9223372036854775807
+oreGeneratorFabricationCost = 16000000
+#How much ores you get from one cycle
+#Range: > 1
+oreGeneratorNumberOfOres = 1
+

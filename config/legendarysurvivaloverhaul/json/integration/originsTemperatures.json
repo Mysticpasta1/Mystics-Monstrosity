@@ -1,0 +1,32 @@
+{
+  "origins:merling": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 3.0,
+    "thermal_resistance": 0.0
+  },
+  "origins:arachnid": {
+    "temperature": 0.0,
+    "heat_resistance": -5.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "origins:blazeborn": {
+    "temperature": -5.0,
+    "heat_resistance": 15.0,
+    "cold_resistance": -2.0,
+    "thermal_resistance": 0.0
+  },
+  "origins:enderian": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 10.0,
+    "thermal_resistance": 0.0
+  },
+  "origins:feline": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 2.0
+  }
+}

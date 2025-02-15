@@ -1,0 +1,19 @@
+
+#Structure settings
+[structureSettings]
+	#Default: 64. Spawn rate for cactus farms in desert villages. 0 disables spawning cactus farms in desert villages.
+	#Range: 0 ~ 256
+	desertFarms = 64
+	#Default: 64. Spawn rate for flower farms in plains villages. 0 disables spawning flower farms in plains villages.
+	#Range: 0 ~ 256
+	plainsFarms = 64
+	#Default: 64. Spawn rate for flower farms in savanna villages. 0 disables spawning flower farms in savanna villages.
+	#Range: 0 ~ 256
+	savannaFarms = 64
+	#Default: 64. Spawn rate for flower farms in snowy villages. 0 disables spawning flower farms in snowy villages.
+	#Range: 0 ~ 256
+	snowyFarms = 64
+	#Default: 64. Spawn rate for flower farms in taiga villages. 0 disables spawning flower farms in taiga villages.
+	#Range: 0 ~ 256
+	taigaFarms = 64
+

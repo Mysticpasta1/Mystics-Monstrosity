@@ -1,0 +1,10 @@
+// Compost colors for ironjetpacks. You may add your own colors, change existing ones, or remove colors that aren't needed.
+advanced_coil, #f89843
+basic_coil, #d29898
+capacitor, #ffffff
+cell, #ffffff
+elite_coil, #70a59d
+jetpack, #ffffff
+strap, #ffffff
+thruster, #ffffff
+ultimate_coil, #57913c

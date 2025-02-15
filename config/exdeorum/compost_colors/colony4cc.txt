@@ -1,0 +1,4 @@
+// Compost colors for colony4cc. You may add your own colors, change existing ones, or remove colors that aren't needed.
+colony_wireless_advanced, #ffffd9
+colony_wireless_normal, #fbffde
+rgb_charge, #a4a176

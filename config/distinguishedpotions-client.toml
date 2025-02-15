@@ -1,0 +1,13 @@
+#Potion types to be recognized as strong potions for providing alternate item textures.
+#Format for every entry is "<namespace>:<path>". Tags are supported, must be in the format of "#<namespace>:<path>". Namespace may be omitted to use "minecraft" by default. May use asterisk as wildcard parameter via pattern matching, e.g. "minecraft:*_shulker_box" to match all shulker boxes no matter of color. Begin an entry with "!" to make sure it is excluded, useful e.g. when it has already been matched by another pattern.
+strong_potions = ["*:strong_*", "*:*_strong"]
+#Shows a bar similar to the item durability bar on potion items indicating the total amount of effect amplifier levels on the potion.
+effect_amplifier_bar = false
+#Potion types to be recognized as long potions for providing alternate item textures.
+#Format for every entry is "<namespace>:<path>". Tags are supported, must be in the format of "#<namespace>:<path>". Namespace may be omitted to use "minecraft" by default. May use asterisk as wildcard parameter via pattern matching, e.g. "minecraft:*_shulker_box" to match all shulker boxes no matter of color. Begin an entry with "!" to make sure it is excluded, useful e.g. when it has already been matched by another pattern.
+long_potions = ["*:long_*", "*:*_long"]
+#Makes the bottle form and cork color of strong and long potions unique.
+dedicated_potion_bottles = true
+#Highlights strong and long potions directly in the potion name on the item tooltip.
+extended_potion_names = true
+

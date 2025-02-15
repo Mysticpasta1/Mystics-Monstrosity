@@ -1,0 +1,20 @@
+{
+  "place_component": {
+    "code": 1,
+    "type": 2
+  },
+  "destroy_component": {
+    "code": 0,
+    "type": 2
+  },
+  "pick_component": {
+    "code": 2,
+    "type": 2
+  },
+  "rotate_component": {
+    "code": 82,
+    "type": 0
+  },
+  "scroll_behaviour": "ROTATE",
+  "invert_scroll_direction": false
+}

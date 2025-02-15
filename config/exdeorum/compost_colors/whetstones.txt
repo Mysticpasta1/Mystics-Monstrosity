@@ -1,0 +1,7 @@
+// Compost colors for whetstones. You may add your own colors, change existing ones, or remove colors that aren't needed.
+diamond_whetstone, #b8ffff
+golden_whetstone, #ffda62
+iron_whetstone, #eee1cc
+netherite_whetstone, #8e7c6b
+stone_whetstone, #e1d4bf
+wooden_whetstone, #eabe78

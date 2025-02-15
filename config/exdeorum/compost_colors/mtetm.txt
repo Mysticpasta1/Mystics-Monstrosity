@@ -1,0 +1,18 @@
+// Compost colors for mtetm. You may add your own colors, change existing ones, or remove colors that aren't needed.
+adamantium_dust, #c69da1
+adamantium_ingot, #c69ba1
+blood_emerald, #e82323
+blood_emerald_dust, #e62929
+ender_pearl_dust, #1e7f6f
+enderfused_adamantium_dust, #3a6b7a
+enderfused_adamantium_ingot, #447a89
+mithril_dust, #2dc0ab
+mithril_ingot, #3dd0b6
+nether_geode, #913e3e
+pandorium_dust, #c6d2e4
+pandorium_ingot, #cdd7eb
+raw_adamantium, #caa0a5
+raw_mithril, #30cdb2
+raw_pandorium, #afbcd2
+soul_quartz_crystal, #4bf7fa
+soul_steel_ingot, #93725e

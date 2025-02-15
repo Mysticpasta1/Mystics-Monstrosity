@@ -1,0 +1,3 @@
+// Compost colors for irondecor. You may add your own colors, change existing ones, or remove colors that aren't needed.
+iron_mesh_door, #ffffff
+reinforced_iron_door, #b4b2bf

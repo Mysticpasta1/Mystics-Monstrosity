@@ -1,0 +1,4 @@
+// Compost colors for decorative_blocks. You may add your own colors, change existing ones, or remove colors that aren't needed.
+brazier, #b2835c
+chain, #616572
+soul_brazier, #73c8d6

@@ -1,0 +1,105 @@
+#Enable trade for nitwit_cogwheel
+nitwit_cogwheel_enabled = true
+#Buy amount for nitwit_cogwheel
+#Range: 1 ~ 64
+nitwit_cogwheel_buy = 1
+#Sell amount for nitwit_cogwheel
+#Range: 1 ~ 64
+nitwit_cogwheel_sell = 8
+#Enable trade for nitwit_large_cogwheel
+nitwit_large_cogwheel_enabled = true
+#Buy amount for nitwit_large_cogwheel
+#Range: 1 ~ 64
+nitwit_large_cogwheel_buy = 3
+#Sell amount for nitwit_large_cogwheel
+#Range: 1 ~ 64
+nitwit_large_cogwheel_sell = 8
+#Enable trade for nitwit_sand_paper
+nitwit_sand_paper_enabled = true
+#Buy amount for nitwit_sand_paper
+#Range: 1 ~ 64
+nitwit_sand_paper_buy = 1
+#Sell amount for nitwit_sand_paper
+#Range: 1 ~ 64
+nitwit_sand_paper_sell = 1
+#Enable trade for nitwit_shaft
+nitwit_shaft_enabled = true
+#Buy amount for nitwit_shaft
+#Range: 1 ~ 64
+nitwit_shaft_buy = 4
+#Sell amount for nitwit_shaft
+#Range: 1 ~ 64
+nitwit_shaft_sell = 16
+#Enable trade for nitwit_fluid_pipe
+nitwit_fluid_pipe_enabled = true
+#Buy amount for nitwit_fluid_pipe
+#Range: 1 ~ 64
+nitwit_fluid_pipe_buy = 3
+#Sell amount for nitwit_fluid_pipe
+#Range: 1 ~ 64
+nitwit_fluid_pipe_sell = 8
+#Enable trade for nitwit_experience_nugget
+nitwit_experience_nugget_enabled = true
+#Buy amount for nitwit_experience_nugget
+#Range: 1 ~ 64
+nitwit_experience_nugget_buy = 3
+#Sell amount for nitwit_experience_nugget
+#Range: 1 ~ 64
+nitwit_experience_nugget_sell = 8
+#Enable trade for nitwit_track
+nitwit_track_enabled = true
+#Buy amount for nitwit_track
+#Range: 1 ~ 64
+nitwit_track_buy = 3
+#Sell amount for nitwit_track
+#Range: 1 ~ 64
+nitwit_track_sell = 8
+#Enable trade for farmer_dough
+farmer_dough_enabled = true
+#Buy amount for farmer_dough
+#Range: 1 ~ 64
+farmer_dough_buy = 3
+#Sell amount for farmer_dough
+#Range: 1 ~ 64
+farmer_dough_sell = 16
+#Enable trade for farmer_honeyed_apple
+farmer_honeyed_apple_enabled = true
+#Buy amount for farmer_honeyed_apple
+#Range: 1 ~ 64
+farmer_honeyed_apple_buy = 7
+#Sell amount for farmer_honeyed_apple
+#Range: 1 ~ 64
+farmer_honeyed_apple_sell = 4
+#Enable trade for farmer_builders_tea
+farmer_builders_tea_enabled = true
+#Buy amount for farmer_builders_tea
+#Range: 1 ~ 64
+farmer_builders_tea_buy = 11
+#Sell amount for farmer_builders_tea
+#Range: 1 ~ 64
+farmer_builders_tea_sell = 1
+#Enable trade for farmer_tree_fertilizer
+farmer_tree_fertilizer_enabled = true
+#Buy amount for farmer_tree_fertilizer
+#Range: 1 ~ 64
+farmer_tree_fertilizer_buy = 5
+#Sell amount for farmer_tree_fertilizer
+#Range: 1 ~ 64
+farmer_tree_fertilizer_sell = 1
+#Enable trade for mason_super_glue
+mason_super_glue_enabled = true
+#Buy amount for mason_super_glue
+#Range: 1 ~ 64
+mason_super_glue_buy = 8
+#Sell amount for mason_super_glue
+#Range: 1 ~ 64
+mason_super_glue_sell = 1
+#Enable trade for butcher_blaze_cake
+butcher_blaze_cake_enabled = true
+#Buy amount for butcher_blaze_cake
+#Range: 1 ~ 64
+butcher_blaze_cake_buy = 16
+#Sell amount for butcher_blaze_cake
+#Range: 1 ~ 64
+butcher_blaze_cake_sell = 1
+

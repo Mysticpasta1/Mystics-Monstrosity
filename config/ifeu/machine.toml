@@ -1,0 +1,65 @@
+
+[MachineConfig]
+
+	[MachineConfig.InfuserConfig]
+		#Amount of Power Consumed per Tick - Default: [90FE]
+		powerPerTick = 90
+		#Max Stored Power [FE] - Default: [10000 FE]
+		maxStoredPower = 10000
+		#Max Amount of Stored Fluid [Input] - Default: [8000mB]
+		maxInputTankSize = 8000
+
+	[MachineConfig.DragonStarGeneratorConfig]
+		#Burn Time in Ticks [20 Ticks per Second] - Default: [2400 (120s)]
+		maxProgress = 2400
+		#Amount of Power Produced per Tick - Default: [8000FE]
+		powerPerTick = 8000
+		#Max Stored Power [FE] - Default: [800000 FE]
+		maxStoredPower = 8000000
+		#Amount of FE/t extracted from the Biofuel Generator
+		extractionRate = 16000
+
+	[MachineConfig.ArcaneDragonForgingConfig]
+		#Amount of Power Consumed per Tick - Default: [90FE]
+		powerPerTick = 90
+		#Max Stored Power [FE] - Default: [10000 FE]
+		maxStoredPower = 10000
+		#Max Amount of Stored Fluid [Input] - Default: [8000mB]
+		maxInputTankSize = 8000
+		#Max Amount of Stored Fluid [Output] - Default: [8000mB]
+		maxOutputTankSize = 8000
+
+	[MachineConfig.WeatherControllerConfig]
+		#Amount of Power Consumed per Tick - Default: [30FE]
+		powerPerTick = 30
+		#Max Stored Power [FE] - Default: [10000 FE]
+		maxStoredPower = 10000
+
+	[MachineConfig.TimeControllerConfig]
+		#Amount of Power Consumed per Tick - Default: [30FE]
+		powerPerTick = 30
+		#Max Stored Power [FE] - Default: [10000 FE]
+		maxStoredPower = 10000
+
+	[MachineConfig.RuleControllerConfig]
+		#Amount of Power Consumed per Tick - Default: [30FE]
+		powerPerTick = 30
+		#Max Stored Power [FE] - Default: [10000 FE]
+		maxStoredPower = 10000
+
+	[MachineConfig.ComplexDissolutionChamberConfig]
+		#Cooldown Time in Ticks [20 Ticks per Second] - Default: [100 (5s)]
+		maxProgress = 100
+		#Amount of Power Consumed per Tick - Default: [60FE]
+		powerPerTick = 90
+		#Max Stored Power [FE] - Default: [10000 FE]
+		maxStoredPower = 10000
+		#Max Amount of Stored Fluid [Input] - Default: [8000mB]
+		maxInputTankSize = 8000
+		#Max Amount of Stored Fluid [Output] - Default: [8000mB]
+		maxOutputTankSize = 16000
+
+	[MachineConfig.FluidCraftingTableConfig]
+		#Max Amount of Stored Fluid [Input] - Default: [10000mB]
+		maxInputTankSize = 10000
+

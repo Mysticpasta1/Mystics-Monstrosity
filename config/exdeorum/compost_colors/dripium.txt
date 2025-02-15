@@ -1,0 +1,14 @@
+// Compost colors for dripium. You may add your own colors, change existing ones, or remove colors that aren't needed.
+dripium_axe, #d2d0da
+dripium_boots, #1e1e32
+dripium_chestplate, #29283d
+dripium_helmet, #ffffff
+dripium_hoe, #fffeff
+dripium_ingot, #b6b4c2
+dripium_leggings, #dcdce4
+dripium_nugget, #ffffff
+dripium_pickaxe, #ebeaf2
+dripium_rod, #ffffff
+dripium_shovel, #ffffff
+dripium_sword, #c2c0cc
+raw_dripium, #c5c3cc

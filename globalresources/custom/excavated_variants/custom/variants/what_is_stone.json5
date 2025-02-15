@@ -1,0 +1,22 @@
+/* 
+ * Copyright (c) 2024 Luke Bemish and contributors.
+ * SPDX-License-Identifier: LGPL-3.0-or-later
+ */
+
+{
+    mod_id: 'what_is_stone',
+    provided_stones: [
+        {
+            block_id: 'what_is_stone:dolomite',
+            types: [
+                'stone',
+            ],
+            id: 'wis_dolomite',
+            lang: {
+                en_us: 'Dolomite',
+            },
+        },
+    ],
+    provided_ores: [
+    ],
+}

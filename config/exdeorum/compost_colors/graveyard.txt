@@ -1,0 +1,10 @@
+// Compost colors for graveyard. You may add your own colors, change existing ones, or remove colors that aren't needed.
+bone_dagger, #f2eae6
+corruption, #1c1c1c
+dark_iron_bars, #2d302c
+dark_iron_door, #2f2f2f
+dark_iron_ingot, #4e4e4e
+fire_brazier, #513d29
+incarnated_evil_music_disc, #644b44
+soul_fire_brazier, #404a4d
+vial_of_blood, #ea7a8e

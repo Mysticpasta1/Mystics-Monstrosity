@@ -1,0 +1,24 @@
+// Compost colors for corn_delight. You may add your own colors, change existing ones, or remove colors that aren't needed.
+boiled_corn, #ffdd43
+caramel_popcorn, #ffff68
+classic_corn_dog, #d0802a
+cob_pipe, #fed93e
+corn, #bfbf2f
+corn_dog, #e0a42a
+corn_seeds, #ffff68
+corn_soup, #a58c3e
+cornbread, #ffcf0a
+cornbread_batter, #ffc328
+cornbread_stuffing, #ab7c25
+corncob, #ffff4a
+creamed_corn, #e3c55f
+creamy_corn_drink, #fffffe
+grilled_corn, #ffc52c
+nachos_block, #d29636
+nachos_bowl, #ca8e30
+popcorn, #ffffb8
+taco, #eeb92f
+tortilla, #ffe741
+tortilla_chip, #ffcc34
+tortilla_raw, #ffe872
+wild_corn, #98bf57

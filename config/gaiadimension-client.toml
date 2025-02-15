@@ -1,0 +1,3 @@
+#A list of biomes to always display stars. This will only work in the dimension as this is where stars are rendered per biome
+starsInSky = ["gaiadimension:purple_agate_swamp"]
+

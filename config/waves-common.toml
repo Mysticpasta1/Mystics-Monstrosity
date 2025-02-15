@@ -1,0 +1,47 @@
+#Search distance for when creating coastal waves.
+#Range: > 0
+waveSearchDistance = 14
+#Additional block distance on top of render distance at which waves can spawn.
+#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+waveSpawnDistance = 0.0
+#Additional amount of waves to spawn.
+#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+waveSpawnAmount = 0.7
+#Time in ticks between each spawn sequence of waves.
+#Range: > 1
+waveSpawnFrequency = 20
+#Maximum spawn distance from shore.
+#Range: 0.0 ~ 1.7976931348623157E308
+waveSpawnDistanceFromShoreMax = 28.0
+#Minimum spawn distance from shore.
+#Range: 0.0 ~ 1.7976931348623157E308
+waveSpawnDistanceFromShoreMin = 4.0
+#Amount of sprites for waves. Zero indexed.
+#Range: > 1
+waveSpriteCount = 5
+#How great should the chance for waves to deposit blocks be? Lower value = higher chance.
+#Range: > 1
+waveBlockDepositChance = 100
+#How often the waves should make a sound. Lower value = rarer.
+#Range: 0.0 ~ 1.7976931348623157E308
+waveBreakingSoundChance = 0.0015
+#How fast the bioluminescence should change (octaves).
+#Range: > 1
+waveBioluminescenceChange = 16
+#The amount of iterations to process the bioluminescence noise map. More = rarer bioluminescent events.
+#Range: 0.0 ~ 1.7976931348623157E308
+waveBioluminescenceFrequency = 0.5
+#The maximum angle within which waves can spawn irt. the player view direction. E.g. 360 degrees would allow waves to spawn all around the player.
+#Range: 0.0 ~ 360.0
+waveSpawningFOVLimit = 140.0
+#The amount of iterations to search for and refine for the nearest shore position.
+#Range: > 1
+waveFindNearestShoreIterations = 2
+
+[Debug]
+	#Enable debug?
+	debug = false
+	#Vector axis switch.
+	#Range: 0 ~ 5
+	vecAxisIndex = 0
+

@@ -1,0 +1,3 @@
+// Compost colors for ls_spooky_music. You may add your own colors, change existing ones, or remove colors that aren't needed.
+album_kurzel_covenant, #252826
+disc_eleven_fixed, #474746

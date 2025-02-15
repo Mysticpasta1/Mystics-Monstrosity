@@ -1,0 +1,26 @@
+// Compost colors for enigmaticlegacydelight. You may add your own colors, change existing ones, or remove colors that aren't needed.
+astral_berries, #b17cb4
+astral_cookie, #ffc27f
+astral_forbidden_salad, #a18cab
+astral_fruit_cider, #f2e7ff
+astral_fruit_stew, #bc7cac
+astral_ice_cream, #f5b8fe
+astral_infinimeal, #7a977a
+astral_jem, #eeebff
+astral_pasta, #f0bff7
+astral_potato_stew, #c36450
+etherium_knife, #8cffdd
+evil_knife, #9033b8
+forbidden_fruit_juice, #d4bcff
+forbidden_fruit_stew, #8c5a57
+forbidden_ice_cream, #a76baf
+ichor_cookie, #ffc869
+ichor_shake, #ffffd4
+ichor_stew, #a87a2d
+mending_cookie, #ffae79
+mending_shake, #ca7cdd
+mending_stew, #964648
+soul_cookie, #ffbe83
+soul_dough, #b2ffff
+soul_jem, #aeffff
+stuffed_astral_potato, #de93c2

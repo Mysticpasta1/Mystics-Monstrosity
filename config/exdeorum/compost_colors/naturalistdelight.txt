@@ -1,0 +1,17 @@
+// Compost colors for naturalistdelight. You may add your own colors, change existing ones, or remove colors that aren't needed.
+cooked_butterfly, #862c07
+cooked_caterpillar, #414825
+cut_bass, #bbb258
+cut_catfish, #ddbe65
+cut_cooked_bass, #deab7f
+cut_cooked_butterfly, #862c07
+cut_cooked_caterpillar, #265a29
+cut_cooked_catfish, #ffdd8d
+cut_cooked_duck, #dc8652
+cut_cooked_lizard, #ca9164
+cut_cooked_venison, #94553c
+cut_duck, #ffc2ab
+cut_lizard_tail, #bc6c4b
+cut_venison, #e03d52
+duck_soup, #aa752f
+piece_of_cattail, #d4cc1e

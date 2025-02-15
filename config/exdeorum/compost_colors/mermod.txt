@@ -1,0 +1,10 @@
+// Compost colors for mermod. You may add your own colors, change existing ones, or remove colors that aren't needed.
+deep_sea_crystal_modifier, #6687aa
+glowing_pearl_modifier, #ffffb5
+mermaid_bra_modifier, #e1e1e1
+moon_rock_modifier, #3a404a
+sea_crystal, #1bcaf7
+sea_necklace, #262626
+tail_gradient_modifier, #ffffff
+tail_moisturizer_modifier, #ffffff
+ursula_shell_modifier, #fff50b

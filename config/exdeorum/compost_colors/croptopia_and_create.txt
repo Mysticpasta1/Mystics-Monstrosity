@@ -1,0 +1,10 @@
+// Compost colors for croptopia_and_create. You may add your own colors, change existing ones, or remove colors that aren't needed.
+incomplete_burrito, #ffd994
+incomplete_cabbage_roll, #9de858
+incomplete_carnitas, #a47f44
+raw_fries, #ffff94
+uncooked_anchovy_pizza, #ffffaa
+uncooked_apple_pie, #ffea7c
+uncooked_cheese_pizza, #fff57d
+uncooked_cherry_pie, #ffc39e
+uncooked_crepes, #ffe886

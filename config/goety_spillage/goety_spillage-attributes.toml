@@ -1,0 +1,55 @@
+
+[Attributes]
+
+	[Attributes."Summoned Mobs"]
+
+		[Attributes."Summoned Mobs"."Crocofang Servant"]
+			#How much Max Health Crocofang Servants have, Default: 40.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			crocofangServantHealth = 40.0
+			#How much natural armor points Crocofang Servants have, Default: 3.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			crocofangServantArmor = 3.0
+			#How much damage Crocofang Servants deals, Default: 8.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			crocofangServantDamage = 8.0
+
+		[Attributes."Summoned Mobs"."Bound Engineer"]
+			#How much Max Health Bound Engineers have, Default: 30.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			boundEngineerHealth = 30.0
+			#How much natural armor points Bound Engineers have, Default: 0.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			boundEngineerArmor = 0.0
+			#How much damage Bound Engineers deals, Default: 5.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			boundEngineerDamage = 5.0
+
+		[Attributes."Summoned Mobs"."Bound Freakager"]
+			#How much Max Health Bound Freakagers have, Default: 160.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			boundFreakagerHealth = 160.0
+			#How much natural armor points Bound Freakagers have, Default: 0.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			boundFreakagerArmor = 0.0
+			#How much damage Bound Freakagers deals, Default: 5.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			boundFreakagerDamage = 5.0
+			#How much damage Bound Freakagers' Scythe deals, Default: 5.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			boundFreakagerScytheDamage = 5.0
+			#How much damage Bound Freakagers' Axes deals, Default: 8.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			boundFreakagerAxeDamage = 8.0
+
+		[Attributes."Summoned Mobs"."Ragno Servant"]
+			#How much Max Health Ragno Servants have, Default: 180.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			ragnoServantHealth = 180.0
+			#How much natural armor points Ragno Servants have, Default: 0.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			ragnoServantArmor = 0.0
+			#How much damage Ragno Servants deals, Default: 5.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			ragnoServantDamage = 5.0
+

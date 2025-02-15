@@ -1,0 +1,17 @@
+{
+  "blasting_list": [
+    "minecraft:cobblestone, minecraft:stone, 0.1",
+    "minecraft:stone, minecraft:smooth_stone, 0.1",
+    "minecraft:stone_bricks, minecraft:cracked_stone_bricks, 0.1",
+    "minecraft:cobbled_deepslate, minecraft:deepslate, 0.1",
+    "minecraft:deepslate_bricks, minecraft:cracked_deepslate_bricks, 0.1",
+    "minecraft:deepslate_tiles, minecraft:cracked_deepslate_tiles, 0.1",
+    "minecraft:sandstone, minecraft:smooth_sandstone, 0.1",
+    "minecraft:red_sandstone, minecraft:smooth_red_sandstone, 0.1",
+    "minecraft:basalt, minecraft:smooth_basalt, 0.1",
+    "minecraft:polished_blackstone_bricks, minecraft:cracked_polished_blackstone_bricks, 0.1",
+    "minecraft:quartz_block, minecraft:smooth_quartz, 0.1",
+    "minecraft:netherrack, minecraft:nether_brick, 0.1",
+    "minecraft:nether_bricks, minecraft:cracked_nether_bricks, 0.1"
+  ]
+}

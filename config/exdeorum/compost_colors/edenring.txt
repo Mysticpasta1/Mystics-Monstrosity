@@ -1,0 +1,5 @@
+// Compost colors for edenring. You may add your own colors, change existing ones, or remove colors that aren't needed.
+auritis_hanging_sign, #ffee9e
+balloon_mushroom_hanging_sign, #e091c0
+brain_tree_hanging_sign, #5b5b61
+pulse_tree_hanging_sign, #87e7eb

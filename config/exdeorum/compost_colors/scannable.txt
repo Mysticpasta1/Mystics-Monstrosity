@@ -1,0 +1,12 @@
+// Compost colors for scannable. You may add your own colors, change existing ones, or remove colors that aren't needed.
+blank_module, #d9ffd2
+block_module, #d9ffd2
+chest_module, #d9ffd2
+common_ores_module, #d9ffd2
+entity_module, #d9ffd2
+fluid_module, #d9ffd2
+friendly_entity_module, #d9ffd2
+hostile_entity_module, #d9ffd2
+range_module, #d9ffd2
+rare_ores_module, #d9ffd2
+scanner, #ffffff

@@ -1,0 +1,5 @@
+// Compost colors for mobdropsrecipes_overworld. You may add your own colors, change existing ones, or remove colors that aren't needed.
+overworld_essence_common, #f0ff4e
+overworld_essence_epic, #f0ff51
+overworld_essence_rare, #f0ff51
+overworld_essence_uncommon, #f0ff50

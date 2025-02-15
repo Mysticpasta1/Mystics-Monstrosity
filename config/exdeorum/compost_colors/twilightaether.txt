@@ -1,0 +1,10 @@
+// Compost colors for twilightaether. You may add your own colors, change existing ones, or remove colors that aren't needed.
+arctic_gloves, #fefefe
+fiery_cape, #b57839
+fiery_gloves, #cf9147
+ironwood_gloves, #847d68
+knightmetal_gloves, #aab69a
+naga_gloves, #467a1e
+phantom_gloves, #545f47
+steeleaf_gloves, #52863e
+yeti_gloves, #b5c0d2

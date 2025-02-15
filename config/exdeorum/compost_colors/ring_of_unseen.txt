@@ -1,0 +1,2 @@
+// Compost colors for ring_of_unseen. You may add your own colors, change existing ones, or remove colors that aren't needed.
+ring_of_unseen, #1f4666

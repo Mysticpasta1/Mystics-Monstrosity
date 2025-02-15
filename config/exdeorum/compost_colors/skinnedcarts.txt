@@ -1,0 +1,13 @@
+// Compost colors for skinnedcarts. You may add your own colors, change existing ones, or remove colors that aren't needed.
+bee_minecart, #aba289
+elephant_minecart, #8c8c8a
+frog_minecart, #9e9893
+green_frog_minecart, #79be80
+ladybug_minecart, #75463e
+panda_minecart, #87878c
+pelican_minecart, #aaa491
+penguin_minecart, #b5b1aa
+pufferfish_minecart, #b2a287
+snail_minecart, #908778
+turtle_minecart, #729d72
+wombat_minecart, #a7a29d

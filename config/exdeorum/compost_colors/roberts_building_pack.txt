@@ -1,0 +1,4 @@
+// Compost colors for roberts_building_pack. You may add your own colors, change existing ones, or remove colors that aren't needed.
+cyan_brick, #7597a0
+red_brick, #ab7a7a
+yellow_brick, #eec89e

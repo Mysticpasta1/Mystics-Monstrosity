@@ -1,0 +1,21 @@
+// Compost colors for dyeable_redstone_signal. You may add your own colors, change existing ones, or remove colors that aren't needed.
+black_redstone, #e4e4e4
+blue_redstone, #6ea2
+brown_redstone, #894608
+common_redstone, #f7cdb4
+common_redstone_converter, #ffffff
+common_redstone_repeater, #ffffff
+cyan_redstone, #8a273
+gray_redstone, #fefefe
+green_redstone, #15a218
+light_blue_redstone, #cdd2
+light_gray_redstone, #ffffff
+lime_redstone, #489028
+magenta_redstone, #c3049e
+orange_redstone, #c56e04
+pink_redstone, #ff86ca
+purple_redstone, #9404c6
+red_redstone, #c50505
+redstone_ammeter, #f8ffff
+white_redstone, #ffffff
+yellow_redstone, #ffffd4

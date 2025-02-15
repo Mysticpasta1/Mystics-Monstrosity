@@ -1,0 +1,11 @@
+// Compost colors for stonechest. You may add your own colors, change existing ones, or remove colors that aren't needed.
+part_andesite, #a2a09d
+part_calcite, #fffef5
+part_cobbled_deepslate, #625f5f
+part_cobblestone, #989793
+part_deepslate, #646261
+part_diorite, #dcd9d6
+part_granite, #ae7c66
+part_prismarine, #7abba7
+part_stone, #979490
+part_tuff, #848379

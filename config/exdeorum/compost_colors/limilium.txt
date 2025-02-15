@@ -1,0 +1,13 @@
+// Compost colors for limilium. You may add your own colors, change existing ones, or remove colors that aren't needed.
+ceramic_resistor, #cd6650
+conjunctor, #cf7a6f
+crossroad, #d45a47
+cyan_quartz, #9affee
+diode, #d07a6c
+disjunctor, #b97a75
+glass_resistor, #c86f65
+golden_resistor, #d76e43
+integrated_circuit, #a8e4a1
+inverter, #f46f54
+iron_resistor, #ca7668
+polished_cyan_quartz, #9bfff8

@@ -1,0 +1,21 @@
+// Compost colors for beautifulcampfires. You may add your own colors, change existing ones, or remove colors that aren't needed.
+acacia_campfire, #e89348
+acacia_soul_campfire, #9db8a2
+bamboo_campfire, #d4b240
+bamboo_soul_campfire, #89d79a
+birch_campfire, #ffca78
+birch_soul_campfire, #b4f1d2
+cherry_campfire, #feb17d
+cherry_soul_campfire, #b2d6d7
+crimson_campfire, #ca7554
+crimson_soul_campfire, #7f9aaf
+dark_oak_campfire, #aa6f2a
+dark_oak_soul_campfire, #5e9484
+jungle_campfire, #e7a04d
+jungle_soul_campfire, #9bc5a7
+mangrove_campfire, #c6733c
+mangrove_soul_campfire, #7a9a96
+spruce_campfire, #cc8c3e
+spruce_soul_campfire, #80b198
+warped_campfire, #a89a6c
+warped_soul_campfire, #5ec0c6

@@ -1,0 +1,19 @@
+#Maximum number of active epic summons
+#Range: > 1
+epicCap = 2
+#Maximum number of active legendary summons
+#Range: > 1
+legendaryCap = 1
+#Value of legendary summons in common summons
+#Range: > 1
+legendaryValue = 10
+#Value of epic summons in common summons
+#Range: > 1
+epicValue = 4
+#Value of rare summons in common summons
+#Range: > 1
+rareValue = 2
+#Maximum number of active summons
+#Range: > 1
+maxSummons = 15
+

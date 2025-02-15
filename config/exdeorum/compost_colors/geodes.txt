@@ -1,0 +1,27 @@
+// Compost colors for geodes. You may add your own colors, change existing ones, or remove colors that aren't needed.
+crystal_locator, #fffbe4
+diamond_cluster, #c9ffff
+echo_cluster, #62bfc8
+echo_locator, #9dd2d6
+emerald_cluster, #8effbb
+gypsum_rose, #ffe4a8
+gypsum_shard, #fff0cf
+lapis_cluster, #5a8df1
+large_echo_bud, #3eaab5
+large_emerald_bud, #9dffc9
+large_gypsum_bud, #ffd99d
+large_lapis_bud, #5b8ced
+large_quartz_bud, #fffaeb
+medium_echo_bud, #52b9c3
+medium_emerald_bud, #a8ffcf
+medium_gypsum_bud, #ffe6a8
+medium_lapis_bud, #5e91f0
+medium_quartz_bud, #fff4e7
+pyrite_chunk, #ffd978
+quartz_cluster, #fffcf0
+small_echo_bud, #72c2cc
+small_emerald_bud, #a8ffca
+small_gypsum_bud, #ffd293
+small_lapis_bud, #75a0f5
+small_quartz_bud, #fffff2
+tuned_crystal_locator, #e8e8e8

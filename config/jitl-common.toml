@@ -1,0 +1,15 @@
+
+["Common configs for JITL"]
+	#Need structure to use Summoning Table
+	"Summoning structure: " = true
+	#Can Mobs drop Loot Pouches
+	"Loot Pouches: " = true
+	#Common Loot Chance
+	"Common Loot Chance 1 out of: " = 100
+	#Gold Loot Chance
+	"Gold Loot Chance 1 out of: " = 150
+	#Diamond Loot Chance
+	"Diamond Loot Chance 1 out of: " = 200
+	#Can use Eternal Light to change time to night
+	"Value: " = true
+

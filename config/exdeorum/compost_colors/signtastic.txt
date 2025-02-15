@@ -1,0 +1,2 @@
+// Compost colors for signtastic. You may add your own colors, change existing ones, or remove colors that aren't needed.
+sign_configurator, #cdbfa1

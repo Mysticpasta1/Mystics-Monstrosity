@@ -1,0 +1,14 @@
+
+#General Settings
+[Bosses]
+	#List of entities that should regain health whenever a play dies nearby.
+	"boss entities:" = ["minecraft:wither", "minecraft:ender_dragon", "minecraft:elder_guardian"]
+	#Radius to check around player who died for bosses to regain health. Default 16. Value between 0 and 256
+	#Range: 0 ~ 256
+	"radius:" = 16
+
+	[Bosses."Health Percent"]
+		#How much should the boss heal whenever a player dies nearby? Setting this to 1 will make it heal to full, 0.5 will heal it by half its max HP. Value between 0.0 and 1.0
+		#Range: 0.0 ~ 1.0
+		"heal factor:" = 0.5
+

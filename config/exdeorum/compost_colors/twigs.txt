@@ -1,0 +1,19 @@
+// Compost colors for twigs. You may add your own colors, change existing ones, or remove colors that aren't needed.
+allium_paper_lantern, #fffffe
+azalea_flowers, #ea79de
+bamboo_leaves, #619b23
+blue_orchid_paper_lantern, #e8ffe8
+bronzed_seashell, #8c655a
+crimson_roots_paper_lantern, #ffe3da
+dandelion_paper_lantern, #ffffe0
+opaline_seashell, #ffffff
+paper_lantern, #ffffff
+pebble, #a7a7a7
+petrified_lichen, #7d8d90
+roseate_seashell, #bf7f87
+silt_ball, #89765e
+silt_brick, #ab8961
+tangerine_seashell, #cf8065
+torchflower_paper_lantern, #fbe7c8
+twig, #6c612f
+twigs, #7d5841

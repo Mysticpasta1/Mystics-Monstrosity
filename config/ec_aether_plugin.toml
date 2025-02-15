@@ -1,0 +1,148 @@
+[skyrootPlank]
+equipSound = "minecraft:item.armor.equip_generic"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[skyrootPlank.durability]
+toolDurability = 59
+bowDurability = 0
+addedShieldDurability = 40
+
+[skyrootPlank.enchanting]
+offenseEnchantability = 15
+defenseEnchantability = 0
+
+[skyrootPlank.offense]
+addedAttackDamage = 0.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[skyrootPlank.defense]
+gauntletArmorAmount = 0
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 2.5
+afterBasePercentReduction = 0.3
+
+[skyrootPlank.crafting]
+repairItem = ["aether:skyroot_planks"]
+craftingItem = ""
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[holystone]
+equipSound = "minecraft:item.armor.equip_generic"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[holystone.durability]
+toolDurability = 131
+bowDurability = 0
+addedShieldDurability = 0
+
+[holystone.enchanting]
+offenseEnchantability = 5
+defenseEnchantability = 0
+
+[holystone.offense]
+addedAttackDamage = 1.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[holystone.defense]
+gauntletArmorAmount = 0
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 0.0
+afterBasePercentReduction = 0.0
+
+[holystone.crafting]
+repairItem = ["aether:holystone"]
+craftingItem = ""
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[gravitite]
+equipSound = "aether:item.armor.equip_gravitite"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[gravitite.durability]
+toolDurability = 1561
+bowDurability = 0
+addedShieldDurability = 334
+
+[gravitite.enchanting]
+offenseEnchantability = 10
+defenseEnchantability = 10
+
+[gravitite.offense]
+addedAttackDamage = 3.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[gravitite.defense]
+gauntletArmorAmount = 3
+armorToughness = 2.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 5.3513513
+afterBasePercentReduction = 0.75810814
+
+[gravitite.crafting]
+repairItem = ["aether:enchanted_gravitite"]
+craftingItem = ""
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[zanite]
+equipSound = "aether:item.armor.equip_zanite"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[zanite.durability]
+toolDurability = 250
+bowDurability = 0
+addedShieldDurability = 152
+
+[zanite.enchanting]
+offenseEnchantability = 14
+defenseEnchantability = 9
+
+[zanite.offense]
+addedAttackDamage = 2.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[zanite.defense]
+gauntletArmorAmount = 2
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 2.4324324
+afterBasePercentReduction = 0.3445946
+
+[zanite.crafting]
+repairItem = ["aether:zanite_gemstone"]
+craftingItem = ""
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"

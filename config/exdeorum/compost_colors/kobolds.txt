@@ -1,0 +1,10 @@
+// Compost colors for kobolds. You may add your own colors, change existing ones, or remove colors that aren't needed.
+banner_pattern_kobold, #fffff1
+kobold_iron_axe, #a5937c
+kobold_iron_hoe, #917858
+kobold_iron_pickaxe, #8d7a64
+kobold_iron_shovel, #af9a82
+kobold_iron_sword, #9d9691
+kobold_potion, #ededed
+kobold_template, #a0b5af
+music_disc_kobblestone, #475c50

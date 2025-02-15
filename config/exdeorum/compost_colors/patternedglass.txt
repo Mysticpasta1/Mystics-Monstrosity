@@ -1,0 +1,17 @@
+// Compost colors for patternedglass. You may add your own colors, change existing ones, or remove colors that aren't needed.
+black_patterned_glass_pane, #5f2a2d
+blue_patterned_glass_pane, #435bc6
+brown_patterned_glass_pane, #aa9779
+cyan_patterned_glass_pane, #4aa8b2
+gray_patterned_glass_pane, #768084
+green_patterned_glass_pane, #a7ca5f
+light_blue_patterned_glass_pane, #86eaff
+light_gray_patterned_glass_pane, #cdedee
+lime_patterned_glass_pane, #e7ff4e
+magenta_patterned_glass_pane, #ff8eff
+orange_patterned_glass_pane, #dcd282
+pink_patterned_glass_pane, #ffdcff
+purple_patterned_glass_pane, #9b44d9
+red_patterned_glass_pane, #ff544b
+white_patterned_glass_pane, #ffffff
+yellow_patterned_glass_pane, #ffff7d

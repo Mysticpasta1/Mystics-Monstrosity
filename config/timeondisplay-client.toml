@@ -1,0 +1,16 @@
+
+[TimeOnDisplay]
+	enable = true
+	system_time_only = false
+	display_clock_icons = true
+	display_24_hour = true
+	# TimeOnDisplay has five options for display_location:
+	#   upper-left, upper-right,
+	#   lower-left, lower-right,
+	#   upper-middle
+	display_location = "lower-left"
+	# TimeOnDisplay has two alternate options for the system time icon:
+	# alternate_clock_1, and alternate_clock_2
+	# (Leave this value blank to use the original icon)
+	display_icon = ""
+

@@ -1,0 +1,12 @@
+// Compost colors for gag. You may add your own colors, change existing ones, or remove colors that aren't needed.
+energized_hearthstone, #e7feff
+escape_rope, #eabba7
+fishing_dynamite, #dc9197
+hearthstone, #d7c9d9
+labeling_tool, #d29097
+mining_dynamite, #cc8a9b
+pigment_jar, #f8e4f1
+sacred_balm, #ffffe3
+sacred_salt, #ffdca7
+sacred_salve, #ffffff
+time_sand_pouch, #ffdca1

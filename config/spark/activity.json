@@ -1,0 +1,106 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Mysticpasta1",
+      "uniqueId": "9769fd84-8a56-4984-875b-29319493fe3c"
+    },
+    "time": 1738772333174,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/mwFZQd0Ma1"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Mysticpasta1",
+      "uniqueId": "9769fd84-8a56-4984-875b-29319493fe3c"
+    },
+    "time": 1738772296302,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/h3xBXPSQG2"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Mysticpasta1",
+      "uniqueId": "9769fd84-8a56-4984-875b-29319493fe3c"
+    },
+    "time": 1738772261197,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/oJmMHG1PzQ"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Mysticpasta1",
+      "uniqueId": "9769fd84-8a56-4984-875b-29319493fe3c"
+    },
+    "time": 1738145210474,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/WkgPA20OfT"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Mysticpasta1",
+      "uniqueId": "9769fd84-8a56-4984-875b-29319493fe3c"
+    },
+    "time": 1738142595513,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/aONpYF2HUY"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Mysticpasta1",
+      "uniqueId": "9769fd84-8a56-4984-875b-29319493fe3c"
+    },
+    "time": 1737943600732,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/pQgB79evvn"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Mysticpasta1",
+      "uniqueId": "9769fd84-8a56-4984-875b-29319493fe3c"
+    },
+    "time": 1737877773802,
+    "type": "Profiler",
+    "data": {
+      "type": "file",
+      "value": "E:\\curseforge\\Instances\\Mystic\u0027s Monstrosity (3)\\config\\spark\\profile-2025-01-26_01.49.33.sparkprofile"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Mysticpasta1",
+      "uniqueId": "9769fd84-8a56-4984-875b-29319493fe3c"
+    },
+    "time": 1736397629801,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/ksTXnXF2JS"
+    }
+  }
+]

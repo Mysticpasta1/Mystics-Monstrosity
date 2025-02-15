@@ -1,0 +1,5 @@
+// Compost colors for mobdropsrecipes_end. You may add your own colors, change existing ones, or remove colors that aren't needed.
+end_essence_common, #cf4eff
+end_essence_epic, #d051ff
+end_essence_rare, #d051ff
+end_essence_uncommon, #cf50ff

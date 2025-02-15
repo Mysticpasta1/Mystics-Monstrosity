@@ -1,0 +1,4 @@
+// Compost colors for torchbowmod. You may add your own colors, change existing ones, or remove colors that aren't needed.
+multitorch, #ffffff
+torcharrow, #ffffff
+torchbow, #d3c697

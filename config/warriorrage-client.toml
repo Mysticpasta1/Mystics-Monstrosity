@@ -1,0 +1,16 @@
+
+#Client-only settings
+[client]
+	#Render Rage Bar on experience bar
+	renderRageBar = true
+	#Render Rage Icon next to player's Hotbar
+	renderRageIcon = true
+	#Negative offsets to left side, positive to right
+	#Range: > -2147483648
+	offsetX = 0
+	#Negative offsets to up, positive to down
+	#Range: > -2147483648
+	offsetY = 0
+	#Render fire particles around player when rage is active
+	renderFireParticles = true
+

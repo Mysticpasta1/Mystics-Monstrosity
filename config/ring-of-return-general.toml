@@ -1,0 +1,6 @@
+
+#Misc Ring Settings
+[misc_ring_settings]
+	#Ring of Return is a one time use item [true / false]
+	oneTimeUse = false
+

@@ -1,0 +1,6 @@
+
+#Misc Ring Settings
+[misc_ring_settings]
+	#Ring of Blink has limited uses [true / false]
+	limitedUse = false
+

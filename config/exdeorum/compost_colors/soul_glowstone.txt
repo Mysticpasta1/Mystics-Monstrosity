@@ -1,0 +1,12 @@
+// Compost colors for soul_glowstone. You may add your own colors, change existing ones, or remove colors that aren't needed.
+almond_water, #aac8dd
+backroom, #bbbbbb
+catcher, #8a6c5f
+item_teleporter, #f7ab84
+item_transmitter, #ffcc43
+liminalgae_leaf, #41b558
+pool_rooms, #bbbbbb
+reseter, #bbbbbb
+soul_glowstone_dust, #61f7fe
+teleport_field, #ff0000
+wall_paper_item, #ffffa0

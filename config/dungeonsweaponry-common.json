@@ -1,0 +1,36 @@
+{
+  "weapon_damage": {
+    "dungeonsweaponry:dancers_sword": 6.0,
+    "dungeonsweaponry:glaive": 7.0,
+    "dungeonsweaponry:backstabber": 4.5,
+    "dungeonsweaponry:cutlass": 6.0,
+    "dungeonsweaponry:whispering_spear": 6.0,
+    "dungeonsweaponry:stormlander": 8.0,
+    "dungeonsweaponry:dark_katana": 6.0,
+    "dungeonsweaponry:chill_gale_knife": 4.5,
+    "dungeonsweaponry:great_axeblade": 9.0,
+    "dungeonsweaponry:resolute_tempest_knife": 4.5,
+    "dungeonsweaponry:dagger": 5.5,
+    "dungeonsweaponry:nameless_blade": 4.0,
+    "dungeonsweaponry:heartstealer": 8.5,
+    "dungeonsweaponry:highland_axe": 8.0,
+    "dungeonsweaponry:hammer_of_gravity": 8.0,
+    "dungeonsweaponry:venom_glaive": 7.5,
+    "dungeonsweaponry:firebrand": 7.5,
+    "dungeonsweaponry:fangs_of_frost": 6.5,
+    "dungeonsweaponry:suns_grace": 6.0,
+    "dungeonsweaponry:double_axe": 8.5,
+    "dungeonsweaponry:frost_slayer": 8.0,
+    "dungeonsweaponry:frost_scythe": 7.0,
+    "dungeonsweaponry:claymore": 7.0,
+    "dungeonsweaponry:cursed_axe": 8.5
+  },
+  "tier_durabilities": {
+    "bow_rare": 500,
+    "common": 250,
+    "bow_common": 384,
+    "legendary": 3000,
+    "rare": 750,
+    "bow_legendary": 1000
+  }
+}

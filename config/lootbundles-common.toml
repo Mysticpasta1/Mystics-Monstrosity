@@ -1,0 +1,18 @@
+
+[General]
+	#Allow drops from fake players
+	whitelist = false
+	#Insert into players inventory when possible instead of spewing all the items on the ground
+	inventoryInsert = false
+	#Stack size of dropped loot will be a random number between 0 and maxStackSize
+	#Range: 0 ~ 64
+	maxStackSize = 4
+	#Number of dropped stacks per bundle will be between minLootAmount and maxLootAmount
+	#Range: > 0
+	minLootAmount = 1
+	#Number of dropped stacks per bundle will be between minLootAmount and maxLootAmount
+	#Range: > 0
+	maxLootAmount = 4
+	#List of strings that an item name must not contain in order for it to be considered a valid loot item. Item name can be partial and can contain the mod id as well to disallow an entire mods items.
+	disallowedItemNames = ["creative", "spawn_egg"]
+

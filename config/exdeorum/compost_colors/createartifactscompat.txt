@@ -1,0 +1,5 @@
+// Compost colors for createartifactscompat. You may add your own colors, change existing ones, or remove colors that aren't needed.
+infinity_super_glue, #f49beb
+long_hand, #dd90de
+super_experience_nugget, #ff8dfb
+taste_alloy_metal, #e8a578

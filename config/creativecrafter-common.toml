@@ -1,0 +1,7 @@
+
+["Creative Crafter Options"]
+	#
+	#The energy used by the Creative Crafter
+	#Range: > 0
+	creativeCrafterEnergyUsage = 0
+

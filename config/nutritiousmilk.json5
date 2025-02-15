@@ -1,0 +1,8 @@
+{
+	// The hunger level decreased. Example values: cookie = 2, bread = 5, salmon = 6, steak = 8.
+	// min: 0, max: 20
+	"hungerLevelIncrease": 10,
+	// The saturation increase. Example values: melon = 1.2, carrot = 3.6, chicken = 7.2, steak 12.8.
+	// min: 0.0, max: 20.0
+	"saturationLevelIncrease": 10.0
+}

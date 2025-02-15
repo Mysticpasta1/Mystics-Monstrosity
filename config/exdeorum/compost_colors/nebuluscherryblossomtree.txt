@@ -1,0 +1,3 @@
+// Compost colors for nebuluscherryblossomtree. You may add your own colors, change existing ones, or remove colors that aren't needed.
+cherry_rose_1, #ff8acf
+cherry_rose_2, #ffbccf

@@ -1,0 +1,5 @@
+
+["Potion Level Fix"]
+	#If true, display using Roman numerals (vanilla); if false, display using Arabic numerals.
+	"Number type" = true
+

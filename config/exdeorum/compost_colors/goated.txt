@@ -1,0 +1,4 @@
+// Compost colors for goated. You may add your own colors, change existing ones, or remove colors that aren't needed.
+barbaric_helmet, #9d5a4a
+chevon, #ff5f5e
+cooked_chevon, #98552f

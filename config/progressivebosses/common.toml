@@ -1,0 +1,185 @@
+"Enable Wither" = true
+"Enable Ender Dragon" = true
+"Enable Elder Guardian" = true
+
+["Elder Guardian"]
+
+	#Base feature for the Elder Guardian harder fights.
+	["Elder Guardian".Base]
+		#If true, the player will not be able to break blocks when an Elder Guardian is nearby. This also removes Mining Fatigue.
+		"Adventure mode" = true
+		#The range from any Elder Guardian at which players get adventure mode. This range is doubled when YUNG's Better Ocean Monuments is installed.
+		#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+		"Adventure mode Range" = 48.0
+
+["Ender Dragon"]
+	#Handles the Damage Resistances and Vulnerabilities
+	"Enable Resistances & Vulnerabilities" = true
+	#Makes the dragon hit harder in various different ways
+	"Enable Attack" = true
+	#Makes more Crystal spawn and with more cages.
+	"Enable Crystals" = true
+	#Mini things that are just annoying.
+	"Enable Larva" = true
+	#Shulkers that will make you float around.
+	"Enable Minions" = true
+	#Bonus Experience and Dragon Egg per player
+	"Enable Rewards" = true
+	#Bonus Health and Bonus regeneration.
+	"Enable Health" = true
+
+	#Handles the Damage Resistances and Vulnerabilities
+	["Ender Dragon"."Resistances & Vulnerabilities"]
+		#Melee Damage reduction at max difficulty while the Ender Dragon is at the center.
+		#Range: 0.0 ~ 1.0
+		"Melee Damage reduction while at the center" = 0.24
+		#Melee Damage is increased by this percentage while the Ender Dragon is not at the center.
+		#Range: 0.0 ~ 1.0
+		"Melee Damage increase while not at the center" = 0.24
+		#Damage reduction when hit by explosions (firework rockets excluded).
+		#Range: 0.0 ~ 1.0
+		"Explosion Damage reduction" = 0.667
+
+	#How difficulty is handled for the Dragon.
+	["Ender Dragon"."Difficulty Settings"]
+		#The Maximum difficulty (times killed) reachable by Ender Dragon. By default is set to 24 because it's the last spawning end gate.
+		#Range: > 1
+		"Max Difficulty" = 8
+		#How much difficulty will players start with when joining a world? Note that this will apply when the player joins the world if the current player difficulty is below this value.
+		#Range: > 0
+		"Starting Difficulty" = 0
+		#If false and there's more than 1 player around the Dragon, difficulty will be the average of all the players' difficulty instead of summing them.
+		"Sum Killed Dragons Difficulty" = false
+		#Percentage bonus difficulty added to the Dragon when more than one player is present. Each player past the first one will add this percentage to the difficulty.
+		#Range: 0.0 ~ 1.7976931348623157E308
+		"Bonus Difficulty per Player" = 0.25
+		#Set to false to disable the first Dragon killed message.
+		"Show First Killed Dragon Message" = true
+
+	#Makes the dragon hit harder in various different ways
+	["Ender Dragon".Attack]
+		#How much more damage at max difficulty (percentage) does the Ender Dragon deal per difficulty?
+		#Range: 0.0 ~ 1.7976931348623157E308
+		"Bonus Direct Damage" = 2.25
+		#How much more damage at max difficulty (percentage) does the Ender Dragon's Acid fireball and pool deal per difficulty?
+		#Range: 0.0 ~ 1.7976931348623157E308
+		"Bonus Acid Pool Damage" = 2.4
+		#Normally the Ender Dragon attacks only when leaving the center platform. With this active she has a chance when she has finished charging / fireballing or before checking if she should land in the center to charge the player.
+		#This is the chance to start a charge attack when the difficulty is at max. Otherwise it scales accordingly.
+		#The actual chance is: (this_value * (difficulty / max difficulty)).
+		#Range: 0.0 ~ 1.7976931348623157E308
+		"Charge Player Max Chance" = 0.45
+		#Normally the Ender Dragon spits fireballs when a Crystal is destroyed and rarely during the fight. With this active she has a chance when she has finished charging / fireballing or before checking if she should land in the center to spit a fireball.
+		#This is the chance to start a fireball attack when the difficulty is at max. Otherwise it scales accordingly.
+		#The actual chance is: (this_value * (difficulty / max difficulty)).
+		#Range: 0.0 ~ 1.7976931348623157E308
+		"Fireball Max Chance" = 0.35
+		#Since around 1.13/1.14 the Ender Dragon can no longer dive for more than about 3 blocks so she takes a lot to rise / fall. With this active the dragon will be able to rise and fall many more blocks, making easier to hit the player and approach the center.
+		"Increase Max Rise and Fall" = true
+		#On impact the Acid Fireball will deal magic damage in an area.
+		"Fireball Explosion Magic Damage" = true
+		#On impact the Acid Fireball will generate a 3D area of effect cloud instead of a normal flat one. The 3D cloud lasts for half the time.
+		"Fireball 3D Area Effect Cloud" = true
+		#Speed multiplier for the Dragon Fireball.
+		#Range: 0.0 ~ 1.7976931348623157E308
+		"Fireball Velocity Multiplier" = 2.5
+		#The dragon will fire (up to) this more fireballs at max difficulty. The bonus fireballs have a slight shotting error so aren't all directly aimed at the player.
+		#Range: 0.0 ~ 1.7976931348623157E308
+		"Bonus Fireballs" = 15.0
+
+	#Makes more Crystal spawn and with more cages.
+	["Ender Dragon".Crystals]
+		#At this difficulty cages will start to appear around other crystals too. -1 will disable this feature.
+		#Range: > -1
+		"More Cages at Difficulty" = 1
+		#Max number of bonus cages that can spawn around the crystals. (Vanilla already has 2 cages)
+		#Range: 0 ~ 8
+		"Max Bonus Cages" = 6
+		#At this difficulty one crystal will start to appear inside obsidian towers. -1 will disable this feature.
+		#Range: > -1
+		"More Crystals at Difficulty" = 2
+		#Every how much difficulty one more crystal will be spawned inside towers
+		#Range: > -1
+		"More Crystals Step" = 3
+		#Max number of bonus crystals that can spawn inside the towers.
+		#Range: 0 ~ 10
+		"More Crystals Max" = 3
+		#Everytime the dragon is hit (when below 50% of health) there's a chance to to trigger a Crystal respawn Phase. The chance is 0% when health >=50% and 100% when health <=30%, the health threshold decreases by 20% every time the dragon respawns crystals.
+		"Enable crystal respawn" = true
+		#At max Difficulty how many crystals will the dragon respawn.
+		#Range: 0.0 ~ 10.0
+		"Crystal Respawn Per Difficulty" = 3.0
+		#Crystals can no longer be destroyed by other explosions.
+		"Explosion Immune" = true
+
+	#Mini things that are just annoying.
+	["Ender Dragon".Larva]
+		#At which difficulty the Ender Dragon starts spawning Larvae
+		#Range: > 0
+		"Larva at Difficulty" = 1
+		#As the Ender Dragon starts spawning Minions, every how much difficulty she will spawn one more Minions
+		#Range: > 0
+		"Bonus Larva Every Difficulty" = 1
+		#Maximum Larva spawned by the Ender Dragon
+		#Range: > 0
+		"Max Larvae Spawned" = 7
+		#Minimum ticks (20 ticks = 1 seconds) after Minions can spawn.
+		#Range: > 0
+		"Minimum Cooldown" = 800
+		#Maximum ticks (20 ticks = 1 seconds) after Minions can spawn.
+		#Range: > 0
+		"Maximum Cooldown" = 1400
+		#If true, Larvae will take only 10% damage from the Ender Dragon.
+		"Reduced Dragon Damage" = true
+
+	#Shulkers that will make you float around.
+	["Ender Dragon".Minions]
+		#At which difficulty the Ender Dragon starts spawning Minions
+		#Range: > 0
+		"Minion at Difficulty" = 1
+		#Minimum ticks (20 ticks = 1 seconds) after Minions can spawn
+		#Range: > 0
+		"Minimum Cooldown" = 1400
+		#Maximum ticks (20 ticks = 1 seconds) after Minions can spawn.
+		#Range: > 0
+		"Maximum Cooldown" = 2000
+		#Percentage cooldown reduction at max difficulty for the cooldown of Minion spawning.
+		#Range: 0.0 ~ 1.0
+		"Cooldown Reduction" = 0.4
+		#Percentage chance at max difficulty for a Minion to spawn as a Blinding Minion.
+		#Range: 0.0 ~ 1.0
+		"Blinding Chance" = 0.4
+		#Time (in ticks) for the blinding effect when hit by a blinding bullet.
+		#Range: 0 ~ 1200
+		"Blinding duration" = 150
+		#If true, Dragon Minions will take only 10% damage from the Ender Dragon.
+		"Reduced Dragon Damage" = true
+
+	#Bonus Experience and Dragon Egg per player
+	["Ender Dragon".Rewards]
+		#How much more experience (percentage, 36 means +3600%) will Dragon drop at max Difficulty.
+		#Range: 0.0 ~ 1.7976931348623157E308
+		"Bonus Experience" = 36.0
+		#If true whenever a player, that has never killed the dragon, kills the dragon a Dragon Egg will drop. E.g. If 2 players kill the Dragon for the first time, she will drop 2 Dragon Eggs
+		"Dragon Egg per Player" = true
+
+	#Bonus Health and Bonus regeneration.
+	["Ender Dragon".Health]
+		#Ender Dragon health will be increased by this value at max difficulty (scaling accordingly at lower difficulties)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		"Health Bonus at Max Difficulty" = 200.0
+		#How much health will the Ender Dragon regen at max difficulty (scaling accordingly at lower difficulties). This doesn't affect the health regen given by crystals.
+		#Range: 0.0 ~ 1.7976931348623157E308
+		"Bonus Regeneration" = 1.0
+		#Maximum bonus regeneration per second given by "Bonus Regeneration". Set to 0 to disable bonus health regeneration. Can be lower than "Bonus Regeneration". This doesn't affect the health regen given by crystals.
+		#Range: 0.0 ~ 1.7976931348623157E308
+		"Maximum Bonus Regeneration" = 1.0
+		#How much health (when missing 100% health) will the Ender Dragon regen at max difficulty each second whenever she's attached to a Crystal. So if she's missing 30% health, this will be 30% effective. This is added to the normal Crystal regen.
+		#Range: 0.0 ~ 1.7976931348623157E308
+		"Bonus Crystal Regeneration" = 0.0
+		#Bonus regeneration (also bonus crystal regen) will be multiplied by this ratio when the Dragon has been hit in the last 'Bonus Regeneration When Hit Duration' ticks.
+		#Range: 0.0 ~ 4.0
+		"Bonus Regeneration Ratio When Hit" = 0.4
+		#Range: > 0
+		"Bonus Regeneration When Hit Duration" = 85
+

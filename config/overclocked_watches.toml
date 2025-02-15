@@ -1,0 +1,19 @@
+day_night_cycling_allowed = true
+default_day_night_key = 79
+_comment_ = "do not change default_day_night_key if you're not sure"
+
+golden_watch_durability = 100
+diamond_watch_durability = 300
+netherite_watch_durability = 500
+
+golden_watch_charges = 1
+diamond_watch_charges = 3
+netherite_watch_charges = 5
+
+golden_watch_cooldown_minutes = 20
+diamond_watch_cooldown_minutes = 10
+netherite_watch_cooldown_minutes = 5
+
+golden_time_advancement_ticks = 12000
+diamond_time_advancement_ticks = 12000
+netherite_time_advancement_ticks = 12000

@@ -1,0 +1,11 @@
+// Compost colors for goety_spillage. You may add your own colors, change existing ones, or remove colors that aren't needed.
+freaky_hat, #202020
+freaky_robe, #323232
+impish_focus, #9e4340
+mutated_flesh, #373d46
+mutation_potion, #3d3636
+pumpkin_bomb, #ca7014
+requiem_focus, #af9ab1
+skull_bomb, #a4766f
+soul_beam_focus, #bbbbbb
+spirit_hand_focus, #938696

@@ -1,0 +1,92 @@
+/* 
+ * Copyright (c) 2024 Luke Bemish and contributors.
+ * SPDX-License-Identifier: LGPL-3.0-or-later
+ */
+
+{
+    mod_id: 'alexscaves',
+    provided_stones: [
+        {
+            block_id: 'alexscaves:abyssmarine',
+            types: [
+                'stone',
+            ],
+            id: 'alexscaves_abyssmarine',
+            lang: {
+                en_us: 'Abyssmarine',
+            },
+        },
+        {
+            block_id: 'alexscaves:block_of_chocolate',
+            types: [
+                'stone',
+            ],
+            id: 'alexscaves_chocolate',
+            lang: {
+                en_us: 'Chocolate',
+            },
+        },
+        {
+            block_id: 'alexscaves:cake_layer',
+            types: [
+                'stone',
+            ],
+            id: 'alexscaves_cake',
+            lang: {
+                en_us: 'Cake',
+            },
+        },
+        {
+            block_id: 'alexscaves:coprolith',
+            types: [
+                'stone',
+            ],
+            id: 'alexscaves_coprolith',
+            lang: {
+                en_us: 'Coprolith',
+            },
+        },
+        {
+            block_id: 'alexscaves:galena',
+            types: [
+                'stone',
+            ],
+            id: 'alexscaves_galena',
+            lang: {
+                en_us: 'Galena',
+            },
+        },
+        {
+            block_id: 'alexscaves:guanostone',
+            types: [
+                'stone',
+            ],
+            id: 'alexscaves_guanostone',
+            lang: {
+                en_us: 'Guanostone',
+            },
+        },
+        {
+            block_id: 'alexscaves:limestone',
+            types: [
+                'stone',
+            ],
+            id: 'alexscaves_limestone',
+            lang: {
+                en_us: 'Limestone',
+            },
+        },
+        {
+            block_id: 'alexscaves:radrock',
+            types: [
+                'stone',
+            ],
+            id: 'alexscaves_radrock',
+            lang: {
+                en_us: 'Radrock',
+            },
+        },
+    ],
+    provided_ores: [
+    ],
+}

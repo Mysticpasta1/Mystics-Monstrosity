@@ -1,0 +1,45 @@
+
+# General Settings for the mod
+[general]
+	# Select the System of how to select, what trims to give mobs.
+	# - RANDOM_TRIMS: Randomly choose the trim, but also take the previous trim highly into account.
+	# - CUSTOM_TRIMS: Choose the trim from a list of custom trims. You can manage the trims yourself
+	enabled_system = "RANDOM_TRIMS"
+	# Chance of the mob having no trims at all
+	no_trims_chance = 25
+
+# Settings for the Random Trims backend.
+# These settings will only make a difference, if the RANDOM_TRIMS backend is enabled
+[random_trims]
+	# Chance of each armor piece from a mob having an armor trim
+	trim_chance = 75
+	# Chance of each armor piece having a similar armor trim as the previous armor piece
+	similar_trim_chance = 75
+
+# Settings for the Custom Trim Combinations backend.
+# These settings will only make a difference, if the CUSTOM_TRIM_COMBINATIONS backend is enabled
+[trim_combinations]
+	# The list of custom trim combinations.
+	# 
+	# To create a new trim combination, add a new list with with 5 lists inside.
+	# Then for the first inner list, add a String. In the rest of the inner lists, add 2 Strings.
+	# It should look somewhat like this: [[""], ["", ""], ["", ""], ["", ""], ["", ""]]
+	# Make sure to have the outer list separated with a comma from other trim combinations.
+	# 
+	# In the first lists String, enter the Armor Material, the trim combination should be applied on.
+	# For example: ["gold"]
+	# 
+	# For the rest of the lists, in the first String, enter a valid Trim Material.
+	# In the second String, enter a valid Trim Pattern
+	# To not have to specify the whole trim pattern, you can leave out the "_armor_trim_smithing_template" part of the pattern, as it is the same for every pattern.
+	# For example: ["amethyst_shard", "silence"]
+	custom_trim_combinations = []
+
+# Settings for the Stacked Armor Trims Mod Compatibility.
+# These settings will only make a difference, if the STACKED_TRIMS backend is enabled and the stacked armor trims mod is used
+[stacked_trims]
+	# Chance of each armor piece having an additional armor trim on 
+	stacked_trim_chance = 10
+	# The maximum amount of armor trims that can be stacked on each other
+	max_stacked_trims = 3
+

@@ -1,0 +1,16 @@
+# Configuration File
+
+@CONFIG_VERSION: 1.0
+
+##########################################################################################################
+# Generic Config
+#--------------------------------------------------------------------------------------------------------#
+# Some more different stuff
+##########################################################################################################
+
+"Generic Config" {
+    # If false, disables the particle effect for fully frozen entities. [default: true]
+    B:CustomFrostParticle=true
+}
+
+

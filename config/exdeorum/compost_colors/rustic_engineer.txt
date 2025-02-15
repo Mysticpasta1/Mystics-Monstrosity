@@ -1,0 +1,22 @@
+// Compost colors for rustic_engineer. You may add your own colors, change existing ones, or remove colors that aren't needed.
+abyssal_submarine_item, #aa8a66
+air_ship_item, #fce7d6
+book_abyssal_submarine, #ebbca1
+book_airship, #c6865c
+book_dragon_fly, #bc7c5a
+book_spidermech, #bc7d5a
+chair, #ff9b48
+clock_key, #fe9a4d
+dragonfly_item, #ffffee
+engine, #fc9a4e
+gear, #ffe0ac
+golden_pieces, #ffffdd
+logo_01, #ffe0ac
+movable_parts, #ffb462
+pipe_wrench, #ffffe1
+raw_solarite_ore, #fff7c9
+solarite_ingot, #ffffe4
+solarite_nugget, #ffffff
+solarite_plate, #ffffe4
+spider_mech_item, #dac0af
+tool_mech, #ff9e51

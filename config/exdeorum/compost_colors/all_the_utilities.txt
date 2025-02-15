@@ -1,0 +1,15 @@
+// Compost colors for all_the_utilities. You may add your own colors, change existing ones, or remove colors that aren't needed.
+all_the_hammer_diamond, #399073
+all_the_hammer_iron, #807055
+all_the_hammer_netherite, #4b3c22
+all_the_hammer_stone, #6e5f43
+all_the_wrench, #7c540c
+cobble_armor_boots, #4b4b4b
+cobble_armor_chestplate, #5c5c5c
+cobble_armor_helmet, #505050
+cobble_armor_leggings, #505050
+coin, #e1f000
+coin_64_x, #d2de00
+coin_8_x, #d6e400
+wrench_head, #7c540c
+wrench_head_part, #7c550c

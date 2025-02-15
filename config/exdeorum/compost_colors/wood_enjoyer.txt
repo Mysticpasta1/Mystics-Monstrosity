@@ -1,0 +1,27 @@
+// Compost colors for wood_enjoyer. You may add your own colors, change existing ones, or remove colors that aren't needed.
+chestnut, #e3a572
+chestnut_boat, #eea284
+chestnut_bowl, #a2753d
+chestnut_chest_boat, #d3916e
+chestnut_door, #ffc294
+chestnut_hanging_sign, #dda082
+chestnut_sapling, #728e52
+chestnut_sign, #e19e7c
+copper_chisel, #be6c3a
+lunar_door, #40cf96
+lunar_handle, #30abac
+lunar_hanging_sign, #14a276
+lunar_roots, #5a3c57
+lunar_shrub, #4b324b
+lunar_sign, #b9d72
+netherite_chisel, #684739
+sweet_pumpkin_pie, #ffc06e
+walnut, #987240
+walnut_boat, #aa875e
+walnut_bowl, #7d5b28
+walnut_chest_boat, #9a7a4e
+walnut_door, #f8c378
+walnut_hanging_sign, #e4bf87
+walnut_sapling, #5b863d
+walnut_sign, #e6bc7f
+warped_handle, #7078b8

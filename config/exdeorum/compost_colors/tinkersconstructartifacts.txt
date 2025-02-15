@@ -1,0 +1,2 @@
+// Compost colors for tinkersconstructartifacts. You may add your own colors, change existing ones, or remove colors that aren't needed.
+mob_artifact, #c672fb

@@ -1,0 +1,5 @@
+// Compost colors for upgradedtotems. You may add your own colors, change existing ones, or remove colors that aren't needed.
+ender_netherite_totem, #94828d
+ender_totem, #ffebac
+ender_totem_upgrade_smithing_template, #edf5f4
+netherite_totem, #978793

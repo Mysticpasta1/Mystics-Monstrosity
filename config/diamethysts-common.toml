@@ -1,0 +1,1957 @@
+
+#Misc
+[diamethyst_misc]
+	#Enable old crystal recipe [default: false]
+	diamethystOldCrystalRecipeEnabled = false
+
+#Trade Options
+[trade_options]
+
+	#Villager Trades
+	[trade_options.villager_trades]
+		#Villager trades enabled [default: true]
+		villagerTradesEnabled = true
+		#Villager trade level [default: 4]
+		#Range: 1 ~ 5
+		villagerTradeLevel = 4
+		#Villager max trades [default: 5]
+		#Range: 1 ~ 64
+		villagerMaxTradeCount = 5
+		#Villager trade cost [default: 20]
+		#Range: 1 ~ 64
+		villagerTradeCost = 20
+
+	#Wandering Trader Trades
+	[trade_options.wandering_trader_trades]
+		#Wandering Trader trades enabled [default: true]
+		wanderingTraderTradesEnabled = true
+		#Wandering Trader max trades [default: 7]
+		#Range: 1 ~ 64
+		wanderingTraderMaxTradeCount = 7
+		#Wandering Trader trade cost [default: 30]
+		#Range: 1 ~ 64
+		wanderingTraderTradeCost = 30
+
+#Weapons
+[diamethyst_weapons]
+
+	#Knife
+	[diamethyst_weapons.diamethyst_knife]
+		#Durability [default: 150]
+		#Range: 1 ~ 3000
+		diamethystKnifeDurability = 150
+		#Attack speed [default: 4.0]
+		#Range: 0.0 ~ 6.0
+		diamethystKnifeAttackSpeed = 4.0
+		#Attack damage bonus [default: 0.0]
+		#Range: 0.0 ~ 40.0
+		diamethystKnifeDamageBonus = 0.0
+
+	#Swords
+	[diamethyst_weapons.diamethyst_swords]
+
+		#Diamethyst Golden Sword
+		[diamethyst_weapons.diamethyst_swords.diamethyst_golden_sword]
+			#Durability [default: 150]
+			#Range: 1 ~ 3000
+			diamethystGoldSwordDurability = 150
+			#Attack speed [default: 1.7]
+			#Range: 0.0 ~ 6.0
+			diamethystGoldSwordAttackSpeed = 1.7
+			#Attack damage bonus [default: 2.0]
+			#Range: 0.0 ~ 40.0
+			diamethystGoldSwordAttackDamageBonus = 2.0
+			#Enchantability [default: 30]
+			#Range: 1 ~ 50
+			diamethystGoldSwordEnchantability = 30
+			#Enable fire damage [default: true]
+			diamethystGoldSwordEnableFireDamage = true
+
+		#Diamethyst Copper Sword
+		[diamethyst_weapons.diamethyst_swords.diamethyst_copper_sword]
+			#Durability [default: 250]
+			#Range: 1 ~ 3000
+			diamethystCopperSwordDurability = 250
+			#Attack speed [default: 1.7]
+			#Range: 0.0 ~ 6.0
+			diamethystCopperSwordAttackSpeed = 1.7
+			#Attack damage bonus [default: 3.0]
+			#Range: 0.0 ~ 40.0
+			diamethystCopperSwordAttackDamageBonus = 3.0
+			#Enchantability [default: 15]
+			#Range: 1 ~ 50
+			diamethystCopperSwordEnchantability = 15
+			#Enable weakness effect [default: true]
+			diamethystCopperSwordEnableWeaknessEffect = true
+
+		#Diamethyst Iron Sword
+		[diamethyst_weapons.diamethyst_swords.diamethyst_iron_sword]
+			#Durability [default: 300]
+			#Range: 1 ~ 3000
+			diamethystIronSwordDurability = 300
+			#Attack speed [default: 1.7]
+			#Range: 0.0 ~ 6.0
+			diamethystIronSwordAttackSpeed = 1.7
+			#Attack damage bonus [default: 4.0]
+			#Range: 0.0 ~ 40.0
+			diamethystIronSwordAttackDamageBonus = 4.0
+			#Enchantability [default: 15]
+			#Range: 1 ~ 50
+			diamethystIronSwordEnchantability = 15
+			#Enable wither damage [default: true]
+			diamethystIronSwordEnableWitherDamage = true
+
+		#Diamethyst Lapis Sword
+		[diamethyst_weapons.diamethyst_swords.diamethyst_lapis_sword]
+			#Durability [default: 500]
+			#Range: 1 ~ 3000
+			diamethystLapisSwordDurability = 500
+			#Attack speed [default: 1.7]
+			#Range: 0.0 ~ 6.0
+			diamethystLapisSwordAttackSpeed = 1.7
+			#Attack damage bonus [default: 4.5]
+			#Range: 0.0 ~ 40.0
+			diamethystLapisSwordAttackDamageBonus = 4.5
+			#Enchantability [default: 17]
+			#Range: 1 ~ 50
+			diamethystLapisSwordEnchantability = 17
+			#Enable confusion effect [default: true]
+			diamethystLapisSwordEnableConfusionEffect = true
+
+		#Diamethyst Quartz Sword
+		[diamethyst_weapons.diamethyst_swords.diamethyst_quartz_sword]
+			#Durability [default: 550]
+			#Range: 1 ~ 3000
+			diamethystQuartzSwordDurability = 550
+			#Attack speed [default: 1.7]
+			#Range: 0.0 ~ 6.0
+			diamethystQuartzSwordAttackSpeed = 1.7
+			#Attack damage bonus [default: 4.6]
+			#Range: 0.0 ~ 40.0
+			diamethystQuartzSwordAttackDamageBonus = 4.6
+			#Enchantability [default: 18]
+			#Range: 1 ~ 50
+			diamethystQuartzSwordEnchantability = 18
+			#Enable levitation effect [default: true]
+			diamethystQuartzSwordEnableLevitationEffect = true
+			#Enable Nether damage [default: true]
+			diamethystQuartzSwordEnableNetherDamage = true
+
+		#Diamethyst Prismarine Sword
+		[diamethyst_weapons.diamethyst_swords.diamethyst_prismarine_sword]
+			#Durability [default: 600]
+			#Range: 1 ~ 3000
+			diamethystPrismarineSwordDurability = 600
+			#Attack speed [default: 1.8]
+			#Range: 0.0 ~ 6.0
+			diamethystPrismarineSwordAttackSpeed = 1.8
+			#Attack damage bonus [default: 4.7]
+			#Range: 0.0 ~ 40.0
+			diamethystPrismarineSwordAttackDamageBonus = 4.7
+			#Enchantability [default: 18]
+			#Range: 1 ~ 50
+			diamethystPrismarineSwordEnchantability = 18
+			#Enable bonus water damage [default: true]
+			diamethystPrismarineSwordEnableBonusWaterDamage = true
+
+		#Diamethyst Emerald Sword
+		[diamethyst_weapons.diamethyst_swords.diamethyst_emerald_sword]
+			#Durability [default: 725]
+			#Range: 1 ~ 3000
+			diamethystEmeraldSwordDurability = 725
+			#Attack speed [default: 1.8]
+			#Range: 0.0 ~ 6.0
+			diamethystEmeraldSwordAttackSpeed = 1.8
+			#Attack damage bonus [default: 5.0]
+			#Range: 0.0 ~ 40.0
+			diamethystEmeraldSwordAttackDamageBonus = 5.0
+			#Enchantability [default: 20]
+			#Range: 1 ~ 50
+			diamethystEmeraldSwordEnchantability = 20
+			#Enable poison damage [default: true]
+			diamethystEmeraldSwordEnablePoisonDamage = true
+
+		#Diamethyst Diamond Sword
+		[diamethyst_weapons.diamethyst_swords.diamethyst_diamond_sword]
+			#Durability [default: 1875]
+			#Range: 1 ~ 3000
+			diamethystDiamondSwordDurability = 1875
+			#Attack speed [default: 1.8]
+			#Range: 0.0 ~ 6.0
+			diamethystDiamondSwordAttackSpeed = 1.8
+			#Attack damage bonus [default: 8.0]
+			#Range: 0.0 ~ 40.0
+			diamethystDiamondSwordAttackDamageBonus = 8.0
+			#Enchantability [default: 25]
+			#Range: 1 ~ 50
+			diamethystDiamondSwordEnchantability = 25
+			#Enable freezing damage [default: true]
+			diamethystDiamondSwordEnableFreezingDamage = true
+
+		#Diamethyst Netherite Sword
+		[diamethyst_weapons.diamethyst_swords.diamethyst_netherite_sword]
+			#Durability [default: 2500]
+			#Range: 1 ~ 4000
+			diamethystNetheriteSwordDurability = 2500
+			#Attack speed [default: 1.8]
+			#Range: 0.0 ~ 6.0
+			diamethystNetheriteSwordAttackSpeed = 1.8
+			#Attack damage bonus [default: 10.0]
+			#Range: 0.0 ~ 40.0
+			diamethystNetheriteSwordAttackDamageBonus = 10.0
+			#Enchantability [default: 30]
+			#Range: 1 ~ 50
+			diamethystNetheriteSwordEnchantability = 30
+			#Enable fire damage [default: true]
+			diamethystNetheriteSwordEnableFireDamage = true
+			#Enable poison damage [default: true]
+			diamethystNetheriteSwordEnablePoisonDamage = true
+
+	#Sickles
+	[diamethyst_weapons.diamethyst_sickles]
+
+		#Diamethyst Golden Sickle
+		[diamethyst_weapons.diamethyst_sickles.diamethyst_golden_sickle]
+			#Durability [default: 75]
+			#Range: 1 ~ 3000
+			diamethystGoldSickleDurability = 75
+			#Attack speed [default: 3.7]
+			#Range: 0.0 ~ 6.0
+			diamethystGoldSickleAttackSpeed = 3.7
+			#Attack damage bonus [default: 1.0]
+			#Range: 0.0 ~ 40.0
+			diamethystGoldSickleAttackDamageBonus = 1.0
+			#Enchantability [default: 30]
+			#Range: 1 ~ 50
+			diamethystGoldSickleEnchantability = 30
+			#Enable fire damage [default: true]
+			diamethystGoldSickleEnableFireDamage = true
+
+		#Diamethyst Copper Sickle
+		[diamethyst_weapons.diamethyst_sickles.diamethyst_copper_sickle]
+			#Durability [default: 125]
+			#Range: 1 ~ 3000
+			diamethystCopperSickleDurability = 125
+			#Attack speed [default: 3.7]
+			#Range: 0.0 ~ 6.0
+			diamethystCopperSickleAttackSpeed = 3.7
+			#Attack damage bonus [default: 1.0]
+			#Range: 0.0 ~ 40.0
+			diamethystCopperSickleAttackDamageBonus = 1.0
+			#Enchantability [default: 15]
+			#Range: 1 ~ 50
+			diamethystCopperSickleEnchantability = 15
+			#Enable weakness effect [default: true]
+			diamethystCopperSickleEnableWeaknessEffect = true
+
+		#Diamethyst Iron Sickle
+		[diamethyst_weapons.diamethyst_sickles.diamethyst_iron_sickle]
+			#Durability [default: 150]
+			#Range: 1 ~ 3000
+			diamethystIronSickleDurability = 150
+			#Attack speed [default: 3.7]
+			#Range: 0.0 ~ 6.0
+			diamethystIronSickleAttackSpeed = 3.7
+			#Attack damage bonus [default: 1.0]
+			#Range: 0.0 ~ 40.0
+			diamethystIronSickleAttackDamageBonus = 1.0
+			#Enchantability [default: 15]
+			#Range: 1 ~ 50
+			diamethystIronSickleEnchantability = 15
+			#Enable wither damage [default: true]
+			diamethystIronSickleEnableWitherDamage = true
+
+		#Diamethyst Lapis Sickle
+		[diamethyst_weapons.diamethyst_sickles.diamethyst_lapis_sickle]
+			#Durability [default: 250]
+			#Range: 1 ~ 3000
+			diamethystLapisSickleDurability = 250
+			#Attack speed [default: 4.0]
+			#Range: 0.0 ~ 6.0
+			diamethystLapisSickleAttackSpeed = 4.0
+			#Attack damage bonus [default: 1.0]
+			#Range: 0.0 ~ 40.0
+			diamethystLapisSickleAttackDamageBonus = 1.0
+			#Enchantability [default: 17]
+			#Range: 1 ~ 50
+			diamethystLapisSickleEnchantability = 17
+			#Enable confusion effect [default: true]
+			diamethystLapisSickleEnableConfusionEffect = true
+
+		#Diamethyst Quartz Sickle
+		[diamethyst_weapons.diamethyst_sickles.diamethyst_quartz_sickle]
+			#Durability [default: 275]
+			#Range: 1 ~ 3000
+			diamethystQuartzSickleDurability = 275
+			#Attack speed [default: 4.0]
+			#Range: 0.0 ~ 6.0
+			diamethystQuartzSickleAttackSpeed = 4.0
+			#Attack damage bonus [default: 1.0]
+			#Range: 0.0 ~ 40.0
+			diamethystQuartzSickleAttackDamageBonus = 1.0
+			#Enchantability [default: 18]
+			#Range: 1 ~ 50
+			diamethystQuartzSickleEnchantability = 18
+			#Enable levitation effect [default: true]
+			diamethystQuartzSickleEnableLevitationEffect = true
+			#Enable Nether damage [default: true]
+			diamethystQuartzSickleEnableNetherDamage = true
+
+		#Diamethyst Prismarine Sickle
+		[diamethyst_weapons.diamethyst_sickles.diamethyst_prismarine_sickle]
+			#Durability [default: 300]
+			#Range: 1 ~ 3000
+			diamethystPrismarineSickleDurability = 300
+			#Attack speed [default: 4.0]
+			#Range: 0.0 ~ 6.0
+			diamethystPrismarineSickleAttackSpeed = 4.0
+			#Attack damage bonus [default: 1.0]
+			#Range: 0.0 ~ 40.0
+			diamethystPrismarineSickleAttackDamageBonus = 1.0
+			#Enchantability [default: 18]
+			#Range: 1 ~ 50
+			diamethystPrismarineSickleEnchantability = 18
+			#Enable bonus water damage [default: true]
+			diamethystPrismarineSickleEnableBonusWaterDamage = true
+
+		#Diamethyst Emerald Sickle
+		[diamethyst_weapons.diamethyst_sickles.diamethyst_emerald_sickle]
+			#Durability [default: 370]
+			#Range: 1 ~ 3000
+			diamethystEmeraldSickleDurability = 370
+			#Attack speed [default: 4.0]
+			#Range: 0.0 ~ 6.0
+			diamethystEmeraldSickleAttackSpeed = 4.0
+			#Attack damage bonus [default: 1.0]
+			#Range: 0.0 ~ 40.0
+			diamethystEmeraldSickleAttackDamageBonus = 1.0
+			#Enchantability [default: 20]
+			#Range: 1 ~ 50
+			diamethystEmeraldSickleEnchantability = 20
+			#Enable poison damage [default: true]
+			diamethystEmeraldSickleEnablePoisonDamage = true
+
+		#Diamethyst Diamond Sickle
+		[diamethyst_weapons.diamethyst_sickles.diamethyst_diamond_sickle]
+			#Durability [default: 940]
+			#Range: 1 ~ 3000
+			diamethystDiamondSickleDurability = 940
+			#Attack speed [default: 4.0]
+			#Range: 0.0 ~ 6.0
+			diamethystDiamondSickleAttackSpeed = 4.0
+			#Attack damage bonus [default: 1.0]
+			#Range: 0.0 ~ 40.0
+			diamethystDiamondSickleAttackDamageBonus = 1.0
+			#Enchantability [default: 25]
+			#Range: 1 ~ 50
+			diamethystDiamondSickleEnchantability = 25
+			#Enable freezing damage [default: true]
+			diamethystDiamondSickleEnableFreezingDamage = true
+
+		#Diamethyst Netherite Sickle
+		[diamethyst_weapons.diamethyst_sickles.diamethyst_netherite_sickle]
+			#Durability [default: 1725]
+			#Range: 1 ~ 4000
+			diamethystNetheriteSickleDurability = 1725
+			#Attack speed [default: 4.0]
+			#Range: 0.0 ~ 6.0
+			diamethystNetheriteSickleAttackSpeed = 4.0
+			#Attack damage bonus [default: 1.0]
+			#Range: 0.0 ~ 40.0
+			diamethystNetheriteSickleAttackDamageBonus = 1.0
+			#Enchantability [default: 30]
+			#Range: 1 ~ 50
+			diamethystNetheriteSickleEnchantability = 30
+			#Enable fire damage [default: true]
+			diamethystNetheriteSickleEnableFireDamage = true
+			#Enable poison damage [default: true]
+			diamethystNetheriteSickleEnablePoisonDamage = true
+
+	#Battle Axes
+	[diamethyst_weapons.diamethyst_battle_axes]
+
+		#Diamethyst Golden Battle Axe
+		[diamethyst_weapons.diamethyst_battle_axes.diamethyst_golden_battle_axe]
+			#Durability [default: 175]
+			#Range: 1 ~ 3000
+			diamethystGoldBattleAxeDurability = 175
+			#Attack speed [default: 0.9]
+			#Range: 0.0 ~ 6.0
+			diamethystGoldBattleAxeAttackSpeed = 0.9
+			#Attack damage bonus [default: 4.0]
+			#Range: 0.0 ~ 40.0
+			diamethystGoldBattleAxeAttackDamageBonus = 4.0
+			#Enchantability [default: 30]
+			#Range: 1 ~ 50
+			diamethystGoldBattleAxeEnchantability = 30
+			#Enable fire damage [default: true]
+			diamethystGoldBattleAxeEnableFireDamage = true
+
+		#Diamethyst Copper Battle Axe
+		[diamethyst_weapons.diamethyst_battle_axes.diamethyst_copper_battle_axe]
+			#Durability [default: 275]
+			#Range: 1 ~ 3000
+			diamethystCopperBattleAxeDurability = 275
+			#Attack speed [default: 0.9]
+			#Range: 0.0 ~ 6.0
+			diamethystCopperBattleAxeAttackSpeed = 0.9
+			#Attack damage bonus [default: 6.0]
+			#Range: 0.0 ~ 40.0
+			diamethystCopperBattleAxeAttackDamageBonus = 6.0
+			#Enchantability [default: 15]
+			#Range: 1 ~ 50
+			diamethystCopperBattleAxeEnchantability = 15
+			#Enable weakness effect [default: true]
+			diamethystCopperBattleAxeEnableWeaknessEffect = true
+
+		#Diamethyst Iron Battle Axe
+		[diamethyst_weapons.diamethyst_battle_axes.diamethyst_iron_battle_axe]
+			#Durability [default: 350]
+			#Range: 1 ~ 3000
+			diamethystIronBattleAxeDurability = 350
+			#Attack speed [default: 0.9]
+			#Range: 0.0 ~ 6.0
+			diamethystIronBattleAxeAttackSpeed = 0.9
+			#Attack damage bonus [default: 8.0]
+			#Range: 0.0 ~ 40.0
+			diamethystIronBattleAxeAttackDamageBonus = 8.0
+			#Enchantability [default: 15]
+			#Range: 1 ~ 50
+			diamethystIronBattleAxeEnchantability = 15
+			#Enable wither damage [default: true]
+			diamethystIronBattleAxeEnableWitherDamage = true
+
+		#Diamethyst Lapis Battle Axe
+		[diamethyst_weapons.diamethyst_battle_axes.diamethyst_lapis_battle_axe]
+			#Durability [default: 500]
+			#Range: 1 ~ 3000
+			diamethystLapisBattleAxeDurability = 500
+			#Attack speed [default: 0.9]
+			#Range: 0.0 ~ 6.0
+			diamethystLapisBattleAxeAttackSpeed = 0.9
+			#Attack damage bonus [default: 9.0]
+			#Range: 0.0 ~ 40.0
+			diamethystLapisBattleAxeAttackDamageBonus = 9.0
+			#Enchantability [default: 17]
+			#Range: 1 ~ 50
+			diamethystLapisBattleAxeEnchantability = 17
+			#Enable confusion effect [default: true]
+			diamethystLapisBattleAxeEnableConfusionEffect = true
+
+		#Diamethyst Quartz Battle Axe
+		[diamethyst_weapons.diamethyst_battle_axes.diamethyst_quartz_battle_axe]
+			#Durability [default: 550]
+			#Range: 1 ~ 3000
+			diamethystQuartzBattleAxeDurability = 550
+			#Attack speed [default: 0.9]
+			#Range: 0.0 ~ 6.0
+			diamethystQuartzBattleAxeAttackSpeed = 0.9
+			#Attack damage bonus [default: 9.2]
+			#Range: 0.0 ~ 40.0
+			diamethystQuartzBattleAxeAttackDamageBonus = 9.2
+			#Enchantability [default: 17]
+			#Range: 1 ~ 50
+			diamethystQuartzBattleAxeEnchantability = 17
+			#Enable levitation effect [default: true]
+			diamethystQuartzBattleAxeEnableLevitationEffect = true
+			#Enable Nether damage [default: true]
+			diamethystQuartzBattleAxeEnableNetherDamage = true
+
+		#Diamethyst Prismarine Battle Axe
+		[diamethyst_weapons.diamethyst_battle_axes.diamethyst_prismarine_battle_axe]
+			#Durability [default: 600]
+			#Range: 1 ~ 3000
+			diamethystPrismarineBattleAxeDurability = 600
+			#Attack speed [default: 0.9]
+			#Range: 0.0 ~ 6.0
+			diamethystPrismarineBattleAxeAttackSpeed = 0.9
+			#Attack damage bonus [default: 9.5]
+			#Range: 0.0 ~ 40.0
+			diamethystPrismarineBattleAxeAttackDamageBonus = 9.5
+			#Enchantability [default: 18]
+			#Range: 1 ~ 50
+			diamethystPrismarineBattleAxeEnchantability = 18
+			#Enable bonus water damage [default: true]
+			diamethystPrismarineBattleAxeEnableBonusWaterDamage = true
+
+		#Diamethyst Emerald Battle Axe
+		[diamethyst_weapons.diamethyst_battle_axes.diamethyst_emerald_battle_axe]
+			#Durability [default: 775]
+			#Range: 1 ~ 3000
+			diamethystEmeraldBattleAxeDurability = 775
+			#Attack speed [default: 1.0]
+			#Range: 0.0 ~ 6.0
+			diamethystEmeraldBattleAxeAttackSpeed = 1.0
+			#Attack damage bonus [default: 10.0]
+			#Range: 0.0 ~ 40.0
+			diamethystEmeraldBattleAxeAttackDamageBonus = 10.0
+			#Enchantability [default: 20]
+			#Range: 1 ~ 50
+			diamethystEmeraldBattleAxeEnchantability = 20
+			#Enable poison damage [default: true]
+			diamethystEmeraldBattleAxeEnablePoisonDamage = true
+
+		#Diamethyst Diamond Battle Axe
+		[diamethyst_weapons.diamethyst_battle_axes.diamethyst_diamond_battle_axe]
+			#Durability [default: 1925]
+			#Range: 1 ~ 3000
+			diamethystDiamondBattleAxeDurability = 1925
+			#Attack speed [default: 1.0]
+			#Range: 0.0 ~ 6.0
+			diamethystDiamondBattleAxeAttackSpeed = 1.0
+			#Attack damage bonus [default: 16.0]
+			#Range: 0.0 ~ 40.0
+			diamethystDiamondBattleAxeAttackDamageBonus = 16.0
+			#Enchantability [default: 25]
+			#Range: 1 ~ 50
+			diamethystDiamondBattleAxeEnchantability = 25
+			#Enable freezing damage [default: true]
+			diamethystDiamondBattleAxeEnableFreezingDamage = true
+
+		#Diamethyst Netherite Battle Axe
+		[diamethyst_weapons.diamethyst_battle_axes.diamethyst_netherite_battle_axe]
+			#Durability [default: 2550]
+			#Range: 1 ~ 4000
+			diamethystNetheriteBattleAxeDurability = 2550
+			#Attack speed [default: 1.0]
+			#Range: 0.0 ~ 6.0
+			diamethystNetheriteBattleAxeAttackSpeed = 1.0
+			#Attack damage bonus [default: 20.0]
+			#Range: 0.0 ~ 40.0
+			diamethystNetheriteBattleAxeAttackDamageBonus = 20.0
+			#Enchantability [default: 30]
+			#Range: 1 ~ 50
+			diamethystNetheriteBattleAxeEnchantability = 30
+			#Enable fire damage [default: true]
+			diamethystNetheriteBattleAxeEnableFireDamage = true
+			#Enable poison damage [default: true]
+			diamethystNetheriteBattleAxeEnablePoisonDamage = true
+
+	#Scimitars
+	[diamethyst_weapons.diamethyst_scimitars]
+
+		#Diamethyst Golden Scimitar
+		[diamethyst_weapons.diamethyst_scimitars.diamethyst_golden_scimitar]
+			#Durability [default: 170]
+			#Range: 1 ~ 3000
+			diamethystGoldScimitarDurability = 170
+			#Attack speed [default: 2.0]
+			#Range: 0.0 ~ 6.0
+			diamethystGoldScimitarAttackSpeed = 2.0
+			#Attack damage bonus [default: 2.0]
+			#Range: 0.0 ~ 40.0
+			diamethystGoldScimitarAttackDamageBonus = 2.0
+			#Enchantability [default: 30]
+			#Range: 1 ~ 50
+			diamethystGoldScimitarEnchantability = 30
+			#Enable fire damage [default: true]
+			diamethystGoldScimitarEnableFireDamage = true
+
+		#Diamethyst Copper Scimitar
+		[diamethyst_weapons.diamethyst_scimitars.diamethyst_copper_scimitar]
+			#Durability [default: 270]
+			#Range: 1 ~ 3000
+			diamethystCopperScimitarDurability = 270
+			#Attack speed [default: 2.0]
+			#Range: 0.0 ~ 6.0
+			diamethystCopperScimitarAttackSpeed = 2.0
+			#Attack damage bonus [default: 3.0]
+			#Range: 0.0 ~ 40.0
+			diamethystCopperScimitarAttackDamageBonus = 3.0
+			#Enchantability [default: 15]
+			#Range: 1 ~ 50
+			diamethystCopperScimitarEnchantability = 15
+			#Enable weakness effect [default: true]
+			diamethystCopperScimitarEnableWeaknessEffect = true
+
+		#Diamethyst Iron Scimitar
+		[diamethyst_weapons.diamethyst_scimitars.diamethyst_iron_scimitar]
+			#Durability [default: 320]
+			#Range: 1 ~ 3000
+			diamethystIronScimitarDurability = 320
+			#Attack speed [default: 2.0]
+			#Range: 0.0 ~ 6.0
+			diamethystIronScimitarAttackSpeed = 2.0
+			#Attack damage bonus [default: 4.0]
+			#Range: 0.0 ~ 40.0
+			diamethystIronScimitarAttackDamageBonus = 4.0
+			#Enchantability [default: 15]
+			#Range: 1 ~ 50
+			diamethystIronScimitarEnchantability = 15
+			#Enable wither damage [default: true]
+			diamethystIronScimitarEnableWitherDamage = true
+
+		#Diamethyst Lapis Scimitar
+		[diamethyst_weapons.diamethyst_scimitars.diamethyst_lapis_scimitar]
+			#Durability [default: 520]
+			#Range: 1 ~ 3000
+			diamethystLapisScimitarDurability = 520
+			#Attack speed [default: 2.0]
+			#Range: 0.0 ~ 6.0
+			diamethystLapisScimitarAttackSpeed = 2.0
+			#Attack damage bonus [default: 4.5]
+			#Range: 0.0 ~ 40.0
+			diamethystLapisScimitarAttackDamageBonus = 4.5
+			#Enchantability [default: 17]
+			#Range: 1 ~ 50
+			diamethystLapisScimitarEnchantability = 17
+			#Enable confusion effect [default: true]
+			diamethystLapisScimitarEnableConfusionEffect = true
+
+		#Diamethyst Quartz Scimitar
+		[diamethyst_weapons.diamethyst_scimitars.diamethyst_quartz_scimitar]
+			#Durability [default: 570]
+			#Range: 1 ~ 3000
+			diamethystQuartzScimitarDurability = 570
+			#Attack speed [default: 2.0]
+			#Range: 0.0 ~ 6.0
+			diamethystQuartzScimitarAttackSpeed = 2.0
+			#Attack damage bonus [default: 4.6]
+			#Range: 0.0 ~ 40.0
+			diamethystQuartzScimitarAttackDamageBonus = 4.6
+			#Enchantability [default: 18]
+			#Range: 1 ~ 50
+			diamethystQuartzScimitarEnchantability = 18
+			#Enable levitation effect [default: true]
+			diamethystQuartzScimitarEnableLevitationEffect = true
+			#Enable Nether damage [default: true]
+			diamethystQuartzScimitarEnableNetherDamage = true
+
+		#Diamethyst Prismarine Scimitar
+		[diamethyst_weapons.diamethyst_scimitars.diamethyst_prismarine_scimitar]
+			#Durability [default: 620]
+			#Range: 1 ~ 3000
+			diamethystPrismarineScimitarDurability = 620
+			#Attack speed [default: 2.0]
+			#Range: 0.0 ~ 6.0
+			diamethystPrismarineScimitarAttackSpeed = 2.0
+			#Attack damage bonus [default: 4.7]
+			#Range: 0.0 ~ 40.0
+			diamethystPrismarineScimitarAttackDamageBonus = 4.7
+			#Enchantability [default: 18]
+			#Range: 1 ~ 50
+			diamethystPrismarineScimitarEnchantability = 18
+			#Enable bonus water damage [default: true]
+			diamethystPrismarineScimitarEnableBonusWaterDamage = true
+
+		#Diamethyst Emerald Scimitar
+		[diamethyst_weapons.diamethyst_scimitars.diamethyst_emerald_scimitar]
+			#Durability [default: 745]
+			#Range: 1 ~ 3000
+			diamethystEmeraldScimitarDurability = 745
+			#Attack speed [default: 2.1]
+			#Range: 0.0 ~ 6.0
+			diamethystEmeraldScimitarAttackSpeed = 2.1
+			#Attack damage bonus [default: 5.0]
+			#Range: 0.0 ~ 40.0
+			diamethystEmeraldScimitarAttackDamageBonus = 5.0
+			#Enchantability [default: 20]
+			#Range: 1 ~ 50
+			diamethystEmeraldScimitarEnchantability = 20
+			#Enable poison damage [default: true]
+			diamethystEmeraldScimitarEnablePoisonDamage = true
+
+		#Diamethyst Diamond Scimitar
+		[diamethyst_weapons.diamethyst_scimitars.diamethyst_diamond_scimitar]
+			#Durability [default: 1895]
+			#Range: 1 ~ 3000
+			diamethystDiamondScimitarDurability = 1895
+			#Attack speed [default: 2.1]
+			#Range: 0.0 ~ 6.0
+			diamethystDiamondScimitarAttackSpeed = 2.1
+			#Attack damage bonus [default: 8.0]
+			#Range: 0.0 ~ 40.0
+			diamethystDiamondScimitarAttackDamageBonus = 8.0
+			#Enchantability [default: 25]
+			#Range: 1 ~ 50
+			diamethystDiamondScimitarEnchantability = 25
+			#Enable freezing damage [default: true]
+			diamethystDiamondScimitarEnableFreezingDamage = true
+
+		#Diamethyst Netherite Scimitar
+		[diamethyst_weapons.diamethyst_scimitars.diamethyst_netherite_scimitar]
+			#Durability [default: 2520]
+			#Range: 1 ~ 4000
+			diamethystNetheriteScimitarDurability = 2520
+			#Attack speed [default: 2.1]
+			#Range: 0.0 ~ 6.0
+			diamethystNetheriteScimitarAttackSpeed = 2.1
+			#Attack damage bonus [default: 10.0]
+			#Range: 0.0 ~ 40.0
+			diamethystNetheriteScimitarAttackDamageBonus = 10.0
+			#Enchantability [default: 30]
+			#Range: 1 ~ 50
+			diamethystNetheriteScimitarEnchantability = 30
+			#Enable fire damage [default: true]
+			diamethystNetheriteScimitarEnableFireDamage = true
+			#Enable poison damage [default: true]
+			diamethystNetheriteScimitarEnablePoisonDamage = true
+
+	#Bows
+	[diamethyst_weapons.diamethyst_bows]
+
+		#Diamethyst Bow
+		[diamethyst_weapons.diamethyst_bows.diamethyst_bow]
+			#Durability [default: 650]
+			#Range: 1 ~ 3000
+			diamethystBowDurability = 650
+			#Bow accuracy [default: 0.5]
+			#Range: 0.0 ~ 5.0
+			diamethystBowAccuracy = 0.5
+
+			#Bonus Damage Options
+			[diamethyst_weapons.diamethyst_bows.diamethyst_bow.bonus_damage_options]
+				#Enable arrow damage bonus [default: true]
+				diamethystBowEnableArrowDamageBonus = true
+				#Damage bonus modifier [default: 1.3]
+				#Range: 1.0 ~ 5.0
+				diamethystBowAttackDamageBonus = 1.3
+
+		#Diamethyst Golden Bow
+		[diamethyst_weapons.diamethyst_bows.diamethyst_golden_bow]
+			#Durability [default: 750]
+			#Range: 1 ~ 3000
+			diamethystGoldBowDurability = 750
+			#Bow accuracy [default: 0.5]
+			#Range: 0.0 ~ 5.0
+			diamethystGoldBowAccuracy = 0.5
+			#Enable flame arrows [default: true]
+			diamethystGoldBowEnableFlameArrows = true
+
+			#Bonus Damage Options
+			[diamethyst_weapons.diamethyst_bows.diamethyst_golden_bow.bonus_damage_options]
+				#Enable arrow damage bonus [default: true]
+				diamethystGoldBowEnableArrowDamageBonus = true
+				#Damage bonus modifier [default: 1.4]
+				#Range: 1.0 ~ 5.0
+				diamethystGoldBowAttackDamageBonus = 1.4
+
+		#Diamethyst Copper Bow
+		[diamethyst_weapons.diamethyst_bows.diamethyst_copper_bow]
+			#Durability [default: 850]
+			#Range: 1 ~ 3000
+			diamethystCopperBowDurability = 850
+			#Bow accuracy [default: 0.5]
+			#Range: 0.0 ~ 5.0
+			diamethystCopperBowAccuracy = 0.5
+			#Enable Power I arrows [default: true]
+			diamethystCopperBowEnablePowerIArrows = true
+
+			#Bonus Damage Options
+			[diamethyst_weapons.diamethyst_bows.diamethyst_copper_bow.bonus_damage_options]
+				#Enable arrow damage bonus [default: true]
+				diamethystCopperBowEnableArrowDamageBonus = true
+				#Damage bonus modifier [default: 1.5]
+				#Range: 1.0 ~ 5.0
+				diamethystCopperBowAttackDamageBonus = 1.5
+
+		#Diamethyst Iron Bow
+		[diamethyst_weapons.diamethyst_bows.diamethyst_iron_bow]
+			#Durability [default: 950]
+			#Range: 1 ~ 3000
+			diamethystIronBowDurability = 950
+			#Bow accuracy [default: 0.5]
+			#Range: 0.0 ~ 5.0
+			diamethystIronBowAccuracy = 0.5
+			#Enable Punch I arrows [default: true]
+			diamethystIronBowEnablePunchIArrows = true
+
+			#Bonus Damage Options
+			[diamethyst_weapons.diamethyst_bows.diamethyst_iron_bow.bonus_damage_options]
+				#Enable arrow damage bonus [default: true]
+				diamethystIronBowEnableArrowDamageBonus = true
+				#Damage bonus modifier [default: 1.6]
+				#Range: 1.0 ~ 5.0
+				diamethystIronBowAttackDamageBonus = 1.6
+
+		#Diamethyst Lapis Bow
+		[diamethyst_weapons.diamethyst_bows.diamethyst_lapis_bow]
+			#Durability [default: 1050]
+			#Range: 1 ~ 3000
+			diamethystLapisBowDurability = 1050
+			#Bow accuracy [default: 0.5]
+			#Range: 0.0 ~ 5.0
+			diamethystLapisBowAccuracy = 0.5
+			#Enable Power II arrows [default: true]
+			diamethystLapisBowEnablePowerIIArrows = true
+
+			#Bonus Damage Options
+			[diamethyst_weapons.diamethyst_bows.diamethyst_lapis_bow.bonus_damage_options]
+				#Enable arrow damage bonus [default: true]
+				diamethystLapisBowEnableArrowDamageBonus = true
+				#Damage bonus modifier [default: 1.7]
+				#Range: 1.0 ~ 5.0
+				diamethystLapisBowAttackDamageBonus = 1.7
+
+		#Diamethyst Quartz Bow
+		[diamethyst_weapons.diamethyst_bows.diamethyst_quartz_bow]
+			#Durability [default: 1150]
+			#Range: 1 ~ 3000
+			diamethystQuartzBowDurability = 1150
+			#Bow accuracy [default: 0.5]
+			#Range: 0.0 ~ 5.0
+			diamethystQuartzBowAccuracy = 0.5
+			#Enable Punch II arrows [default: true]
+			diamethystQuartzBowEnablePunchIIArrows = true
+
+			#Bonus Damage Options
+			[diamethyst_weapons.diamethyst_bows.diamethyst_quartz_bow.bonus_damage_options]
+				#Enable arrow damage bonus [default: true]
+				diamethystQuartzBowEnableArrowDamageBonus = true
+				#Damage bonus modifier [default: 1.7]
+				#Range: 1.0 ~ 5.0
+				diamethystQuartzBowAttackDamageBonus = 1.7
+
+		#Diamethyst Prismarine Bow
+		[diamethyst_weapons.diamethyst_bows.diamethyst_prismarine_bow]
+			#Durability [default: 1250]
+			#Range: 1 ~ 3000
+			diamethystPrismarineBowDurability = 1250
+			#Bow accuracy [default: 0.5]
+			#Range: 0.0 ~ 5.0
+			diamethystPrismarineBowAccuracy = 0.5
+			#Enable Power II arrows [default: true]
+			diamethystPrismarineBowEnablePowerIIArrows = true
+
+			#Bonus Damage Options
+			[diamethyst_weapons.diamethyst_bows.diamethyst_prismarine_bow.bonus_damage_options]
+				#Enable arrow damage bonus [default: true]
+				diamethystPrismarineBowEnableArrowDamageBonus = true
+				#Damage bonus modifier [default: 1.7]
+				#Range: 1.0 ~ 5.0
+				diamethystPrismarineBowAttackDamageBonus = 1.7
+
+		#Diamethyst Emerald Bow
+		[diamethyst_weapons.diamethyst_bows.diamethyst_emerald_bow]
+			#Durability [default: 1350]
+			#Range: 1 ~ 3000
+			diamethystEmeraldBowDurability = 1350
+			#Bow accuracy [default: 0.5]
+			#Range: 0.0 ~ 5.0
+			diamethystEmeraldBowAccuracy = 0.5
+			#Enable Punch II arrows [default: true]
+			diamethystEmeraldBowEnablePunchIIArrows = true
+
+			#Bonus Damage Options
+			[diamethyst_weapons.diamethyst_bows.diamethyst_emerald_bow.bonus_damage_options]
+				#Enable arrow damage bonus [default: true]
+				diamethystEmeraldBowEnableArrowDamageBonus = true
+				#Damage bonus modifier [default: 1.8]
+				#Range: 1.0 ~ 5.0
+				diamethystEmeraldBowAttackDamageBonus = 1.8
+
+		#Diamethyst Diamond Bow
+		[diamethyst_weapons.diamethyst_bows.diamethyst_diamond_bow]
+			#Durability [default: 1500]
+			#Range: 1 ~ 3000
+			diamethystDiamondBowDurability = 1500
+			#Bow accuracy [default: 0.5]
+			#Range: 0.0 ~ 5.0
+			diamethystDiamondBowAccuracy = 0.5
+			#Enable Power II arrows [default: true]
+			diamethystDiamondBowEnablePowerIIArrows = true
+			#Enable Punch II arrows [default: true]
+			diamethystDiamondBowEnablePunchIIArrows = true
+
+			#Bonus Damage Options
+			[diamethyst_weapons.diamethyst_bows.diamethyst_diamond_bow.bonus_damage_options]
+				#Enable arrow damage bonus [default: true]
+				diamethystDiamondBowEnableArrowDamageBonus = true
+				#Damage bonus modifier [default: 1.9]
+				#Range: 1.0 ~ 5.0
+				diamethystDiamondBowAttackDamageBonus = 1.9
+
+		#Diamethyst Netherite Bow
+		[diamethyst_weapons.diamethyst_bows.diamethyst_netherite_bow]
+			#Durability [default: 1750]
+			#Range: 1 ~ 3000
+			diamethystNetheriteBowDurability = 1750
+			#Bow accuracy [default: 0.5]
+			#Range: 0.0 ~ 5.0
+			diamethystNetheriteBowAccuracy = 0.5
+			#Enable flame arrows [default: true]
+			diamethystNetheriteBowEnableFlameArrows = true
+			#Enable Power II arrows [default: true]
+			diamethystNetheriteBowEnablePowerIIArrows = true
+			#Enable Punch II arrows [default: true]
+			diamethystNetheriteBowEnablePunchIIArrows = true
+
+			#Bonus Damage Options
+			[diamethyst_weapons.diamethyst_bows.diamethyst_netherite_bow.bonus_damage_options]
+				#Enable arrow damage bonus [default: true]
+				diamethystNetheriteBowEnableArrowDamageBonus = true
+				#Damage bonus modifier [default: 2.0]
+				#Range: 1.0 ~ 5.0
+				diamethystNetheriteBowAttackDamageBonus = 2.0
+
+	#Crossbows
+	[diamethyst_weapons.diamethyst_crossbows]
+
+		#Diamethyst Crossbow
+		[diamethyst_weapons.diamethyst_crossbows.diamethyst_crossbow]
+			#Durability [default: 650]
+			#Range: 1 ~ 3000
+			diamethystCrossbowsDurability = 650
+			#Crossbow accuracy [default: 0.5]
+			#Range: 0.0 ~ 5.0
+			diamethystCrossbowAccuracy = 0.5
+
+		#Diamethyst Golden Crossbow
+		[diamethyst_weapons.diamethyst_crossbows.diamethyst_gold_crossbow]
+			#Durability [default: 750]
+			#Range: 1 ~ 3000
+			diamethystGoldCrossbowsDurability = 750
+			#Crossbow accuracy [default: 0.5]
+			#Range: 0.0 ~ 5.0
+			diamethystGoldCrossbowAccuracy = 0.5
+			#Enable flame arrows [default: true]
+			diamethystGoldCrossbowEnableFlameArrows = true
+
+		#Diamethyst Copper Crossbow
+		[diamethyst_weapons.diamethyst_crossbows.diamethyst_copper_crossbow]
+			#Durability [default: 850]
+			#Range: 1 ~ 3000
+			diamethystCopperCrossbowDurability = 850
+			#Crossbow accuracy [default: 0.5]
+			#Range: 0.0 ~ 5.0
+			diamethystCopperCrossbowAccuracy = 0.5
+			#Enable Power I arrows [default: true]
+			diamethystCopperCrossbowEnablePowerIArrows = true
+
+		#Diamethyst Iron Crossbow
+		[diamethyst_weapons.diamethyst_crossbows.diamethyst_iron_crossbow]
+			#Durability [default: 950]
+			#Range: 1 ~ 3000
+			diamethystIronCrossbowDurability = 950
+			#Crossbow accuracy [default: 0.5]
+			#Range: 0.0 ~ 5.0
+			diamethystIronCrossbowAccuracy = 0.5
+			#Enable Punch I arrows [default: true]
+			diamethystIronCrossbowEnablePunchIArrows = true
+
+		#Diamethyst Lapis Crossbow
+		[diamethyst_weapons.diamethyst_crossbows.diamethyst_lapis_crossbow]
+			#Durability [default: 1050]
+			#Range: 1 ~ 3000
+			diamethystLapisCrossbowDurability = 1050
+			#Crossbow accuracy [default: 0.5]
+			#Range: 0.0 ~ 5.0
+			diamethystLapisCrossbowAccuracy = 0.5
+			#Enable Power II arrows [default: true]
+			diamethystLapisCrossbowEnablePowerIIArrows = true
+
+		#Diamethyst Quartz Crossbow
+		[diamethyst_weapons.diamethyst_crossbows.diamethyst_quartz_crossbow]
+			#Durability [default: 1150]
+			#Range: 1 ~ 3000
+			diamethystQuartzCrossbowDurability = 1150
+			#Crossbow accuracy [default: 0.5]
+			#Range: 0.0 ~ 5.0
+			diamethystQuartzCrossbowAccuracy = 0.5
+			#Enable Punch II arrows [default: true]
+			diamethystQuartzCrossbowEnablePunchIIArrows = true
+			#Enable Nether damage [default: true]
+			diamethystQuartzCrossbowEnableNetherDamage = true
+
+		#Diamethyst Prismarine Crossbow
+		[diamethyst_weapons.diamethyst_crossbows.diamethyst_prismarine_crossbow]
+			#Durability [default: 1250]
+			#Range: 1 ~ 3000
+			diamethystPrismarineCrossbowDurability = 1250
+			#Crossbow accuracy [default: 0.5]
+			#Range: 0.0 ~ 5.0
+			diamethystPrismarineCrossbowAccuracy = 0.5
+			#Enable Power II arrows [default: true]
+			diamethystPrismarineCrossbowEnablePowerIIArrows = true
+			#Enable bonus water damage [default: true]
+			diamethystPrismarineCrossbowEnableBonusWaterDamage = true
+
+		#Diamethyst Emerald Crossbow
+		[diamethyst_weapons.diamethyst_crossbows.diamethyst_emerald_crossbow]
+			#Durability [default: 1350]
+			#Range: 1 ~ 3000
+			diamethystEmeraldCrossbowDurability = 1350
+			#Crossbow accuracy [default: 0.5]
+			#Range: 0.0 ~ 5.0
+			diamethystEmeraldCrossbowAccuracy = 0.5
+			#Enable Punch II arrows [default: true]
+			diamethystEmeraldCrossbowEnablePunchIIArrows = true
+
+		#Diamethyst Diamond Crossbow
+		[diamethyst_weapons.diamethyst_crossbows.diamethyst_diamond_crossbow]
+			#Durability [default: 1500]
+			#Range: 1 ~ 3000
+			diamethystDiamondCrossbowDurability = 1500
+			#Crossbow accuracy [default: 0.5]
+			#Range: 0.0 ~ 5.0
+			diamethystDiamondCrossbowAccuracy = 0.5
+			#Enable Power II arrows [default: true]
+			diamethystDiamondCrossbowEnablePowerIIArrows = true
+			#Enable Punch II arrows [default: true]
+			diamethystDiamondCrossbowEnablePunchIIArrows = true
+
+		#Diamethyst Netherite Crossbow
+		[diamethyst_weapons.diamethyst_crossbows.diamethyst_netherite_crossbow]
+			#Durability [default: 1750]
+			#Range: 1 ~ 3000
+			diamethystNetheriteCrossbowDurability = 1750
+			#Crossbow accuracy [default: 0.5]
+			#Range: 0.0 ~ 5.0
+			diamethystNetheriteCrossbowAccuracy = 0.5
+			#Enable flame arrows [default: true]
+			diamethystNetheriteCrossbowEnableFlameArrows = true
+			#Enable Power II arrows [default: true]
+			diamethystNetheriteCrossbowEnablePowerIIArrows = true
+			#Enable Punch II arrows [default: true]
+			diamethystNetheriteCrossbowEnablePunchIIArrows = true
+
+#Arrows
+[diamethyst_arrows]
+
+	#Diamethyst Arrow
+	[diamethyst_arrows.diamethyst_arrow]
+		#Arrow damage [default: 3.0]
+		#Range: 1.0 ~ 10.0
+		diamethystArrowDamage = 3.0
+
+	#Diamethyst Golden Arrow
+	[diamethyst_arrows.diamethyst_gold_arrow]
+		#Arrow damage [default: 3.0]
+		#Range: 1.0 ~ 10.0
+		diamethystGoldArrowDamage = 3.0
+		#Flame duration [default: 5]
+		#Range: 1 ~ 60
+		diamethystGoldArrowFlameDuration = 5
+
+	#Diamethyst Copper Arrow
+	[diamethyst_arrows.diamethyst_copper_arrow]
+		#Arrow damage [default: 3.0]
+		#Range: 1.0 ~ 10.0
+		diamethystCopperArrowDamage = 3.0
+		#Weakness duration [default: 5]
+		#Range: 1 ~ 60
+		diamethystCopperArrowWeaknessDuration = 5
+		#Weakness level [default: 0]
+		#Range: 0 ~ 4
+		diamethystCopperArrowWeaknessLevel = 0
+
+	#Diamethyst Charged Copper Arrow
+	[diamethyst_arrows.diamethyst_charged_copper_arrow]
+		#Arrow damage [default: 6.0]
+		#Range: 1.0 ~ 20.0
+		diamethystChargedCopperArrowDamage = 6.0
+		#Weakness duration [default: 5]
+		#Range: 1 ~ 60
+		diamethystChargedCopperArrowWeaknessDuration = 5
+		#Weakness level [default: 0]
+		#Range: 0 ~ 4
+		diamethystChargedCopperArrowWeaknessLevel = 0
+
+	#Diamethyst Iron Arrow
+	[diamethyst_arrows.diamethyst_iron_arrow]
+		#Arrow damage [default: 3.0]
+		#Range: 1.0 ~ 10.0
+		diamethystIronArrowDamage = 3.0
+		#Pierce level [default: 1]
+		#Range: 1 ~ 10
+		diamethystIronArrowPierceLevel = 1
+		#Enable block breaking [default: true]
+		diamethystIronArrowEnableBlockBreaking = true
+
+	#Diamethyst Lapis Arrow
+	[diamethyst_arrows.diamethyst_lapis_arrow]
+		#Arrow damage [default: 3.0]
+		#Range: 1.0 ~ 10.0
+		diamethystLapisArrowDamage = 3.0
+		#Confusion duration [default: 5]
+		#Range: 1 ~ 60
+		diamethystLapisArrowConfusionDuration = 5
+
+	#Diamethyst Quartz Arrow
+	[diamethyst_arrows.diamethyst_quartz_arrow]
+		#Arrow damage [default: 3.0]
+		#Range: 1.0 ~ 10.0
+		diamethystQuartzArrowDamage = 3.0
+		#Levitation duration [default: 5]
+		#Range: 1 ~ 60
+		diamethystQuartzArrowLevitationDuration = 5
+
+	#Diamethyst Emerald Arrow
+	[diamethyst_arrows.diamethyst_emerald_arrow]
+		#Arrow damage [default: 3.0]
+		#Range: 1.0 ~ 10.0
+		diamethystEmeraldArrowDamage = 3.0
+		#Poison duration [default: 5]
+		#Range: 1 ~ 60
+		diamethystEmeraldArrowPoisonDuration = 5
+		#Poison level [default: 0]
+		#Range: 0 ~ 4
+		diamethystEmeraldArrowPoisonLevel = 0
+
+		#Poison Cloud Options
+		[diamethyst_arrows.diamethyst_emerald_arrow.poison_cloud_options]
+			#Enable poison cloud [default: true]
+			diamethystEmeraldArrowEnablePoisonCloud = true
+			#Cloud duration [default: 10]
+			#Range: 1 ~ 30
+			diamethystEmeraldArrowPoisonCloudDuration = 10
+			#Cloud radius [default: 2.0]
+			#Range: 0.0 ~ 8.0
+			diamethystEmeraldArrowPoisonCloudRadius = 2.0
+			#Cloud effect duration [default: 15]
+			#Range: 1 ~ 60
+			diamethystEmeraldArrowPoisonCloudEffectDuration = 15
+			#Cloud effect level [default: 1]
+			#Range: 0 ~ 4
+			diamethystEmeraldArrowPoisonCloudEffectLevel = 1
+
+	#Diamethyst Diamond Arrow
+	[diamethyst_arrows.diamethyst_diamond_arrow]
+		#Arrow damage [default: 3.0]
+		#Range: 1.0 ~ 10.0
+		diamethystDiamondArrowDamage = 3.0
+		#Freeze duration [default: 10]
+		#Range: 1 ~ 60
+		diamethystDiamondArrowFreezeDuration = 10
+		#Enable water freezing [default: true]
+		diamethystDiamondArrowEnableWaterFreezing = true
+		#Use frosted ice [default: false]
+		diamethystDiamondArrowUseFrostedIce = false
+
+#Armor
+[diamethyst_armor]
+
+	#Diamethyst Golden Chain Armor
+	[diamethyst_armor.diamethyst_golden_chain_armor]
+		#Durability multiplier [default: 4]
+		#Range: 1 ~ 50
+		diamethystGoldChainArmorDurabilityMultiplier = 4
+		#Coif armor value [default: 2]
+		#Range: 1 ~ 20
+		diamethystGoldChainHelmetArmorValue = 2
+		#Hauberk armor value [default: 4]
+		#Range: 1 ~ 20
+		diamethystGoldChainChestplateArmorValue = 4
+		#Chausses armor value [default: 2]
+		#Range: 1 ~ 20
+		diamethystGoldChainLeggingsArmorValue = 2
+		#Boots armor value [default: 1]
+		#Range: 1 ~ 20
+		diamethystGoldChainBootsArmorValue = 1
+		#Enchantability [default: 26]
+		#Range: 1 ~ 50
+		diamethystGoldChainArmorEnchantability = 26
+		#Toughness [default: 1.0]
+		#Range: 0.0 ~ 4.0
+		diamethystGoldChainArmorToughness = 1.0
+		#Knockback resistance [default: 0.0]
+		#Range: 0.0 ~ 4.0
+		diamethystGoldChainArmorKnockbackResistance = 0.0
+		#Enable fire resistance [default: true]
+		diamethystGoldChainArmorEnableFireResistance = true
+
+	#Diamethyst Copper Chain Armor
+	[diamethyst_armor.diamethyst_copper_chain_armor]
+		#Durability multiplier [default: 7]
+		#Range: 1 ~ 50
+		diamethystCopperChainArmorDurabilityMultiplier = 7
+		#Coif armor value [default: 2]
+		#Range: 1 ~ 20
+		diamethystCopperChainHelmetArmorValue = 2
+		#Hauberk armor value [default: 5]
+		#Range: 1 ~ 20
+		diamethystCopperChainChestplateArmorValue = 5
+		#Chausses armor value [default: 4]
+		#Range: 1 ~ 20
+		diamethystCopperChainLeggingsArmorValue = 4
+		#Boots armor value [default: 1]
+		#Range: 1 ~ 20
+		diamethystCopperChainBootsArmorValue = 1
+		#Enchantability [default: 10]
+		#Range: 1 ~ 50
+		diamethystCopperChainArmorEnchantability = 10
+		#Toughness [default: 1.0]
+		#Range: 0.0 ~ 4.0
+		diamethystCopperChainArmorToughness = 1.0
+		#Knockback [default: 0.0]
+		#Range: 0.0 ~ 4.0
+		diamethystCopperChainArmorKnockbackResistance = 0.0
+		#Enable jump boost [default: true]
+		diamethystCopperChainArmorEnableJumpBoost = true
+
+	#Diamethyst Iron Chain Armor
+	[diamethyst_armor.diamethyst_iron_chain_armor]
+		#Durability multiplier [default: 10]
+		#Range: 1 ~ 50
+		diamethystIronChainArmorDurabilityMultiplier = 10
+		#Coif armor value [default: 2]
+		#Range: 1 ~ 20
+		diamethystIronChainHelmetArmorValue = 2
+		#Hauberk armor value [default: 5]
+		#Range: 1 ~ 20
+		diamethystIronChainChestplateArmorValue = 5
+		#Chausses armor value [default: 4]
+		#Range: 1 ~ 20
+		diamethystIronChainLeggingsArmorValue = 4
+		#Boots armor value [default: 1]
+		#Range: 1 ~ 20
+		diamethystIronChainBootsArmorValue = 1
+		#Enchantability [default: 10]
+		#Range: 1 ~ 50
+		diamethystIronChainArmorEnchantability = 10
+		#Toughness [default: 1.0]
+		#Range: 0.0 ~ 4.0
+		diamethystIronChainArmorToughness = 1.0
+		#Knockback [default: 0.0]
+		#Range: 0.0 ~ 4.0
+		diamethystIronChainArmorKnockbackResistance = 0.0
+		#Enable slow falling [default: true]
+		diamethystIronChainArmorEnableSlowFalling = true
+
+	#Diamethyst Golden Armor
+	[diamethyst_armor.diamethyst_golden_armor]
+		#Durability multiplier [default: 8]
+		#Range: 1 ~ 50
+		diamethystGoldArmorDurabilityMultiplier = 8
+		#Helmet armor value [default: 2]
+		#Range: 1 ~ 20
+		diamethystGoldHelmetArmorValue = 2
+		#Chestplate armor value [default: 5]
+		#Range: 1 ~ 20
+		diamethystGoldChestplateArmorValue = 5
+		#Leggings armor value [default: 3]
+		#Range: 1 ~ 20
+		diamethystGoldLeggingsArmorValue = 3
+		#Boots armor value [default: 1]
+		#Range: 1 ~ 20
+		diamethystGoldBootsArmorValue = 1
+		#Enchantability [default: 26]
+		#Range: 1 ~ 50
+		diamethystGoldArmorEnchantability = 26
+		#Toughness [default: 1.0]
+		#Range: 0.0 ~ 4.0
+		diamethystGoldArmorToughness = 1.0
+		#Knockback resistance [default: 0.1]
+		#Range: 0.0 ~ 4.0
+		diamethystGoldArmorKnockbackResistance = 0.1
+		#Enable regeneration [default: true]
+		diamethystGoldArmorEnableRegeneration = true
+
+	#Diamethyst Copper Armor
+	[diamethyst_armor.diamethyst_copper_armor]
+		#Durability multiplier [default: 15]
+		#Range: 1 ~ 50
+		diamethystCopperArmorDurabilityMultiplier = 15
+		#Helmet armor value [default: 2]
+		#Range: 1 ~ 20
+		diamethystCopperHelmetArmorValue = 2
+		#Chestplate armor value [default: 6]
+		#Range: 1 ~ 20
+		diamethystCopperChestplateArmorValue = 6
+		#Leggings armor value [default: 5]
+		#Range: 1 ~ 20
+		diamethystCopperLeggingsArmorValue = 5
+		#Boots armor value [default: 2]
+		#Range: 1 ~ 20
+		diamethystCopperBootsArmorValue = 2
+		#Enchantability [default: 10]
+		#Range: 1 ~ 50
+		diamethystCopperArmorEnchantability = 10
+		#Toughness [default: 1.0]
+		#Range: 0.0 ~ 4.0
+		diamethystCopperArmorToughness = 1.0
+		#Knockback resistance [default: 0.1]
+		#Range: 0.0 ~ 4.0
+		diamethystCopperArmorKnockbackResistance = 0.1
+		#Enable strength [default: true]
+		diamethystCopperArmorEnableStrength = true
+
+	#Diamethyst Iron Armor
+	[diamethyst_armor.diamethyst_iron_armor]
+		#Durability multiplier [default: 20]
+		#Range: 1 ~ 50
+		diamethystIronArmorDurabilityMultiplier = 20
+		#Helmet armor value [default: 2]
+		#Range: 1 ~ 20
+		diamethystIronHelmetArmorValue = 2
+		#Chestplate armor value [default: 6]
+		#Range: 1 ~ 20
+		diamethystIronChestplateArmorValue = 6
+		#Leggings armor value [default: 5]
+		#Range: 1 ~ 20
+		diamethystIronLeggingsArmorValue = 5
+		#Boots armor value [default: 2]
+		#Range: 1 ~ 20
+		diamethystIronBootsArmorValue = 2
+		#Enchantability [default: 10]
+		#Range: 1 ~ 50
+		diamethystIronArmorEnchantability = 10
+		#Toughness [default: 1.0]
+		#Range: 0.0 ~ 4.0
+		diamethystIronArmorToughness = 1.0
+		#Knockback resistance [default: 0.1]
+		#Range: 0.0 ~ 4.0
+		diamethystIronArmorKnockbackResistance = 0.1
+		#Enable damage resistance [default: true]
+		diamethystIronArmorEnableDamageResistance = true
+
+	#Diamethyst Lapis Armor
+	[diamethyst_armor.diamethyst_lapis_armor]
+		#Durability multiplier [default: 24]
+		#Range: 1 ~ 50
+		diamethystLapisArmorDurabilityMultiplier = 24
+		#Cowl armor value [default: 2]
+		#Range: 1 ~ 20
+		diamethystLapisHelmetArmorValue = 2
+		#Shirt armor value [default: 7]
+		#Range: 1 ~ 20
+		diamethystLapisChestplateArmorValue = 7
+		#Leggings armor value [default: 6]
+		#Range: 1 ~ 20
+		diamethystLapisLeggingsArmorValue = 6
+		#Boots armor value [default: 2]
+		#Range: 1 ~ 20
+		diamethystLapisBootsArmorValue = 2
+		#Enchantability [default: 10]
+		#Range: 1 ~ 50
+		diamethystLapisArmorEnchantability = 10
+		#Toughness [default: 1.5]
+		#Range: 0.0 ~ 4.0
+		diamethystLapisArmorToughness = 1.5
+		#Knockback resistance [default: 0.1]
+		#Range: 0.0 ~ 4.0
+		diamethystLapisArmorKnockbackResistance = 0.1
+		#Enable absorbtion [default: true]
+		diamethystLapisArmorEnableAbsorbtionEffect = true
+
+	#Diamethyst Quartz Armor
+	[diamethyst_armor.diamethyst_quartz_armor]
+		#Durability multiplier [default: 25]
+		#Range: 1 ~ 50
+		diamethystQuartzArmorDurabilityMultiplier = 25
+		#Cowl armor value [default: 3]
+		#Range: 1 ~ 20
+		diamethystQuartzHelmetArmorValue = 3
+		#Shirt armor value [default: 7]
+		#Range: 1 ~ 20
+		diamethystQuartzChestplateArmorValue = 7
+		#Leggings armor value [default: 6]
+		#Range: 1 ~ 20
+		diamethystQuartzLeggingsArmorValue = 6
+		#Boots armor value [default: 2]
+		#Range: 1 ~ 20
+		diamethystQuartzBootsArmorValue = 2
+		#Enchantability [default: 10]
+		#Range: 1 ~ 50
+		diamethystQuartzArmorEnchantability = 10
+		#Toughness [default: 1.65]
+		#Range: 0.0 ~ 4.0
+		diamethystQuartzArmorToughness = 1.65
+		#Knockback resistance [default: 0.1]
+		#Range: 0.0 ~ 4.0
+		diamethystQuartzArmorKnockbackResistance = 0.1
+		#Enable speed [default: true]
+		diamethystQuartzArmorEnableSpeed = true
+		#Enable Nether night vision [default: true]
+		diamethystQuartzArmorEnableNetherNightVision = true
+
+	#Diamethyst Prismarine Armor
+	[diamethyst_armor.diamethyst_prismarine_armor]
+		#Durability multiplier [default: 26]
+		#Range: 1 ~ 50
+		diamethystPrismarineArmorDurabilityMultiplier = 26
+		#Helmet armor value [default: 2]
+		#Range: 1 ~ 20
+		diamethystPrismarineHelmetArmorValue = 2
+		#Chestplate armor value [default: 7]
+		#Range: 1 ~ 20
+		diamethystPrismarineChestplateArmorValue = 7
+		#Leggings armor value [default: 6]
+		#Range: 1 ~ 20
+		diamethystPrismarineLeggingsArmorValue = 6
+		#Boots armor value [default: 2]
+		#Range: 1 ~ 20
+		diamethystPrismarineBootsArmorValue = 2
+		#Enchantability [default: 10]
+		#Range: 1 ~ 50
+		diamethystPrismarineArmorEnchantability = 10
+		#Toughness [default: 1.75]
+		#Range: 0.0 ~ 4.0
+		diamethystPrismarineArmorToughness = 1.75
+		#Knockback resistance [default: 0.1]
+		#Range: 0.0 ~ 4.0
+		diamethystPrismarineArmorKnockbackResistance = 0.1
+		#Enable conduit power [default: true]
+		diamethystPrismarineArmorEnableConduitPowerEffect = true
+		#Enable dolphins grace [default: true]
+		diamethystPrismarineArmorEnableDolphinsGraceEffect = true
+
+	#Diamethyst Emerald Armor
+	[diamethyst_armor.diamethyst_emerald_armor]
+		#Durability multiplier [default: 28]
+		#Range: 1 ~ 50
+		diamethystEmeraldArmorDurabilityMultiplier = 28
+		#Cowl armor value [default: 3]
+		#Range: 1 ~ 20
+		diamethystEmeraldHelmetArmorValue = 3
+		#Shirt armor value [default: 8]
+		#Range: 1 ~ 20
+		diamethystEmeraldChestplateArmorValue = 8
+		#Leggings armor value [default: 6]
+		#Range: 1 ~ 20
+		diamethystEmeraldLeggingsArmorValue = 6
+		#Boots armor value [default: 3]
+		#Range: 1 ~ 20
+		diamethystEmeraldBootsArmorValue = 3
+		#Enchantability [default: 10]
+		#Range: 1 ~ 50
+		diamethystEmeraldArmorEnchantability = 10
+		#Toughness [default: 2.0]
+		#Range: 0.0 ~ 4.0
+		diamethystEmeraldArmorToughness = 2.0
+		#Knockback resistance [default: 0.1]
+		#Range: 0.0 ~ 4.0
+		diamethystEmeraldArmorKnockbackResistance = 0.1
+		#Enable luck [default: true]
+		diamethystEmeraldArmorEnableLuck = true
+
+	#Diamethyst Diamond Armor
+	[diamethyst_armor.diamethyst_diamond_armor]
+		#Durability multiplier [ default: 38]
+		#Range: 1 ~ 50
+		diamethystDiamondArmorDurabilityMultiplier = 38
+		#Cowl armor value [default: 3]
+		#Range: 1 ~ 20
+		diamethystDiamondHelmetArmorValue = 3
+		#Shirt armor value [default: 8]
+		#Range: 1 ~ 20
+		diamethystDiamondChestplateArmorValue = 8
+		#Leggings armor value [default: 6]
+		#Range: 1 ~ 20
+		diamethystDiamondLeggingsArmorValue = 6
+		#Boots armor value [default: 3]
+		#Range: 1 ~ 20
+		diamethystDiamondBootsArmorValue = 3
+		#Enchantability [default: 15]
+		#Range: 1 ~ 50
+		diamethystDiamondArmorEnchantability = 15
+		#Toughness [default: 3.0]
+		#Range: 0.0 ~ 4.0
+		diamethystDiamondArmorToughness = 3.0
+		#Knockback resistance [default: 0.2]
+		#Range: 0.0 ~ 4.0
+		diamethystDiamondArmorKnockbackResistance = 0.2
+		#Enable night vision [default: true]
+		diamethystDiamondArmorEnableNightVision = true
+
+	#Diamethyst Netherite Armor
+	[diamethyst_armor.diamethyst_netherite_armor]
+		#Durability multiplier [ default: 42]
+		#Range: 1 ~ 70
+		diamethystNetheriteArmorDurabilityMultiplier = 42
+		#Cowl armor value [default: 3]
+		#Range: 1 ~ 20
+		diamethystNetheriteHelmetArmorValue = 3
+		#Shirt armor value [default: 8]
+		#Range: 1 ~ 20
+		diamethystNetheriteChestplateArmorValue = 8
+		#Leggings armor value [default: 6]
+		#Range: 1 ~ 20
+		diamethystNetheriteLeggingsArmorValue = 6
+		#Boots armor value [default: 3]
+		#Range: 1 ~ 20
+		diamethystNetheriteBootsArmorValue = 3
+		#Enchantability [default: 15]
+		#Range: 1 ~ 50
+		diamethystNetheriteArmorEnchantability = 15
+		#Toughness [default: 4.0]
+		#Range: 0.0 ~ 4.0
+		diamethystNetheriteArmorToughness = 4.0
+		#Knockback resistance [default: 0.3]
+		#Range: 0.0 ~ 4.0
+		diamethystNetheriteArmorKnockbackResistance = 0.3
+		#Enable regeneration [default: false]
+		diamethystNetheriteArmorEnableRegeneration = false
+		#Enable fire resistance [default: true]
+		diamethystNetheriteArmorEnableFireResistance = true
+		#Enable damage resistance [default: true]
+		diamethystNetheriteArmorEnableDamageResistance = true
+		#Enable night vision [default: true]
+		diamethystNetheriteArmorEnableNightVision = true
+
+#Shields
+[diamethyst_shields]
+
+	#Diamethyst Golden Shield
+	[diamethyst_shields.diamethyst_golden_shield]
+		#Durability [default: 500]
+		#Range: 1 ~ 3000
+		diamethystGoldShieldDurability = 500
+
+	#Diamethyst Copper Shield
+	[diamethyst_shields.diamethyst_copper_shield]
+		#Durability [default: 550]
+		#Range: 1 ~ 3000
+		diamethystCopperShieldDurability = 550
+
+	#Diamethyst Iron Shield
+	[diamethyst_shields.diamethyst_iron_shield]
+		#Durability [default: 600]
+		#Range: 1 ~ 3000
+		diamethystIronShieldDurability = 600
+
+	#Diamethyst Lapis Shield
+	[diamethyst_shields.diamethyst_lapis_shield]
+		#Durability [default: 650]
+		#Range: 1 ~ 3000
+		diamethystLapisShieldDurability = 650
+
+	#Diamethyst Quartz Shield
+	[diamethyst_shields.diamethyst_quartz_shield]
+		#Durability [default: 675]
+		#Range: 1 ~ 3000
+		diamethystQuartzShieldDurability = 675
+
+	#Diamethyst Prismarine Shield
+	[diamethyst_shields.diamethyst_prismarine_shield]
+		#Durability [default: 700]
+		#Range: 1 ~ 3000
+		diamethystPrismarineShieldDurability = 700
+
+	#Diamethyst Emerald Shield
+	[diamethyst_shields.diamethyst_emerald_shield]
+		#Durability [default: 750]
+		#Range: 1 ~ 3000
+		diamethystEmeraldShieldDurability = 750
+
+	#Diamethyst Diamond Shield
+	[diamethyst_shields.diamethyst_diamond_shield]
+		#Durability [default: 850]
+		#Range: 1 ~ 3000
+		diamethystDiamondShieldDurability = 850
+
+	#Diamethyst Netherite Shield
+	[diamethyst_shields.diamethyst_netherite_shield]
+		#Durability [default: 1000]
+		#Range: 1 ~ 3000
+		diamethystNetheriteShieldDurability = 1000
+
+#Horse Armor
+[diamethyst_horse_armor]
+
+	#Diamethyst Golden Chain Horse Armor
+	[diamethyst_horse_armor.diamethyst_golden_chain_horse_armor]
+		#Protection value [default: 3]
+		#Range: 1 ~ 20
+		diamethystGoldChainHorseArmorProtectionValue = 3
+		#Enable speed boost [default: true]
+		diamethystGoldChainHorseArmorEnableSpeedBoost = true
+		#Enable damage resistance [default: true]
+		diamethystGoldChainHorseArmorEnableDamageResistance = true
+		#Enable regeneration [default: true]
+		diamethystGoldChainHorseArmorEnableRegeneration = true
+
+	#Diamethyst Copper Chain Horse Armor
+	[diamethyst_horse_armor.diamethyst_copper_chain_horse_armor]
+		#Protection value [default: 4]
+		#Range: 1 ~ 20
+		diamethystCopperChainHorseArmorProtectionValue = 4
+		#Enable speed boost [default: true]
+		diamethystCopperChainHorseArmorEnableSpeedBoost = true
+		#Enable damage resistance [default: true]
+		diamethystCopperChainHorseArmorEnableDamageResistance = true
+		#Enable regeneration [default: true]
+		diamethystCopperChainHorseArmorEnableRegeneration = true
+
+	#Diamethyst Iron Chain Horse Armor
+	[diamethyst_horse_armor.diamethyst_iron_chain_horse_armor]
+		#Protection value [default: 5]
+		#Range: 1 ~ 20
+		diamethystIronChainHorseArmorProtectionValue = 5
+		#Enable speed boost [default: true]
+		diamethystIronChainHorseArmorEnableSpeedBoost = true
+		#Enable damage resistance [default: true]
+		diamethystIronChainHorseArmorEnableDamageResistance = true
+		#Enable regeneration [default: true]
+		diamethystIronChainHorseArmorEnableRegeneration = true
+
+	#Diamethyst Golden Horse Armor
+	[diamethyst_horse_armor.diamethyst_golden_horse_armor]
+		#Protection value [default: 6]
+		#Range: 1 ~ 20
+		diamethystGoldHorseArmorProtectionValue = 6
+		#Enable speed boost [default: true]
+		diamethystGoldHorseArmorEnableSpeedBoost = true
+		#Enable damage resistance [default: true]
+		diamethystGoldHorseArmorEnableDamageResistance = true
+		#Enable regeneration [default: true]
+		diamethystGoldHorseArmorEnableRegeneration = true
+
+	#Diamethyst Copper Horse Armor
+	[diamethyst_horse_armor.diamethyst_copper_horse_armor]
+		#Protection value [default: 7]
+		#Range: 1 ~ 20
+		diamethystCopperHorseArmorProtectionValue = 7
+		#Enable speed boost [default: true]
+		diamethystCopperHorseArmorEnableSpeedBoost = true
+		#Enable damage resistance [default: true]
+		diamethystCopperHorseArmorEnableDamageResistance = true
+		#Enable regeneration [default: true]
+		diamethystCopperHorseArmorEnableRegeneration = true
+
+	#Diamethyst Quartz Horse Armor
+	[diamethyst_horse_armor.diamethyst_iron_horse_armor]
+		#Protection value [default: 8]
+		#Range: 1 ~ 20
+		diamethystIronHorseArmorProtectionValue = 8
+		#Enable speed boost [default: true]
+		diamethystIronHorseArmorEnableSpeedBoost = true
+		#Enable damage resistance [default: true]
+		diamethystIronHorseArmorEnableDamageResistance = true
+		#Enable regeneration [default: true]
+		diamethystIronHorseArmorEnableRegeneration = true
+		#Protection value [default: 10]
+		#Range: 1 ~ 20
+		diamethystQuartzHorseArmorProtectionValue = 10
+		#Enable speed boost [default: true]
+		diamethystQuartzHorseArmorEnableSpeedBoost = true
+		#Enable damage resistance [default: true]
+		diamethystQuartzHorseArmorEnableDamageResistance = true
+		#Enable regeneration [default: true]
+		diamethystQuartzHorseArmorEnableRegeneration = true
+
+	#Diamethyst Lapis Horse Armor
+	[diamethyst_horse_armor.diamethyst_lapis_horse_armor]
+		#Protection value [default: 9]
+		#Range: 1 ~ 20
+		diamethystLapisHorseArmorProtectionValue = 9
+		#Enable speed boost [default: true]
+		diamethystLapisHorseArmorEnableSpeedBoost = true
+		#Enable damage resistance [default: true]
+		diamethystLapisHorseArmorEnableDamageResistance = true
+		#Enable regeneration [default: true]
+		diamethystLapisHorseArmorEnableRegeneration = true
+
+	#Diamethyst Prismarine Horse Armor
+	[diamethyst_horse_armor.diamethyst_prismarine_horse_armor]
+		#Protection value [default: 10]
+		#Range: 1 ~ 20
+		diamethystPrismarineHorseArmorProtectionValue = 10
+		#Enable speed boost [default: true]
+		diamethystPrismarineHorseArmorEnableSpeedBoost = true
+		#Enable damage resistance [default: true]
+		diamethystPrismarineHorseArmorEnableDamageResistance = true
+		#Enable regeneration [default: true]
+		diamethystPrismarineHorseArmorEnableRegeneration = true
+		#Enable horse swimming [default: true]
+		diamethystPrismarineHorseArmorEnableSwimming = true
+
+	#Diamethyst Emerald Horse Armor
+	[diamethyst_horse_armor.diamethyst_emerald_horse_armor]
+		#Protection value [default: 11]
+		#Range: 1 ~ 20
+		diamethystEmeraldHorseArmorProtectionValue = 11
+		#Enable speed boost [default: true]
+		diamethystEmeraldHorseArmorEnableSpeedBoost = true
+		#Enable damage resistance [default: true]
+		diamethystEmeraldHorseArmorEnableDamageResistance = true
+		#Enable regeneration [default: true]
+		diamethystEmeraldHorseArmorEnableRegeneration = true
+
+	#Diamethyst Diamond Horse Armor
+	[diamethyst_horse_armor.diamethyst_diamond_horse_armor]
+		#Protection value [default: 12]
+		#Range: 1 ~ 20
+		diamethystDiamondHorseArmorProtectionValue = 12
+		#Enable speed boost [default: true]
+		diamethystDiamondHorseArmorEnableSpeedBoost = true
+		#Enable damage resistance [default: true]
+		diamethystDiamondHorseArmorEnableDamageResistance = true
+		#Enable regeneration [default: true]
+		diamethystDiamondHorseArmorEnableRegeneration = true
+
+	#Diamethyst Netherite Horse Armor
+	[diamethyst_horse_armor.diamethyst_netherite_horse_armor]
+		#Protection value [default: 14]
+		#Range: 1 ~ 20
+		diamethystNetheriteHorseArmorProtectionValue = 14
+		#Enable speed boost [default: true]
+		diamethystNetheriteHorseArmorEnableSpeedBoost = true
+		#Enable damage resistance [default: true]
+		diamethystNetheriteHorseArmorEnableDamageResistance = true
+		#Enable regeneration [default: true]
+		diamethystNetheriteHorseArmorEnableRegeneration = true
+		#Enable fire resistance [default: true]
+		diamethystNetheriteHorseArmorEnableFireResistance = true
+
+#Tools
+[diamethyst_tools]
+
+	#Diamethyst Golden Tools
+	[diamethyst_tools.diamethyst_golden_tools]
+		#Durability [default: 150]
+		#Range: 1 ~ 3000
+		diamethystGoldToolDurability = 150
+		#Efficiency [default: 3.0]
+		#Range: 0.0 ~ 20.0
+		diamethystGoldToolEfficiency = 3.0
+		#Attack damage bonus [default: 2.0]
+		#Range: 0.0 ~ 20.0
+		diamethystGoldToolAttackDamageBonus = 2.0
+		#Enchantability [default: 30]
+		#Range: 1 ~ 50
+		diamethystGoldToolEnchantability = 30
+
+	#Diamethyst Copper Tools
+	[diamethyst_tools.diamethyst_copper_tools]
+		#Durability [default: 225]
+		#Range: 1 ~ 3000
+		diamethystCopperToolDurability = 225
+		#Efficiency [default: 4.0]
+		#Range: 0.0 ~ 20.0
+		diamethystCopperToolEfficiency = 4.0
+		#Attack damage bonus [default: 2.0]
+		#Range: 0.0 ~ 30.0
+		diamethystCopperToolAttackDamageBonus = 2.0
+		#Enchantability [default: 10]
+		#Range: 1 ~ 50
+		diamethystCopperToolEnchantability = 10
+
+	#Diamethyst Iron Tools
+	[diamethyst_tools.diamethyst_iron_tools]
+		#Durability [default: 300]
+		#Range: 1 ~ 3000
+		diamethystIronToolDurability = 300
+		#Efficiency [default: 5.0]
+		#Range: 0.0 ~ 20.0
+		diamethystIronToolEfficiency = 5.0
+		#Attack damage bonus [default: 2.0]
+		#Range: 0.0 ~ 30.0
+		diamethystIronToolAttackDamageBonus = 2.0
+		#Enchantability [default: 15]
+		#Range: 1 ~ 50
+		diamethystIronToolEnchantability = 15
+
+	#Diamethyst Lapis Tools
+	[diamethyst_tools.diamethyst_lapis_tools]
+		#Durability [default: 500]
+		#Range: 1 ~ 3000
+		diamethystLapisToolDurability = 500
+		#Efficiency [default: 7.5]
+		#Range: 0.0 ~ 20.0
+		diamethystLapisToolEfficiency = 7.5
+		#Attack damage bonus [default: 2.0]
+		#Range: 0.0 ~ 40.0
+		diamethystLapisToolAttackDamageBonus = 2.0
+		#Enchantability [default: 17]
+		#Range: 1 ~ 50
+		diamethystLapisToolEnchantability = 17
+
+	#Diamethyst Quartz Tools
+	[diamethyst_tools.diamethyst_quartz_tools]
+		#Durability [default: 550]
+		#Range: 1 ~ 3000
+		diamethystQuartzToolDurability = 550
+		#Efficiency [default:8.0]
+		#Range: 0.0 ~ 20.0
+		diamethystQuartzToolEfficiency = 8.0
+		#Attack damage bonus [default: 2.0]
+		#Range: 0.0 ~ 30.0
+		diamethystQuartzToolAttackDamageBonus = 2.0
+		#Enchantability [default: 18]
+		#Range: 1 ~ 50
+		diamethystQuartzToolEnchantability = 18
+
+	#Diamethyst Prismarine Tools
+	[diamethyst_tools.diamethyst_prismarine_tools]
+		#Durability [default: 600]
+		#Range: 1 ~ 3000
+		diamethystPrismarineToolDurability = 600
+		#Efficiency [default: 8.5]
+		#Range: 0.0 ~ 20.0
+		diamethystPrismarineToolEfficiency = 8.5
+		#Attack damage bonus [default: 2.0]
+		#Range: 0.0 ~ 40.0
+		diamethystPrismarineToolAttackDamageBonus = 2.0
+		#Enchantability [default: 19]
+		#Range: 1 ~ 50
+		diamethystPrismarineToolEnchantability = 19
+
+	#Diamethyst Emerald Tools
+	[diamethyst_tools.diamethyst_emerald_tools]
+		#Durability [default: 725]
+		#Range: 1 ~ 3000
+		diamethystEmeraldToolDurability = 725
+		#Efficiency [default: 10.0]
+		#Range: 0.0 ~ 20.0
+		diamethystEmeraldToolEfficiency = 10.0
+		#Attack damage bonus [default: 2.0]
+		#Range: 0.0 ~ 40.0
+		diamethystEmeraldToolAttackDamageBonus = 2.0
+		#Enchantability [default: 20]
+		#Range: 1 ~ 50
+		diamethystEmeraldToolEnchantability = 20
+
+	#Diamethyst Diamond Tools
+	[diamethyst_tools.diamethyst_diamond_tools]
+		#Durability [default: 1800]
+		#Range: 1 ~ 3000
+		diamethystDiamondToolDurability = 1800
+		#Efficiency [default: 15.0]
+		#Range: 0.0 ~ 20.0
+		diamethystDiamondToolEfficiency = 15.0
+		#Attack damage bonus [default: 2.0]
+		#Range: 0.0 ~ 50.0
+		diamethystDiamondToolAttackDamageBonus = 2.0
+		#Enchantability [default: 25]
+		#Range: 1 ~ 50
+		diamethystDiamondToolEnchantability = 25
+
+	#Diamethyst Netherite Tools
+	[diamethyst_tools.diamethyst_netherite_tools]
+		#Durability [default: 2500]
+		#Range: 1 ~ 4000
+		diamethystNetheriteToolDurability = 2500
+		#Efficiency [default: 15.0]
+		#Range: 0.0 ~ 20.0
+		diamethystNetheriteToolEfficiency = 20.0
+		#Attack damage bonus [default: 3.0]
+		#Range: 0.0 ~ 50.0
+		diamethystNetheriteToolAttackDamageBonus = 3.0
+		#Enchantability [default: 30]
+		#Range: 1 ~ 50
+		diamethystNetheriteToolEnchantability = 30
+
+#Fishing Rods
+[diamethyst_fishing_rods]
+
+	#Diamethyst Fishing Rod
+	[diamethyst_fishing_rods.diamethyst_fishing_rod]
+		#Durability [default: 100]
+		#Range: 1 ~ 3000
+		diamethystFishingRodDurability = 100
+		#Enchantability [default: 5]
+		#Range: 1 ~ 50
+		diamethystFishingRodEnchantability = 5
+		#Enable luck bonus [default: true]
+		diamethystFishingRodEnableLuckBonus = true
+		#Enable lure bonus [default: true]
+		diamethystFishingRodEnableLureBonus = true
+
+	#Diamethyst Golden Fishing Rod
+	[diamethyst_fishing_rods.diamethyst_gold_fishing_rod]
+		#Durability [default: 150]
+		#Range: 1 ~ 3000
+		diamethystGoldFishingRodDurability = 150
+		#Enchantability [default: 30]
+		#Range: 1 ~ 50
+		diamethystGoldFishingRodEnchantability = 30
+		#Enable luck bonus [default: true]
+		diamethystGoldFishingRodEnableLuckBonus = true
+		#Enable lure bonus [default: true]
+		diamethystGoldFishingRodEnableLureBonus = true
+
+	#Diamethyst Copper Fishing Rod
+	[diamethyst_fishing_rods.diamethyst_copper_fishing_rod]
+		#Durability [default: 200]
+		#Range: 1 ~ 3000
+		diamethystCopperFishingRodDurability = 200
+		#Enchantability [default: 10]
+		#Range: 1 ~ 50
+		diamethystCopperFishingRodEnchantability = 10
+		#Enable luck bonus [default: true]
+		diamethystCopperFishingRodEnableLuckBonus = true
+		#Enable lure bonus [default: true]
+		diamethystCopperFishingRodEnableLureBonus = true
+
+	#Diamethyst Iron Fishing Rod
+	[diamethyst_fishing_rods.diamethyst_iron_fishing_rod]
+		#Durability [default: 250]
+		#Range: 1 ~ 3000
+		diamethystIronFishingRodDurability = 250
+		#Enchantability [default: 15]
+		#Range: 1 ~ 50
+		diamethystIronFishingRodEnchantability = 15
+		#Enable luck bonus [default: true]
+		diamethystIronFishingRodEnableLuckBonus = true
+		#Enable lure bonus [default: true]
+		diamethystIronFishingRodEnableLureBonus = true
+
+	#Diamethyst Lapis Fishing Rod
+	[diamethyst_fishing_rods.diamethyst_lapis_fishing_rod]
+		#Durability [default: 300]
+		#Range: 1 ~ 3000
+		diamethystLapisFishingRodDurability = 300
+		#Enchantability [default: 17]
+		#Range: 1 ~ 50
+		diamethystLapisFishingRodEnchantability = 17
+		#Enable luck bonus [default: true]
+		diamethystLapisFishingRodEnableLuckBonus = true
+		#Enable lure bonus [default: true]
+		diamethystLapisFishingRodEnableLureBonus = true
+
+	#Diamethyst Quartz Fishing Rod
+	[diamethyst_fishing_rods.diamethyst_quartz_fishing_rod]
+		#Durability [default: 350]
+		#Range: 1 ~ 3000
+		diamethystQuartzFishingRodDurability = 350
+		#Enchantability [default: 18]
+		#Range: 1 ~ 50
+		diamethystQuartzFishingRodEnchantability = 18
+		#Enable luck bonus [default: true]
+		diamethystQuartzFishingRodEnableLuckBonus = true
+		#Enable lure bonus [default: true]
+		diamethystQuartzFishingRodEnableLureBonus = true
+
+	#Diamethyst Prismarine Fishing Rod
+	[diamethyst_fishing_rods.diamethyst_prismarine_fishing_rod]
+		#Durability [default: 400]
+		#Range: 1 ~ 3000
+		diamethystPrismarineFishingRodDurability = 400
+		#Enchantability [default: 19]
+		#Range: 1 ~ 50
+		diamethystPrismarineFishingRodEnchantability = 19
+		#Enable luck bonus [default: true]
+		diamethystPrismarineFishingRodEnableLuckBonus = true
+		#Enable lure bonus [default: true]
+		diamethystPrismarineFishingRodEnableLureBonus = true
+
+	#Diamethyst Emerald Fishing Rod
+	[diamethyst_fishing_rods.diamethyst_emerald_fishing_rod]
+		#Durability [default: 450]
+		#Range: 1 ~ 3000
+		diamethystEmeraldFishingRodDurability = 450
+		#Enchantability [default: 20]
+		#Range: 1 ~ 50
+		diamethystEmeraldFishingRodEnchantability = 20
+		#Enable luck bonus [default: true]
+		diamethystEmeraldFishingRodEnableLuckBonus = true
+		#Enable lure bonus [default: true]
+		diamethystEmeraldFishingRodEnableLureBonus = true
+
+	#Diamethyst Diamond Fishing Rod
+	[diamethyst_fishing_rods.diamethyst_diamond_fishing_rod]
+		#Durability [default: 600]
+		#Range: 1 ~ 3000
+		diamethystDiamondFishingRodDurability = 600
+		#Enchantability [default: 25]
+		#Range: 1 ~ 50
+		diamethystDiamondFishingRodEnchantability = 25
+		#Enable luck bonus [default: true]
+		diamethystDiamondFishingRodEnableLuckBonus = true
+		#Enable lure bonus [default: true]
+		diamethystDiamondFishingRodEnableLureBonus = true
+
+	#Diamethyst Netherite Fishing Rod
+	[diamethyst_fishing_rods.diamethyst_netherite_fishing_rod]
+		#Durability [default: 800]
+		#Range: 1 ~ 3000
+		diamethystNetheriteFishingRodDurability = 800
+		#Enchantability [default: 30]
+		#Range: 1 ~ 50
+		diamethystNetheriteFishingRodEnchantability = 30
+		#Enable luck bonus [default: true]
+		diamethystNetheriteFishingRodEnableLuckBonus = true
+		#Enable lure bonus [default: true]
+		diamethystNetheriteFishingRodEnableLureBonus = true
+

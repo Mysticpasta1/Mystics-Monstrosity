@@ -1,0 +1,6 @@
+// Compost colors for twilightforestartifacts. You may add your own colors, change existing ones, or remove colors that aren't needed.
+charm_of_knightmetal, #a0937f
+cloud_in_a_large_bottle, #f7ffff
+infinity_carminite, #9b1111
+infinity_light, #f2ac8d
+steeleaf_claws, #516433

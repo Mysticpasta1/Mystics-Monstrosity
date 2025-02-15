@@ -1,0 +1,11 @@
+// Compost colors for nfm. You may add your own colors, change existing ones, or remove colors that aren't needed.
+bread_slice, #d9ab51
+castle_netting, #3e3e3e
+cooked_kebab, #d7b598
+cooked_sausage, #ffffff
+kebab, #fff4de
+sausage, #ffffff
+soap, #a0ffff
+soapy_water_bucket, #c0dadc
+super_soapy_water_bucket, #dddcbe
+toast, #a57323

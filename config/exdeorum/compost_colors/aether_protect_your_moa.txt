@@ -1,0 +1,7 @@
+// Compost colors for aether_protect_your_moa. You may add your own colors, change existing ones, or remove colors that aren't needed.
+diamond_moa_armor, #f0ffff
+golden_moa_armor, #fffff4
+gravitite_moa_armor, #e472dc
+iron_moa_armor, #ffffff
+leather_moa_armor, #ffffff
+zanite_moa_armor, #9e5ef2

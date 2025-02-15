@@ -1,0 +1,5 @@
+
+[Client]
+	#allow_integration [false/true|default:false]
+	allow_integration = false
+

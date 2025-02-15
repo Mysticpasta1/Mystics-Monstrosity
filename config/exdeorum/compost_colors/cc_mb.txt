@@ -1,0 +1,4 @@
+// Compost colors for cc_mb. You may add your own colors, change existing ones, or remove colors that aren't needed.
+awl, #b2b2b2
+note_grid, #f7eaca
+sound_shard, #5b6846

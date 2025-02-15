@@ -1,0 +1,27 @@
+// Compost colors for ironfurnaces. You may add your own colors, change existing ones, or remove colors that aren't needed.
+augment_blasting, #877070
+augment_factory, #84989d
+augment_fuel, #404e39
+augment_generator, #98575c
+augment_smoking, #725b5b
+augment_speed, #b1c0af
+item_copy, #372a2a
+item_heater, #ebdada
+rainbow_coal, #ffffff
+rainbow_plating, #d3c6ca
+upgrade_allthemodium, #8e6539
+upgrade_copper, #ffebd0
+upgrade_crystal, #deffff
+upgrade_diamond, #ffffde
+upgrade_emerald, #caffff
+upgrade_gold, #ffffff
+upgrade_gold2, #e8dab6
+upgrade_iron, #f7f7f7
+upgrade_iron2, #dc9e8a
+upgrade_netherite, #29232f
+upgrade_obsidian, #34a446
+upgrade_obsidian2, #3e739a
+upgrade_silver, #c38a76
+upgrade_silver2, #ffffff
+upgrade_unobtainium, #417ab8
+upgrade_vibranium, #bca752

@@ -1,0 +1,5 @@
+// Compost colors for solapplepie. You may add your own colors, change existing ones, or remove colors that aren't needed.
+food_book, #caa48e
+golden_lunchbox, #fffe9e
+lunchbag, #ebd0b4
+lunchbox, #cfcdcd

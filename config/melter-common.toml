@@ -1,0 +1,10 @@
+
+#Settings for the melter
+[melter]
+	#How much liquid fits into the melter, in mB
+	#Range: > 1
+	capacity = 2000
+	#How much liquid generates per tick, in mB
+	#Range: > 1
+	liquidPerTick = 2
+

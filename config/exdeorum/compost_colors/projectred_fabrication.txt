@@ -1,0 +1,8 @@
+// Compost colors for projectred_fabrication. You may add your own colors, change existing ones, or remove colors that aren't needed.
+blank_photomask, #ffffff
+etched_silicon_wafer, #d9d4f5
+ic_blueprint, #98bced
+invalid_die, #ffffff
+photomask_set, #ffffff
+rough_silicon_wafer, #d6c8e4
+valid_die, #ffffff

@@ -1,0 +1,7 @@
+// Compost colors for ad_astra_giselle_addon. You may add your own colors, change existing ones, or remove colors that aren't needed.
+module_acid_rain_proof_unit, #cdcfc5
+module_gravity_normalizing_unit, #cfd3c6
+module_space_breathing_unit, #cfd0c5
+module_space_fire_proof_unit, #cdcdc3
+netherite_oxygen_can, #6f545e
+oxygen_can, #d0d0d0

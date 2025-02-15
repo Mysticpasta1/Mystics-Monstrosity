@@ -1,0 +1,2 @@
+// Compost colors for marigolds. You may add your own colors, change existing ones, or remove colors that aren't needed.
+marigold, #c9b24d

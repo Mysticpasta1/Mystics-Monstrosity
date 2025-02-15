@@ -1,0 +1,11 @@
+// Compost colors for woodworks. You may add your own colors, change existing ones, or remove colors that aren't needed.
+acacia_ladder, #de7c4b
+bamboo_ladder, #ffff79
+birch_ladder, #fffaab
+cherry_ladder, #ffeae3
+crimson_ladder, #8d4462
+dark_oak_ladder, #724a23
+jungle_ladder, #d09465
+mangrove_ladder, #a1463e
+spruce_ladder, #9e7543
+warped_ladder, #47bcb1

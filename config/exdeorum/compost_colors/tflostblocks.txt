@@ -1,0 +1,9 @@
+// Compost colors for tflostblocks. You may add your own colors, change existing ones, or remove colors that aren't needed.
+incomplete_thorncutter_axe, #7d7065
+thorn_door, #a2764d
+thorn_hanging_sign, #a27850
+thorn_sign, #a26f44
+thorncutter_axe, #977858
+towerwood_door, #bc784a
+towerwood_hanging_sign, #a26e47
+towerwood_sign, #ae6f40

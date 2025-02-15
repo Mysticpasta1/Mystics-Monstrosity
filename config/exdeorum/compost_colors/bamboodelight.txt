@@ -1,0 +1,14 @@
+// Compost colors for bamboodelight. You may add your own colors, change existing ones, or remove colors that aren't needed.
+bamboo_cake, #878d25
+bamboo_cookie, #ffbb5f
+bamboo_juice, #a0d397
+bamboo_knife, #f4e764
+bamboo_pasta, #8dc547
+bamboo_pie, #d6ca58
+bamboo_porridge, #6e6b19
+bamboo_rice, #7a8925
+bamboo_stew, #758429
+bamboo_tea, #ffffff
+bamboo_tube, #fff470
+cooked_bamboo, #6e9e26
+piece_bamboo, #75a82d

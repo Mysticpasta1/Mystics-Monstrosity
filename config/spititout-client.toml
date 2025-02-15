@@ -1,0 +1,6 @@
+
+#Client settings
+[Client]
+	#Setting this to false will log the full stacktrace (Default: true)
+	onlyLogCause = false
+

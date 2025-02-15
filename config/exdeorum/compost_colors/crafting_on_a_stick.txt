@@ -1,0 +1,10 @@
+// Compost colors for crafting_on_a_stick. You may add your own colors, change existing ones, or remove colors that aren't needed.
+anvil, #615e58
+cartography_table, #5f4b43
+chipped_anvil, #625f58
+crafting_table, #9b6137
+damaged_anvil, #645f5a
+grindstone, #aca294
+loom, #cfa76e
+smithing_table, #46322f
+stonecutter, #d0c2b5

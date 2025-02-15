@@ -1,0 +1,25 @@
+// Compost colors for mowziesmobs. You may add your own colors, change existing ones, or remove colors that aren't needed.
+blowgun, #ffffff
+captured_grottol, #b5decf
+dart, #ffffff
+earth_talisman, #98c04e
+earthbore_gauntlet, #6b6950
+foliaath_seed, #875089
+glowing_jelly, #97c562
+grant_suns_blessing, #ffffe4
+ice_crystal, #6edef2
+logo, #a0987c
+mob_remover, #ffffff
+music_disc_petiole, #e4ffff
+naga_fang, #c2af72
+naga_fang_dagger, #9da066
+sol_visage, #d3b890
+spear, #ffffff
+umvuthana_mask_bliss, #4d4751
+umvuthana_mask_faith, #d9c67d
+umvuthana_mask_fear, #e0a162
+umvuthana_mask_fury, #ff8e68
+umvuthana_mask_misery, #f2c0ac
+umvuthana_mask_rage, #c0aba7
+wrought_axe, #8e9091
+wrought_helmet, #939394

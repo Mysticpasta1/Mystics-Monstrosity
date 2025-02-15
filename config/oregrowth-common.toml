@@ -1,0 +1,12 @@
+# Should the default Ore Growth recipes be enabled?
+# Allowed values: true, false - Default: true
+enableRecipes = true
+
+# Global scalar for the spawn chance of ore growth recipes. For example, if set to 0.5, all crystals will spawn half as often.
+# Allowed range: 0.01 ~ 10.0 - Default: 1.0
+spawnChanceScalar = 1.0
+
+# Global scalar for the growth chance of ore growth recipes. For example, if set to 0.5, all crystals will be half as likely to grow.
+# Allowed range: 0.01 ~ 10.0 - Default: 1.0
+growthChanceScalar = 1.0
+

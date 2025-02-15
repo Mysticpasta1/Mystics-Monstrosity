@@ -1,0 +1,24 @@
+// Compost colors for projectvibrantjourneys. You may add your own colors, change existing ones, or remove colors that aren't needed.
+beach_grass, #a2c573
+bones, #ffffff
+cattail, #706e47
+charred_bones, #b8b8b8
+cindercane, #b24329
+crimson_nettle, #ffdddd
+glowcap, #ffffff
+ice_chunks, #ffffff
+icicle, #caffff
+mossy_rocks, #ffffff
+pinecones, #f1dcbe
+prickly_bush, #b47f3a
+red_sandstone_rocks, #fffcd0
+reeds, #eee068
+rocks, #ffffff
+sandstone_rocks, #ffffff
+sandy_sprouts, #fffff5
+sea_oats, #ffea83
+seashells, #ffffff
+short_grass, #cacaca
+small_cactus, #55aa30
+twigs, #ddebc5
+warped_nettle, #14876f

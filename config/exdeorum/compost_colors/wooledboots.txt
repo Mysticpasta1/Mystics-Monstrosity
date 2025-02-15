@@ -1,0 +1,8 @@
+// Compost colors for wooledboots. You may add your own colors, change existing ones, or remove colors that aren't needed.
+wooled_chainmail_boots, #c2c2c2
+wooled_diamond_boots, #79e3d4
+wooled_gold_boots, #fff07a
+wooled_iron_boots, #c0c0c0
+wooled_leather_boots, #a47a61
+wooled_netherite_boots, #7f7879
+wooled_refined_obsidian_boots, #7d7294

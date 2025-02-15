@@ -1,0 +1,3 @@
+// Compost colors for tinypipes. You may add your own colors, change existing ones, or remove colors that aren't needed.
+pipe_wrench, #f06e33
+speed_upgrade, #1f2a2d

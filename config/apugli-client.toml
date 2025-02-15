@@ -1,0 +1,6 @@
+
+[fileDownload]
+	fileSizeLimit = "1MB"
+	#Range: > 1
+	fileConnectionTimeout = 30000
+

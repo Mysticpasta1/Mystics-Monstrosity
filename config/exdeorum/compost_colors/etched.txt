@@ -1,0 +1,7 @@
+// Compost colors for etched. You may add your own colors, change existing ones, or remove colors that aren't needed.
+blank_music_disc, #e6e6e6
+boombox, #78838a
+jukebox_minecart, #7c6e64
+music_label, #d6d6d6
+portal_radio, #a5b5bf
+radio, #c59882

@@ -1,0 +1,31 @@
+#This is the frequency to use for the vibration events. Defaults to 7.
+frequency = 7
+#This is the threshold for when a weak vibration is transmitted (triggers warden and sculk sensors). Defaults to 6.
+weakVibrationThreshold = 6.0
+#This is the threshold for when a strong vibration is transmitted (triggers shriekers without a sensor). Defaults to 12.
+strongVibrationThreshold = 12.0
+#This is the duration (in ticks) before a vibration signal can be sent again. Defaults to 20.
+cooldownDuration = 20
+#This is the range (in ticks) that volume peaks are gathered. Defaults to 20.
+peakDuration = 20
+
+#These are the restrictions that may influence the outcome of the vibrations resulting from voice chat.
+[restrictions]
+	#This is the range after which players can no longer be heard for frequency modulation. Defaults to 1000.
+	groups = false
+	#If true, whispering will change the volume by the specified (whisperFactor) amount. Defaults to true.
+	whispering = true
+	#This is the factor by how much whispering will reduce noise, with 0 completely silencing the audio and 1 being unaffected. Defaults to 0.8.
+	whisperFactor = 0.8
+	#If true, sneaking will change the volume by the specified (sneakFactor) amount. Defaults to true.
+	sneaking = true
+	#This is the factor by how much sneaking will reduce noise, with 0 completely silencing the audio and 1 being unaffected. Defaults to 0.7.
+	sneakFactor = 0.7
+
+#These are the configurations with the warden.
+[warden]
+	#This is the gap in loudness required for the warden to completely switch targets to the louder person.
+	loudnessFactor = 0.8
+	#This is how long (in ticks) the warden remembers the loudness of the loudest player.
+	loudnessRemembrance = 300
+

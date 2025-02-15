@@ -1,0 +1,7 @@
+// Compost colors for rustic_synergy. You may add your own colors, change existing ones, or remove colors that aren't needed.
+clump_solarite, #ffbe44
+crushed_raw_solarite, #ffa455
+crystal_solarite, #ffee82
+dirty_dust_solarite, #d6b873
+dust_solarite, #ffe76f
+shard_solarite, #ffd984

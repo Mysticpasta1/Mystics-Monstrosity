@@ -1,0 +1,14 @@
+// Compost colors for bosses_of_mass_destruction. You may add your own colors, change existing ones, or remove colors that aren't needed.
+ancient_anima, #bbffff
+blazing_eye, #e85818
+brimstone_nectar, #ffd6af
+charged_ender_pearl, #bb9dd0
+crystal_fruit, #c58a9d
+earthdive_spear, #644a1e
+mob_ward, #524d54
+monolith_block, #433e55
+obsidian_heart, #2c114b
+soul_star, #c6ffff
+vine_wall, #8d5c2c
+void_lily, #b6dd82
+void_thorn, #d494d9

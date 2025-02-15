@@ -1,0 +1,18 @@
+// Compost colors for illageandspillage. You may add your own colors, change existing ones, or remove colors that aren't needed.
+bag_of_horrors, #4a4646
+dark_drink, #544646
+dark_linger, #504444
+dark_splash, #584444
+freaky_disc, #585c65
+greenbone, #caf5c8
+logo, #d39e9d
+magi_disc, #2f2d26
+spellbound_book, #a5a480
+spiri_disc, #9a73af
+totem_of_banishment, #b8cde1
+treat1, #ffe3e1
+treat2, #c89b7f
+treat3, #ffffff
+treat4, #ffffff
+treat5, #ffbb79
+treat6, #fff547

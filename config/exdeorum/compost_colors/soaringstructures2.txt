@@ -1,0 +1,9 @@
+// Compost colors for soaringstructures2. You may add your own colors, change existing ones, or remove colors that aren't needed.
+ancient_rose, #c53d12
+bunch_heavenly_petals, #4a86ff
+heavenly_cookies, #87a1e8
+heavenly_cup, #ffffff
+heavenly_flower, #468cf0
+heavenly_tea, #ffffff
+heavenly_tea_with_cookies, #d7e3ff
+soaring_island_pixels, #7a680c

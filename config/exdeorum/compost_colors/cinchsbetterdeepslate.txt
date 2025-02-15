@@ -1,0 +1,11 @@
+// Compost colors for cinchsbetterdeepslate. You may add your own colors, change existing ones, or remove colors that aren't needed.
+blackstone_axe, #a29a90
+blackstone_hoe, #6f614e
+blackstone_pickaxe, #726658
+blackstone_shovel, #a79e93
+blackstone_sword, #2c2628
+deepslate_axe, #b9b2a7
+deepslate_hoe, #837662
+deepslate_pickaxe, #877f70
+deepslate_shovel, #b5aea1
+deepslate_sword, #5c5b5b

@@ -1,0 +1,43 @@
+#Client configs
+#Enable number shortening. E.g. 1000000 becomes 1M.
+"Enable number shortening" = true
+#The colour of the exact count tooltip shown on items.
+#Available colours (case insensitive):
+#aqua,
+#black,
+#blue,
+#brown,
+#chartreuse,
+#coral,
+#cyan,
+#dark_aqua,
+#dark_blue,
+#dark_gray,
+#dark_green,
+#dark_purple,
+#dark_red,
+#gold,
+#gray,
+#green,
+#indigo,
+#lavender,
+#light_blue,
+#light_purple,
+#lime,
+#magenta,
+#maroon,
+#mint,
+#navy,
+#olive,
+#peach,
+#pink,
+#red,
+#salmon,
+#tan,
+#teal,
+#turquoise,
+#violet,
+#white,
+#yellow
+"Exact count number colour" = "dark_aqua"
+

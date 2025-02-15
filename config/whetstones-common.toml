@@ -1,0 +1,34 @@
+[General]
+    # If true, only tools can be repaired, so no other items like armor.
+    # Allowed values: true, false - Default: true
+    onlyTools = true
+
+    # If true, only tools with a tier lower than or equal to the whetstone can be repaired. Netherite can repair all tiers. Only takes effect if 'onlyTools' is enabled.
+    # Allowed values: true, false - Default: true
+    onlyLowerTiers = true
+
+[Durability]
+    # How much durability should the wooden whetstone restore?
+    # Allowed range: 1 ~ 10000 - Default: 59
+    woodenWhetstoneDurability = 59
+
+    # How much durability should the stone whetstone restore?
+    # Allowed range: 1 ~ 10000 - Default: 131
+    stoneWhetstoneDurability = 131
+
+    # How much durability should the iron whetstone restore?
+    # Allowed range: 1 ~ 10000 - Default: 250
+    ironWhetstoneDurability = 250
+
+    # How much durability should the golden whetstone restore?
+    # Allowed range: 1 ~ 10000 - Default: 32
+    goldenWhetstoneDurability = 32
+
+    # How much durability should the diamond whetstone restore?
+    # Allowed range: 1 ~ 10000 - Default: 1561
+    diamondWhetstoneDurability = 1561
+
+    # How much durability should the netherite whetstone restore?
+    # Allowed range: 1 ~ 10000 - Default: 2031
+    netheriteWhetstoneDurability = 2031
+

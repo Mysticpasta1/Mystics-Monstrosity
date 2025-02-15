@@ -1,0 +1,18 @@
+// Compost colors for toomanyglyphs. You may add your own colors, change existing ones, or remove colors that aren't needed.
+glyph_amplify_three, #e8c57d
+glyph_amplify_two, #ebc67f
+glyph_chaining, #a0b89d
+glyph_filter_animal, #bbd2b1
+glyph_filter_block, #b8cfae
+glyph_filter_entity, #c2d7b5
+glyph_filter_is_baby, #bfd6b4
+glyph_filter_is_mature, #bed4b2
+glyph_filter_item, #b5ccac
+glyph_filter_living, #acc5a7
+glyph_filter_living_not_monster, #a8c0a4
+glyph_filter_living_not_player, #b8d0af
+glyph_filter_monster, #a8c2a4
+glyph_filter_player, #b9d0af
+glyph_lay_on_hands, #ca9eb4
+glyph_ray, #edbec9
+glyph_reverse_direction, #afc8a8

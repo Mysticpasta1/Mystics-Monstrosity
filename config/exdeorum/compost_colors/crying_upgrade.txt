@@ -1,0 +1,11 @@
+// Compost colors for crying_upgrade. You may add your own colors, change existing ones, or remove colors that aren't needed.
+crying_axe, #37005f
+crying_boots, #410072
+crying_chestplate, #570096
+crying_helmet, #430476
+crying_hoe, #23003d
+crying_ingot, #58049d
+crying_leggings, #410472
+crying_pickaxe, #260043
+crying_shovel, #260043
+crying_sword, #3e0569

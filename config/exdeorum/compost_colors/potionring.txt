@@ -1,0 +1,12 @@
+// Compost colors for potionring. You may add your own colors, change existing ones, or remove colors that aren't needed.
+potion_ring, #fffffe
+ring_of_growing, #ffffea
+ring_of_haste, #ffffe4
+ring_of_jump_boost, #ffffe4
+ring_of_regeneration, #fffff4
+ring_of_resistance, #fffff7
+ring_of_shrinking, #fffff8
+ring_of_speed, #fffffb
+ring_of_strengh, #ffffee
+ring_of_thinning, #fffffb
+ring_of_widening, #ffffff

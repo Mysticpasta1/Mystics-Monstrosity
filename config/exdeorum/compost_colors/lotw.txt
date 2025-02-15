@@ -1,0 +1,8 @@
+// Compost colors for lotw. You may add your own colors, change existing ones, or remove colors that aren't needed.
+bow, #7f735e
+bow_1, #87795c
+bow_2, #90836b
+bow_3, #91866e
+forgotten_sword, #9db272
+get_mana_creative, #ffff91
+knight_sword, #ffffc2

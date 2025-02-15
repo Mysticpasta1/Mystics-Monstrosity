@@ -1,0 +1,4 @@
+// Compost colors for botaniaartifacts. You may add your own colors, change existing ones, or remove colors that aren't needed.
+gaia_pickaxe, #7f6861
+gaia_sword, #916c61
+infinity_mana_bottle, #9dffff

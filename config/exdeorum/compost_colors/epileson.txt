@@ -1,0 +1,7 @@
+// Compost colors for epileson. You may add your own colors, change existing ones, or remove colors that aren't needed.
+epileson_boots, #3d345b
+epileson_chestplate, #3a3255
+epileson_helmet, #3c3355
+epileson_leggings, #3d345a
+epileson_sheet, #413a58
+epileson_upgrade_smithing_template, #2f3c5c

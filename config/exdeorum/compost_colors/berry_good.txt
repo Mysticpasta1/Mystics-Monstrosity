@@ -1,0 +1,7 @@
+// Compost colors for berry_good. You may add your own colors, change existing ones, or remove colors that aren't needed.
+glow_berry_pips, #c0a02f
+glowgurt, #dd9d47
+music_disc_fox, #f0ebe8
+sweet_berry_meatballs, #e37f69
+sweet_berry_mince, #ff584b
+sweet_berry_pips, #7f5548

@@ -1,0 +1,4 @@
+// Compost colors for peripheralium. You may add your own colors, change existing ones, or remove colors that aren't needed.
+peripheralium_blend, #be4022
+peripheralium_dust, #643900
+peripheralium_upgrade_template, #b14a1c

@@ -1,0 +1,25 @@
+// Compost colors for bhc. You may add your own colors, change existing ones, or remove colors that aren't needed.
+blade_of_vitality, #846672
+blue_heart, #3972fb
+blue_heart_canister, #aac2f2
+blue_heart_melted, #3265e6
+blue_heart_patch, #c5d7f5
+canister, #e7e7e7
+green_heart, #48ed4b
+green_heart_canister, #b2edaf
+green_heart_melted, #40d944
+green_heart_patch, #c8f0d2
+heart_amulet, #def2e4
+red_heart, #ff2629
+red_heart_canister, #f4a2a4
+red_heart_melted, #eb2023
+red_heart_patch, #edc8cc
+relic_apple, #4be7ab
+soul_heart_amulet, #cfb2dc
+soul_heart_canister, #d7aceb
+soul_heart_crystal, #be83f2
+wither_bone, #39393d
+yellow_heart, #ffcc25
+yellow_heart_canister, #fae3a2
+yellow_heart_melted, #f7b61e
+yellow_heart_patch, #f1eaca

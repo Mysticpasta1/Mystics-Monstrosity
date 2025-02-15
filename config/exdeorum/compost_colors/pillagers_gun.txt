@@ -1,0 +1,4 @@
+// Compost colors for pillagers_gun. You may add your own colors, change existing ones, or remove colors that aren't needed.
+assault_rifle_ammo, #52555b
+pistol_ammo, #4b5055
+shotgun_ammo, #f5e4de

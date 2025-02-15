@@ -1,0 +1,7 @@
+
+["World Generation"]
+	#Enable generation of Blue Flax in #forge:is_plains
+	enablePlainsFlax = true
+	#Enable generation of Blue Flax in #forge:is_desert and #forge:is_sandy
+	enableDesertFlax = true
+

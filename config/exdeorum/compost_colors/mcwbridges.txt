@@ -1,0 +1,4 @@
+// Compost colors for mcwbridges. You may add your own colors, change existing ones, or remove colors that aren't needed.
+bridge_lantern, #e07d5b
+bridge_torch, #e85a33
+pliers, #ff878d

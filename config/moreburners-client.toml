@@ -1,0 +1,11 @@
+
+#Settings for all burners' parameters
+[parameters]
+	#The length of the heat bar in create goggle gui of burners.
+	bar_length = 18
+
+	#Settings for ember burner's parameters
+	[parameters.ember_burner]
+		#Blocks that cover ember burner's flame particles.
+		blockCovered = []
+

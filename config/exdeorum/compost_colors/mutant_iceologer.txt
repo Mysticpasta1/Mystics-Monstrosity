@@ -1,0 +1,4 @@
+// Compost colors for mutant_iceologer. You may add your own colors, change existing ones, or remove colors that aren't needed.
+chilled_iron_rod, #8c9ebf
+iron_rod, #ffffff
+jei_icon, #4affff

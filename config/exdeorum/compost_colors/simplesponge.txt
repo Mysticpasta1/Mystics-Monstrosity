@@ -1,0 +1,8 @@
+// Compost colors for simplesponge. You may add your own colors, change existing ones, or remove colors that aren't needed.
+compressed_creative_sponge_on_a_stick, #d9b6fb
+compressed_magmatic_sponge_on_a_stick, #ffc698
+compressed_sponge_on_a_stick, #f4ffbc
+creative_sponge_on_a_stick, #ffe1ff
+energized_sponge_on_a_stick, #ffffff
+magmatic_sponge_on_a_stick, #ffffff
+sponge_on_a_stick, #ffffff

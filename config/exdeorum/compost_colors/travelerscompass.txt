@@ -1,0 +1,2 @@
+// Compost colors for travelerscompass. You may add your own colors, change existing ones, or remove colors that aren't needed.
+travelerscompass, #5f6262

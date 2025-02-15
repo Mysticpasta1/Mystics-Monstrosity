@@ -1,0 +1,26 @@
+// Compost colors for valhelsia_structures. You may add your own colors, change existing ones, or remove colors that aren't needed.
+black_metal_framed_glass_pane, #3c3c3c
+blue_metal_framed_glass_pane, #5064b6
+brown_metal_framed_glass_pane, #796450
+cyan_metal_framed_glass_pane, #648da2
+doused_soul_torch, #7d6444
+doused_torch, #7d6444
+dungeon_door, #5c625b
+explorers_tent, #b4b1ab
+gray_metal_framed_glass_pane, #646464
+green_metal_framed_glass_pane, #798d50
+hanging_vines, #b4b4b4
+light_blue_metal_framed_glass_pane, #79a2d4
+light_gray_metal_framed_glass_pane, #a2a2a2
+lime_metal_framed_glass_pane, #8dca3c
+magenta_metal_framed_glass_pane, #b664d4
+metal_framed_glass_pane, #686969
+orange_metal_framed_glass_pane, #d48d50
+paper_wall, #eddcb6
+pink_metal_framed_glass_pane, #ea8dab
+purple_metal_framed_glass_pane, #8d5ab6
+red_metal_framed_glass_pane, #a25050
+unlit_lantern, #3a4458
+unlit_soul_lantern, #4b556e
+white_metal_framed_glass_pane, #f4f4f4
+yellow_metal_framed_glass_pane, #dede50

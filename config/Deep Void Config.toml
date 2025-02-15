@@ -1,0 +1,41 @@
+
+["Generation&World"]
+	#Whether the Cult Temple will be place at 0,0 or not
+	PlaceCultTemple = true
+	#Whether Players will teleport to the Deep Void when jumping in the Void or not
+	PlayersTeleportInVoid = true
+	#Whether Players will teleport to the Deep Void when falling in the Void in the End or not (If PlayersTeleportInVoid is false, this will automatically be false)
+	PlayersTeleportInEnd = true
+	#At which depth does the Player teleport to the dimension (Default -70)
+	TeleportHeight = -70.0
+	#If the Deep Void should have fog or not
+	DeepVoidFog = true
+
+[Spawns]
+	#Whether Abductors will spawn in the Overworld or not
+	SpawnAbductors = true
+	#If corpses should fall from the sky in the Deep Void
+	SpawnFallingCorpse = true
+	#If falling corpses should place a corpse on impact
+	PlaceCorpseOnImpact = true
+	#If the Stalker should spawn or not
+	StalkerSpawns = true
+	#If Stalking Stalkers should spawn or not
+	StalkingStalkerSpawns = true
+
+[Misc]
+	#Whether the ''Seek Light'' warning should appear when the Stalker is close or not (Happens only one time)
+	SeekLightWarning = true
+	#Whether light sources should be destroyed in the Deep Void or not
+	DestroyLightSources = true
+	#How long the Void Blessing effect should last when entering the Deep Void (In ticks)
+	VoidBlessingTimer = 600.0
+	#Should players teleport to the Deep Void when falling in the void in any dimension
+	AllowOtherWorldTp = false
+	#Should Soul light sources not get destroyed
+	AllowSoulLight = false
+	#If the old light breaking mechanic should be used instead of the new one
+	OldLightSystem = false
+	#If players should hallucinate below y=1 or not
+	PlayerHallucinates = true
+

@@ -1,0 +1,7 @@
+// Compost colors for mlrm. You may add your own colors, change existing ones, or remove colors that aren't needed.
+antimatter_bucket, #c6b1cc
+fissile_fuel_bucket, #a5a8a7
+nuclear_waste_bucket, #aca8a0
+plutonium_bucket, #9dc8cc
+polonium_bucket, #9bccbf
+spent_nuclear_waste_bucket, #a09d98

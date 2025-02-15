@@ -1,0 +1,24 @@
+
+[WritableBookScreen]
+	#Scholar book edit screen will replace the vanilla one. Scholar signing screen will not be available if disabled. Default: true
+	ReplaceVanillaScreen = true
+	#Vanilla book edit screen will open when the player is sneaking. Default: false
+	SneakingOpensVanillaScreen = false
+	#Allow inserting formatting symbol (section sign) for players in survival mode.When set to true - hotkey or a button can be used to paste a formatting symbol.
+	#Default: true
+	SurvivalFormatting = true
+
+[WrittenBookScreen]
+	#Scholar book view screen will replace the vanilla one. Default: true
+	ReplaceVanillaScreen = true
+	#Vanilla book view screen will open when the player is sneaking. Default: false
+	SneakingOpensVanillaScreen = false
+	#Written books will have an enchantment glint on them. Default: false
+	EnchantmentGlint = false
+
+[LecternScreen]
+	#Scholar lectern screen will replace the vanilla one. Default: true
+	ReplaceVanillaScreen = true
+	#Vanilla lectern screen will open when the player is sneaking. Default: false
+	SneakingOpensVanillaScreen = false
+

@@ -1,0 +1,3 @@
+// Compost colors for cooking_expanded. You may add your own colors, change existing ones, or remove colors that aren't needed.
+cooked_tropical_fish, #ffbb8d
+roasted_carrot, #dd6c12

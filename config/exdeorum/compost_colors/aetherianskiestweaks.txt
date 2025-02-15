@@ -1,0 +1,27 @@
+// Compost colors for aetherianskiestweaks. You may add your own colors, change existing ones, or remove colors that aren't needed.
+aetherian_skies_disc, #4e4d48
+cosmic_black_hole, #969ea8
+cosmic_compass, #283a40
+cosmic_ingot, #3d3d66
+cosmic_nexus_emitter, #bcd2d7
+cosmic_shard_piece, #ffbc83
+cosmic_star, #ffc882
+cosmic_star_shard, #ffc384
+crude_flint_axe, #6b5a3a
+crude_flint_hoe, #69542c
+crude_flint_pickaxe, #645439
+crude_flint_shovel, #725e3a
+draconic_soul, #ff7364
+earth_clumps, #76543a
+greg_star, #556fb1
+greg_star_shard, #504794
+greg_star_shard_piece, #4d468d
+heart_core_shell, #2f2f2f
+kivi_dust, #3d3d3d
+naquadah_dust, #444444
+oblivion_cosmic_shard, #c25cff
+philosophers_stone_core, #2f0a0a
+philosophers_stone_flame, #ff5430
+stone_core_half, #2f0808
+unknown_cosmic_probabilty_device, #7975a4
+unknown_heart_soul, #b81414

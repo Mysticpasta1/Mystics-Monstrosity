@@ -1,0 +1,26 @@
+
+#Misc Client Settings
+[general]
+	#Make smoke match dyed torch color
+	"Dyed Smoke" = true
+
+#GUI Hud Client Settings
+[hud]
+	#Display entity information on hud
+	"Display Entity Information" = false
+	#Distance from entity looking at
+	#Range: 1 ~ 100
+	"Distance from Entity" = 1
+	#Location of entity information GUI
+	#Allowed Values: LEFT, RIGHT
+	"Entity GUI Location" = "LEFT"
+	#Display durability information on hud
+	"Display Durability Information" = true
+	#Location of durability information GUI
+	#Allowed Values: LEFT, RIGHT
+	"Durability GUI Location" = "RIGHT"
+	#Display compass on hud
+	"Display Compass" = true
+	#Display clock on hud
+	"Display Clock" = true
+

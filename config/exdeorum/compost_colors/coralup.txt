@@ -1,0 +1,11 @@
+// Compost colors for coralup. You may add your own colors, change existing ones, or remove colors that aren't needed.
+dead_tall_brain_coral, #c2b6b1
+dead_tall_bubble_coral, #b4aaa4
+dead_tall_fire_coral, #c8bcb5
+dead_tall_horn_coral, #dcd3cc
+dead_tall_tube_coral, #a79d98
+tall_brain_coral, #ff7fde
+tall_bubble_coral, #d91bd9
+tall_fire_coral, #f73744
+tall_horn_coral, #ffff5a
+tall_tube_coral, #3e73ff

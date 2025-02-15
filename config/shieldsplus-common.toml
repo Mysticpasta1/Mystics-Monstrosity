@@ -1,0 +1,46 @@
+
+["Shields+"]
+	#In vanilla when you start blocking with a shield, there's a 0.25 seconds (5 ticks) window where you are still not blocking. By default the windup is removed.
+	#Range: > 0
+	"Shield Windup" = 0
+	#If true shields will block only a certain amount of damage. If false the vanilla behaviour is used.
+	"Shields Block Fixed Damage Amount" = true
+	#The minimum damage dealt to the player for the shield to take damage. Vanilla is 3. E.g. With this set to 3, the shield will not be damaged if damage received is lower than.
+	#Range: 0.0 ~ 3.4028234663852886E38
+	"Min Shield Hurt Damage" = 0.0
+	#Makes shields always disable for 1.6 seconds like Combat Test snapshots.
+	"Combat Test shield disabling" = true
+	#If true, shields can be lifted only for a certain amount of time and will go on cooldown.
+	"Lifted and Cooldown" = true
+	#If true, crouching will block with the shield and you can attack while blocking.
+	"Block with crouch" = true
+
+	["Shields+".Enchantments]
+		#How many seconds will ablaze set entities on fire per level.
+		#Range: > 1
+		"Ablaze Time on fire" = 2
+		#How much damage will the aegis enchantment negate per level.
+		#Range: 0.0 ~ 1.0
+		"Aegis percentage damage reduction" = 0.1
+		#Percentage cooldown reduction with the Fast Recovery enchantment.
+		#Range: 0.0 ~ 1.0
+		"Fast Recovery cooldown reduction" = 0.35
+		#Percentage increase of speed when blocking with the Lightweight enchantment.
+		#Range: 0.0 ~ 1.7976931348623157E308
+		"Lightweight bonus speed" = 2.0
+		#Max ticks for a perfect parry.
+		#Range: 0 ~ 10
+		"Perfect Parry tick window" = 1
+		#Amount of knockback given to entities per level.
+		#Range: 0.0 ~ 1.7976931348623157E308
+		"Recoil entities knockback" = 0.6
+		#Amount of knockback given to projectiles per level.
+		#Range: 0.0 ~ 1.7976931348623157E308
+		"Recoil projectiles knockback" = 5.0
+		#Percentage amount of damage reflected.
+		#Range: 0.0 ~ 1.0
+		"Reflection reflected damage" = 0.08
+		#Percentage bonus amount of damage blocked.
+		#Range: 0.0 ~ 1.0
+		"Reinforced blocked damage bonus" = 0.1
+

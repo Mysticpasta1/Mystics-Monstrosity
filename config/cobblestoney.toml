@@ -1,0 +1,5 @@
+
+#[cobblestoney] Worldgen settings have moved to mojang datapack system
+[cobblestoney]
+	_comment = "All worldgen controls have been moved to the mojang datapack system instead of configs.  See built-in json files inside /data/cobblestoney/worldgen/ "
+

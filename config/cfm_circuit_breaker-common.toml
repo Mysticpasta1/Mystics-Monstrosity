@@ -1,0 +1,4 @@
+#The maximum amount of nodes in a network that can be powered by the circuit breaker.
+#Range: 1 ~ 1024
+maximumNodesInCircuitBreakerNetwork = 128
+

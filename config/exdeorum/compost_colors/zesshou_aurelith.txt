@@ -1,0 +1,14 @@
+// Compost colors for zesshou_aurelith. You may add your own colors, change existing ones, or remove colors that aren't needed.
+aurelit_projector_absorption, #e7a08d
+aurelit_projector_luck, #e7a08d
+aurelith_armor_trim_smithing_template, #b280b6
+aurelith_catalyst, #e8a45c
+aurelith_projector, #e7a08d
+aurelith_projector_fire_resistance, #e7a08d
+aurelith_projector_haste, #e7a08d
+aurelith_projector_resistance, #e7a08d
+aurelith_projector_speed, #e7a08d
+aurelith_projector_strength, #e7a08d
+aurelith_projector_water_breathing, #e7a08d
+aurelith_rod, #cd8033
+aurelith_shard, #d29b8d

@@ -1,0 +1,2 @@
+// Compost colors for refinedcrafterproxy. You may add your own colors, change existing ones, or remove colors that aren't needed.
+crafter_proxy_card, #d9d6d4

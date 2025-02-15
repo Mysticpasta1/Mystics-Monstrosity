@@ -1,0 +1,4 @@
+// Compost colors for heartbalance. You may add your own colors, change existing ones, or remove colors that aren't needed.
+full_heart, #d71515
+half_heart, #8d1c1c
+refill_heart, #ff5252

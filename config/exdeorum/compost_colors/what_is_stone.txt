@@ -1,0 +1,2 @@
+// Compost colors for what_is_stone. You may add your own colors, change existing ones, or remove colors that aren't needed.
+chunk_of_anthracite, #655f6b

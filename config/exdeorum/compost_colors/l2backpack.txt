@@ -1,0 +1,12 @@
+// Compost colors for l2backpack. You may add your own colors, change existing ones, or remove colors that aren't needed.
+armor_bag, #989390
+armor_swap, #9b6e26
+arrow_bag, #734e16
+book_bag, #ac79de
+combined_swap, #ab874e
+destroy_tweaker_tool, #eb6b51
+ender_pocket, #84513d
+ender_swap, #86786f
+pickup_tweaker_tool, #eed9bf
+suit_swap, #ab874e
+tool_swap, #8c6b33

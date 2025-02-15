@@ -1,0 +1,33 @@
+
+["Friendship Settings"]
+	#Maximum number of parrots a player can tame.
+	#Range: 1 ~ 20
+	Max_Tame_Count = 3
+	#Time in ticks (20 ticks = 1 second) until a parrot achieves full friendship, after which it never loses points. (Default: 120000 ticks = 5 in-game days)
+	#Range: > 1
+	Full_Friendship_Time = 120000
+	#Time in ticks (20 ticks = 1 second) before the parrot loses 1 friendship point. (Default: 180 ticks = 9 seconds)
+	#Range: > 1
+	Friendship_Decrease_Time = 180
+	#Friendship points gained when the parrot eats its preferred food. Non preferred foods grant 1/4 this value.
+	#Range: 4 ~ 100
+	Friendship_Food_Increase = 4
+	#Friendship points gained when the parrot discovers a new biome.
+	#Range: 1 ~ 100
+	Friendship_Biome_Discovery_Increase = 10
+	#Time in ticks (20 ticks = 1 second) between increments of friendship points when listening to the parrot's preferred music disc from a jukebox. (Default: 90 ticks = 4.5 seconds)
+	#Range: > 1
+	Friendship_Jukebox_Interval_Increase = 90
+	#Friendship points granted after each jukebox interval of the parrot’s preferred record.
+	#Range: 1 ~ 100
+	Friendship_Jukebox_Points_Increase = 1
+	#The search radius (in blocks) around the jukebox within which the parrot gains friendship from its preferred record.
+	#Range: 1 ~ 24
+	Jukebox_Search_Radius = 6
+
+["Parrot Preference Settings"]
+	#List of items that can increase the parrot's friendship when eaten. One of those will become its favorite food.
+	Consumable_Items_As_Food = ["minecraft:wheat_seeds", "minecraft:beetroot_seeds", "minecraft:melon_seeds", "minecraft:pumpkin_seeds"]
+	#List of music discs excluded from becoming the parrot's preferred record.
+	Banned_Records = ["minecraft:music_disc_13", "minecraft:music_disc_11"]
+

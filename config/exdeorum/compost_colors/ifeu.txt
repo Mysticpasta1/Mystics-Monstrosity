@@ -1,0 +1,25 @@
+// Compost colors for ifeu. You may add your own colors, change existing ones, or remove colors that aren't needed.
+dragon_star, #ffd7f5
+dragon_star_axe, #962d5f
+dragon_star_hoe, #8d3257
+dragon_star_pickaxe, #8d3058
+dragon_star_shovel, #9b3a64
+dragon_star_sword, #973262
+efficiency_addon_3, #91b1c9
+efficiency_addon_4, #86b9d4
+efficiency_addon_5, #ccfeff
+efficiency_addon_6, #e4edff
+laser_lens_dragon, #b948bb
+laser_lens_sculk, #2f4343
+liquid_dragon_breath_bucket, #c8a4c8
+liquid_sculk_matter_bucket, #9aabae
+netherite_gear, #5c5054
+processing_addon_3, #8eafc8
+processing_addon_4, #83b6d2
+processing_addon_5, #c8fbff
+processing_addon_6, #e0eaff
+sculk_gear, #3c50
+speed_addon_3, #8eafc8
+speed_addon_4, #84b6d2
+speed_addon_5, #c9fbff
+speed_addon_6, #e1ebff

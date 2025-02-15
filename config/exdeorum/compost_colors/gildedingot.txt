@@ -1,0 +1,21 @@
+// Compost colors for gildedingot. You may add your own colors, change existing ones, or remove colors that aren't needed.
+basalt_heart, #827251
+crimson_heart, #8c0400
+gilded_axe, #98783c
+gilded_boots, #947240
+gilded_chestplate, #ddb25a
+gilded_door, #ffee58
+gilded_helmet, #e0b855
+gilded_hoe, #a0823e
+gilded_ingot, #aa8a4d
+gilded_leggings, #c89a47
+gilded_nugget, #7f5726
+gilded_pebble, #664d32
+gilded_pickaxe, #b9943d
+gilded_shovel, #9b8247
+gilded_sword, #e1b150
+shroom_fruit, #ffd76e
+soul_heart, #588c83
+warped_heart, #8a8c
+warped_wart, #659176
+warped_wart_seed, #29a89e

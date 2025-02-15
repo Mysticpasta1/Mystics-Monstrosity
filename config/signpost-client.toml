@@ -1,0 +1,12 @@
+
+[teleport]
+	#Defines whether the confirmation screen pops when using a sign to teleport.
+	#CAUTION 1: The necessary items will be removed without notice if costs are involved.
+	#CAUTION 2: The only way to edit a sign with destination is through this screen.
+	#This should probably never be turned off. Why did I make it an option? No idea.
+	enable_confirmation_screen = true
+	#Choose whether you want to receive a notification on how many waystones you have left to place (if it is limited by the server).
+	enable_waystone_limit_notifications = true
+	#Choose whether you want to receive a notification on how many signposts you have left to place (if it is limited by the server).
+	enable_signpost_limit_notifications = true
+

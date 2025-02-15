@@ -1,0 +1,5 @@
+
+["bedrock animations"]
+	"Allow bees to have a idle animation akin to bedrock" = true
+	"Allow drowned to render glowing spots, like in bedrock" = true
+

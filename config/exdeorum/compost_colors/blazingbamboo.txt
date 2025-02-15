@@ -1,0 +1,7 @@
+// Compost colors for blazingbamboo. You may add your own colors, change existing ones, or remove colors that aren't needed.
+blazing_bamboo_chest_raft, #ebd096
+blazing_bamboo_door, #ffffff
+blazing_bamboo_hanging_sign, #ffffd6
+blazing_bamboo_item, #ffffff
+blazing_bamboo_raft, #ffffbf
+blazing_bamboo_sign, #ffffe7

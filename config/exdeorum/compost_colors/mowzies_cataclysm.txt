@@ -1,0 +1,4 @@
+// Compost colors for mowzies_cataclysm. You may add your own colors, change existing ones, or remove colors that aren't needed.
+frostmaw_eye, #d7f4d4
+sun_eye, #daac57
+wrought_eye, #9d8c8d

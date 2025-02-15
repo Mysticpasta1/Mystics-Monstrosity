@@ -1,0 +1,8 @@
+// Compost colors for dankstorage. You may add your own colors, change existing ones, or remove colors that aren't needed.
+1_to_2, #ffd7d7
+2_to_3, #fff5be
+3_to_4, #fbffbe
+4_to_5, #bcffff
+5_to_6, #f8fcff
+6_to_7, #ffffff
+red_print, #ffbcb9

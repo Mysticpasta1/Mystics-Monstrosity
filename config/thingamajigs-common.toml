@@ -1,0 +1,31 @@
+# Thingamajigs Common Config
+# These settings affect both server and client. Some settings will require a world or game restart.
+# Be careful to read each config option carefully (joining to server allows the server to override these settings with it's own).
+# Special Map Builder Blocks In Creative Tab
+# Enables or disables the special map maker blocks in the OP Blocks creative tab. (default: false)
+# Note: You need operator permissions to actually see the blocks in the creative tab.
+opBlocksEnabled = false
+# Max Stack Size For Thingamajig
+# Sets the max stack size of the Thingamajig item.
+# Note: Requires a world restart.
+#Range: 16 ~ 64
+maxThingamajigsStackSize = 64
+# Mechanical Bells Tick Speed
+# Sets the tick speed of Mechanical Bells
+# Warning: Setting this low will make it ring faster, but tick more often.
+#Range: 8 ~ 16
+mechanicalBellSpeed = 10
+# Electronic Bells Tick Speed
+# Sets the tick speed of Electronic Bells
+# Warning: Setting this low will make it ring faster, but tick more often.
+#Range: 8 ~ 16
+electronicBellSpeed = 8
+# British Alarm Tick Speed
+# Sets the tick speed of Railway Alarms
+# Warning: Setting this low will make it sound faster, but tick more often.
+#Range: 8 ~ 16
+britAlarmSpeed = 10
+# Money Exchanging
+# Enables the money exchanging mechanic. Basically makes the change machine useful or not.
+moneyExchangeEnabled = false
+

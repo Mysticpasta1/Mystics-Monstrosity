@@ -1,0 +1,10 @@
+// Compost colors for createcherry. You may add your own colors, change existing ones, or remove colors that aren't needed.
+compressed_nether_ingot, #fe8989
+copper_powder, #ffe6da
+dirty_copper_powder, #ffe4dc
+dirty_zinc_powder, #fffffe
+nether_ingot, #f29e9e
+netherite_nugget, #5a5154
+refined_nether_ingot, #a58989
+unfinished_netherite, #989393
+zinc_powder, #ffffff

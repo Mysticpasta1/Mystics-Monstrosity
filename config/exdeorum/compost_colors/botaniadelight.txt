@@ -1,0 +1,14 @@
+// Compost colors for botaniadelight. You may add your own colors, change existing ones, or remove colors that aren't needed.
+cooked_root, #694e1c
+elegaia_icecream, #e4b6d0
+elemention_knife, #a05090
+elementium_shake, #ffebff
+ender_air_sauce, #443d1c
+gaia_apple, #d6d6d6
+gaia_shake, #ebffff
+mana_bread, #b5fcff
+mana_flesh, #6280fe
+mana_shake, #abf5ff
+manasteel_knife, #788ecf
+terrasteel_knife, #6ebc64
+terrasteel_shake, #7dffbc

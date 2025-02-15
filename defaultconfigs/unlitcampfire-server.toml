@@ -1,0 +1,53 @@
+
+[unlitcampfire]
+	#The time (ticks) a campfire burns until it goes out by itself. (2000 ticks default; 0 means it burns forever)
+	#Range: 0 ~ 2000000
+	campfireLitTime = 2000
+	#The light level of a campfire decreases when the remaining time (ticks) is lower than this configured value. (600 ticks default; 0 deactivates this behaviour)
+	#Range: 0 ~ 2000000
+	campfireRunOutIndicatorTime = 600
+	#The time (ticks) a campfire burns until it goes out during rain. (160 ticks [default]; 0: it goes out immediately; -1: it burns during rain).
+	#Range: -1 ~ 2000000
+	campfireRainUnlitTime = 160
+	#The Factor of particle count of a campfire during rain. (2: doubled particles count [default]; 1: same particle count)
+	#Range: 1 ~ 10
+	campfireRainParticleFactor = 2
+	#Whether the contained items should be dropped when a campfire goes out by itself or by rain.
+	campfireDropsItemsWhenUnlitByTimeOrRain = true
+	#Whether a campfire should be destroyed when it goes out by itself.
+	campfireBreaksWhenUnlitByTime = false
+	#Whether the lit time of a campfire could be extended with combustible/burnable items.
+	campfireAddingBurnables = true
+	#The time (ticks) a campfire can be filled up additionally until adding burnables is not possible. (is added to the configured lit time) (2000 ticks default)
+	#Range: 1 ~ 2000000
+	campfireMaxLitTimeExtension = 2000
+	#Whether the lit time of a campfire should be affected by the sleep time.
+	campfireAffectedBySleepTime = false
+	#Whether generated campfires should be lit infinitely.
+	generatedCampfireIsLitInfinitely = true
+	#The time (ticks) a soul campfire burns until it goes out by itself. (2000 ticks default; 0 means it burns forever)
+	#Range: 0 ~ 2000000
+	soulCampfireLitTime = 2000
+	#The light level of a soul campfire decreases when the remaining time (ticks) is lower than this configured value. (600 ticks default; 0 deactivates this behaviour)
+	#Range: 0 ~ 2000000
+	soulCampfireRunOutIndicatorTime = 600
+	#The time (ticks) a soul campfire burns until it goes out during rain. (0: it goes out immediately; -1: it burns during rain [default]).
+	#Range: -1 ~ 2000000
+	soulCampfireRainUnlitTime = -1
+	#The Factor of particle count of a soul campfire during rain. (2: doubled particles count (default); 1: same particle count)
+	#Range: 1 ~ 10
+	soulCampfireRainParticleFactor = 2
+	#Whether the contained items should be dropped when a soul campfire goes out by itself or by rain.
+	soulCampfireDropsItemsWhenUnlitByTimeOrRain = true
+	#Whether a soul campfire should be destroyed when it goes out by itself.
+	soulCampfireBreaksWhenUnlitByTime = false
+	#Whether the lit time of a soul campfire could be extended with combustible/burnable items.
+	soulCampfireAddingBurnables = true
+	#The time (ticks) a soul campfire can be filled up additionally until adding burnables is not possible. (is added to the configured lit time) (2000 ticks default)
+	#Range: 1 ~ 2000000
+	soulCampfireMaxLitTimeExtension = 2000
+	#Whether the lit time of a campfire should be affected by the sleep time.
+	soulCampfireAffectedBySleepTime = false
+	#Whether generated soul campfires should be lit infinitely.
+	generatedSoulCampfireIsLitInfinitely = true
+

@@ -1,0 +1,20 @@
+// Compost colors for extra_compat. You may add your own colors, change existing ones, or remove colors that aren't needed.
+chevon_chop, #ff7a73
+cloggrum_gloves, #907865
+cooked_chevon_chop, #af7852
+froststeel_gloves, #96b6e8
+skyroot_blobfish_bucket, #a08a7a
+skyroot_comb_jelley_bucket, #a1bec3
+skyroot_devils_hole_pupfish_bucket, #69738a
+skyroot_flying_fish_bucket, #76869e
+skyroot_frilled_shark_bucket, #786e6e
+skyroot_large_catfish_bucket, #7c7d65
+skyroot_lobster_bucket, #935f54
+skyroot_medium_catfish_bucket, #86866f
+skyroot_mimic_octopus_bucket, #76757d
+skyroot_mudskipper_bucket, #687354
+skyroot_platypus_bucket, #6b655f
+skyroot_small_catfish_bucket, #797f7a
+skyroot_terrapin_bucket, #68767a
+skyroot_triops_bucket, #6c695f
+utherium_gloves, #d75051

@@ -1,0 +1,20 @@
+
+#Configuration will be applied after world is loaded or config file is changed while world is open.
+[Priority]
+	#Default values for Render, Server and Sound Engine thread depends on the amount of CPU threads you have, specifically more than 4 by Mojang rules. Otherwise, thread priority is 5, which is default value for every thread by Java rules.
+	#Render, Server an Sound Engine thread priorities will be reset after the world is closed.
+	#Range: 1 ~ 10
+	render_thread = 10
+	#Range: 1 ~ 10
+	server_thread = 8
+	#Range: 1 ~ 10
+	sound_engine_thread = 5
+	#This option is not recommended!
+	#Default is 0, which means do nothing. Will not be reset after closing the world, set to 0 and restart the game to reset.
+	#Range: 0 ~ 10
+	every_other_thread = 0
+	thread_name_blacklist = ["Thread-3"]
+
+[Debug]
+	debug = false
+

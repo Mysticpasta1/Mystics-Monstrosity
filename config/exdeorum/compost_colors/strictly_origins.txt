@@ -1,0 +1,7 @@
+// Compost colors for strictly_origins. You may add your own colors, change existing ones, or remove colors that aren't needed.
+damaged_durendal, #93939e
+damaged_skofnung, #84785f
+durendal, #9a9aa7
+scroll, #d09654
+scroll_2, #d09654
+skofnung, #877d6b

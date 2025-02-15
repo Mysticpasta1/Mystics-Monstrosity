@@ -1,0 +1,236 @@
+{
+  "version": 1,
+  "overrides": [
+    {
+      "action": "ADD",
+      "recipe": {
+        "in": "minecraft:infested_cobblestone:1",
+        "out": [
+          "minecraft:cobblestone:1"
+        ],
+        "entity": "minecraft:silverfish"
+      }
+    },
+    {
+      "action": "ADD",
+      "recipe": {
+        "in": "minecraft:infested_chiseled_stone_bricks:1",
+        "out": [
+          "minecraft:chiseled_stone_bricks:1"
+        ],
+        "entity": "minecraft:silverfish"
+      }
+    },
+    {
+      "action": "ADD",
+      "recipe": {
+        "in": "minecraft:infested_cracked_stone_bricks:1",
+        "out": [
+          "minecraft:cracked_stone_bricks:1"
+        ],
+        "entity": "minecraft:silverfish"
+      }
+    },
+    {
+      "action": "ADD",
+      "recipe": {
+        "in": "minecraft:infested_mossy_stone_bricks:1",
+        "out": [
+          "minecraft:mossy_stone_bricks:1"
+        ],
+        "entity": "minecraft:silverfish"
+      }
+    },
+    {
+      "action": "ADD",
+      "recipe": {
+        "in": "minecraft:infested_stone:1",
+        "out": [
+          "minecraft:stone:1"
+        ],
+        "entity": "minecraft:silverfish"
+      }
+    },
+    {
+      "action": "ADD",
+      "recipe": {
+        "in": "minecraft:infested_stone_bricks:1",
+        "out": [
+          "minecraft:stone_bricks:1"
+        ],
+        "entity": "minecraft:silverfish"
+      }
+    },
+    {
+      "action": "ADD",
+      "recipe": {
+        "in": "minecraft:infested_deepslate:1",
+        "out": [
+          "minecraft:deepslate:1"
+        ],
+        "entity": "minecraft:silverfish"
+      }
+    },
+    {
+      "action": "ADD",
+      "recipe": {
+        "in": "minecraft:bell:1",
+        "out": [
+          "minecraft:stone:4",
+          "minecraft:gold_block:1",
+          "minecraft:stick:3"
+        ]
+      }
+    },
+    {
+      "action": "ADD",
+      "recipe": {
+        "in": "minecraft:chipped_anvil:1",
+        "out": [
+          "minecraft:iron_block:2",
+          "minecraft:iron_ingot:4"
+        ]
+      }
+    },
+    {
+      "action": "ADD",
+      "recipe": {
+        "in": "minecraft:damaged_anvil:1",
+        "out": [
+          "minecraft:iron_block:1",
+          "minecraft:iron_ingot:4"
+        ]
+      }
+    },
+    {
+      "action": "ADD",
+      "recipe": {
+        "in": "minecraft:chainmail_boots:1",
+        "out": [
+          "minecraft:chain:4"
+        ]
+      }
+    },
+    {
+      "action": "ADD",
+      "recipe": {
+        "in": "minecraft:chainmail_leggings:1",
+        "out": [
+          "minecraft:chain:7"
+        ]
+      }
+    },
+    {
+      "action": "ADD",
+      "recipe": {
+        "in": "minecraft:chainmail_helmet:1",
+        "out": [
+          "minecraft:chain:5"
+        ]
+      }
+    },
+    {
+      "action": "ADD",
+      "recipe": {
+        "in": "minecraft:chainmail_chestplate:1",
+        "out": [
+          "minecraft:chain:8"
+        ]
+      }
+    },
+    {
+      "action": "ADD",
+      "recipe": {
+        "in": "minecraft:iron_horse_armor:1",
+        "out": [
+          "minecraft:iron_ingot:7"
+        ]
+      }
+    },
+    {
+      "action": "ADD",
+      "recipe": {
+        "in": "minecraft:golden_horse_armor:1",
+        "out": [
+          "minecraft:gold_ingot:7"
+        ]
+      }
+    },
+    {
+      "action": "ADD",
+      "recipe": {
+        "in": "minecraft:diamond_horse_armor:1",
+        "out": [
+          "minecraft:diamond:7"
+        ]
+      }
+    },
+    {
+      "action": "ADD",
+      "recipe": {
+        "in": "minecraft:saddle:1",
+        "out": [
+          "minecraft:leather:5",
+          "minecraft:iron_ingot:3"
+        ]
+      }
+    },
+    {
+      "action": "ADD",
+      "recipe": {
+        "in": "minecraft:totem_of_undying:1",
+        "out": [
+          "minecraft:golden_apple:1",
+          "minecraft:gold_nugget:5",
+          "minecraft:emerald:2"
+        ]
+      }
+    },
+    {
+      "action": "ADD",
+      "recipe": {
+        "in": "minecraft:enchanted_golden_apple:1",
+        "out": [
+          "minecraft:gold_block:8",
+          "minecraft:apple:1"
+        ]
+      }
+    },
+    {
+      "action": "ADD",
+      "recipe": {
+        "in": "minecraft:written_book:1",
+        "out": [
+          "minecraft:writable_book:1"
+        ]
+      }
+    },
+    {
+      "action": "ADD",
+      "recipe": {
+        "in": "minecraft:pointed_dripstone:1",
+        "out": [
+          "minecraft:clay_ball:1"
+        ]
+      }
+    },
+    {
+      "action": "SWAP",
+      "recipe": {
+        "in": "minecraft:magma_cream:1",
+        "out": [
+          "minecraft:blaze_powder:1",
+          "minecraft:slime_ball:1"
+        ]
+      },
+      "update": {
+        "in": "minecraft:magma_cream:1",
+        "out": [
+          "minecraft:blaze_powder:1",
+          "minecraft:slime_ball:1"
+        ],
+        "xp": 35.0
+      }
+    }
+  ]
+}

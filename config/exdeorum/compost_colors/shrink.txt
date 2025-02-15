@@ -1,0 +1,2 @@
+// Compost colors for shrink. You may add your own colors, change existing ones, or remove colors that aren't needed.
+shrinking_device, #93a5a1

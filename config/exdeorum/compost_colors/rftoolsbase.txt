@@ -1,0 +1,11 @@
+// Compost colors for rftoolsbase. You may add your own colors, change existing ones, or remove colors that aren't needed.
+crafting_card, #768aab
+dimensionalshard, #bcffff
+filter_module, #6ebf79
+infused_diamond, #a2ffff
+infused_enderpearl, #86e3da
+manual, #667da4
+smartwrench, #93e3e3
+smartwrench_select, #ffe6c6
+tablet, #8aa290
+tablet_filled, #699b73

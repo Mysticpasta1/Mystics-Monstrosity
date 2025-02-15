@@ -1,0 +1,7 @@
+
+[Curios]
+
+	[Curios.Robes]
+		#Whether performing potion spin with Freaky Robe spins the wearer around, Default: false
+		freakyPotionSpin = false
+

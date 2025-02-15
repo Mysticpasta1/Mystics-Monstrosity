@@ -1,0 +1,10 @@
+// Compost colors for mysticalagriculturedelight. You may add your own colors, change existing ones, or remove colors that aren't needed.
+awakened_supremium_knife, #c37505
+farmers_essence, #7d4711
+imperium_knife, #f8adc
+inferium_knife, #8ca005
+prosperity_knife, #bed4ca
+prudentium_knife, #11a11c
+supremium_knife, #ca1105
+supremium_pie, #d6321c
+tertium_knife, #d75105

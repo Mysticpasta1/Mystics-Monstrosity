@@ -1,0 +1,4 @@
+// Compost colors for glimmering_gardens. You may add your own colors, change existing ones, or remove colors that aren't needed.
+firefly_bottle, #dcffb4
+firefly_bottle_full, #e7ffa7
+firefly_lantern, #9bc865

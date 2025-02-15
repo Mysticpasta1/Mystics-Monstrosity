@@ -1,0 +1,8 @@
+// Compost colors for iron_fishing_rods. You may add your own colors, change existing ones, or remove colors that aren't needed.
+diamond_fishing_rod, #75f1dc
+diamond_fishing_rod_upgrade, #4bffff
+gold_fishing_rod, #fff794
+gold_fishing_rod_upgrade, #ffff72
+iron_fishing_rod, #e7e7e7
+iron_fishing_rod_upgrade, #fafafa
+netherite_fishing_rod, #8d8389

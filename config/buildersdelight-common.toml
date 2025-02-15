@@ -1,0 +1,7 @@
+
+["Builder's Delight Config"]
+	#Plays a sound when chiseling an item, default: true
+	playGuiSounds = true
+	#Plays a sound when opening the iron chisel GUI, default: true
+	playChiselSounds = true
+

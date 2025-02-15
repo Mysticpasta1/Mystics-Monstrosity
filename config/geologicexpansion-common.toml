@@ -1,0 +1,17 @@
+
+[toggleable_features]
+	#Toggleable features
+	#Determine if Geysers should generate
+	includeGeysers = true
+	#Determine if Limestone should generate
+	includeLimestone = true
+	#Determine if Overgrowth should generate
+	includeOvergrowth = true
+	#Determine if Ducks should spawn
+	includeDucks = true
+
+[entity_behavior]
+	#Entity behavior
+	#Determine if Ducks should be able to fish
+	canDucksFish = true
+

@@ -1,0 +1,23 @@
+// Compost colors for appliedenergisticsdelight. You may add your own colors, change existing ones, or remove colors that aren't needed.
+certus_quartz_crystal_knife, #ccebfa
+certus_quartz_ice_cream, #d3f4ff
+charged_apple_cider, #e8fbf4
+cooked_fluix, #695268
+cooked_quartz_crystal, #eeffff
+ender_dust_jem, #8af2fa
+ender_dust_knife, #3d8069
+ender_dust_sauce, #4a7650
+ender_dust_shake, #6edce3
+ender_quartz_stew, #76a794
+energy_bar, #91552c
+energy_salad, #75908d
+fluix_dust_jem, #d2c9ff
+fluix_knife, #614e83
+grilled_fluix_dust, #615091
+silicon_cider, #bbcae7
+silicon_knife, #918280
+silicon_sandwich, #a78244
+singularity_energy_bar, #2d00b1
+sky_cookie, #ffbe72
+sky_dust_knife, #706c5c
+sky_stew, #736f52

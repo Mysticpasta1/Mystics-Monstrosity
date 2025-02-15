@@ -1,0 +1,28 @@
+
+#Better Fusion Reactor. This config is synced between server and client.
+[bfr]
+
+	#Irradiator
+	[bfr.irradiator]
+		#Default process time in ticks
+		#Recipe can override this value
+		#Range: 1 ~ 10000
+		base_process_time = 200
+		#How much temperature production by reactor will be suppressed by Irradiator
+		#Range: 1 ~ 10
+		reactor_cooling = 5
+
+	#Better Fusion Reactor
+	[bfr.better_fusion_reactor]
+		#How often Reactivity changes and error level change speed. default 10
+		#Range: 1 ~ 20
+		reaction_difficulty = 10
+		#Hide original Mekanism Fusion Reactor recipes
+		hide_original_mek_recipes = true
+		#Explosion when reactor reaches 100% error level
+		reactor_meltdown = false
+		#Radius of Explosion (default 4 - TNT size)
+		reactor_explosion_radius = 4.0
+		#List of fluids that can be used as coolants in the fusion reactor (; separated)
+		fusion_coolants = ["water;mekanism:steam", "mekanism:sodium;mekanism:superheated_sodium"]
+

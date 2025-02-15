@@ -1,0 +1,7 @@
+// Compost colors for constructionwand. You may add your own colors, change existing ones, or remove colors that aren't needed.
+core_angel, #ffffa5
+core_destruction, #ffa4a4
+diamond_wand, #3e8c69
+infinity_wand, #763396
+iron_wand, #978d7a
+stone_wand, #756b58

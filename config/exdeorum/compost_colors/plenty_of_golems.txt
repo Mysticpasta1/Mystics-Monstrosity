@@ -1,0 +1,23 @@
+// Compost colors for plenty_of_golems. You may add your own colors, change existing ones, or remove colors that aren't needed.
+amethystgolem_statueitem, #837aa0
+ancient_of_prismarine_statue_item, #82c9aa
+blue_firecharge, #5f6f69
+dark_oak_statue_item, #5f5e2c
+fire_rune, #bfa48d
+firework_rune, #b28a8a
+first_of_basalt_statue_item, #84785b
+first_of_dispenser_statue_item, #9ba196
+first_of_sand_statue_item, #ffd27c
+first_of_the_dungeon_statue_item, #9aa096
+first_of_the_tundra_statue, #f1ffff
+first_of_the_village_statue_item, #9a9a7f
+golems_staff, #c05532
+guardian_of_the_deep_statue_item, #2d3c37
+logo, #aaa5a5
+ministrosity_statue, #61aba0
+obsidian_golem_statue_item, #2a1551
+spruce_giant_statue_item, #47331b
+tiky_mask_helmet, #9b6b2a
+tnt_air_golem_statue, #b4afa8
+tnt_ground_golem_statue, #d6d6d6
+tnt_yeeter_golem_statue, #cdc9c3

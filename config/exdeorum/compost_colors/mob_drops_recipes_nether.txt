@@ -1,0 +1,5 @@
+// Compost colors for mob_drops_recipes_nether. You may add your own colors, change existing ones, or remove colors that aren't needed.
+nether_essence_common, #ff4e5e
+nether_essence_epic, #ff5161
+nether_essence_rare, #ff5161
+nether_essence_uncommon, #ff505f

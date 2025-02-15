@@ -1,0 +1,9 @@
+// Compost colors for dungeonsweaponry. You may add your own colors, change existing ones, or remove colors that aren't needed.
+bonebow, #c6a26e
+guardian_bow, #207d8c
+longbow, #8c7f6f
+power_bow, #7f5252
+red_snake, #7a2940
+sabrewing, #f4ddb5
+the_green_menace, #41942c
+trickbow, #655866

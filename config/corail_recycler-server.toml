@@ -1,0 +1,7 @@
+
+[General]
+	#allow_automation [false/true|default:true]
+	Allow_automation = true
+	#The button discover doesn't require permission 2 [false/true|default:false]
+	permanent_discover_button = false
+

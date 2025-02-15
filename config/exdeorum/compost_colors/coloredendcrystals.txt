@@ -1,0 +1,18 @@
+// Compost colors for coloredendcrystals. You may add your own colors, change existing ones, or remove colors that aren't needed.
+black_end_crystal, #b8c2c6
+blue_end_crystal, #b8deff
+brown_end_crystal, #f1e1d0
+crystal_screwdriver, #e6be83
+cyan_end_crystal, #b6e6f8
+gray_end_crystal, #e7f1f2
+green_end_crystal, #d0eac0
+light_blue_end_crystal, #edffff
+light_gray_end_crystal, #ffffff
+lime_end_crystal, #edffc3
+magenta_end_crystal, #fff2ff
+orange_end_crystal, #ffffcf
+pink_end_crystal, #ffffff
+purple_end_crystal, #ffe7ff
+red_end_crystal, #ffc5c6
+white_end_crystal, #ffffff
+yellow_end_crystal, #ffffca

@@ -1,0 +1,3 @@
+// Compost colors for rsinsertexportupgrade. You may add your own colors, change existing ones, or remove colors that aren't needed.
+export_upgrade, #e3c980
+insert_upgrade, #e3c97f

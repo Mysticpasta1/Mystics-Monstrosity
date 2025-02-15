@@ -1,0 +1,5 @@
+// Compost colors for fireproofboats. You may add your own colors, change existing ones, or remove colors that aren't needed.
+crimson_boat, #a5657f
+crimson_chest_boat, #a16666
+warped_boat, #51938a
+warped_chest_boat, #64876f

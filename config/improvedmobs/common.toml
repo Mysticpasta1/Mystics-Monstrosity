@@ -1,0 +1,292 @@
+
+#Default difficulty caps at 250
+[general]
+	#Disable/Enables the whole difficulty scaling of this mod. Requires a mc restart
+	"Enable difficulty scaling" = true
+	#Time in ticks for which the difficulty shouldnt increase at the beginning. One full minecraft day is 24000 ticks
+	#Range: > 0
+	"Difficulty Delay" = 0
+	#If true ignores mobs from spawners
+	"Ignore Spawner" = false
+	#Handles increase in difficulty regarding current difficulty.
+	#Format is <minimum current difficulty>-<increase every 2400 ticks>
+	#Example ["0-0.01","10-0.1","30-0"]
+	#So the difficulty increases by 0.01 every 2400 ticks (->0.1 per mc day since a mc day has 24000 ticks) till it reaches a difficulty of 10.
+	#Then it increases by 1 per mc day till it reaches 30 and then stops.
+	#If you want to use negative values use | instead of - as the delimiter.
+	"Difficulty Increase" = ["0.0-0.1", "250.0-0.0"]
+	#Wether difficulty should only increase with at least one online players or not
+	"Ignore Players" = false
+	#If true will increase difficulty by the amount of time skipped. Else will only increase difficulty once.
+	"Punish Time Skip" = true
+	#Disable/Enable friendly fire for owned pets.
+	FriendlyFire = false
+	#Blacklist for pet you should't be able to give armor to. Pets from mods, which have custom armor already should be included here (for balancing reasons).
+	"Pet Blacklist" = []
+	#Treat pet blacklist as whitelist
+	"Pet Whitelist" = false
+	#Increase difficulty with time
+	#Here untill its back as a gamerule
+	"Difficulty toggle" = true
+	#How the difficulty at a position is calculated. Supported values are: 
+	#GLOBAL: Serverwide difficulty value
+	#PLAYERMAX: Maximum difficulty of players in a 256 radius around the position
+	#PLAYERMEAN: Average difficulty of players in a 256 radius around the position
+	#DISTANCE: Uses the distance to the position defined in Center Position to define the difficulty
+	#DISTANCESPAWN: Uses the distance to the world spawn to define the difficulty
+	#If the type is any of the distance types the functionality of Difficulty Increase is changed to the following where the 1. value is the minimum distance and the 2. is the difficulty that applies. 
+	#E.g. ["0-0","1000-5"] translates to 0 difficulty between 0-1000 distance and 5 difficulty for distance >= 1000
+	#You can also define it as a triple x-y-z instead where z is the increase per block in for that area.
+	#E.g. ["0-0-0.1","1000-5-1"] the difficulty increases between 0-1000 by 0.1 per block and >= 1000 by 1 per block with a starting value of 5
+	#Allowed Values: GLOBAL, PLAYERMAX, PLAYERMEAN, DISTANCE, DISTANCESPAWN
+	"Difficulty type" = "GLOBAL"
+	#Position used for DISTANCE difficulty type
+	"Center Position" = "0-0"
+
+#Black/Whitelist for various stuff
+[list]
+	#Entities added here will be blacklisted from their assigned flags. Usage:
+	#<entity registry name> or <namespace> or <#tag> followed by any of:
+	#[ALL,ATTRIBUTES,ARMOR,HELDITEMS,BLOCKBREAK,USEITEM,LADDER,STEAL,GUARDIAN,PARROT,TARGETVILLAGER,NEUTRALAGGRO,PEHKUI,REVERSE].
+	#Having no flags is equal to ALL. Use REVERSE to reverse all flags. Some flags do nothing for certain mobs!
+	#Examples (without <>):
+	#<minecraft:sheep> (equal to minecraft:sheep|ALL) excludes sheeps from all modifications
+	#<minecraft:sheep|REVERSE|ATTRIBUTES will> add sheep to attributes modification only
+	#<#minecraft:raiders|ATTRIBUTES> will add all entities in the raiders tag to everything except attributes
+	#<minecraft:sheep|ATTRIBUTES> will add sheep to everything except attributes
+	#<minecraft> disables everything for all minecraft mobs
+	"Entity Configs" = ["tropicraft:turtle", "kobolds:kobold_pirate", "luggage:luggage", "bettas:glaucus", "aquaculture:pink_salmon", "tropicraft:tropicreeper", "naturaldecormod:c", "productivebees:bumble_bee", "netherdungeons:baby_ghast", "goety:quick_growing_vine", "miniboss_boss_bars:corpsewarlockbossbarentity", "ars_fauna:seasprig", "ars_nouveau:familiar_wixie", "minecraft:horse", "deep_aether:quail", "miniboss_boss_bars:netherobeliskbossbarentity", "k_turrets:gauss_drone", "enemyexpansion:meature", "miniboss_boss_bars:wardenbossbarentity", "miniboss_boss_bars:drakvyrnbossbarentity", "aquaculture:muskellunge", "biomancy:legacy_flesh_blob", "goated:geep", "goety:mini_ghast", "legendarycreatures:wisp", "minecraft:llama", "twilightforest:raven", "miniboss_boss_bars:theheavybossbarentity", "dungeonsartifacts:soul_wizard", "biomeswevegone:man_o_war", "minecraft:tadpole", "upgrade_aquatic:immortal_jellyfish", "goety:frozen_zombie_servant", "aether:evil_whirlwind", "miniboss_boss_bars:theprowlerbossbarentity", "littlelogistics:chunk_loader_barge", "landsoficaria:ender_jellyfish", "tropicraft:jaguar", "naturalist:bear", "miniboss_boss_bars:overgrowncolossusbossbarentity", "upgrade_aquatic:box_jellyfish", "samurai_dynasty:kawauso", "miniboss_boss_bars:ancientguardianbossbarentity", "naturalist:vulture", "naturalist:zebra", "underdasea:moonfish", "pet_cemetery:skeleton_wolf", "blue_skies:firefly", "miniboss_boss_bars:wistiverbossbarentity", "goety:zombie_servant", "goblintraders:vein_goblin_trader", "legendarycreatures:peacock_spider", "ars_nouveau:gift_starby", "landsoficaria:snull", "galosphere:spectre", "productivebees:yellow_black_carpenter_bee", "kobolds:kobold_enchanter", "undergarden:brute", "decodesign_functions_and_blocks:fish_belt", "minecraft:mooshroom", "rainbowreef:basslet", "dungeonsweaponry:loot_pig", "minecraft:villager", "tropicraft:piranha", "naturaldecormod:kohaku_koi", "underdasea:redfish", "goety:zpiglin_brute_servant", "seafarer:sunfish", "blue_skies:snow_owl", "minecraft:axolotl", "botania:doppleganger", "glimmering_gardens:firefly", "miniboss_boss_bars:soulknightbossbarentity", "ars_fauna:sandbuncle", "productivebees:mason_bee", "friendsandfoes:tuff_golem", "occultism:greedy_familiar", "goety:haunted_skull", "goety:icy_spider_servant", "undergarden:gwibling", "quark:crab", "kobolds:kobold_warrior", "productivebees:rancher_bee", "sculkhorde:sculk_salmon", "ars_fauna:seabuncle", "ornamental:gold_golem", "ars_nouveau:drygmy", "beastly_beacons:evil_strong_forcefield", "productivebees:sweat_bee", "bettas:seahorse", "ornamental:bone_golem", "bettas:betta", "aquaculture:pacific_halibut", "miniboss_boss_bars:crabtilusbossbarentity", "naturalist:cardinal", "miniboss_boss_bars:flugzeugbossbarentity", "sow:prote_clone", "miniboss_boss_bars:witherfungusbossbarentity", "inventorypets:satya_nadella_entity", "legendary_monsters:skeloraptor", "miniboss_boss_bars:creeptusbossbarentity", "legendarycreatures:nether_wisp", "ecologics:coconut_crab", "mythicbotany:alf_pixie", "miniboss_boss_bars:spiderqueenbossbarentity", "rpg_better_elder_guardian_1201:nothingness", "netherdungeons:truncus", "collectorsreap:platinum_bass", "goety:leapleaf", "miniboss_boss_bars:eelbossbarentity", "miniboss_boss_bars:armorofdesertbossbarentity", "goety:sunken_skeleton_servant", "friendsandfoes:mauler", "geologicexpansion:duck", "miniboss_boss_bars:bigorcbossbossbarentity", "goety:blackguard_servant", "aether:aerbunny", "luggage:ender_luggage", "miniboss_boss_bars:mutantzombiebossbarentity", "goety:drowned_necromancer_servant", "biomeswevegone:pumpkin_warden", "miniboss_boss_bars:mushlinspewerbossbarentity", "goety:vanguard_servant", "netherdepthsupgrade:obsidianfish", "miniboss_boss_bars:guardianofthedeepbossbarentity", "k_turrets:firecharge_drone", "beastly_beacons:beacon_beam_test", "minecraft:chicken", "rainbowreef:seahorse", "k_turrets:cobble_drone", "productivebees:leafcutter_bee", "miniboss_boss_bars:spiritcallerbossbarentity", "naturaldecormod:wideon_duck_wind_spinner", "miniboss_boss_bars:netheriteforgebossbarentity", "miniboss_boss_bars:wendigobossbarentity", "blue_skies:frost_spirit", "ad_astra:glacian_ram", "samurai_dynasty:komainu", "aquaculture:tambaqui", "buzzier_bees:moobloom", "jitl:neutral_sentry_stalker", "tropicraft:eagle_ray", "ornamental:coal_golem", "netherdepthsupgrade:eyeball_fish", "goety:totemic_bomb", "miniboss_boss_bars:seaviperbossbarentity", "miniboss_boss_bars:redstonemonstrositybossbarentity", "colourfulllamas:llama", "ars_nouveau:cascading_weald_walker", "miniboss_boss_bars:conjurerbossbarentity", "ornamental:blue_ice_golem", "miniboss_boss_bars:aeroguardianbossbarentity", "tropicraft:sea_urchin", "aquaculture:brown_shrooma", "netherexp:carcass", "miniboss_boss_bars:earthloongbossbarentity", "legendarycreatures:ender_wisp", "tropicraft:failgull", "miniboss_boss_bars:theroyalbossbarentity", "naturalist:rattlesnake", "minecraft:sheep", "avaritia:infinity_golem", "landsoficaria:void_jellyfish", "littlecontraptions:contraption_barge", "decodesign_functions_and_blocks:oyster", "miniboss_boss_bars:skyautomatonbossbarentity", "goety:wartling", "goety:haunt", "atlantis:atlantean_shrimp", "biomancy:flesh_cow", "productivebees:neon_cuckoo_bee", "naturalist:robin", "rainbowreef:dwarf_angelfish", "naturalist:tortoise", "netherdepthsupgrade:wither_bonefish", "tropicraft:sardine", "ars_elemental:siren_familiar", "twilightforest:tiny_bird", "goety:border_wraith_servant", "undergarden:dweller", "naturaldecormod:orenji_koi", "miniboss_boss_bars:drozenbossbarentity", "dyenamics:sheep", "ars_nouveau:whirlisprig", "bettas:cherrybarb", "miniboss_boss_bars:redstonegolembossbarentity", "crabbersdelight:crab", "miniboss_boss_bars:basaltexecutionerbossbarentity", "blue_skies:charscale_moki", "decodesign_functions_and_blocks:mosquito", "spawn:hamster", "twilightforest:quest_ram", "bettas:koi", "occultism:shub_niggurath_familiar", "bagus_lib:mini_bagu", "naturaldecormod:beagle", "goety:skeleton_wolf", "goety:volcano", "miniboss_boss_bars:aptrgangrbossbarentity", "naturaldecormod:wind_spinner", "miniboss_boss_bars:gulingsentinelheavybossbarentity", "aether:whirlwind", "goety:black_wolf", "ars_elemental:summon_direwolf", "bettas:silvershark", "miniboss_boss_bars:frozenvilegatorbossbarentity", "miniboss_boss_bars:guardianoftheeclipsebossbarentity", "miniboss_boss_bars:lichbossbarentity", "beastly_beacons:friendly_sentinel", "upgrade_aquatic:perch", "miniboss_boss_bars:shinyundeadbossbarentity", "cataclysm:netherite_ministrosity", "occultism:shub_niggurath_spawn", "goety:wildfire", "goety:grave_golem", "blue_skies:sliv", "naturalist:hippo", "autumnity:turkey", "ars_fauna:faebuncle", "naturalist:snake", "railways:conductor", "littlelogistics:vacuum_barge", "goety:quick_growing_kelp", "miniboss_boss_bars:bludbossbarentity", "ars_fauna:frostbuncle", "miniboss_boss_bars:shamanmonkeybossbarentity", "ornamental:ice_golem", "k_turrets:brick_turret", "miniboss_boss_bars:drakarabossbarentity", "naturalist:catfish", "miniboss_boss_bars:taintedflamebossbarentity", "occultism:afrit", "ars_nouveau:lily", "miniboss_boss_bars:cyborgvindicatorbossbarentity", "atlantis:atlantean_starfish", "tropicraft:man_o_war", "beastly_beacons:evil_weak_forcefield", "minecraft:cat", "ars_nouveau:amethyst_golem", "miniboss_boss_bars:howitzerbossbarentity", "naturalist:lizard", "blue_skies:gatekeeper", "productivebees:resin_bee", "bettas:salamander", "miniboss_boss_bars:grimreaperbossbarentity", "minecraft:tropical_fish", "naturalist:snail", "bettas:goldfish", "bygonenether:wither_skeleton_horse", "spawn:tuna", "naturalist:finch", "mowziesmobs:lantern", "bettas:ghostshrimp", "aquaculture:atlantic_herring", "goety:bear_servant", "littlelogistics:energy_tug", "landsoficaria:fire_jellyfish", "minecraft:glow_squid", "miniboss_boss_bars:sirpumpkinheadbossbarentity", "ornamental:red_nether_brick_golem", "miniboss_boss_bars:priestbossbarentity", "miniboss_boss_bars:orcbossbossbarentity", "landsoficaria:catoblepas", "spawn:seahorse", "miniboss_boss_bars:elementalbossbarentity", "rainbowreef:parrotfish", "aquaculture:bluegill", "miniboss_boss_bars:mushroommonstrositybossbarentity", "occultism:djinni", "bosses_of_mass_destruction:gauntlet", "naturalist:firefly", "naturaldecormod:sea_turtle_wind_spinner", "jeg:bubble", "ars_nouveau:animated_head", "tropicraft:v_monkey", "miniboss_boss_bars:kobolediatorbossbarentity", "spawn:tuna_egg", "tropicraft:tapir", "minecraft:donkey", "the_bumblezone:variant_bee", "twilightforest:loyal_zombie", "endertrigon:baby_ender_dragon", "mowziesmobs:umvuthana_crane_player", "miniboss_boss_bars:solifugeskulkerbossbarentity", "goety:wither_skeleton_servant", "ars_fauna:starbuncle_swarm", "friendsandfoes:copper_golem", "miniboss_boss_bars:walkingbedbossbarentity", "aquamirae:golden_moth", "goety:malghast", "kobolds:kobold_child", "naturalist:giraffe", "miniboss_boss_bars:forsakenbossbarentity", "ornamental:calcite_golem", "cataclysm:the_baby_leviathan", "galosphere:sparkle", "miniboss_boss_bars:tofugandlembossbarentity", "jitl:pet_robot", "miniboss_boss_bars:nightmarestalkerbossbarentity", "the_bumblezone:honey_slime", "jitl:roc", "rpg_better_elder_guardian_1201:huge_water_splash", "bosses_of_mass_destruction:void_blossom", "littlelogistics:barrel_barge", "miniboss_boss_bars:endergolembossbarentity", "aquaculture:jellyfish", "miniboss_boss_bars:lifestealerbossbarentity", "collectorsreap:chieftain_crab", "ars_elemental:summon_camel", "samurai_dynasty:twotailed", "miniboss_boss_bars:endermonstrositybossbarentity", "graveyard:nameless_hanged", "legendarycreatures:wisp_purse", "farlanders:wanderer", "miniboss_boss_bars:mutantskeletonbossbarentity", "bettas:seadragon", "jitl:royal_king", "ecologics:squirrel", "tropicraft:hummingbird", "undergarden:gloomper", "aquaculture:blackfish", "naturaldecormod:rainbow_wind_spinner", "minecraft:parrot", "miniboss_boss_bars:coralseaviperbossbarentity", "aquamirae:spinefish", "tropicraft:tropibee", "jitl:frozen_guardian", "littlelogistics:fishing_barge", "irons_spellbooks:apothecarist", "miniboss_boss_bars:prowlerbossbarentity", "aquaculture:carp", "goety:blaze_servant", "ornamental:magma_golem", "miniboss_boss_bars:necroslothbossbarentity", "minecraft:iron_golem", "goety:polar_bear_servant", "miniboss_boss_bars:enforcerbossbarentity", "productivebees:nomad_bee", "jitl:euca_hopper", "botania:pixie", "miniboss_boss_bars:queenbeebossbarentity", "jitl:boss_crystal", "ars_fauna:cavebuncle", "miniboss_boss_bars:wizardbossbarentity", "ornamental:redstone_golem", "naturalist:alligator", "goety:bone_spider_servant", "aquaculture:boulti", "ornamental:packed_ice_golem", "miniboss_boss_bars:icedragonbossbarentity", "miniboss_boss_bars:windyphoenixbossbarentity", "miniboss_boss_bars:wildfirebossbarentity", "mahoutsukai:kodoku_entity", "minecraft:mule", "miniboss_boss_bars:moscobossbarentity", "miniboss_boss_bars:icedevilbossbarentity", "naturalist:boar", "ornamental:lapis_golem", "miniboss_boss_bars:overlordbossbarentity", "goety:jungle_zombie_servant", "tropicraft:iguana", "dimdoors:mask", "twilightforest:boar", "aquaculture:synodontis", "miniboss_boss_bars:scorpioidbloodlusterbossbarentity", "miniboss_boss_bars:vampirebaronbossbarentity", "minecraft:allay", "graveyard:ghouling", "pneumaticcraft:guard_drone", "miniboss_boss_bars:spiderreaperbossbarentity", "miniboss_boss_bars:warpedfungussusbossbarentity", "miniboss_boss_bars:guardianofthefirstflamebossbarentity", "ars_fauna:goobuncle", "miniboss_boss_bars:possessedpaladinbossbarentity", "miniboss_boss_bars:ragnobossbarentity", "miniboss_boss_bars:ratkingbossbarentity", "blue_skies:horizofin_tunid", "irons_spellbooks:spectral_steed", "miniboss_boss_bars:direhoundleaderbossbarentity", "legendarycreatures:scorpion_baby", "naturaldecormod:doitsu_koi", "ars_nouveau:familiar_whirlisprig", "underdasea:raymanta", "tombstone:grave_guardian", "netherdepthsupgrade:glowdine", "tropicraft:cubera", "aquaculture:catfish", "mahoutsukai:familiar_entity", "legendarycreatures:nether_wisp_purse", "miniboss_boss_bars:butcherbossbarentity", "miniboss_boss_bars:redmummybossbarentity", "beastly_beacons:friendly_medium_forcefield", "aquamirae:luminous_jelly", "miniboss_boss_bars:vilegatorbossbarentity", "rainbowreef:hogfish", "miniboss_boss_bars:hermitkingbossbarentity", "miniboss_boss_bars:spidermothdwellerbossbarentity", "upgrade_aquatic:nautilus", "jitl:flungas", "minecraft:pig", "aquaculture:atlantic_halibut", "bosses_of_mass_destruction:obsidilith", "miniboss_boss_bars:mummybossbarentity", "ornamental:copper_golem", "miniboss_boss_bars:ignitedrevenantbossbarentity", "wither_spawn_animation:animated_altar_soil", "underdasea:blobfish", "goety:glacial_wall", "minecraft:cod", "aquaculture:red_grouper", "naturaldecormod:blue_wind_spinner", "blue_skies:cosmic_fox", "tropicraft:hammerhead", "minecraft:skeleton_horse", "legendarycreatures:scorpion", "minecraft:cow", "miniboss_boss_bars:aridyetibossbarentity", "aquaculture:rainbow_trout", "naturalist:duck", "miniboss_boss_bars:bonestalkerbossbarentity", "rainbowreef:small_shark", "goety:inferno", "bettas:snakehead", "productivebees:lumber_bee", "miniboss_boss_bars:thefurnacebossbarentity", "goety:magma_cube_servant", "ars_fauna:illusibuncle", "minecraft:salmon", "aether:moa", "underdasea:mecanicalfish", "netherdepthsupgrade:fortressgrouper", "rainbowreef:boxfish", "miniboss_boss_bars:hydraabossbarentity", "miniboss_boss_bars:gorgonbossbarentity", "naturaldecormod:domestic_duck_wind_spinner", "spawn:angler_fish", "miniboss_boss_bars:hullbreakerbossbarentity", "friendsandfoes:rascal", "minecraft:rabbit", "bettas:peacockshrimp", "aquaculture:piranha", "forbidden_arcanus:lost_soul", "miniboss_boss_bars:cryomancerbossbarentity", "littlelogistics:barge", "productivebees:reed_bee", "littlelogistics:seater_barge", "naturalist:butterfly", "miniboss_boss_bars:siegerbossbarentity", "goety:ice_golem", "atlantis:atlantean_crab", "miniboss_boss_bars:superspookbossbarentity", "sculkhorde:sculk_squid", "miniboss_boss_bars:lightningdragonbossbarentity", "tropicraft:cowktail", "underdasea:firefly", "ars_fauna:deepsprig", "miniboss_boss_bars:goldenhermitkingbossbarentity", "bettas:glowfish", "ornamental:obsidian_golem", "miniboss_boss_bars:obsidianmonstrositybossbarentity", "occultism:bat_familiar", "naturalist:lion", "bettas:seastar", "aquaculture:arrau_turtle", "goety:hoglin_servant", "tropicraft:starfish", "naturalist:canary", "miniboss_boss_bars:spiderwidowbossbarentity", "naturaldecormod:tancho_koi", "minecraft:sniffer", "miniboss_boss_bars:mazemotherbossbarentity", "forestry:butterfly", "tropicraft:ashen", "atlantis:atlantean_jellyfish", "miniboss_boss_bars:mutantendermanbossbarentity", "collectorsreap:tiger_prawn", "jitl:ferret", "bettas:crab", "dungeonsartifacts:totem_of_regeneration_entity", "miniboss_boss_bars:netherkingbossbarentity", "goety:cave_spider_servant", "miniboss_boss_bars:skeletosaurusbossbarentity", "miniboss_boss_bars:stonewarriorbossbarentity", "productivebees:farmer_bee", "naturalist:coral_snake", "undergarden:minion", "swampier_swamps:dragonfly", "goety:hellhound", "deeperdarker:sculk_snapper", "mowziesmobs:umvuthana_follower_player", "twilightforest:penguin", "cataclysm:modern_remnant", "goety:spider_servant", "productivebees:quarry_bee", "the_bumblezone:beehemoth", "occultism:fairy_familiar", "ornamental:diamond_golem", "undergarden:mog", "miniboss_boss_bars:battletowerguardianbossbarentity", "mahoutsukai:fae_entity", "littlelogistics:fluid_barge", "goety:cairn_necromancer_servant", "minecraft:trader_llama", "goety:ally_vex", "goety:ravager", "blue_skies:supporter_pet", "goblintraders:goblin_trader", "miniboss_boss_bars:golemguardianbossbarentity", "miniboss_boss_bars:nehemothbossbarentity", "miniboss_boss_bars:versukenbossbarentity", "miniboss_boss_bars:thepregnantbossbarentity", "mutantmonsters:mutant_snow_golem", "productivebees:green_carpenter_bee", "aether:sheepuff", "hexerei:owl", "aquaculture:bayad", "simplyswords:battlestandarddark", "biomancy:thick_fur_sheep", "goety:necromancer_servant", "minecraft:dolphin", "goety:bound_evoker", "ars_nouveau:animated_block", "miniboss_boss_bars:kelvinbossbarentity", "tropicraft:marlin", "underdasea:small_baby_jellyfish", "ars_elemental:firenando_entity", "blue_skies:azulfo", "blue_skies:reindeer", "galosphere:spectator_vision", "miniboss_boss_bars:spiderprowlerbossbarentity", "bettas:pleco", "rainbowreef:ray", "biomancy:flesh_sheep", "goety:crypt_slime_servant", "rpg_better_elder_guardian_1201:bluemagiccircle", "tropicraft:eih", "buzzier_bees:grizzly_bear", "friendsandfoes:moobloom", "seafarer:horseshoe_crab", "ars_nouveau:dummy", "goety:whisperer", "miniboss_boss_bars:firedragonbossbarentity", "beastly_beacons:friendly_weak_forcefield", "minecraft:bee", "aquaculture:perch", "miniboss_boss_bars:hydrabossbarentity", "the_bumblezone:bee_queen", "pneumaticcraft:harvesting_drone", "goety:ravaged", "tombstone:spectral_wolf", "guardvillagers:guard", "ornamental:nether_brick_golem", "sculkhorde:sculk_phantom", "miniboss_boss_bars:cherrytreeentbossbarentity", "underdasea:eel", "miniboss_boss_bars:cloudgolembossbarentity", "pneumaticcraft:amadrone", "tropicraft:dolphin", "miniboss_boss_bars:dunesentinelbossbarentity", "miniboss_boss_bars:supremebonescallerbossbarentity", "friendsandfoes:glare", "miniboss_boss_bars:titanbossbarentity", "occultism:foliot", "goety:skeleton_villager_servant", "miniboss_boss_bars:firelordbossbarentity", "kobolds:kobold_captain", "aquaculture:arapaima", "minecraft:strider", "securitycraft:sentry", "decodesign_functions_and_blocks:herring", "legendarycreatures:scarecrow", "naturalist:elephant", "moresnifferflowers:bobling", "minecraft:wandering_trader", "miniboss_boss_bars:naturespiritbossbarentity", "aether:flying_cow", "biomeswevegone:oddion", "netherdepthsupgrade:lava_pufferfish", "netherdepthsupgrade:blazefish", "deeperdarker:angler_fish", "blue_skies:grittle_flatfish", "naturaldecormod:wood_duck_wind_spinner", "landsoficaria:forest_snull", "jitl:shiverwolf", "miniboss_boss_bars:paracusiabossbarentity", "productivebees:ashy_mining_bee", "netherdepthsupgrade:bonefish", "k_turrets:cobble_turret", "naturaldecormod:botany_beagle", "goety:vampire_bat", "biomancy:flesh_chicken", "goety:carrion_maggot", "upgrade_aquatic:flare", "miniboss_boss_bars:solscarabmaximusbossbarentity", "spawn:ant", "goety:poison_quill_vine", "rainbowreef:tang", "takesapillage:clay_golem", "miniboss_boss_bars:mutanticeologerbossbarentity", "bettas:angelfish", "miniboss_boss_bars:parasitemotherbossbarentity", "goety:survey_eye", "bettas:jelly", "aquaculture:atlantic_cod", "seafarer:crab", "rpg_better_elder_guardian_1201:guardian_clever_spikes", "rpg_better_elder_guardian_1201:relicgivingentity_guardian", "minecraft:pufferfish", "kobolds:kobold_rascal", "aquaculture:starshell_turtle", "twilightforest:dwarf_rabbit", "legendarycreatures:ender_wisp_purse", "minecraft:fox", "simplyswords:simplybeeentity", "goety:drowned_servant", "ornamental:grass_golem", "tropicraft:fiddler_crab", "miniboss_boss_bars:coralgolembossbarentity", "landsoficaria:aeternae", "underdasea:jellyfish", "neapolitan:chimpanzee", "seafarer:marine_iguana", "blue_skies:municipal_monkfish", "goety:poison_anemone", "totemic:bald_eagle", "miniboss_boss_bars:missionarybossbarentity", "atlantis:leviathan", "naturalist:rhino", "ornamental:dirt_path_golem", "miniboss_boss_bars:phoenixbossbarentity", "miniboss_boss_bars:witheredabominationbossbarentity", "goety:insect_swarm", "blue_skies:shade_monitor", "productivebees:digger_bee", "minecraft:polar_bear", "friendsandfoes:player_illusion", "goety:wraith_servant", "goety:ghast_servant", "productivebees:dye_bee", "friendsandfoes:crab", "miniboss_boss_bars:boggedbonestalkerbossbarentity", "naturaldecormod:wild_carp", "aquaculture:brown_trout", "ornamental:dirt_golem", "minecraft:turtle", "goety:haunted_armor_servant", "netherdepthsupgrade:searing_cod", "miniboss_boss_bars:termitetunnelerqueenbossbarentity", "littlelogistics:tug", "goety:redstone_monstrosity", "miniboss_boss_bars:illagerbladeknightbossbarentity", "miniboss_boss_bars:regalhartbossbarentity", "ars_nouveau:familiar_starbuncle", "ars_nouveau:starbuncle", "miniboss_boss_bars:frostbittengolembossbarentity", "tropicraft:white_lipped_peccary", "minecraft:squid", "naturaldecormod:agasi_koi", "miniboss_boss_bars:eyeguardiangolembossbarentity", "jitl:hell_cow", "occultism:marid", "k_turrets:fire_charge_turret", "miniboss_boss_bars:tremorzillabossbarentity", "quark:shiba", "legendarycreatures:corpse_eater", "farlanders:mystic_enderminion", "miniboss_boss_bars:sacredwarriorbossbarentity", "tropicraft:koa", "goety:web_spider_servant", "undergarden:scintling", "lotw:bow_arrow", "miniboss_boss_bars:pharaohbossbarentity", "supplementaries:red_merchant", "naturalist:bass", "biomancy:flesh_blob", "miniboss_boss_bars:shulkermimicbossbarentity", "pneumaticcraft:programmable_controller", "netherdepthsupgrade:magmacubefish", "miniboss_boss_bars:mutantwolfbossbarentity", "ornamental:brick_golem", "miniboss_boss_bars:mekkronbossbarentity", "miniboss_boss_bars:amethystcrabbossbarentity", "miniboss_boss_bars:headmasterbossbarentity", "goety:redstone_cube", "miniboss_boss_bars:wadjetbossbarentity", "ars_fauna:pyrobuncle", "ars_elemental:summon_dolphin", "irons_spellbooks:priest", "naturalist:dragonfly", "bettas:guppy", "k_turrets:bullet_drone", "irons_spellbooks:dead_king_corpse", "legendarycreatures:desert_mojo", "twilightforest:bighorn_sheep", "ornamental:clay_golem", "miniboss_boss_bars:draconicvoidlasherbossbarentity", "occultism:beholder_familiar", "minecraft:bat", "naturalist:sparrow", "legendary_monsters:knights_armor", "miniboss_boss_bars:megajohnbossbarentity", "dragonmounts:dragon", "miniboss_boss_bars:teufelskerlbossbarentity", "ars_elemental:summon_skelehorse", "bettas:crystalshrimp", "miniboss_boss_bars:corruptedcauldronbossbarentity", "miniboss_boss_bars:hindenburgbossbarentity", "ars_nouveau:familiar_amethyst_golem", "goety:skeleton_servant", "occultism:blacksmith_familiar", "naturalist:lizard_tail", "miniboss_boss_bars:skypharaohbossbarentity", "miniboss_boss_bars:frostologerbossbarentity", "naturalist:caterpillar", "productivebees:chocolate_mining_bee", "landsoficaria:crystal_slug", "hexalia:silk_moth_entity", "dimdoors:monolith", "inventorypets:siamese_entity", "occultism:goat_familiar", "goety:ally_trampler", "blue_skies:stardust_ram", "goety:ally_irk", "goety:zombie_ravager", "miniboss_boss_bars:pigzillabossbarentity", "ars_fauna:enderbuncle", "miniboss_boss_bars:pyromancerbossbarentity", "miniboss_boss_bars:crimsonspitterbossbarentity", "miniboss_boss_bars:mutantcreeperbossbarentity", "ecologics:penguin", "miniboss_boss_bars:roguemasterbossbarentity", "occultism:chimera_familiar", "ad_astra:lunarian_wandering_trader", "rainbowreef:butterflyfish", "goety:mossy_skeleton_servant", "minecraft:panda", "miniboss_boss_bars:forgottenguardianbossbarentity", "kobolds:kobold_engineer", "k_turrets:storage_drone", "ars_nouveau:wixie", "miniboss_boss_bars:pharaohbossbarentity_2", "dawnoftimebuilder:silkmoth", "landsoficaria:water_jellyfish", "occultism:guardian_familiar", "miniboss_boss_bars:titanrabbitbossbarentity", "miniboss_boss_bars:cyclopsbossbarentity", "legendary_monsters:mossy_golem", "goety:bound_iceologer", "upgrade_aquatic:goose", "pet_cemetery:zombie_parrot", "ars_nouveau:vexing_weald_walker", "productivebees:creeper_bee", "miniboss_boss_bars:gluttonfishbossbarentity", "ars_fauna:songbuncle", "miniboss_boss_bars:piglinexecutionerbossbarentity", "geosmelt:deep_iron_golem", "blue_skies:jelly_drifter", "k_turrets:arrow_turret", "underdasea:big_adult_jellyfish", "goety:black_beast", "extendedmushrooms:mushroom_sheep", "miniboss_boss_bars:kingscorpionbossbarentity", "occultism:mummy_familiar", "miniboss_boss_bars:endersentbossbarentity", "beastly_beacons:friendly_ward", "miniboss_boss_bars:tremorsaurusbossbarentity", "miniboss_boss_bars:crabconstrictorbossbarentity", "biomancy:chroma_sheep", "deep_aether:venomite", "miniboss_boss_bars:spidersmotherbossbarentity", "miniboss_boss_bars:glaciateddragonbossbarentity", "miniboss_boss_bars:keeperbossbarentity", "goety:doppelganger", "goety:zpiglin_servant", "quark:stoneling", "jitl:darkness_crawler", "miniboss_boss_bars:bulldrogiothbossbarentity", "miniboss_boss_bars:berserkerbossbarentity", "goety:husk_servant", "irons_spellbooks:summoned_polar_bear", "simplyswords:battlestandard", "decodesign_functions_and_blocks:kiwi_bird", "miniboss_boss_bars:infernobossbarentity", "miniboss_boss_bars:tempestgolembossbarentity", "quark:toretoise", "ornamental:quartz_golem", "netherexp:wisp", "miniboss_boss_bars:stuntskeletonbossbarentity", "miniboss_boss_bars:yetibossbarentity", "miniboss_boss_bars:redstonepigmanmonstrositybossbarentity", "miniboss_boss_bars:animatedtemplebossbarentity", "goety:slime_servant", "aquaculture:tuna", "pet_cemetery:skeleton_parrot", "miniboss_boss_bars:cursebossbarentity", "k_turrets:gauss_turret", "bettas:tetra", "galosphere:specterpillar", "naturalist:deer", "enemyexpansion:vampbiter", "productivebees:hoarder_bee", "miniboss_boss_bars:freakagerbossbarentity", "collectorsreap:urchin", "autumnity:snail", "tropicraft:seahorse", "naturaldecormod:red_wind_spinner", "atlantis:atlantean_seahorse", "occultism:demonic_husband", "jeg:boo", "ars_nouveau:familiar_bookwyrm", "productivebees:blue_banded_bee", "ad_astra:lunarian", "minecraft:frog", "spawn:snail", "jitl:spirit_crystal", "twilightforest:deer", "legendary_monsters:guard", "rainbowreef:goby", "yungscavebiomes:sand_snapper", "landsoficaria:nature_jellyfish", "dummmmmmy:target_dummy", "legendarycreatures:bullfrog", "irons_spellbooks:wisp", "goety:phantom_servant", "pneumaticcraft:collector_drone", "upgrade_aquatic:cassiopea_jellyfish", "legendarycreatures:hound", "twilightforest:squirrel", "occultism:cthulhu_familiar", "goety:totemic_wall", "goety:tropical_slime_servant", "occultism:beaver_familiar", "miniboss_boss_bars:cloggerbossbarentity", "aether:cloud_minion", "occultism:otherworld_bird", "hexerei:crow", "atlantis:coconut_crab", "miniboss_boss_bars:archillagerbossbarentity", "productivebees:configurable_bee", "ars_fauna:chefbuncle", "ars_nouveau:blazing_weald_walker", "aquaculture:smallmouth_bass", "miniboss_boss_bars:magispellerbossbarentity", "pet_cemetery:zombie_wolf", "pet_cemetery:skeleton_cat", "decodesign_functions_and_blocks:manul", "mekanism:robit", "miniboss_boss_bars:ignitedberserkerbossbarentity", "ars_elemental:firenando_familiar", "perfectplushies:wandering_plushie_trader", "upgrade_aquatic:pike", "bettas:snail", "ars_elemental:flashing_weald_walker", "aquaculture:minnow", "k_turrets:bullet_turret", "botanicpledge:yggdrasil_guardian", "ars_elemental:siren_entity", "miniboss_boss_bars:megablockbossbarentity", "miniboss_boss_bars:centipedeevictorbossbarentity", "miniboss_boss_bars:gazenbreacherbossbarentity", "totemic:buffalo", "occultism:dragon_familiar", "aether:aechor_plant", "goety:redstone_golem", "goety:snapper", "ars_fauna:shellbuncle", "bosses_of_mass_destruction:lich", "wither_spawn_animation:animated_altar", "goety:zombie_villager_servant", "sculkhorde:sculk_pufferfish", "bettas:clownfish", "occultism:headless_familiar", "mowziesmobs:grottol", "undergarden:smog_mog", "landsoficaria:sow", "biomancy:primordial_flesh_blob", "blue_skies:crogre", "aquaculture:red_shrooma", "wither_spawn_animation:animated_altar_bygone_nether", "kobolds:kobold", "productivebees:cupid_bee", "mowziesmobs:baby_foliaath", "minecraft:goat", "beastly_beacons:evil_ultimate_forcefield", "farmingforblockheads:merchant", "aquaculture:gar", "goety:skeleton_pillager", "netherdepthsupgrade:soulsucker", "mutantmonsters:spider_pig", "palegardenbackport:creaking", "goety:stray_servant", "inventorypets:steve_ballmer_entity", "k_turrets:brick_drone", "beastly_beacons:friendly_ultimate_forcefield", "beastly_beacons:evil_beacon_beam", "naturaldecormod:platinum_ogon_koi", "ars_nouveau:familiar_drygmy", "bettas:isopod", "ornamental:emerald_golem", "naturalist:bluejay", "upgrade_aquatic:lionfish", "minecraft:snow_golem", "miniboss_boss_bars:apothecaristbossbarentity", "outer_end:spectrafly", "pet_cemetery:zombie_cat", "ars_nouveau:flourishing_weald_walker", "ars_elemental:summon_strider", "occultism:demonic_wife", "rainbowreef:pipefish", "miniboss_boss_bars:lavaeaterbossbarentity", "beastly_beacons:evil_medium_forcefield", "voidscape:corrupted_pawn", "irons_spellbooks:pyromancer", "pneumaticcraft:drone", "miniboss_boss_bars:viraicochabossbarentity", "rainbowreef:clownfish", "goety:zombie_vindicator", "aquaculture:box_turtle", "bettas:filefish", "miniboss_boss_bars:lightningchaserbossbarentity", "miniboss_boss_bars:warpedspitterbossbarentity", "tropicraft:green_basilisk_lizard", "miniboss_boss_bars:elderguardianbossbarentity", "samurai_dynasty:tanuki", "inventorypets:bill_gates_entity", "collectorsreap:clam", "farlanders:farlander", "geosmelt:starcinium_golem", "pneumaticcraft:logistics_drone", "deep_aether:aerglow_fish", "ars_nouveau:summon_horse", "miniboss_boss_bars:treeentbossbarentity", "miniboss_boss_bars:arachnebossbarentity", "mutantmonsters:creeper_minion", "occultism:devil_familiar", "aquaculture:pollock", "naturaldecormod:bluegill", "ornamental:netherite_golem", "miniboss_boss_bars:captainrevenantbossbarentity", "tropicraft:brown_basilisk_lizard", "beastly_beacons:friendly_strong_forcefield", "ornamental:hay_golem", "irons_spellbooks:firefly_swarm", "miniboss_boss_bars:coralssusbossbarentity", "aether:aerwhale", "ornamental:amethyst_golem", "tropicraft:spider_monkey", "aquaculture:capitaine", "productivebees:collector_bee", "occultism:deer_familiar", "farlanders:enderminion", "bettas:seaslug", "ars_nouveau:bookwyrm", "minecraft:zombie_horse", "goety:wavewhisperer", "minecraft:camel", "legendarycreatures:forest_mojo", "miniboss_boss_bars:archevokerbossbarentity", "miniboss_boss_bars:steelboarbossbarentity", "k_turrets:arrow_drone", "blue_skies:crystal_camel", "ars_nouveau:summon_wolf", "miniboss_boss_bars:axethrowerbossbarentity", "miniboss_boss_bars:igneorobofelinebossbarentity", "minecraft:ocelot", "miniboss_boss_bars:ancientguardiannbossbarentity", "minecraft:wolf", "aether:phyg", "tropicraft:tropical_fish", "sculkhorde:infestation_purifier", "goety:squall_golem", "farlanders:elder_farlander"]
+	#Any of the following 
+	#[ATTRIBUTES, ARMOR, HELDITEMS, BLOCKBREAK, USEITEM, LADDER, STEAL, GUARDIAN, PARROT, TARGETVILLAGER, NEUTRALAGGRO, PEHKUI]
+	#added here will disable that feature completely.
+	#E.g. ["GUARDIAN"] will disable the guardian feature
+	"Flag Blacklist" = []
+	#Treat ATTRIBUTES flags as whitelist
+	"Attribute Whitelist" = false
+	#Treat ARMOR flags as whitelist
+	"Armor Equip Whitelist" = false
+	#Treat HELDITEMS flags as whitelist
+	"Held Equip Whitelist" = false
+	#Treat BLOCKBREAK flags as whitelist
+	"Breaker Whitelist" = false
+	#Treat USEITEM flags as whitelist
+	"Use Flag Whitelist" = false
+	#Treat LADDER flags as whitelist
+	"Ladder Whitelist" = false
+	#Treat STEAL flags as whitelist
+	"Steal Whitelist" = false
+	#Treat GUARDIAN flags as whitelist
+	"Guardian Whitelist" = false
+	#Treat PARROT flags as whitelist
+	"Phantom Whitelist" = false
+	#Treat TARGETVILLAGER flags as whitelist
+	"Villager Whitelist" = false
+	#Treat NEUTRALAGGRO flags as whitelist
+	"Neutral Aggro Whitelist" = false
+	#Treat PEHKUI flags as whitelist (Needs pehkui installed)
+	"Pehkui Whitelist" = false
+
+#Settings for mod integration
+[integration]
+	#Should the scaling health mods difficulty system be used instead of this ones. (Requires scaling health mod)
+	#Allowed Values: OFF, ON, ADD
+	"Use Scaling Health Mod" = "ON"
+	#If true and playerEx is installed will use the level from playerEx as difficulty
+	#Allowed Values: OFF, ON, ADD
+	"Use Player EX Mod" = "ON"
+	#Scaling for playerEX integration
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"PlayerEX Scaling" = 1.0
+	#If true and LevelZ is installed will use the the total skill level from LevelZ as difficulty
+	#Allowed Values: OFF, ON, ADD
+	"Use LevelZ Mod" = "ON"
+	#Scaling for LevelZ integration
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"LevelZ Scaling" = 1.0
+	#Using pehkui to vary the size of mobs
+	"Use pehkui Mod" = false
+	#The Max scale of mobs. Range [1.0,10], default 2.0
+	#Range: 1.0 ~ 10.0
+	"Max size Multiplier" = 2.0
+	#The Minimum scale of mobs. Range (0,1.0), default 0.5
+	#Range: 0.0 ~ 1.0
+	"Minimum size Multiplier" = 0.5
+	#Chance that a mob will be affected by size changes
+	#Range: 0.0 ~ 1.0
+	"Size Chance" = 0.5
+
+#Settings regarding custom ai for mobs
+[ai]
+	#Whitelist for blocks, which can be actively broken. 
+	#Usage: id|namespace|#tag. Put "!" infront to exclude blocks. E.g. "minecraft", "minecraft:dirt" or "#minecraft:planks"
+	#Note: If you include common blocks (like grass blocks) the pathfinding can have undesirable results.
+	"Block Break Whitelist" = ["#forge:glass", "#forge:glass_panes", "#minecraft:fence_gates", "#forge:fence_gates", "#minecraft:wooden_doors"]
+	#Treat Block Whitelist as Blocklist
+	"Breaklist as Blacklist" = false
+	#Use the block breaking sound instead of a knocking sound
+	Sound = false
+	#Chance for a mob to be able to break blocks
+	#Range: 0.0 ~ 1.0
+	"Breaker Chance" = 0.30000001192092896
+	#Initial cooldown for block breaking mobs
+	#Range: > 0
+	"Breaker Initial Cooldown" = 120
+	#Cooldown for breaking blocks
+	#Range: > 0
+	"Breaker Cooldown" = 20
+	#By default mobs can only break the block they can harvest with the current tool they holding. Set this to true to disable that check (The block will not drop if they cant harvest it though!).
+	"Ignore Harvest Check" = false
+	#Blocks will be restored after x ticks being broken. If set to 0 will never restore
+	#This will not restore block entity data!
+	#Range: > 0
+	"Restore delay" = 0
+	#If mobs should break blocks when not chasing a target
+	"Idle Break" = false
+	#Chance a breaker mob to ignore line of sight
+	#Range: 0.0 ~ 1.0
+	"Breaker Sight Ignore" = 0.5
+	#A modifier to the breaking speed
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"Breaking Speed Base" = 1.0
+	#Addition to breaking speed modifier based on difficulty.
+	#Final modifier is base + addition * difficulty
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"Breaking Speed Add" = 0.0
+	#Chance for a mob to be able to steal items from inventory blocks
+	#Range: 0.0 ~ 1.0
+	"Stealer Chance" = 0.30000001192092896
+	#List of blocks mobs shouldn't steal from. You can also add a modid to blacklist whole mods
+	"Steal Block Blacklist" = []
+	#Items which will be given to mobs who can break blocks. Empty list = no items. Syntax: id;weight
+	#Note: Mobs can only break blocks if the tool they are holding can break the blocks
+	"Breaking items" = ["minecraft:diamond_pickaxe;1", "minecraft:iron_axe;2"]
+	#Should mobs be able to break block entities? Evaluated before the break list
+	"Break BlockEntities" = true
+	#Chance for neutral mobs to be aggressive
+	#Range: 0.0 ~ 1.0
+	"Neutral Aggressive Chance" = 0.05000000074505806
+	#List for of pairs containing which mobs auto target others. Syntax is [mob id]-[mob id] where second value is the target.
+	# e.g. minecraft:zombie-minecraft:skeleton makes all zombies target skeletons
+	"Auto Target List" = []
+	#Difficulty at which mobs are able to break blocks
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"Difficulty Break AI" = 0.0
+	#Difficulty at which mobs are able to steal items
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"Difficulty Steal AI" = 0.0
+	#Chance for mobs to be able to summon an aquatic mount
+	#Range: 0.0 ~ 1.0
+	"Guardian Chance" = 0.5
+	#Chance for mobs to be able to summon a flying mount
+	#Range: 0.0 ~ 1.0
+	"Phantom Chance" = 0.5
+	#Set this to true to allow tnt thrown by mobs to destroy blocks
+	"TNT Block Destruction" = false
+	#Chance for a mob to ignore line of sight
+	#This config ONLY affects villager target, neutral aggressive and auto targeting feature
+	#Range: 0.0 ~ 1.0
+	"Generic Sight Ignore" = 0.5
+
+#Configs regarding mobs spawning with equipment
+[equipment]
+	#Blacklist items from whole mods. Add modid to prevent items from that mod being equipped. (For individual items use the equipment.json)
+	"Item Blacklist" = []
+	#Use blacklist as whitelist
+	"Item Whitelist" = false
+	#Blacklist for items mobs should never be able to use.
+	#Use as in using the item similar to players (e.g. shooting bows)
+	"Item Use Blacklist" = ["bigbrain:buckler"]
+	#Turn the use blacklist into a whitelist
+	"Item Use Whitelist" = false
+	#Blacklist for specific mobs and items they shouldnt use (e.g. skeletons already use bows)
+	#<entity registry name-item>
+	#For different items but same entity use multiple lines
+	#Some special names are BOW, TRIDEN, CROSSBOW refering to every bow/trident/crossbow item (So you dont need to type e.g. every bow item)
+	"Entity Item Use Blacklist" = ["minecraft:drowned;TRIDENT", "minecraft:illusioner;BOW", "minecraft:piglin;CROSSBOW", "minecraft:pillager;CROSSBOW", "minecraft:skeleton;BOW", "minecraft:snow_golem;minecraft:snowball", "minecraft:stray;BOW", "minecraft:wither_skeleton;BOW"]
+	#Base chance that a mob can have one piece of armor
+	#Range: 0.0 ~ 1.0
+	"Equipment Chance" = 0.10000000149011612
+	#Base chance for each additional armor pieces
+	#Range: 0.0 ~ 1.0
+	"Additional Equipment Chance" = 0.30000001192092896
+	#Adds additional x*difficulty% to base equip chance
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"Equipment Addition" = 0.30000001192092896
+	#Chance for an equipment to have a random armor trim
+	#Range: 0.0 ~ 1.0
+	"Armor Trim Chance" = 0.05000000074505806
+	#Chance for mobs to have a weapon
+	#Range: 0.0 ~ 1.0
+	"Weapon Chance" = 0.5
+	#Adds additional x*difficulty% to base weapon chance
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"Weapon Chance Add" = 0.30000001192092896
+	#Base chance for each armor pieces to get enchanted
+	#Range: 0.0 ~ 1.0
+	"Enchanting Chance" = 0.20000000298023224
+	#Adds additional x*difficulty% to base enchanting chance
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"Enchanting Addition" = 0.20000000298023224
+	#Specify min and max enchanting levels according to difficulty. difficulty-minLevel-maxLevel
+	"Enchanting Calc" = ["0.0-5-10", "25.0-5-15", "50.0-10-17", "100.0-15-25", "200.0-20-30", "250.0-30-35"]
+	#Blacklist enchantments from being applied to equipments
+	"Enchanting Blacklist" = []
+	#Turn the enchant blacklist to a whitelist
+	"Enchanting Whitelist" = false
+	#Chance for mobs to have an item in offhand
+	#Range: 0.0 ~ 1.0
+	"Item Equip Chance" = 0.5
+	#Adds additional x*difficulty% to base item chance
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"Item Chance add" = 0.20000000298023224
+	#Should mobs drop the armor equipped through this mod? Will not change drops if the mob obtained the armor through other means (e.g. vanilla)
+	"Should drop equipment" = false
+
+#Settings for attribute modifiers
+[attributes]
+	#Health will be multiplied by 1 + difficulty*0.016*x. Set to 0 to disable
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"Health Increase Multiplier" = 1.0
+	#Health will be multiplied by at maximum this. Set to 0 means no limit
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"Max Health Increase" = 5.0
+	#Round health to the nearest x. Set to 0 to disable
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"Round HP" = 0.5
+	#Damage will be multiplied by 1 + difficulty*0.008*x. Set to 0 to disable
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"Damage Increase Multiplier" = 1.0
+	#Damage will be multiplied by at maximum this. Set to 0 means no limit
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"Max Damage Increase" = 3.0
+	#Speed will be increased by difficulty*0.0008*x. Set to 0 to disable
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"Speed Increase" = 1.0
+	#Maximum increase in speed
+	#Range: 0.0 ~ 1.0
+	"Max Speed" = 0.1
+	#Knockback will be increased by difficulty*0.002*x. Set to 0 to disable
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"Knockback Increase" = 1.0
+	#Maximum increase in knockback
+	#Range: 0.0 ~ 1.0
+	"Max Knockback" = 0.5
+	#Magic resistance will be increased by difficulty*0.0016*x. Set to 0 to disable
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"Magic Resistance Increase" = 1.0
+	#Maximum increase in magic resistance. Magic reduction is percentage
+	#Range: 0.0 ~ 1.0
+	"Max Magic Resistance" = 0.4000000059604645
+	#Projectile Damage will be multiplied by 1 + difficulty*0.008*x. Set to 0 to disable
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"Projectile Damage Increase" = 1.0
+	#Projectile damage will be multiplied by maximum of this
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"Max Projectile Damage" = 2.0
+	#Explosion Damage will be multiplied by 1 + difficulty*0.003*x. Set to 0 to disable
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"Explosion Damage Increase" = 1.0
+	#Explosion damage will be multiplied by maximum of this
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"Max Explosion Damage" = 1.75
+

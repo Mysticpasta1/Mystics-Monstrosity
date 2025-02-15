@@ -1,0 +1,17 @@
+
+#Sound settings
+[soundSettings]
+	#Default: true. Whether a Forge should play sounds.
+	forgeSounds = true
+	#Default: true. Whether a Grinder should play sounds.
+	grinderSounds = true
+	#Default: true. Whether a Kettle should play sounds.
+	kettleSounds = true
+	#Default: true. Whether a Kiln should play sounds.
+	kilnSounds = true
+
+#Spawn settings
+[spawnSettings]
+	#Default: true. Whether arachnids should spawn.
+	spawnArachnids = true
+

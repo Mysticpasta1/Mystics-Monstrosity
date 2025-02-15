@@ -1,0 +1,10 @@
+// Compost colors for bellsandwhistles. You may add your own colors, change existing ones, or remove colors that aren't needed.
+andesite_bogie_steps, #9ea5a0
+andesite_door_step, #9ba29d
+andesite_grab_rails, #a1a8a2
+brass_bogie_steps, #ffde83
+brass_door_step, #ffd27d
+brass_grab_rails, #ffe686
+copper_bogie_steps, #f7806c
+copper_door_step, #f57f6c
+copper_grab_rails, #fc836f

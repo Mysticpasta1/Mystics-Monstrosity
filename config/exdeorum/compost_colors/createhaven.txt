@@ -1,0 +1,10 @@
+// Compost colors for createhaven. You may add your own colors, change existing ones, or remove colors that aren't needed.
+blaze_dust, #ffc04e
+coal_dust, #767579
+diamond_dust, #70eee7
+emerald_dust, #72e487
+gold_dust, #ffd747
+iron_dust, #cacaca
+lapis_dust, #4e80e6
+netherite_dust, #5e585a
+quartz_dust, #fbebe4

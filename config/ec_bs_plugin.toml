@@ -1,0 +1,666 @@
+[bluebrightPlank]
+equipSound = "minecraft:item.armor.equip_generic"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[bluebrightPlank.durability]
+toolDurability = 59
+bowDurability = 0
+addedShieldDurability = 40
+
+[bluebrightPlank.enchanting]
+offenseEnchantability = 15
+defenseEnchantability = 0
+
+[bluebrightPlank.offense]
+addedAttackDamage = 0.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[bluebrightPlank.defense]
+gauntletArmorAmount = 0
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 2.5
+afterBasePercentReduction = 0.3
+
+[bluebrightPlank.crafting]
+repairItem = ["blue_skies:bluebright_planks"]
+craftingItem = ""
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[starlitPlank]
+equipSound = "minecraft:item.armor.equip_generic"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[starlitPlank.durability]
+toolDurability = 59
+bowDurability = 0
+addedShieldDurability = 40
+
+[starlitPlank.enchanting]
+offenseEnchantability = 15
+defenseEnchantability = 0
+
+[starlitPlank.offense]
+addedAttackDamage = 0.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[starlitPlank.defense]
+gauntletArmorAmount = 0
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 2.5
+afterBasePercentReduction = 0.3
+
+[starlitPlank.crafting]
+repairItem = ["blue_skies:starlit_planks"]
+craftingItem = ""
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[frostbrightPlank]
+equipSound = "minecraft:item.armor.equip_generic"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[frostbrightPlank.durability]
+toolDurability = 59
+bowDurability = 0
+addedShieldDurability = 40
+
+[frostbrightPlank.enchanting]
+offenseEnchantability = 15
+defenseEnchantability = 0
+
+[frostbrightPlank.offense]
+addedAttackDamage = 0.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[frostbrightPlank.defense]
+gauntletArmorAmount = 0
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 2.5
+afterBasePercentReduction = 0.3
+
+[frostbrightPlank.crafting]
+repairItem = ["blue_skies:frostbright_planks"]
+craftingItem = ""
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[lunarPlank]
+equipSound = "minecraft:item.armor.equip_generic"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[lunarPlank.durability]
+toolDurability = 59
+bowDurability = 0
+addedShieldDurability = 40
+
+[lunarPlank.enchanting]
+offenseEnchantability = 15
+defenseEnchantability = 0
+
+[lunarPlank.offense]
+addedAttackDamage = 0.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[lunarPlank.defense]
+gauntletArmorAmount = 0
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 2.5
+afterBasePercentReduction = 0.3
+
+[lunarPlank.crafting]
+repairItem = ["blue_skies:lunar_planks"]
+craftingItem = ""
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[duskPlank]
+equipSound = "minecraft:item.armor.equip_generic"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[duskPlank.durability]
+toolDurability = 59
+bowDurability = 0
+addedShieldDurability = 40
+
+[duskPlank.enchanting]
+offenseEnchantability = 15
+defenseEnchantability = 0
+
+[duskPlank.offense]
+addedAttackDamage = 0.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[duskPlank.defense]
+gauntletArmorAmount = 0
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 2.5
+afterBasePercentReduction = 0.3
+
+[duskPlank.crafting]
+repairItem = ["blue_skies:dusk_planks"]
+craftingItem = ""
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[maplePlank]
+equipSound = "minecraft:item.armor.equip_generic"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[maplePlank.durability]
+toolDurability = 59
+bowDurability = 0
+addedShieldDurability = 40
+
+[maplePlank.enchanting]
+offenseEnchantability = 15
+defenseEnchantability = 0
+
+[maplePlank.offense]
+addedAttackDamage = 0.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[maplePlank.defense]
+gauntletArmorAmount = 0
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 2.5
+afterBasePercentReduction = 0.3
+
+[maplePlank.crafting]
+repairItem = ["blue_skies:maple_planks"]
+craftingItem = ""
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[cometPlank]
+equipSound = "minecraft:item.armor.equip_generic"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[cometPlank.durability]
+toolDurability = 100
+bowDurability = 0
+addedShieldDurability = 70
+
+[cometPlank.enchanting]
+offenseEnchantability = 15
+defenseEnchantability = 0
+
+[cometPlank.offense]
+addedAttackDamage = 0.5
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[cometPlank.defense]
+gauntletArmorAmount = 0
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 3.0
+afterBasePercentReduction = 0.35
+
+[cometPlank.crafting]
+repairItem = ["blue_skies:comet_planks"]
+craftingItem = ""
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[lunarStone]
+equipSound = "minecraft:item.armor.equip_generic"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[lunarStone.durability]
+toolDurability = 131
+bowDurability = 0
+addedShieldDurability = 0
+
+[lunarStone.enchanting]
+offenseEnchantability = 5
+defenseEnchantability = 0
+
+[lunarStone.offense]
+addedAttackDamage = 1.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[lunarStone.defense]
+gauntletArmorAmount = 0
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 0.0
+afterBasePercentReduction = 0.0
+
+[lunarStone.crafting]
+repairItem = ["blue_skies:lunar_cobblestone"]
+craftingItem = ""
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[turquoise]
+equipSound = "minecraft:item.armor.equip_generic"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[turquoise.durability]
+toolDurability = 131
+bowDurability = 0
+addedShieldDurability = 0
+
+[turquoise.enchanting]
+offenseEnchantability = 5
+defenseEnchantability = 0
+
+[turquoise.offense]
+addedAttackDamage = 1.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[turquoise.defense]
+gauntletArmorAmount = 0
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 0.0
+afterBasePercentReduction = 0.0
+
+[turquoise.crafting]
+repairItem = ["blue_skies:turquoise_cobblestone"]
+craftingItem = ""
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[crystallizedPlank]
+equipSound = "minecraft:item.armor.equip_generic"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[crystallizedPlank.durability]
+toolDurability = 131
+bowDurability = 0
+addedShieldDurability = 0
+
+[crystallizedPlank.enchanting]
+offenseEnchantability = 5
+defenseEnchantability = 0
+
+[crystallizedPlank.offense]
+addedAttackDamage = 1.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[crystallizedPlank.defense]
+gauntletArmorAmount = 0
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 0.0
+afterBasePercentReduction = 0.0
+
+[crystallizedPlank.crafting]
+repairItem = ["blue_skies:crystallized_planks"]
+craftingItem = ""
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[pyrope]
+equipSound = "minecraft:item.armor.equip_iron"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[pyrope.durability]
+toolDurability = 200
+bowDurability = 0
+addedShieldDurability = 152
+
+[pyrope.enchanting]
+offenseEnchantability = 10
+defenseEnchantability = 12
+
+[pyrope.offense]
+addedAttackDamage = 1.5
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[pyrope.defense]
+gauntletArmorAmount = 1
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 2.4324324
+afterBasePercentReduction = 0.3445946
+
+[pyrope.crafting]
+repairItem = ["blue_skies:pyrope_gem"]
+craftingItem = ""
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[aquite]
+equipSound = "minecraft:item.armor.equip_iron"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[aquite.durability]
+toolDurability = 270
+bowDurability = 0
+addedShieldDurability = 152
+
+[aquite.enchanting]
+offenseEnchantability = 32
+defenseEnchantability = 9
+
+[aquite.offense]
+addedAttackDamage = 2.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[aquite.defense]
+gauntletArmorAmount = 2
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 2.4324324
+afterBasePercentReduction = 0.3445946
+
+[aquite.crafting]
+repairItem = ["blue_skies:aquite"]
+craftingItem = ""
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[horizonite]
+equipSound = "minecraft:item.armor.equip_gold"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[horizonite.durability]
+toolDurability = 250
+bowDurability = 0
+addedShieldDurability = 152
+
+[horizonite.enchanting]
+offenseEnchantability = 10
+defenseEnchantability = 12
+
+[horizonite.offense]
+addedAttackDamage = 2.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[horizonite.defense]
+gauntletArmorAmount = 1
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 2.4324324
+afterBasePercentReduction = 0.3445946
+
+[horizonite.crafting]
+repairItem = ["blue_skies:horizonite_ingot"]
+craftingItem = ""
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[diopside]
+equipSound = "minecraft:item.armor.equip_diamond"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[diopside.durability]
+toolDurability = 1661
+bowDurability = 0
+addedShieldDurability = 152
+
+[diopside.enchanting]
+offenseEnchantability = 14
+defenseEnchantability = 9
+
+[diopside.offense]
+addedAttackDamage = 5.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[diopside.defense]
+gauntletArmorAmount = 2
+armorToughness = 4.5
+knockbackResistance = 0.0
+baseProtectionAmmount = 5.837838
+afterBasePercentReduction = 0.8270271
+
+[diopside.crafting]
+repairItem = ["blue_skies:diopside_gem"]
+craftingItem = ""
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[charoite]
+equipSound = "minecraft:item.armor.equip_diamond"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[charoite.durability]
+toolDurability = 1561
+bowDurability = 0
+addedShieldDurability = 334
+
+[charoite.enchanting]
+offenseEnchantability = 10
+defenseEnchantability = 10
+
+[charoite.offense]
+addedAttackDamage = 3.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[charoite.defense]
+gauntletArmorAmount = 3
+armorToughness = 2.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 5.3513513
+afterBasePercentReduction = 0.75810814
+
+[charoite.crafting]
+repairItem = ["blue_skies:charoite"]
+craftingItem = ""
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[foxPelt]
+equipSound = "minecraft:item.armor.equip_leather"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[foxPelt.durability]
+toolDurability = 0
+bowDurability = 0
+addedShieldDurability = 92
+
+[foxPelt.enchanting]
+offenseEnchantability = 0
+defenseEnchantability = 15
+
+[foxPelt.offense]
+addedAttackDamage = 0.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[foxPelt.defense]
+gauntletArmorAmount = 1
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 3.0
+afterBasePercentReduction = 0.35
+
+[foxPelt.crafting]
+repairItem = ["blue_skies:fox_pelt"]
+craftingItem = ""
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[moonstoneShield]
+equipSound = "minecraft:item.armor.equip_generic"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[moonstoneShield.durability]
+toolDurability = 0
+bowDurability = 0
+addedShieldDurability = 100
+
+[moonstoneShield.enchanting]
+offenseEnchantability = 0
+defenseEnchantability = 0
+
+[moonstoneShield.offense]
+addedAttackDamage = 0.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[moonstoneShield.defense]
+gauntletArmorAmount = 0
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 3.25
+afterBasePercentReduction = 0.5
+
+[moonstoneShield.crafting]
+repairItem = ["blue_skies:moonstone_shard"]
+craftingItem = "blue_skies:vitreous_moonstone"
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"
+[spikeShield]
+equipSound = "minecraft:item.armor.equip_generic"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[spikeShield.durability]
+toolDurability = 0
+bowDurability = 0
+addedShieldDurability = 170
+
+[spikeShield.enchanting]
+offenseEnchantability = 0
+defenseEnchantability = 0
+
+[spikeShield.offense]
+addedAttackDamage = 0.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[spikeShield.defense]
+gauntletArmorAmount = 0
+armorToughness = 0.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 4.5
+afterBasePercentReduction = 0.65
+
+[spikeShield.crafting]
+repairItem = [""]
+craftingItem = ""
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"

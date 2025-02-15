@@ -1,0 +1,13 @@
+
+#Misc Ring Settings
+[misc_ring_settings]
+	#Ring of Growth base tick delay [default: 20]
+	#Range: 10 ~ 120
+	ringGrowthTickDelay = 20
+	#Ring of Growth radius from player [default: 10]
+	#Range: 2 ~ 20
+	ringGrowthRadius = 10
+	#Ring of Growth vertical from player [default: 5]
+	#Range: 3 ~ 25
+	ringGrowthVertical = 5
+

@@ -1,0 +1,4 @@
+// Compost colors for redstonepen. You may add your own colors, change existing ones, or remove colors that aren't needed.
+pen, #a1736e
+quill, #e3d3d3
+track, #b50b04

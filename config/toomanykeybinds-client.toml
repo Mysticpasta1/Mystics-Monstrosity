@@ -1,0 +1,11 @@
+
+["Too Many Keybinds Configuration"]
+	#Cancel Delay(Seconds) - Applies if auto key press is off
+	#Range: 1 ~ 60
+	cancel_delay = 5
+
+	["Too Many Keybinds Configuration".auto_press]
+		#Automatic Key Press or User Requested Key Press
+		auto_key_press = false
+		lock_value_on_startup = false
+

@@ -1,0 +1,97 @@
+
+#Golden Mechanical Hammer
+[golden_mechanical_hammer]
+	#Adjust the speed of the mechanical hammer. Each value increases the hammer's efficiency by 0.1. For example, a Diamond Hammer takes 5 seconds to crush; setting the value to 10 will make it take 4 seconds.
+	#Range: > 0
+	golden_mechanical_hammer_speed = 10
+	#The amount of FE/t a tick consumed by the mechanical hammer when crushing a block.
+	#Range: > 1
+	golden_mechanical_hammer_energyConsumption = 40
+	#The amount of FE the golden mechanical hammer can store.
+	#Range: > 1
+	golden_mechanical_hammer_energyStorage = 60000
+
+#Diamond Mechanical Hammer
+[diamond_mechanical_hammer]
+	#Adjust the speed of the mechanical hammer. Each value increases the hammer's efficiency by 0.1. For example, a Diamond Hammer takes 5 seconds to crush; setting the value to 10 will make it take 4 seconds.
+	#Range: > 0
+	diamond_mechanical_hammer_speed = 25
+	#The amount of FE/t a tick consumed by the mechanical hammer when crushing a block.
+	#Range: > 1
+	diamond_mechanical_hammer_energyConsumption = 60
+	#The amount of FE the diamond mechanical hammer can store.
+	#Range: > 1
+	diamond_mechanical_hammer_energyStorage = 100000
+
+#Netherite Mechanical Hammer
+[netherite_mechanical_hammer]
+	#Adjust the speed of the mechanical hammer. Each value increases the hammer's efficiency by 0.1. For example, a Diamond Hammer takes 5 seconds to crush; setting the value to 10 will make it take 4 seconds.
+	#Range: > 0
+	netherite_mechanical_hammer_speed = 50
+	#The amount of FE/t a tick consumed by the mechanical hammer when crushing a block.
+	#Range: > 1
+	netherite_mechanical_hammer_energyConsumption = 100
+	#The amount of FE the netherite mechanical hammer can store.
+	#Range: > 1
+	netherite_mechanical_hammer_energyStorage = 150000
+
+#Creative Mechanical Hammer
+[creative_mechanical_hammer]
+	#Adjust the speed of the mechanical hammer. Each value increases the hammer's efficiency by 0.1. For example, a Diamond Hammer takes 5 seconds to crush; setting the value to 10 will make it take 4 seconds.
+	#Range: > 0
+	creative_mechanical_hammer_speed = 1000
+	#The amount of FE/t a tick consumed by the mechanical hammer when crushing a block.
+	#Range: > 1
+	creative_mechanical_hammer_energyConsumption = 1000
+	#The amount of FE the creative mechanical hammer can store.
+	#Range: > 1
+	creative_mechanical_hammer_energyStorage = 500000
+
+#Golden Mechanical Sieve
+[golden_mechanical_sieve]
+	#Adjust the speed of the mechanical sieve. The speed of Mechanical Sieve is 0.01.
+	#Range: 0.009999999776482582 ~ 1.7976931348623157E308
+	golden_mechanical_sieve_speed = 0.014999999664723873
+	#The amount of FE/t a tick consumed by the mechanical sieve when sifting.
+	#Range: > 1
+	golden_mechanical_sieve_energyConsumption = 40
+	#The amount of FE the golden mechanical sieve can store.
+	#Range: > 1
+	golden_mechanical_sieve_energyStorage = 60000
+
+#Diamond Mechanical Sieve
+[diamond_mechanical_sieve]
+	#Adjust the speed of the mechanical sieve. The speed of Mechanical Sieve is 0.01.
+	#Range: 0.009999999776482582 ~ 1.7976931348623157E308
+	diamond_mechanical_sieve_speed = 0.029999999329447746
+	#The amount of FE/t a tick consumed by the mechanical sieve when sifting.
+	#Range: > 1
+	diamond_mechanical_sieve_energyConsumption = 60
+	#The amount of FE the diamond mechanical sieve can store.
+	#Range: > 1
+	diamond_mechanical_sieve_energyStorage = 100000
+
+#Netherite Mechanical Sieve
+[netherite_mechanical_sieve]
+	#Adjust the speed of the mechanical sieve. The speed of Mechanical Sieve is 0.01.
+	#Range: 0.009999999776482582 ~ 1.7976931348623157E308
+	netherite_mechanical_sieve_speed = 0.05000000074505806
+	#The amount of FE/t a tick consumed by the mechanical sieve when sifting.
+	#Range: > 1
+	netherite_mechanical_sieve_energyConsumption = 100
+	#The amount of FE the netherite mechanical sieve can store.
+	#Range: > 1
+	netherite_mechanical_sieve_energyStorage = 150000
+
+#Creative Mechanical Sieve
+[creative_mechanical_sieve]
+	#Adjust the speed of the mechanical sieve. The speed of Mechanical Sieve is 0.01.
+	#Range: 0.009999999776482582 ~ 1.7976931348623157E308
+	creative_mechanical_sieve_speed = 0.5
+	#The amount of FE/t a tick consumed by the mechanical sieve when sifting.
+	#Range: > 1
+	creative_mechanical_sieve_energyConsumption = 1000
+	#The amount of FE the creative mechanical sieve can store.
+	#Range: > 1
+	creative_mechanical_sieve_energyStorage = 500000
+

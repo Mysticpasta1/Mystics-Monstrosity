@@ -1,0 +1,23 @@
+// Compost colors for ratatouille. You may add your own colors, change existing ones, or remove colors that aren't needed.
+cake_base, #fff19e
+cake_mold, #b2b2b2
+cake_mold_baked, #fbddb8
+cake_mold_filled, #f4ebde
+chef_hat, #e0e0e0
+chef_hat_with_goggles, #d7d4d3
+chocolate_mold, #9e9e9e
+chocolate_mold_filled, #bc9791
+chocolate_mold_solid, #d09a8d
+cocoa_butter, #ffffe3
+cocoa_liquor_bucket, #a0908c
+cocoa_powder, #af968a
+cocoa_solids, #be7f62
+dried_cocoa_beans, #5c4136
+dried_cocoa_nibs, #765748
+egg_shell, #dec8a0
+raw_sausage, #ffbcb1
+salt, #f5f5f8
+salty_dough, #ffffb5
+sausage, #d29076
+sausage_casing, #faffd4
+wheat_kernels, #ffed96

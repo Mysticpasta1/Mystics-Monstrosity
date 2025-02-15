@@ -1,0 +1,5 @@
+// Compost colors for mysticrift_blocks. You may add your own colors, change existing ones, or remove colors that aren't needed.
+amethystium, #f780eb
+blood_diamond, #ff3030
+emeraldite, #7dff97
+golden_harmony, #ffff3e

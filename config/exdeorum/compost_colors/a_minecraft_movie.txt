@@ -1,0 +1,4 @@
+// Compost colors for a_minecraft_movie. You may add your own colors, change existing ones, or remove colors that aren't needed.
+glass_grid, #614125
+hanging_light, #89612c
+shelf, #6f4011

@@ -1,0 +1,4 @@
+# How many items can be stacked on top of a bench? 0 means none.
+# Allowed range: 0 ~ 20 - Default: 4
+maxStackedItems = 4
+

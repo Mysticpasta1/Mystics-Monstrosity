@@ -1,0 +1,13 @@
+// Compost colors for quitepurposefulmod. You may add your own colors, change existing ones, or remove colors that aren't needed.
+cooked_goat_meat, #ac6850
+cooked_sniffer_steak, #a8664e
+diamond_battle_axe, #3aa584
+diamond_battle_axe_head, #29c2a7
+diamond_tool_fragment, #28b89d
+dolphin_fin, #9bbee3
+golden_beetroot, #eaa540
+heart_of_the_abyss, #c505e
+netherite_battle_axe, #6e525b
+raw_goat_meat, #ff685f
+raw_sniffer_steak, #ff584e
+sculk_crossbow, #545f65

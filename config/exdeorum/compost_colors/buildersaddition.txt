@@ -1,0 +1,5 @@
+// Compost colors for buildersaddition. You may add your own colors, change existing ones, or remove colors that aren't needed.
+crossrail, #b4a58c
+iron_ladder, #fbfbfb
+iron_ladder_rough, #686868
+iron_rod, #ffffff

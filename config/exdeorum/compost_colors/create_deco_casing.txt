@@ -1,0 +1,10 @@
+// Compost colors for create_deco_casing. You may add your own colors, change existing ones, or remove colors that aren't needed.
+andesite_alloy_block_door, #ffffff
+andesite_casing_door, #f7ebdd
+brass_casing_door, #f2dabf
+copper_casing_door, #ffe8e1
+experience_block_door, #a0ff8d
+industrial_iron_block_door, #e4e3e4
+refined_radiance_casing_door, #ffffff
+shadow_steel_casing_door, #cac9cf
+train_casing_door, #faedda

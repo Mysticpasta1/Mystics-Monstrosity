@@ -1,0 +1,18 @@
+// Compost colors for createframed. You may add your own colors, change existing ones, or remove colors that aren't needed.
+black_stained_framed_glass_door, #3c3c43
+blue_stained_framed_glass_door, #528df5
+brown_stained_framed_glass_door, #b67f5c
+cyan_stained_framed_glass_door, #2ce1e4
+gray_stained_framed_glass_door, #5f6f75
+green_stained_framed_glass_door, #2dae54
+light_blue_stained_framed_glass_door, #5bfbff
+light_gray_stained_framed_glass_door, #d0d0c5
+lime_stained_framed_glass_door, #86fe40
+magenta_stained_framed_glass_door, #ff89f8
+orange_stained_framed_glass_door, #ffcd4d
+pink_stained_framed_glass_door, #ffe7fc
+purple_stained_framed_glass_door, #dc70ff
+red_stained_framed_glass_door, #ee4a50
+tinted_framed_glass_door, #524755
+white_stained_framed_glass_door, #ffffff
+yellow_stained_framed_glass_door, #ffff57

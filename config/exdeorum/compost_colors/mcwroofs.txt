@@ -1,0 +1,3 @@
+// Compost colors for mcwroofs. You may add your own colors, change existing ones, or remove colors that aren't needed.
+rain_gutter, #c2d4f5
+roofing_hammer, #726c5f

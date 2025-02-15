@@ -1,0 +1,14 @@
+// Compost colors for mutantmonsters. You may add your own colors, change existing ones, or remove colors that aren't needed.
+creeper_minion_tracker, #ffffff
+creeper_shard, #3cae25
+endersoul_hand, #ffa2ff
+hulk_hammer, #869a80
+mutant_skeleton_arms, #ffffff
+mutant_skeleton_boots, #ffffff
+mutant_skeleton_chestplate, #a58e7f
+mutant_skeleton_leggings, #ffffff
+mutant_skeleton_limb, #ffffff
+mutant_skeleton_pelvis, #ffffff
+mutant_skeleton_rib, #ffffff
+mutant_skeleton_rib_cage, #ffffff
+mutant_skeleton_shoulder_pad, #ffffff

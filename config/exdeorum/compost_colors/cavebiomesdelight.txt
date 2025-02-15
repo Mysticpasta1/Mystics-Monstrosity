@@ -1,0 +1,20 @@
+// Compost colors for cavebiomesdelight. You may add your own colors, change existing ones, or remove colors that aren't needed.
+cooked_ice_cube, #b4edff
+cooked_sand_shapper, #c5b590
+cut_cooked_ice_cube, #aee8ff
+cut_cooked_sand_shapper, #b1a482
+cut_ice_cube, #c3f8ff
+cut_sand_shapper, #d9c89e
+frost_lily_ice_cream, #dad7ff
+frost_lily_punch, #ffffff
+glazed_frost_lily, #d9accd
+ice_cube, #cfffff
+icicle_juice, #e0ffff
+icicle_knife, #afcdff
+icicle_wrap, #f0d4a5
+prickly_peach_bun, #ffac50
+prickly_peach_cookie, #ffbb72
+prickly_peach_juice, #ffc5da
+prickly_peach_pie, #ffb282
+prickly_peach_porridge, #b15832
+sand_shapper, #ebd9ac

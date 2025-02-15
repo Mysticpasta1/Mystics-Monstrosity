@@ -1,0 +1,13 @@
+// Compost colors for allthearcanistgear. You may add your own colors, change existing ones, or remove colors that aren't needed.
+allthemodium_boots, #ffb82f
+allthemodium_hat, #ffeb43
+allthemodium_leggings, #ffe04e
+allthemodium_robes, #ffdc47
+unobtainium_boots, #8d40f5
+unobtainium_hat, #c876f8
+unobtainium_leggings, #bb6fff
+unobtainium_robes, #b466ff
+vibranium_boots, #209bb8
+vibranium_hat, #5fd7b6
+vibranium_leggings, #58cac2
+vibranium_robes, #5cbfc9

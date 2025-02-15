@@ -1,0 +1,103 @@
+
+#Options:
+[config]
+	#The crucible performs a stage of its calculations once every X game ticks. Lower numbers are more responsive, but laggier. [Default: 5]
+	#Range: 1 ~ 900
+	crucibleTickDelay = 5
+	#The crucible affect entities with an area of this radius. [Default: 12]
+	#Range: 2 ~ 64
+	crucibleRange = 12
+	#The crucible checks an area this many blocks in radius up to a few times a second. Do not set this too high. [Default: 6]
+	#Range: 2 ~ 64
+	areaMemoryRange = 6
+	#Certain effects might teleport entities if they are not in this blacklist. [Default: "minecraft:ender_dragon", "minecraft:wither", "minecraft:warden"]
+	doNotTeleport = ["minecraft:ender_dragon", "minecraft:wither", "minecraft:warden"]
+	#Whether acid should dissolve entity blocks. This would delete the contents of said blocks. [Default: false]
+	acidMeltBlockEntities = false
+	#Blocks with a base break time beyond this cannot be displaced or made to fall. For finer control, use the relevant block tags. [Default: 35.0]
+	#Range: 0.0 ~ 10000.0
+	maxMoveBlockBreakTime = 35.0
+	#The maximum number of blocks that can be displaced at once by a certain effect. [Default: 128]
+	#Range: 4 ~ 4096
+	maxDisplaceCount = 128
+	#The maximum distance that a block like Copper can convey a displacement pulse [Default: 8]
+	#Range: 1 ~ 4096
+	copperDisplaceConductRange = 8
+	#Whether to register the /reactive command on startup. [Default: true]
+	registerCommand = true
+	#This enables the GUI for Litmus Paper. Disabling it restores the original chat-based reporting. [Default: true]
+	litmusScreen = true
+
+	#Staff Balance:
+	[config.staff_balance]
+
+		#Range:
+		[config.staff_balance.range]
+			#The range to which the Blazing Staff of Power's fireballs are accurate. [Default: 24]
+			#Range: 4 ~ 1024
+			blazeStaffRange = 24
+			#The range of the Radiant Staff of Power. [Default: 64]
+			#Range: 4 ~ 1024
+			lightStaffRange = 64
+			#The range of the Arcane Staff of Power. [Default: 6]
+			#Range: 4 ~ 1024
+			mindStaffRange = 6
+			#The range of the Spectral Staff of Power. [Default: 16]
+			#Range: 4 ~ 1024
+			soulStaffRange = 16
+			#The size of the area of effect for the Living Staff of Power. [Default: 5]
+			#Range: 4 ~ 1024
+			vitalStaffRange = 5
+			#The range of the Warping Staff of Power. [Default: 12]
+			#Range: 4 ~ 1024
+			warpStaffRange = 12
+
+		#Frequency:
+		[config.staff_balance.frequency]
+			#The Radiant Staff of Power will activate every this many ticks while right click is held. [Default: 7]
+			#Range: 1 ~ 60
+			lightStaffFrequency = 7
+			#The Blazing Staff of Power will activate every this many ticks while right click is held. [Default: 10]
+			#Range: 1 ~ 60
+			blazeStaffFrequency = 10
+			#The Spectral Staff of Power will activate every this many ticks while right click is held. [Default: 14]
+			#Range: 1 ~ 60
+			soulStaffFrequency = 14
+			#The Arcane Staff of Power will activate every this many ticks while right click is held. [Default: 10]
+			#Range: 1 ~ 60
+			mindStaffFrequency = 10
+
+		#Effect Power:
+		[config.staff_balance.power]
+			#Blazing Staves of Power shoot fireballs that cause explosions of this size. If 0, uses a blaze-like not explosive fireball instead. [Default: 0]
+			#Range: 0 ~ 10
+			blazeStaffExplosionSize = 0
+			#Undead caught in the Radiant Staff of Power's beam will take this much fire damage each activation. [Default: 7.0]
+			#Range: 1.0 ~ 100.0
+			lightStaffPowerVsUndead = 7.0
+			#Whether the Radiant Staff of Power produces permanent light sources. When false, its lights will gradually vanish. [Default: true]
+			lightStaffLightsPermanent = true
+			#Each bolt from the Arcane Staff of Power will do this much magic damage. [Default: 2.0]
+			#Range: 1.0 ~ 100.0
+			mindStaffPower = 2.0
+			#The maximum number of bolts that the Arcane Staff of Power can hit a single target with each activation. [Default: 2]
+			#Range: 1 ~ 40
+			mindStaffMaxHits = 2
+			#How many missiles the Arcane Staff of Power shoots each activation. [Default: 4]
+			#Range: 1 ~ 20
+			mindStaffBaseMissiles = 4
+			#How many TOTAL missiles the Arcane Staff of Power shoots each activation while enchanted with Wide Range. Recommended to be higher than the prior key. [Default: 7]
+			#Range: 2 ~ 40
+			mindStaffEnchantedMissiles = 7
+			#Living entities within the Spectral Staff of Power's area of effect will take this much magic damage each activation. [Default: 3.0]
+			#Range: 1.0 ~ 100.0
+			soulStaffPower = 4.0
+			#The Vital Staff of Power gives this level of Health Boost to affected entities. [Default: 3]
+			#Range: 1 ~ 5
+			vitalStaffHealthBoost = 3
+			#The Vital Staff of Power gives this level of Regeneration to affected entities. [Default: 3]
+			#Range: 1 ~ 5
+			vitalStaffRegeneration = 3
+			#Whether the Warping Staff of Power can bind to players. If allowed, this means one can teleport players with no warning from across the map once bound. [Default: false]
+			warpStaffAffectsPlayers = false
+

@@ -1,0 +1,9 @@
+// Compost colors for morebows. You may add your own colors, change existing ones, or remove colors that aren't needed.
+diamond_bow, #479082
+ender_bow, #6f8c65
+flame_bow, #a54a11
+frost_bow, #64c0b6
+gold_bow, #989348
+iron_bow, #909090
+multi_bow, #948c86
+stone_bow, #786544

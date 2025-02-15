@@ -1,0 +1,7 @@
+// Compost colors for arts_and_crafts_compat. You may add your own colors, change existing ones, or remove colors that aren't needed.
+gilded_finale_pottery_sherd, #d39346
+gilded_gateway_pottery_sherd, #ca8446
+gilded_roll_pottery_sherd, #c9864a
+gilded_ruined_pottery_sherd, #bb7346
+short_cork_door, #d2844b
+tall_cork_door, #d0844b

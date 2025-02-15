@@ -1,0 +1,26 @@
+// Compost colors for enigmaticaddons. You may add your own colors, change existing ones, or remove colors that aren't needed.
+adventure_charm, #6b785c
+antique_bag, #3c3c5f
+astral_potion, #ffffff
+bless_amplifier, #c0876f
+bless_ring, #b87852
+bless_stone, #a87d4b
+cursed_xp_scroll, #297c43
+disaster_sword, #836951
+dragon_bow, #842ca7
+earth_heart_fragment, #6c9191
+earth_promise, #ca913e
+etherium_core, #4654d
+evil_dagger, #642aab
+forger_gem, #6c9790
+forgotten_ice, #51cdeb
+hell_blade_charm, #ae3628
+ichor_droplet, #ee9852
+ichoroot, #e38c50
+lost_engine, #d97040
+night_scroll, #615f70
+pure_heart, #a58654
+quartz_ring, #abb1cc
+revival_leaf, #516e15
+thunder_scroll, #919194
+totem_of_malice, #654a7f

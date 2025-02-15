@@ -1,0 +1,61 @@
+{
+    "powderedSnowConfig": {
+        // Enables modifications of fog under powdered snow
+        "enablePowderedSnow": true,
+        /*
+         * Value for where fog starts. Vanilla is 0.0
+         * Type: Float
+         */
+        "fogNearPlaneSnow": 0.0,
+        /*
+         * Value for where fog ends. Vanilla is 2.0
+         * Type: Float
+         */
+        "fogFarPlaneSnow": 6.0,
+        /*
+         * The shape of the fog around the player
+         * Valid Values: SPHERE, CYLINDER
+         */
+        "fogShapeSnow": "SPHERE"
+    },
+    "lavaConfig": {
+        // Enables modifications of fog under lava
+        "enableLava": true,
+        /*
+         * Value for where fog starts. Vanilla is 0.25
+         * Type: Float
+         */
+        "fogNearPlaneLava": 0.0,
+        /*
+         * Value for where fog ends. Vanilla is 1.0
+         * Type: Float
+         */
+        "fogFarPlaneLava": 10.0,
+        /*
+         * The shape of the fog around the player
+         * Valid Values: SPHERE, CYLINDER
+         */
+        "fogShapeLava": "SPHERE"
+    },
+    "waterConfig": {
+        // Enables modifications of fog under water
+        "enableWater": true,
+        /*
+         * Value for where fog starts. Vanilla is -8.0
+         * Type: Float
+         */
+        "fogNearPlaneWater": -8.0,
+        /*
+         * Value for where fog ends. Vanilla is 96.0
+         * Type: Float
+         */
+        "fogFarPlaneWater": 250.0,
+        // When enabled, makes vision fade in like vanilla behavior
+        "fadeInWater": true,
+        /*
+         * The shape of the fog around the player
+         * Valid Values: SPHERE, CYLINDER
+         */
+        "fogShapeWater": "CYLINDER"
+    }
+}

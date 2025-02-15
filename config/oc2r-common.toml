@@ -1,0 +1,86 @@
+
+[vm]
+	#Range: 0 ~ 9223372036854775807
+	maxAllocatedMemory = 536870912
+
+[energy]
+
+	[energy.blocks]
+		#Range: 0.0 ~ Infinity
+		busCableEnergyPerTick = 0.1
+		#Range: 0.0 ~ Infinity
+		busInterfaceEnergyPerTick = 0.5
+		#Range: > 0
+		computerEnergyPerTick = 10
+		#Range: > 0
+		computerEnergyStorage = 2000
+		#Range: > 0
+		chargerEnergyPerTick = 2500
+		#Range: > 0
+		chargerEnergyStorage = 10000
+		#Range: > 0
+		projectorEnergyPerTick = 20
+		#Range: > 0
+		projectorEnergyStorage = 2000
+		#Range: > 0
+		monitorEnergyPerTick = 15
+		#Range: > 0
+		monitorEnergyStorage = 2000
+		#Range: > 0
+		cardCageEnergyPerTick = 20
+		#Range: > 0
+		cardCageEnergyStorage = 2000
+
+	[energy.entities]
+		#Range: > 0
+		robotEnergyPerTick = 5
+		#Range: > 0
+		robotEnergyStorage = 750000
+
+	[energy.items]
+		#Range: 0.0 ~ Infinity
+		memoryEnergyPerMegabytePerTick = 0.5
+		#Range: 0.0 ~ Infinity
+		hardDriveEnergyPerMegabytePerTick = 1.0
+		#Range: > 0
+		redstoneInterfaceCardEnergyPerTick = 1
+		#Range: > 0
+		networkInterfaceEnergyPerTick = 1
+		#Range: > 0
+		fileImportExportCardEnergyPerTick = 1
+		#Range: > 0
+		soundCardEnergyPerTick = 1
+		#Range: > 0
+		blockOperationsModuleEnergyPerTick = 2
+		#Range: > 0
+		inventoryOperationsModuleEnergyPerTick = 1
+		#Range: > 0
+		networkTunnelEnergyPerTick = 2
+
+[gameplay]
+	blockOperationsModuleToolTier = "minecraft:diamond"
+	#Range: 0 ~ 9223372036854775807
+	soundCardCoolDownSeconds = 2
+
+[admin]
+	fakePlayerUUID = "e39dd9a7-514f-4a2d-aa5e-b6030621416d"
+
+	[admin.network]
+		#Range: > 0
+		projectorAverageMaxBytesPerSecond = 163840
+
+	[admin.virtual_network]
+		#Range: > 0
+		ethernetFrameTimeToLive = 12
+		#Range: > 0
+		hubEthernetFramesPerTick = 32
+
+[vxlan]
+	enable = false
+	remoteHost = "::1"
+	#Range: > 0
+	remotePort = 4789
+	bindHost = "::1"
+	#Range: > 0
+	bindPort = 4789
+

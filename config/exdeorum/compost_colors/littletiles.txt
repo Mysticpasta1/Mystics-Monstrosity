@@ -1,0 +1,11 @@
+// Compost colors for littletiles. You may add your own colors, change existing ones, or remove colors that aren't needed.
+bag, #cfe0fe
+bottle_black, #ffffff
+bottle_cyan, #ffffff
+bottle_magenta, #ffffff
+bottle_yellow, #ffffff
+hammer, #ffffff
+paint_brush, #ffffff
+saw, #ffffff
+screwdriver, #949dbb
+wrench, #9ba4cd

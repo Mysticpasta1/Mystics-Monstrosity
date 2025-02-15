@@ -1,0 +1,42 @@
+/* 
+ * Copyright (c) 2024 Luke Bemish and contributors.
+ * SPDX-License-Identifier: LGPL-3.0-or-later
+ */
+
+{
+    mod_id: 'yungscavebiomes',
+    provided_stones: [
+        {
+            block_id: 'yungscavebiomes:ancient_sand',
+            types: [
+                'stone',
+            ],
+            id: 'yungscavebiomes_ancient_sand',
+            lang: {
+                en_us: 'Ancient Sand',
+            },
+        },
+        {
+            block_id: 'yungscavebiomes:ancient_sandstone',
+            types: [
+                'stone',
+            ],
+            id: 'yungscavebiomes_ancient_sandstone',
+            lang: {
+                en_us: 'Ancient Sandstone',
+            },
+        },
+        {
+            block_id: 'yungscavebiomes:layered_ancient_sandstone',
+            types: [
+                'stone',
+            ],
+            id: 'yungscavebiomes_layered_ancient_sandstone',
+            lang: {
+                en_us: 'Layered Ancient Sandstone',
+            },
+        },
+    ],
+    provided_ores: [
+    ],
+}

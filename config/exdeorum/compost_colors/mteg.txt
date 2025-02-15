@@ -1,0 +1,3 @@
+// Compost colors for mteg. You may add your own colors, change existing ones, or remove colors that aren't needed.
+flare, #ed6b57
+taki, #e73a25

@@ -1,0 +1,16 @@
+// Compost colors for naturesauradelight. You may add your own colors, change existing ones, or remove colors that aren't needed.
+aura_stew, #b8401b
+crimson_aura_stew, #8c3d1b
+depth_knife, #6e5566
+effect_powder_jem, #faffff
+effect_powder_juice, #e6faff
+gold_leaf_cider, #ffffb1
+gold_leaf_salad, #b1911b
+gold_powder_cookie, #ffcd64
+gold_powder_ice_cream, #ffe036
+gold_powder_shake, #ffffb5
+infused_knife, #4dbb44
+pasta_with_aura_mushroom, #d97337
+sky_knife, #9aeaff
+tainted_knife, #b1911b
+warped_aura_stew, #488d58

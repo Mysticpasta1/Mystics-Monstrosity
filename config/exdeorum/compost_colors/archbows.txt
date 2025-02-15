@@ -1,0 +1,14 @@
+// Compost colors for archbows. You may add your own colors, change existing ones, or remove colors that aren't needed.
+arbalest, #807569
+flatbow, #b5aea2
+flax, #82a887
+flax_seeds, #fffee1
+flax_string, #ffffff
+heavy_crossbow, #dac6b2
+linen_string, #ffffff
+longbow, #938a7d
+pistol_crossbow, #6b6251
+recurve, #ddd2bb
+shortbow, #c9c0af
+wild_flax, #b8dac5
+wild_flax2, #aad2bc

@@ -1,0 +1,2 @@
+// Compost colors for adpother. You may add your own colors, change existing ones, or remove colors that aren't needed.
+polluted_water_bucket, #b9b9a1

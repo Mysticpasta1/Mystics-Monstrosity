@@ -1,0 +1,2 @@
+// Compost colors for morered. You may add your own colors, change existing ones, or remove colors that aren't needed.
+red_alloy_ingot, #dd3218

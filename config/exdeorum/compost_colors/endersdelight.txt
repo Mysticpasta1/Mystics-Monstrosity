@@ -1,0 +1,27 @@
+// Compost colors for endersdelight. You may add your own colors, change existing ones, or remove colors that aren't needed.
+chorus_juice, #afaade
+chorus_pie, #ebaf8a
+chorus_pie_slice, #dca496
+chorus_stew, #9b68a1
+chorus_stew_wood, #724e32
+crawling_sandwich, #b48646
+crispy_skewer, #755272
+ender_paella, #cda4bc
+ender_paella_wood, #c8a790
+ender_shard, #187365
+enderman_sight, #da9eff
+endermite_stew, #755f8a
+endermite_stew_wood, #4b442a
+mite_crust, #37264a
+pearl_pasta, #879b94
+pearl_pasta_wood, #709764
+shulker_bowl, #9866a1
+shulker_filet, #fadea2
+shulker_mollusk, #ffe8a8
+sight_fragment, #cd97ff
+strange_eclair, #abbb75
+stuffed_shulker, #b47f8d
+stuffed_shulker_bowl, #9e754a
+twisted_cereal, #9b80ac
+twisted_cereal_wood, #837070
+uncanny_cookies, #fba264

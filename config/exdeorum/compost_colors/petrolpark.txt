@@ -1,0 +1,10 @@
+// Compost colors for petrolpark. You may add your own colors, change existing ones, or remove colors that aren't needed.
+badge/bestie, #fffa50
+badge/beta_tester, #ffd33e
+badge/competition_winner, #ffcd41
+badge/content_creator, #ffe346
+badge/developer, #ffe747
+badge/early_bird, #ffcc39
+badge/nitro, #ffda41
+badge/suggestion, #ffd348
+badge/translator, #aa83a8

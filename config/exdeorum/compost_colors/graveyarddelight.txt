@@ -1,0 +1,14 @@
+// Compost colors for graveyarddelight. You may add your own colors, change existing ones, or remove colors that aren't needed.
+blood_ice_cream, #ff281e
+bone_dust, #ffffff
+bone_knife, #f4edca
+bone_shake, #ffffff
+bone_stew, #c28e5e
+corruotion_ice_cream, #504a40
+corruption_burger, #795e29
+corruption_jem, #9db2c9
+corruption_roll, #404b3a
+corruption_shake, #8aa2bc
+corruption_wrap, #c6a262
+dark_iron_knife, #4a4339
+pasta_with_bone, #deac7c

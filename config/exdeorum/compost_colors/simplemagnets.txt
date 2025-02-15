@@ -1,0 +1,3 @@
+// Compost colors for simplemagnets. You may add your own colors, change existing ones, or remove colors that aren't needed.
+advancedmagnet, #fffff7
+basicmagnet, #ffffff

@@ -1,0 +1,14 @@
+// Compost colors for xkdeco. You may add your own colors, change existing ones, or remove colors that aren't needed.
+ebony_door, #504336
+ebony_narrow_doors, #514437
+ebony_screen, #978d83
+glass_door, #e3ffff
+hanging_willow_leaves, #fbfcfb
+hollow_steel_bars, #828282
+mahogany_door, #8e3628
+mahogany_narrow_doors, #903729
+mahogany_screen, #9a7676
+steel_ladder, #838383
+varnished_door, #a27f52
+varnished_narrow_doors, #a78254
+varnished_screen, #d6bc9a

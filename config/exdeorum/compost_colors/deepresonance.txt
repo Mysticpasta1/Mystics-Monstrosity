@@ -1,0 +1,10 @@
+// Compost colors for deepresonance. You may add your own colors, change existing ones, or remove colors that aren't needed.
+filter_material, #f0c5c5
+liquid_injector, #c68665
+radiation_monitor, #b2ab8d
+radiation_suit_boots, #da8383
+radiation_suit_chestplate, #dd8484
+radiation_suit_helmet, #e08686
+radiation_suit_leggings, #dc8484
+resonating_plate, #eb9494
+spent_filter_material, #cc8787

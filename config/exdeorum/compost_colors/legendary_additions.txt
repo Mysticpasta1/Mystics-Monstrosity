@@ -1,0 +1,17 @@
+// Compost colors for legendary_additions. You may add your own colors, change existing ones, or remove colors that aren't needed.
+acacia_window_pane, #e4804e
+birch_window_pane, #ffffc0
+common_xp_bottle, #ffffcc
+crimson_window_pane, #9b5a75
+dark_oak_window_pane, #8e8778
+epic_xp_bottle, #ffffed
+glowing_bulb, #ffffd4
+jungle_window_pane, #fffcee
+legendary_xp_bottle, #ffffe3
+moss, #6eae36
+oak_window_pane, #d6d2b9
+ornate_iron_window_pane, #939493
+rare_xp_bottle, #fbffff
+spruce_window_pane, #5a4e3c
+tiny_xp_bottle, #ffffbc
+warped_window_pane, #439893

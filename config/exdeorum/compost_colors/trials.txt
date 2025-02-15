@@ -1,0 +1,25 @@
+// Compost colors for trials. You may add your own colors, change existing ones, or remove colors that aren't needed.
+banner_pattern_flow, #fffff1
+banner_pattern_guster, #fffff1
+bolt_template, #dc8d6c
+breeze_rod, #9aacf0
+copper_door, #ff976f
+copper_door_exposed, #d6a88e
+copper_door_oxidized, #6ed3aa
+copper_door_weathered, #9ac98c
+flow_pottery_sherd, #935143
+flow_template, #a1c0ff
+guster_pottery_sherd, #9a5546
+mace, #7a7991
+music_disc_creator, #7dc097
+music_disc_creator_box, #f29065
+music_disc_precipice, #96988c
+ominous_bottle, #5f6f84
+scrape_pottery_sherd, #9a5546
+trial_key, #a1735e
+trial_key_ominous, #697f72
+waxed_copper_door, #ff976f
+waxed_copper_door_exposed, #d6a88e
+waxed_copper_door_oxidized, #6ed3aa
+waxed_copper_door_weathered, #9ac98c
+wind_charge, #ffffff

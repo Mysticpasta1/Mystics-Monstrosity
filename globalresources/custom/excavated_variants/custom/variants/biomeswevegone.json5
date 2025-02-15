@@ -1,0 +1,112 @@
+/* 
+ * Copyright (c) 2024 Luke Bemish and contributors.
+ * SPDX-License-Identifier: LGPL-3.0-or-later
+ */
+
+{
+    mod_id: 'biomeswevegone',
+    provided_stones: [
+        {
+            block_id: 'biomeswevegone:black_sandstone',
+            types: [
+                'stone',
+            ],
+            id: 'biomeswevegone_black_sandstone',
+            lang: {
+                en_us: 'Black Sandstone',
+            },
+        },
+        {
+            block_id: 'biomeswevegone:blue_sandstone',
+            types: [
+                'stone',
+            ],
+            id: 'biomeswevegone_blue_sandstone',
+            lang: {
+                en_us: 'Blue Sandstone',
+            },
+        },
+        {
+            block_id: 'biomeswevegone:dacite',
+            types: [
+                'stone',
+            ],
+            id: 'biomeswevegone_dacite',
+            lang: {
+                en_us: 'Dacite',
+            },
+        },
+        {
+            block_id: 'biomeswevegone:mossy_stone',
+            types: [
+                'stone',
+            ],
+            id: 'biomeswevegone_mossy_stone',
+            lang: {
+                en_us: 'Mossy Stone',
+            },
+        },
+        {
+            block_id: 'biomeswevegone:pink_sandstone',
+            types: [
+                'stone',
+            ],
+            id: 'biomeswevegone_pink_sandstone',
+            lang: {
+                en_us: 'Pink Sandstone',
+            },
+        },
+        {
+            block_id: 'biomeswevegone:purple_sandstone',
+            types: [
+                'stone',
+            ],
+            id: 'biomeswevegone_purple_sandstone',
+            lang: {
+                en_us: 'Purple Sandstone',
+            },
+        },
+        {
+            block_id: 'biomeswevegone:red_rock',
+            types: [
+                'stone',
+            ],
+            id: 'biomeswevegone_red_rock',
+            lang: {
+                en_us: 'Red Rock',
+            },
+        },
+        {
+            block_id: 'biomeswevegone:rocky_stone',
+            types: [
+                'stone',
+            ],
+            id: 'biomeswevegone_rocky_stone',
+            lang: {
+                en_us: 'Rocky Stone',
+            },
+        },
+        {
+            block_id: 'biomeswevegone:white_sandstone',
+            types: [
+                'stone',
+            ],
+            id: 'biomeswevegone_white_sandstone',
+            lang: {
+                en_us: 'White Sandstone',
+            },
+        },
+        {
+            block_id: 'biomeswevegone:windswept_sandstone',
+            types: [
+                'stone',
+            ],
+            id: 'biomeswevegone_windswept_sandstone',
+            lang: {
+                en_us: 'Windswept Sandstone',
+            },
+        },
+    ],
+    provided_ores: [
+    ],
+}

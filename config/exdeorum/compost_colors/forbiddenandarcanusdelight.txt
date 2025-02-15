@@ -1,0 +1,25 @@
+// Compost colors for forbiddenandarcanusdelight. You may add your own colors, change existing ones, or remove colors that aren't needed.
+arcane_crystal_cookie, #ffc08a
+arcane_crystal_jem, #f8ffff
+arcane_crystal_juice, #e0feff
+arcane_crystal_pie, #ffe3ca
+arcane_dragon_soup, #97792d
+bat_tentacle_stew, #5f5130
+bat_tentacle_stick, #4e4d41
+cooked_arcane_dragon_egg, #a46e1e
+cooked_tentacle_shard, #8c5137
+deorum_knife, #da9739
+dried_tentacle, #8c5034
+jem_glazed_arcane_dragon_egg, #976e46
+obsidian_knife, #463346
+pasta_with_dark_nether_star, #9d6c51
+purifying_soap_sandwich, #f2c097
+purifying_soap_sauce, #b89896
+smelter_prism_ice_cream, #ffc62c
+smelter_prism_juice, #fff0a8
+tentacle_and_arcane_eggs, #905f29
+tentacle_of_hamburger, #a46e30
+tentacle_stew, #894d26
+wax_jem, #ffffd2
+wax_sandwich, #d79e39
+wax_shake, #ffffb2

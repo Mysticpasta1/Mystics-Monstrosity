@@ -1,0 +1,12 @@
+// Compost colors for tardis_refined. You may add your own colors, change existing ones, or remove colors that aren't needed.
+amethyst_screwdriver, #ffffff
+ars_egg, #edffff
+bulk_head_door, #727c82
+raw_zeiton, #6ccc97
+root_shell, #d9cca1
+root_shell_door, #a5865e
+tardis_console, #edfafa
+tardis_door, #bbbbc5
+zeiton_ingot, #8aeeb8
+zeiton_lantern, #70dc6c
+zeiton_nugget, #69c696

@@ -1,0 +1,23 @@
+// Compost colors for oceansdelight. You may add your own colors, change existing ones, or remove colors that aren't needed.
+baked_tentacle_on_a_stick, #a5704b
+bowl_of_guardian_soup, #af865e
+braised_sea_pickle, #907039
+cabbage_wrapped_elder_guardian, #bcc66b
+cooked_elder_guardian_slice, #fcebac
+cooked_guardian_tail, #80a289
+cooked_stuffed_cod, #ffe3c5
+cut_tentacles, #ffffff
+elder_guardian_roll, #fffffa
+elder_guardian_slab, #ffffe6
+elder_guardian_slice, #ffffff
+fugu_roll, #ffffff
+fugu_slice, #ffffff
+guardian, #b6ae83
+guardian_soup, #be9b6b
+guardian_tail, #90be9d
+honey_fried_kelp, #765c37
+seagrass_salad, #5a6c0c
+squid_rings, #be9d55
+stuffed_cod, #daa473
+tentacle_on_a_stick, #3d5055
+tentacles, #2f5069

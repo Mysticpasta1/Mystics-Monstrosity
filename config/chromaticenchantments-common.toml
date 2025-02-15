@@ -1,0 +1,19 @@
+
+[ConservationEnchantmentSettings]
+	#The maximum level for the Conservation enchantment.
+	#Range: > 1
+	conservationMaxLevel = 4
+	#The chance for a firework to not be consumed, multiplied by the enchantment level. 1 is equal to a 100% chance. Setting to 0 effectively disables the enchantment.
+	#Range: 0.0 ~ 1.0
+	conservationChance = 0.05
+	#If set to true, this enchantment will only be applicable to items in the chromaticenchantments:elytras tag.
+	strictElytraCheck = false
+
+[VoidingCurseSettings]
+	#If set to true, this enchantment will only be applicable to items in the chromaticenchantments:voiding_applicable tag.
+	strictVoidingCheck = false
+
+[PersistenceSettings]
+	#If set to true, this enchantment will be applicable to any item that has a maximum stack size of 1. This config option is buggy, do not expect support for any issues it causes.
+	loosePersistenceCheck = false
+

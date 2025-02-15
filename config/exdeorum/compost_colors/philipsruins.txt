@@ -1,0 +1,7 @@
+// Compost colors for philipsruins. You may add your own colors, change existing ones, or remove colors that aren't needed.
+bone_chunk, #fefbdd
+broken_bone, #ffffff
+frozen_prismarine_crystals, #cdffff
+frozen_prismarine_shard, #b8feff
+sculk_bone, #b1c6bb
+sculk_bone_meal, #bccfbf

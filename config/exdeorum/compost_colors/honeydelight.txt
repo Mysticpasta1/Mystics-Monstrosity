@@ -1,0 +1,6 @@
+// Compost colors for honeydelight. You may add your own colors, change existing ones, or remove colors that aren't needed.
+honey_bar, #ffb822
+honey_bread, #ffa222
+honey_cookie, #ffb246
+honey_sandwich, #feaf39
+honey_yougurt, #fff7b8

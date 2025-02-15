@@ -1,0 +1,6 @@
+#Give simple potions with an effect (awkward, mundane and thick) a unique effect color to set apart from water bottles.
+colored_simple_potions = true
+#Custom color overrides for mob effects, allows for restoring effect colors from before Minecraft 1.19.4.
+#Format for every entry is "<namespace>:<path>,<rgbcolor>". Tags are supported, must be in the format of "#<namespace>:<path>,<rgbcolor>". Namespace may be omitted to use "minecraft" by default. May use asterisk as wildcard parameter via pattern matching, e.g. "minecraft:*_shulker_box" to match all shulker boxes no matter of color.
+mob_effect_color_overrides_raw = ["minecraft:nausea,2039713"]
+

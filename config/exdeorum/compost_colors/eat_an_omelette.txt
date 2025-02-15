@@ -1,0 +1,8 @@
+// Compost colors for eat_an_omelette. You may add your own colors, change existing ones, or remove colors that aren't needed.
+enchanted_golden_omelette, #ffd03c
+enchanted_golden_spanish_potato_omelette, #ffb9fe
+golden_omelette, #ffd03c
+golden_spanish_potato_omelette, #ffffb1
+omelette, #ffff54
+spanish_omelette_mix, #ffffff
+spanish_potato_omelette, #ffffd4

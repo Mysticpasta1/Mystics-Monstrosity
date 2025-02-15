@@ -1,0 +1,67 @@
+#The delay between mod operations (in ticks, default 20) - this will slightly effect the amount of emc generated via rounding - increase if you're noticing lag
+#Range: 1 ~ 200
+tickDelay = 20
+#If EMC should be formatted as M/B/T/etc
+formatEMC = true
+#If full number names (Million/Billion/Trillion) should be used instead of abbreviations
+fullNumberNames = true
+#Displays your current emc and gained emc per second in the top left corner.
+emcDisplay = false
+#Notify users when something is changed about them via commands.
+notifyCommandChanges = true
+#Tell users the list of items they gained when using a knowledge book.
+notifyKnowledgeBookGains = true
+#If EMC Link Right-Click functionality should be Limited by Tier or Not.
+limitEmcLinkVendor = true
+#If fluid efficiency should be enabled.
+enableFluidEfficiency = true
+#The amount of items that the transmutation interface will report to have. Depending on your usage, you may want this to be a high value.
+#Range: > 1
+transmutationInterfaceItemCount = 2147483647
+#Multiplies the output of Collectors.
+#Range: 0.1 ~ 50.0
+collectorMultiplier = 1.0
+#Multiplies the item limit of EMC Links.
+#Range: 0.1 ~ 50.0
+emcLinkItemLimitMultiplier = 1.0
+#Multiplies the fluid limit of EMC Links.
+#Range: 0.1 ~ 50.0
+emcLinkFluidLimitMultiplier = 1.0
+#Multiplies the emc limit of EMC Links.
+#Range: 0.1 ~ 50.0
+emcLinkEMCLimitMultiplier = 1.0
+#Multiplies the output of Power Flowers.
+#Range: 0.1 ~ 50.0
+powerflowerMultiplier = 1.0
+#Multiplies the bonus of Relays.
+#Range: 0.1 ~ 50.0
+relayBonusMultiplier = 1.0
+#Multiplies the transfer limit of Relays.
+#Range: 0.1 ~ 50.0
+relayTransferMultiplier = 1.0
+#The cost of using the infinite fuel item.
+#Range: > 1
+infiniteFuelCost = 128
+#The ticks each usage of the infinite fuel item will give.
+#Range: > 1
+infiniteFuelBurnTime = 1600
+#The cost of using the infinite steak item.
+#Range: > 1
+infiniteSteakCost = 64
+#If ProjectE's processors.EnchantmentProcessor.persistent option should only include enchanted books.
+persistEnchantedBooksOnly = false
+#If a tooltip should be shown on items which can be learned, denoting if the item has been learned or not. Note: ProjectE's client.shiftEmcToolTips applies to this.
+enabledLearnedTooltip = true
+#If a sound should be played when something is collected with Alchemical Collection.
+alchemicalCollectionSound = true
+#If players should be allowed to edit books bound to other players. A player is considered to be "OP" when they have an op level of 2 or greater. Allowed values: DISABLED, OP_ONLY, ENABLED
+editOthersAlchemicalBooks = "DISABLED"
+#If fluids which end their calculations at zero emc should be returned as free.
+zeroEmcFluidsAreFree = true
+#If optimizations (ticking only once per second) should be enabled for collectors. This will make them process at most one item each second.
+enableCollectorOptimizations = false
+#The bonus (multiplicative) the compact sun block should give. Set to 0 to disable.
+compactSunBonus = 10
+#Enable determining the sun bonus mutiplier via the difference in emc price between the final power flower and the compact sun block, rounded up to the next 10. In normal gameplay this is ~33x, so a 40x multiplier. If either block has no emc value or the multiplier is lower than compactSunBonus, that value will be used instead.
+sunMultiplierPriceCompensation = true
+

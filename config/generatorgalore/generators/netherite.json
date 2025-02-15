@@ -1,0 +1,8 @@
+{
+  "generationRate": 256,
+  "transferRate": 1024,
+  "consumptionRate": 0.4,
+  "previousTier": "diamond",
+  "bufferCapacity": 1000000,
+  "fuelType": "SOLID"
+}

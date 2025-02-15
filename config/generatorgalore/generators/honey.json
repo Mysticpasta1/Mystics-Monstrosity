@@ -1,0 +1,9 @@
+{
+  "generationRate": 64,
+  "transferRate": 512,
+  "consumptionRate": 0.5,
+  "previousTier": "culinary",
+  "bufferCapacity": 500000,
+  "fuelType": "FLUID",
+  "fuelTag": "forge:honey"
+}

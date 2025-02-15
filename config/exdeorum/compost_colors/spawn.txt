@@ -1,0 +1,23 @@
+// Compost colors for spawn. You may add your own colors, change existing ones, or remove colors that aren't needed.
+angler_fish, #838783
+angler_fish_bucket, #89969a
+ant_pupa, #ffe8b4
+cooked_tuna_chunk, #f1c6a8
+crown_pottery_sherd, #945243
+escargot, #5f5833
+fallen_leaves, #9d6528
+mucus, #ffffee
+music_disc_rot, #827866
+potted_sweet_berries, #6b4634
+roasted_sunflower_seeds, #cfa76c
+rotten_door, #847965
+seahorse_bucket, #d9c09b
+snail_eggs, #fffff7
+snail_shell, #7d5540
+spade_pottery_sherd, #975444
+spawn, #ffffff
+sunflower, #ffd444
+sunflower_seeds, #5b5451
+tuna_chunk, #e3bbdc
+tuna_egg_bucket, #b591a4
+tuna_sandwich, #b5a43c

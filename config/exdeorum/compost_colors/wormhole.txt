@@ -1,0 +1,3 @@
+// Compost colors for wormhole. You may add your own colors, change existing ones, or remove colors that aren't needed.
+advanced_target_device, #939089
+target_device, #ffffff

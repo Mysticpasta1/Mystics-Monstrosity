@@ -1,0 +1,5 @@
+// Compost colors for projectred_expansion. You may add your own colors, change existing ones, or remove colors that aren't needed.
+battery, #ffffff
+electric_screwdriver, #ffffff
+empty_battery, #fffff7
+recipe_plan, #ffe7f0

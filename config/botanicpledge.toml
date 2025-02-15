@@ -1,0 +1,37 @@
+[yggdrasilsteel]
+equipSound = "minecraft:item.armor.equip_generic"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 0
+
+[yggdrasilsteel.durability]
+toolDurability = 8192
+bowDurability = 0
+addedShieldDurability = 1024
+
+[yggdrasilsteel.enchanting]
+offenseEnchantability = 20
+defenseEnchantability = 20
+
+[yggdrasilsteel.offense]
+addedAttackDamage = 16.0
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[yggdrasilsteel.defense]
+gauntletArmorAmount = 8
+armorToughness = 2.5
+knockbackResistance = 0.0
+baseProtectionAmmount = 8.0
+afterBasePercentReduction = 0.8
+
+[yggdrasilsteel.crafting]
+repairItem = ["botanicpledge:yggdrasilsteel_ingot"]
+craftingItem = "botanicpledge:yggdrasilsteel_ingot"
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"

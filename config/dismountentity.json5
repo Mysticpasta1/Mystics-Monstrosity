@@ -1,0 +1,4 @@
+{
+	// Whether players can dismount other players from their vehicle.
+	"beAbleToDismountOtherPlayers": false
+}

@@ -1,0 +1,13 @@
+// Compost colors for ars_caelum. You may add your own colors, change existing ones, or remove colors that aren't needed.
+ritual_conjure_island_blazing, #aa8a8c
+ritual_conjure_island_cascading, #8a9eae
+ritual_conjure_island_end_portal, #a88aab
+ritual_conjure_island_flourishing, #8aab9a
+ritual_conjure_island_geode, #a78aaa
+ritual_conjure_island_sculk, #a587a7
+ritual_conjure_island_starter, #a78aa8
+ritual_conjure_island_vexing, #a789a8
+ritual_conjure_island_village, #899dae
+ritual_elder_summon, #94a5b2
+ritual_mana_regeneration, #a294a4
+ritual_sedimentation, #93a4b2

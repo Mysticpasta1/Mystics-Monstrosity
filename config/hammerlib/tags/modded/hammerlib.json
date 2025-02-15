@@ -1,0 +1,20 @@
+{
+    "version": 1,
+    "tags": {
+        "minecraft:item": {
+            "forge:gears/copper": {"hammerlib:gears/copper": true},
+            "forge:gears/wooden": {"hammerlib:gears/wooden": true},
+            "forge:gears/iron": {"hammerlib:gears/iron": true},
+            "forge:tools/wrench": {"hammerlib:wrench": true},
+            "forge:gears/diamond": {"hammerlib:gears/diamond": true},
+            "forge:gears/gold": {"hammerlib:gears/gold": true},
+            "forge:gears/stone": {"hammerlib:gears/stone": true},
+            "forge:gears/netherite": {"hammerlib:gears/netherite": true}
+        },
+        "minecraft:block": {
+            "minecraft:mineable/pickaxe": {"hammerlib:test_machine": true},
+            "minecraft:needs_iron_tool": {"hammerlib:test_machine": true}
+        }
+    },
+    "unregistered": {}
+}

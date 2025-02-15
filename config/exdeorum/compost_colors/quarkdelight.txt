@@ -1,0 +1,10 @@
+// Compost colors for quarkdelight. You may add your own colors, change existing ones, or remove colors that aren't needed.
+bowl_of_exotic_fruits, #9a7a44
+bucket_of_sweet_gelatine, #aabf9e
+cavern_explorer_stew, #649468
+cloud_latte, #fbffff
+cooked_whole_crab, #b25120
+crab_bars, #ff986e
+crab_pasta, #c67d30
+lush_moss_salad, #7d7c2d
+miso_with_bamboo_sprouts, #937d32

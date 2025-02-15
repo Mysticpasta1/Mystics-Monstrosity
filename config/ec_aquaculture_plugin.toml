@@ -1,0 +1,37 @@
+[neptunium]
+equipSound = "minecraft:item.armor.equip_diamond"
+mendingBonus = 0.0
+fireResistant = false
+quiverSlots = 10
+
+[neptunium.durability]
+toolDurability = 1796
+bowDurability = 0
+addedShieldDurability = 360
+
+[neptunium.enchanting]
+offenseEnchantability = 14
+defenseEnchantability = 14
+
+[neptunium.offense]
+addedAttackDamage = 3.5
+arrowDamage = 0.0
+flaming = false
+canBeTipped = true
+multishotLevel = 0
+bowPower = 0
+velocityMultiplier = 1.0
+
+[neptunium.defense]
+gauntletArmorAmount = 3
+armorToughness = 2.0
+knockbackResistance = 0.0
+baseProtectionAmmount = 6.0
+afterBasePercentReduction = 0.85
+
+[neptunium.crafting]
+repairItem = ["aquaculture:neptunium_ingot"]
+craftingItem = ""
+isSingleAddition = false
+onlyReplaceResource = []
+smithingTemplate = "minecraft:air"

@@ -1,0 +1,15 @@
+{
+  "enableTooltips": true,
+  "ironEnchantPower": 2.0,
+  "goldenEnchantPower": 3.0,
+  "diamondEnchantPower": 5.0,
+  "emeraldEnchantPower": 6.0,
+  "obsidianEnchantPower": 7.0,
+  "netheriteEnchantPower": 10.0,
+  "copperEnchantPower": 1.5,
+  "amethystEnchantPower": 2.5,
+  "cryingObsidianEnchantPower": 8.0,
+  "enderiteEnchantPower": 12.0,
+  "steelEnchantPower": 3.0,
+  "bronzeEnchantPower": 4.0
+}

@@ -1,0 +1,18 @@
+// Compost colors for lost_aether_content. You may add your own colors, change existing ones, or remove colors that aren't needed.
+agility_boots, #68c865
+crystal_sapling, #6bb6c3
+flaming_gemstone, #ffa854
+holiday_sapling, #8a87ae
+invincibility_gem, #eae7a5
+music_disc_legacy, #faffff
+music_disc_sovereign_of_the_skies, #838daa
+noble_armor_trim_smithing_template, #8aafcd
+phoenix_axe, #b66837
+phoenix_cape, #ffa02d
+phoenix_hoe, #93522f
+phoenix_pickaxe, #ab5e30
+phoenix_shovel, #c36e34
+phoenix_sword, #d68644
+platinum_key, #b5c5e3
+power_gloves, #c5abf8
+sentry_shield, #5e768a

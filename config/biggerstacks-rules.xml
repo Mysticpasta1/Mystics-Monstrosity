@@ -1,0 +1,20 @@
+<!--
+	⚠ This file was generated automatically ⚠
+	You should remove this comment if you want to modify this file or "/biggerstacks quicksetup" will overwrite it without warning
+	[[250 250 250]]
+-->
+<ruleset>
+	<rule stacksize="250">
+		<condition>id = minecraft:enchanted_book</condition>
+	</rule>
+	<rule stacksize="250">
+		<or>
+			<condition>id = minecraft:potion</condition>
+			<condition>id = minecraft:splash_potion</condition>
+			<condition>id = minecraft:lingering_potion</condition>
+		</or>
+	</rule>
+	<rule stacksize="250">
+		<condition>stacksize gt 1</condition>
+	</rule>
+</ruleset>

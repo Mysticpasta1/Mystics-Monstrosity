@@ -1,0 +1,7 @@
+// Compost colors for systeams. You may add your own colors, change existing ones, or remove colors that aren't needed.
+boiler_pipe, #ffd7b2
+steam_bucket, #e6e6e6
+steamier_bucket, #eee1d4
+steamiest_bucket, #ead6cd
+steamiester_bucket, #edcfc6
+steamiestest_ball, #ff5f73

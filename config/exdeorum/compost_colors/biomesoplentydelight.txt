@@ -1,0 +1,23 @@
+// Compost colors for biomesoplentydelight. You may add your own colors, change existing ones, or remove colors that aren't needed.
+barley_bread, #c5a050
+barley_dough, #ffcd62
+barley_rolls, #fabf5f
+bramble_and_spider_egg, #aa6f4e
+bramble_pasta, #ab473a
+bramble_pasta_with_spider_egg, #b56b4e
+bramble_sandwich, #cc8c44
+cattail_shake, #c0aca8
+cooked_bramble, #9b4439
+cooked_spider_egg, #edb9ac
+flesh, #9a392d
+glowworm_ice_cream, #52beeb
+glowworm_jem, #acffff
+glowworm_of_hamburger, #918d5a
+glowworm_pie, #d9debb
+rose_quartz_icecream, #cf2852
+rose_quartz_knife, #be204d
+rose_quartz_shake, #e87ab6
+rose_quartz_shard, #ea2866
+spider_egg_sandwich, #c8944e
+spider_noodle_soup, #a78447
+watergrass_rolls, #83aa5a

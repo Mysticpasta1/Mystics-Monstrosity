@@ -1,0 +1,50 @@
+
+["Loot Bag Mod Config"]
+
+	["Loot Bag Mod Config".Misc]
+		#Maximum possible stack size for dropped items
+		#Range: 1 ~ 64
+		stacksize = 15
+		#How many items drop when a loot bag is used
+		#Range: 1 ~ 1000
+		dropamount = 10
+		#Try to place items into inventory before dropping them onto the ground
+		itemsininventory = true
+
+	["Loot Bag Mod Config"."Debug/Modpack tools"]
+		#Print mobs registry name to chat and log file when killed
+		entityname = false
+		#Print list of items dropped to debug.log
+		itemsdropped = false
+		#Print list of items dropped to the chat
+		itemsdroppedchat = false
+
+	["Loot Bag Mod Config"."Black And White Lists"]
+		#Use the whitelist
+		enablewhitelist = false
+		#BlackList (Syntax "minecraft or modid : item or block name"; example "minecraft:air" or "lootbagmod:lootbag")
+		blacklist = ["lootbagmod:lootbag", "minecraft:air", "minecraft:command_block", "minecraft:structure_block", "minecraft:knowledge_book", "minecraft:chain_command_block", "minecraft:repeating_command_block", "minecraft:barrier", "minecraft:enchanted_book", "minecraft:written_book", "minecraft:potion", "minecraft:splash_potion", "minecraft:lingering_potion", "minecraft:spawn_egg", "minecraft:structure_void", "minecraft:mob_spawner", "minecraft:bedrock"]
+		#WhiteList Syntax "minecraft or modid : item or block name"; example minecraft:air or lootbagmod:lootbag)
+		whitelist = ["minecraft:stone", "minecraft:nether_star"]
+
+	["Loot Bag Mod Config"."Mod List"]
+		#Mod black/whitelist (Syntax " modid ")
+		modlist = ["tconstruct"]
+
+	["Loot Bag Mod Config"."Contains List"]
+		#Contains List (Synyax "word")
+		contains = ["apples", "creative"]
+		#Enable Contains List
+		enablecontains = false
+
+	["Loot Bag Mod Config"."Mob Drops"]
+		#Mob drops list (Syntax " minecraft or modname : mobregistryname ")
+		mobdropslist = ["minecraft:blaze", "minecraft:cave_spider", "minecraft:creeper", "minecraft:drowned", "minecraft:elder_guardian", "minecraft:enderman", "minecraft:endermite", "minecraft:evoker"]
+		#Loot Bag drop chance from mobs (the higher the number the more common they are)
+		#Range: 1 ~ 100
+		dropchance = 10
+		#Make Loot Bags dropppable from all hostile Mobs
+		allHostileMobs = false
+		#Make Loot Bags droppable from all passive and neutral mobs
+		allNonHostileMobs = false
+

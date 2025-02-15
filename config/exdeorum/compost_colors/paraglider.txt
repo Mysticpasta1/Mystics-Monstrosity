@@ -1,0 +1,6 @@
+// Compost colors for paraglider. You may add your own colors, change existing ones, or remove colors that aren't needed.
+anti_vessel, #9eace4
+essence, #ea527a
+heart_container, #ffe6be
+spirit_orb, #d9d4ff
+stamina_vessel, #ffffdc

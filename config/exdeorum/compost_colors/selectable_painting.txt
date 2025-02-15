@@ -1,0 +1,2 @@
+// Compost colors for selectable_painting. You may add your own colors, change existing ones, or remove colors that aren't needed.
+selectable_painting, #bca589

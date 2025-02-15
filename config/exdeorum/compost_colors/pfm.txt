@@ -1,0 +1,19 @@
+// Compost colors for pfm. You may add your own colors, change existing ones, or remove colors that aren't needed.
+dye_kit_black, #bbbcd7
+dye_kit_blue, #bfcdfe
+dye_kit_brown, #d7c6cf
+dye_kit_cyan, #b8d0ee
+dye_kit_gray, #d2d3e8
+dye_kit_green, #c3cfcc
+dye_kit_light_blue, #c8d9ff
+dye_kit_light_gray, #dee0f8
+dye_kit_lime, #c8ddca
+dye_kit_magenta, #e1c9f8
+dye_kit_orange, #edd6cf
+dye_kit_pink, #ead4f8
+dye_kit_purple, #d7c5fc
+dye_kit_red, #e8c5dc
+dye_kit_white, #eef0ff
+dye_kit_yellow, #ede6d3
+furniture_book, #ffcd97
+iron_chain, #bcbcb5

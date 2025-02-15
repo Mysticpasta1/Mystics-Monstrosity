@@ -1,0 +1,2 @@
+// Compost colors for deltaboxlib. You may add your own colors, change existing ones, or remove colors that aren't needed.
+arboria_icon, #b9c6aa

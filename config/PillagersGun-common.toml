@@ -1,0 +1,71 @@
+#The chance of pillager armed with a gun.
+#Range: 0.0 ~ 1.0
+"Armed Chance" = 1.0
+#The chance of pillagers will drop their guns on death.
+#Range: 0.0 ~ 1.0
+"Drop Chance" = 0.0
+#Whether bullets ignore damage immunity.
+"Ignore Damage Immunity" = false
+#Whether the gun has friend fire.
+"Friend Fire" = false
+
+["Shot Gun"]
+	#The chance of shotgun.
+	#Range: 0.0 ~ 1.0
+	"Shotgun Chance" = 0.2
+	#The power of each shotgun shell.
+	#Range: 0 ~ 5000
+	"Shotgun Power" = 5
+	#The number of shotgun shells.
+	#Range: 0 ~ 200
+	"Shells Number" = 7
+
+[Pistol]
+	#The chance of pistol.
+	#Range: 0.0 ~ 1.0
+	"Pistol Chance" = 0.6
+	#The power of pistol bullet.
+	#Range: 0 ~ 5000
+	"Pistol Power" = 9
+
+["Assault Rifle"]
+	#The chance of assault rifle.
+	#Range: 0.0 ~ 1.0
+	"Assault Rifle Chance" = 0.2
+	#The power of assault rifle bullet.
+	#Range: 0 ~ 5000
+	"Assault Rifle Power" = 12
+	#The percentage of assault rifle bullet damage that ignore armor.
+	#Range: 0.0 ~ 1.0
+	"Assault Rifle Bypass Armor Chance" = 0.25
+	#Whether or not the assault rifle will fire automatically. If false, the assault rifle will use the three-round burst mode.
+	"Automatic Shooting" = true
+
+["Sniper's Rifle"]
+	#The chance of sniper's rifle.
+	#Range: 0.0 ~ 1.0
+	"Sniper's Rifle Chance" = 0.1
+	#The power of sniper's rifle bullet.
+	#Range: 0 ~ 5000
+	"Sniper's Rifle Power" = 25
+	#Sniper Rifle AI Attack Range Multiplier.
+	#Range: 0 ~ 5
+	"Sniper's Rifle Bonus" = 1
+	#The percentage of sniper's rifle bullet damage that ignore armor.
+	#Range: 0.0 ~ 1.0
+	"Sniper's Rifle Bypass Armor Chance" = 0.7
+
+["Combat - Zombie Survival Kit"]
+	#The chance of flamethrower.
+	#Range: 0.0 ~ 1.0
+	"Flamethrower Chance" = 0.05
+	#The chance of flamethrower with fuel canister.
+	#Range: 0.0 ~ 1.0
+	"Fuel Canister Chance" = 0.8
+	#The chance of flamethrower with napalm fuel canister.
+	#Range: 0.0 ~ 1.0
+	"Napalm Fuel Canister Chance" = 0.1
+	#The chance of flamethrower with high temperature fuel canister.
+	#Range: 0.0 ~ 1.0
+	"High Temperature Fuel Canister Chance" = 0.1
+

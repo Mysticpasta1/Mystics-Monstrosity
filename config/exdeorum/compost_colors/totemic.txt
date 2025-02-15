@@ -1,0 +1,22 @@
+// Compost colors for totemic. You may add your own colors, change existing ones, or remove colors that aren't needed.
+baykok_bow, #f2a572
+buffalo_hide, #5f4d3d
+buffalo_meat, #ffa29b
+buffalo_tooth, #ffffff
+cedar_door, #ffcad9
+cedar_hanging_sign, #d08998
+cedar_sapling, #b4ccae
+cedar_sign, #e18c97
+ceremony_cheat, #ffffff
+cooked_buffalo_meat, #daac9d
+eagle_bone, #ffffea
+eagle_bone_whistle, #fcfbdd
+eagle_feather, #4d4122
+flute, #6e5c2c
+infused_flute, #6e5c2c
+iron_bells, #bfbebe
+jingle_dress, #86da6c
+medicine_bag, #ffeade
+rattle, #91785a
+totem_whittling_knife, #75664b
+totemic_staff, #ffffff

@@ -1,0 +1,15 @@
+// Compost colors for ojs_rpg_origins. You may add your own colors, change existing ones, or remove colors that aren't needed.
+raw_sapphire, #d0ffff
+sapphire, #f5ffff
+sapphire_axe, #5f9dcf
+sapphire_boots, #f1ffff
+sapphire_chestplate, #c9ffff
+sapphire_helmet, #ffffff
+sapphire_hoe, #7291b2
+sapphire_leggings, #e8ffff
+sapphire_pickaxe, #466e90
+sapphire_rare, #ffffff
+sapphire_shovel, #1f8ade
+sapphire_sword, #3ca2d0
+thief_glove, #c0582d
+whelm, #977f52

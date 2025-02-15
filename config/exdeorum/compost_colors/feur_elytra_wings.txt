@@ -1,0 +1,17 @@
+// Compost colors for feur_elytra_wings. You may add your own colors, change existing ones, or remove colors that aren't needed.
+angel_wings_chestplate, #fffee7
+black_dragon_wings_chestplate, #433a4e
+fairy_wings_chestplate, #ffffff
+fire_wings_chestplate, #ff6825
+flowering_wings_chestplate, #70c5af
+leaf_wings_chestplate, #c8ca87
+light_wings_chestplate, #ffe0aa
+owl_wings_chestplate, #6f646e
+parrot_wings_chestplate, #fa94bf
+phoenix_wings_chestplate, #ff8258
+princess_wings_chestplate, #ffc5c2
+rainbow_wings_chestplate, #ffc3b5
+river_wings_chestplate, #61d3c9
+steam_wings_chestplate, #b8866e
+western_wings_chestplate, #bb705b
+white_dragon_wings_chestplate, #edeafc

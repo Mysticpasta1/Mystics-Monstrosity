@@ -1,0 +1,22 @@
+// Compost colors for mcwwindows. You may add your own colors, change existing ones, or remove colors that aren't needed.
+black_mosaic_glass_pane, #4e487a
+blue_mosaic_glass_pane, #5a97ff
+brown_mosaic_glass_pane, #e07229
+cyan_mosaic_glass_pane, #5ceaff
+gray_mosaic_glass_pane, #d0cfd2
+green_mosaic_glass_pane, #90c934
+hammer, #877d6e
+key, #dd8d36
+light_blue_mosaic_glass_pane, #9ed6ff
+light_gray_mosaic_glass_pane, #ededff
+lime_mosaic_glass_pane, #9efc22
+magenta_mosaic_glass_pane, #ff97ff
+orange_mosaic_glass_pane, #ffd240
+pink_mosaic_glass_pane, #ff9aee
+purple_mosaic_glass_pane, #d064ff
+red_mosaic_glass_pane, #ff545e
+white_mosaic_glass_pane, #ffffff
+window_base, #7d5f2a
+window_centre_bar_base, #8c703e
+window_half_bar_base, #826633
+yellow_mosaic_glass_pane, #bec820

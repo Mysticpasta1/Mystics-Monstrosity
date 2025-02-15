@@ -1,0 +1,23 @@
+
+["Build Wand Settings"]
+	#If you don't need to have the start block and the end block to be the same before actually replacing/filling the blocks. Default false.
+	only_one_select = false
+	#If this option is selected, together with not requiring same start/end blocks, the block that will be copied will be the last one selected. Default false, meaning the copied block will be the starting one.
+	select_end = false
+	#When erasing blocks, via either replace, fill and replace or erase, items that have no EMC (IE: Iron Ore) will be dropped on the floor next to the player.
+	drop_non_emc_items = true
+	#Add here the resource location name (ie: "minecraft:dirt") of the blocks that will not be allowed as start block. (Note: These blocks will still be replaced with the replace feature. If you need to block that from happening, use the "Non-replaceable block list").
+	start_blacklist = ["minecraft:chest"]
+	#Add here the resource location name (ie: "minecraft:dirt") of the blocks that will not be replaced by the replace function. (Note: Blocks defined here will not be considered invalid for copying. For that use "Block selection Blacklist").
+	replace_blacklist = ["minecraft:bedrock", "minecraft:end_portal_frame", "minecraft:chest"]
+
+["Belt Settings"]
+	#If the belt will try to place the item in the inventory if you already have a compatible stack in there.
+	fill_first = true
+	#If the belt will try to place the item in the inventory if it's a tool.
+	ignore_tools = true
+	#Add here the resource location name (ie: "minecraft:dirt") of the items that will not be destroyed into EMC by the belt, if the inventory is not full.
+	blacklist = ["projecte:transmutation_table"]
+	#Add here the resource location name (ie: "minecraft:dirt") of the items that will not be destroyed into EMC by the belt, ever, even if it means not picking them up.
+	true_blacklist = ["projecte:transmutation_tablet"]
+

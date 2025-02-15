@@ -1,0 +1,52 @@
+/* 
+ * Copyright (c) 2024 Luke Bemish and contributors.
+ * SPDX-License-Identifier: LGPL-3.0-or-later
+ */
+
+{
+    mod_id: 'unusualend',
+    provided_stones: [
+        {
+            block_id: 'unusualend:gloopslate',
+            types: [
+                'end',
+            ],
+            id: 'unusualend_gloopslate',
+            lang: {
+                en_us: 'Gloopslate',
+            },
+        },
+        {
+            block_id: 'unusualend:gloopstone',
+            types: [
+                'end',
+            ],
+            id: 'unusualend_gloopstone',
+            lang: {
+                en_us: 'Gloopstone',
+            },
+        },
+        {
+            block_id: 'unusualend:gneiss',
+            types: [
+                'end',
+            ],
+            id: 'unusualend_gneiss',
+            lang: {
+                en_us: 'Gneiss',
+            },
+        },
+        {
+            block_id: 'unusualend:warped_stone',
+            types: [
+                'end',
+            ],
+            id: 'unusualend_warped_stone',
+            lang: {
+                en_us: 'Warped',
+            },
+        },
+    ],
+    provided_ores: [
+    ],
+}

@@ -1,0 +1,21 @@
+// Compost colors for advgenerators. You may add your own colors, change existing ones, or remove colors that aren't needed.
+advanced_pressure_valve, #bbf2ea
+capacitor_kit_tier2, #b8b4a2
+capacitor_kit_tier3, #a5afb6
+controller, #f7fafc
+iron_frame, #ffffff
+iron_tubing, #f8f7f4
+iron_wiring, #ffc9c6
+power_io, #ede6e7
+pressure_valve, #ffffff
+turbine_blade, #ffffff
+turbine_kit_tier2, #ebdd75
+turbine_kit_tier3, #ffc872
+turbine_kit_tier4, #9b9b9a
+turbine_kit_tier5, #34989e
+turbine_rotor_tier1, #e8e8e8
+turbine_rotor_tier2, #fff78c
+turbine_rotor_tier3, #ffe189
+turbine_rotor_tier4, #b2b2b2
+turbine_rotor_tier5, #90cfd4
+upgrade_kit, #ffffff

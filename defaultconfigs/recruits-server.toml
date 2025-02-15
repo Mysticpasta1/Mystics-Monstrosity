@@ -1,0 +1,329 @@
+
+#Recruits Config:
+[Recruits]
+	#
+	#UpdateCheckerServerside
+	#	(takes effect after restart)
+	#	
+	#Should the client side update checker be active?
+	#It is recommended to keep it enabled to receive information about new bug fixes and features.""
+	#default: true
+	UpdateCheckerServerside = true
+	#
+	#Currency
+	#	(takes effect after restart)
+	#	The Item defined here, will be used to hire recruits. For example: ["minecraft:diamond"]	default: ["minecraft:emerald"]
+	RecruitCurrency = "minecraft:emerald"
+	#
+	#Max XP a Recruit needs to Level Up.
+	#	(takes effect after restart)
+	#	default: 250
+	#Range: 50 ~ 14530
+	RecruitsMaxXpForLevelUp = 250
+	#
+	#The max. Level a recruit can get.-
+	#	(takes effect after restart)
+	#	default: 20
+	#Range: 10 ~ 1453
+	RecruitsMaxXpLevel = 50
+	#
+	#Max amount a player can recruit
+	#	(takes effect after restart)
+	#	default: 64
+	#Range: 1 ~ 1453
+	MaxRecruitsForPlayer = 64
+	#
+	#Target Blacklist
+	#	(takes effect after restart)
+	#	Entities in this list won't be targeted at all, for example: ["minecraft:creeper", "minecraft:sheep", ...]
+	TargetBlackList = ["minecraft:creeper", "minecraft:ghast", "minecraft:enderman", "minecraft:zombified_piglin", "corpse:corpse", "minecraft:armorstand"]
+	#
+	#List of foods that recruits should not eat.
+	#	(takes effect after restart)
+	#	Food items in this list will not be eaten by recruits and also not be picked up from upkeep.
+	FoodBlackList = ["minecraft:poisonous_potato", "minecraft:spider_eye", "minecraft:pufferfish"]
+	#
+	#Mount Whitelist
+	#	(takes effect after restart)
+	#	ONLY Entities in this list can be mounted by a recruit, for example: ["minecraft:boat", "smallships:cog", ...]
+	MountWhitelist = ["minecraft:mule", "minecraft:donkey", "minecraft:horse", "minecraft:llama", "minecraft:pig", "minecraft:boat", "minecraft:minecart", "smallships:cog", "smallships:brigg", "smallships:galley", "smallships:drakkar", "camels:camel"]
+	#
+	#The amount of currency required to hire a recruit.
+	#	(takes effect after restart)
+	#	default: 4
+	#Range: 0 ~ 1453
+	RecruitCost = 4
+	#
+	#The amount of currency required to hire a bowman.
+	#	(takes effect after restart)
+	#	default: 6
+	#Range: 0 ~ 1453
+	BowmanCost = 6
+	#
+	#The amount of currency required to hire a crossbowman.
+	#	(takes effect after restart)
+	#	default: 8
+	#Range: 0 ~ 1453
+	CrossbowmanCost = 8
+	#
+	#The amount of currency required to hire a shieldman.
+	#	(takes effect after restart)
+	#	default: 10
+	#Range: 0 ~ 1453
+	ShieldmanCost = 10
+	#
+	#The amount of currency required to hire a horseman.
+	#	(takes effect after restart)
+	#	default: 20
+	#Range: 0 ~ 1453
+	HorsemanCost = 20
+	#
+	#The amount of currency required to hire a nomad.
+	#	(takes effect after restart)
+	#	default: 19
+	#Range: 0 ~ 1453
+	NomadCost = 19
+	#
+	#RecruitHorseUnitsHorse
+	#	(takes effect after restart)
+	#	
+	#Should the Horse units spawn with a horse?""
+	#default: true
+	RecruitHorseUnitsHorse = true
+	#
+	#RangedRecruitsNeedArrowsToShoot
+	#	(takes effect after restart)
+	#	
+	#Should ranged units need arrows to shoot?
+	#If enabled ranged units will resupply arrows from upkeep chest and spawn with arrows.
+	#""
+	#default: false
+	RangedRecruitsNeedArrowsToShoot = false
+	#RecruitsChunkLoading
+	#	(takes effect after restart)
+	#	
+	#Should recruit-companions load chunks? Disabling would make patrolling in to unloaded chunk impossible.
+	#default: true
+	RecruitsChunkLoading = true
+
+#Recruit Village Config:
+[Villages]
+	#
+	#Should Villager Recruits that were created with Tables release the POI for other Villagers?
+	#True -> allows multiple villagers to become a recruit with one table.
+	#False -> only one villager can become a recruit with one table.
+	#	(takes effect after restart)
+	#	default: true
+	RecruitTablesPOIReleasing = true
+	#
+	#Should Recruits instead of Iron Golems spawn in Villages
+	#	(takes effect after restart)
+	#	default: true
+	OverrideIronGolemSpawn = false
+	#
+	#Max Recruits in a Village Chunk to Spawn
+	#	(takes effect after restart)
+	#	default: 1
+	#Range: 1 ~ 1453
+	MaxSpawnRecruitsInVillage = 3
+
+#Recruits Equipment Config:
+[Equipments]
+	#
+	#Following lists will be used to generate starting armor for different recruit types. Each recruit will be equipped according to a random equipment-set defined below.
+	#
+	#To create a equipment-set note the following order: ["main-hand", "off-hand", "feet", "legs", "chest", "head"]
+	#Each set has ONLY 6 entries. Each set is separated with square brackets: RecruitStartEquipments=[[1], [2], [3], ...].
+	#For example, the following configuration will randomize newly spawned recruits either 1 or 2:
+	#    1. full leather armor set with wooden sword and shield.
+	#    2. only gold sword.
+	#
+	#    RecruitStartEquipments=[["minecraft:wooden_sword", "minecraft:shield","minecraft:leather_boots","minecraft:leather_leggings","minecraft:leather_chestplate", "minecraft:leather_helmet"], ["minecraft:gold_sword", "", "", "", "", ""]]
+	#
+	#There is no limit of armor-sets and modded armor / weapons are also compatible. The mod item-id can be accessed with /give-command.
+	#
+	#
+	#Recruit Start Equipments
+	#Default:  [["minecraft:wooden_sword", "", "", "", "", ""], ["minecraft:stone_sword", "", "", "", "", ""]]
+	#
+	RecruitStartEquipments = [["minecraft:wooden_sword", "", "", "", "", ""], ["minecraft:stone_sword", "", "", "", "", ""]]
+	#
+	#Shieldman Start Equipments
+	#Default: [["minecraft:stone_sword", "minecraft:shield", "", "", "", ""], ["minecraft:wooden_axe", "minecraft:shield", "", "", "", ""]]
+	#
+	ShieldmanStartEquipments = [["minecraft:stone_sword", "minecraft:shield", "", "", "", ""], ["minecraft:wooden_axe", "minecraft:shield", "", "", "", ""]]
+	#
+	#Bowman Start Equipments
+	#Default: [["minecraft:bow", "", "", "", "", ""]]
+	#
+	BowmanStartEquipments = [["minecraft:bow", "", "", "", "", ""]]
+	#
+	#Crossbowman Start Equipments
+	#Default: [["minecraft:crossbow", "", "", "", "", ""]]
+	#
+	CrossbowmanStartEquipments = [["minecraft:crossbow", "", "", "", "", ""]]
+	#
+	#Horseman Start Equipments
+	#Default: [["minecraft:stone_sword", "minecraft:shield", "", "", "", ""], ["minecraft:iron_sword", "minecraft:shield", "", "", "", ""]]
+	#
+	HorsemanStartEquipments = [["minecraft:stone_sword", "minecraft:shield", "", "", "", ""], ["minecraft:iron_sword", "minecraft:shield", "", "", "", ""]]
+	#
+	#Nomad Start Equipments
+	#Default: [["minecraft:bow", "", "", "", "", ""]]
+	#
+	NomadStartEquipments = [["minecraft:bow", "", "", "", "", ""]]
+
+#Monster and Pillager Config:
+[Hostiles]
+	#
+	#Should Pillagers do friendly fire
+	#	(takes effect after restart)
+	#	default: true
+	PillagerFriendlyFire = true
+	#
+	#Should Pillagers spawn naturally
+	#	(takes effect after restart)
+	#	default: false
+	PillagerSpawn = false
+	#
+	#Should Pillagers attack Monsters
+	#	(takes effect after restart)
+	#	default: false
+	PillagerAttackMonsters = false
+	#
+	#Should Monsters attack Pillagers
+	#	(takes effect after restart)
+	#	default: false
+	MonstersAttackPillagers = false
+	#
+	#Should Pillagers attack all Living
+	#	(takes effect after restart)
+	#	default: false
+	ShouldPillagersRaidNaturally = false
+	#
+	#Should Pillagers have increased Combat Range, so they can shoot from far away.
+	#	(takes effect after restart)
+	#	default: false
+	PillagerIncreasedCombatRange = false
+	#
+	#Should Vindicators can spawn with shield and sword and AI to use these.
+	#	(takes effect after restart)
+	#	default: false
+	VindicatorSpawnItems = false
+	#
+	#Should Pillagers can spawn with shield and sword and AI to use these.
+	#	(takes effect after restart)
+	#	default: true
+	PillagerSpawnItems = false
+
+#Block Event Config:
+[BlockEvents]
+	#
+	#Should Aggressive Recruits attack enemy players that are placing or breaking blocks immediately?
+	#	(takes effect after restart)
+	#	default: true
+	AggroRecruitsBlockPlaceBreakEvents = true
+	#
+	#Should Neutral Recruits attack enemy players that are placing or breaking blocks immediately?
+	#	(takes effect after restart)
+	#	default: true
+	NeutralRecruitsBlockPlaceBreakEvents = true
+	#
+	#Should Aggressive Recruits attack enemy players that are interacting with blocks immediately?
+	#	(takes effect after restart)
+	#	default: true
+	AggroRecruitsBlockInteractingEvents = true
+	#
+	#Should Neutral Recruits attack enemy players that are interacting with blocks immediately?
+	#	(takes effect after restart)
+	#	default: true
+	NeutralRecruitsBlockInteractingEvents = true
+
+#Recruit Patrols Config:
+[Patrols]
+	#
+	#Should Recruits spawn as Patrols in the world?
+	#	(takes effect after restart)
+	#	default: true
+	ShouldRecruitPatrolsSpawn = true
+	#
+	#Chance that a Recruit Patrol can spawn. (higher values = higher chance to spawn)
+	#	(takes effect after restart)
+	#	default: 15.0
+	#Range: 0.0 ~ 100.0
+	RecruitPatrolsSpawnChance = 15.0
+	#
+	#The interval in minutes a Recruit Patrol and Caravan can spawn.
+	#	(takes effect after restart)
+	#	default: 30
+	#Range: 1 ~ 60
+	RecruitPatrolSpawnInterval = 30
+	#
+	#The time in minutes a Recruit Patrol and Caravan will despawn.
+	#	(takes effect after restart)
+	#	default: 45
+	#Range: 1 ~ 1453
+	RecruitPatrolDespawnTime = 45
+	#
+	#Should modded Pillager Patrols spawn in the world?
+	#	(takes effect after restart)
+	#	default: false
+	ShouldPillagerPatrolsSpawn = false
+	#
+	#Chance that a modded Pillager Patrol can spawn. (higher values = higher chance to spawn)
+	#	(takes effect after restart)
+	#	default: 25.0
+	#Range: 0.0 ~ 100.0
+	PillagerPatrolsSpawnChance = 25.0
+	#
+	#The interval in minutes a Pillager Patrol can spawn.
+	#	(takes effect after restart)
+	#	default: 45
+	#Range: 1 ~ 60
+	PillagerPatrolSpawnInterval = 45
+
+#General Damage Config:
+[Damage]
+	#No damage Immunity
+	#	Should Immunity between hits be disabled?
+	#	(takes effect after restart)
+	#	default: false
+	NoDamageImmunity = false
+	#List of damagesource that accept immunity
+	#	(takes effect after restart)
+	#	Damagesource in this list will apply a immunity of 0.5s to the entity like normal.
+	AcceptedDamagesourceImmunity = ["inFire", "lava", "sweetBerryBush", "cactus", "lightningBolt", "inWall", "hotFloor", "outOfWorld", "drown"]
+
+#Recruit Teams Config:
+[Teams]
+	#
+	#The amount of currency needed to create a team. Set 0 to disable.
+	#	(takes effect after restart)
+	#	default: 10
+	#Range: 0 ~ 1453
+	TeamCreationCost = 10
+
+	#Global Team Settings
+	[Teams."Global Team Settings"]
+		#
+		#Should Recruits override following team settings on world start for all teams?
+		#	(takes effect after restart)
+		#	default: true
+		GlobalTeamSetting = true
+		#Override Friendly fire true/false for all teams on world start
+		#	(takes effect after restart)
+		#	default: false
+		GlobalTeamFriendlyFireSetting = false
+		#Override SeeFriendlyInvisible true/false for all teams on world start.
+		#	(takes effect after restart)
+		#	default: true
+		GlobalTeamSeeFriendlyInvisibleSetting = true
+
+	#Recruit Mod compatibility Config:
+	[Teams.Compat]
+		#This feature is only possible when corpse mod is installed.
+		#Should recruits spawn corpse of corpse mod when dead?.
+		#	(takes effect after restart)
+		#	default: true
+		CompatCorpseMod = true
+

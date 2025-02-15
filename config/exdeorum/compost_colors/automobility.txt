@@ -1,0 +1,5 @@
+// Compost colors for automobility. You may add your own colors, change existing ones, or remove colors that aren't needed.
+crowbar, #edc8bb
+launch_gel, #98f1f1
+slope, #4d6570
+steep_slope, #4e6672

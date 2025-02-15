@@ -1,0 +1,6 @@
+// Compost colors for playingcards. You may add your own colors, change existing ones, or remove colors that aren't needed.
+poker_chip_black, #bfbfbf
+poker_chip_blue, #a2bfff
+poker_chip_green, #a5feb6
+poker_chip_red, #ff9eab
+poker_chip_white, #ffffff

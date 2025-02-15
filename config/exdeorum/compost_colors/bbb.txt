@@ -1,0 +1,17 @@
+// Compost colors for bbb. You may add your own colors, change existing ones, or remove colors that aren't needed.
+acacia_ladder, #eb7d46
+bamboo_ladder, #988641
+bbb, #c36841
+birch_ladder, #fce6a0
+brazier, #75614e
+cherry_ladder, #fff2ea
+crimson_ladder, #783a54
+dark_oak_ladder, #543418
+hammer, #c36841
+jungle_ladder, #9a6e4a
+mangrove_ladder, #682f2d
+oak_ladder, #cfa55f
+rope, #a88657
+soul_brazier, #527378
+spruce_ladder, #917047
+warped_ladder, #28554e

@@ -1,0 +1,5150 @@
+
+[origins]
+
+	[origins."strictly:wildcat"]
+		enabled = true
+		"strictly:feline_grace" = true
+		"strictly:feared_hunter" = true
+		"strictly:soft_paws" = true
+		"origins:climbing" = true
+		"strictly:nocturnal_eyes1" = true
+		"origins:carnivore" = true
+		"strictly:water_weary" = true
+
+	[origins."origins-plus-plus:land_shark"]
+		enabled = true
+		"origins:carnivore" = true
+		"origins:aqua_affinity" = true
+		"origins:like_water" = true
+		"origins:fragile" = true
+		"origins:no_shield" = true
+		"origins-plus-plus:land-shark/fins" = true
+		"origins-plus-plus:land-shark/gill_lungs" = true
+		"origins-plus-plus:land-shark/greedy" = true
+		"origins-plus-plus:land-shark/hungry" = true
+		"origins-plus-plus:land-shark/lunge" = true
+		"origins-plus-plus:land-shark/razor_teeth" = true
+		"origins-plus-plus:land-shark/speedy" = true
+
+	[origins."dragon_origins:green_dragon_origin"]
+		enabled = true
+		"dragon_origins:good_neighboer" = true
+		"dragon_origins:green" = true
+		"dragon_origins:elytra" = true
+		"dragon_origins:white_teeth" = true
+		"dragon_origins:vegie" = true
+		"dragon_origins:food" = true
+		"dragon_origins:size" = true
+		"dragon_origins:emerald" = true
+		"dragon_origins:droar" = true
+		"dragon_origins:advancement" = true
+
+	[origins."origins_4d_being:sand"]
+		enabled = true
+		"origins_4d_being:sandworm/sandstep/submerge" = true
+		"origins_4d_being:sandworm/sandstep/noair" = true
+		"origins_4d_being:sandworm/sandstep/sandspeed" = true
+		"origins_4d_being:sandworm/sandstep/awaken" = true
+		"origins_4d_being:sandworm/armor" = true
+		"origins_4d_being:sandworm/negative/water" = true
+		"origins_4d_being:sandworm/negative/slow" = true
+		"origins_4d_being:sandworm/negative/freeze" = true
+
+	[origins."medievalorigins:revenant"]
+		enabled = true
+		"medievalorigins:revenant/transfer_item" = true
+		"medievalorigins:revenant/skeleton_summons" = true
+		"medievalorigins:revenant/zombie_summons" = true
+		"medievalorigins:revenant/putrid_communion" = true
+		"medievalorigins:revenant/hellraiser" = true
+		"medievalorigins:revenant/siphon" = true
+		"medievalorigins:revenant/unwitherable" = true
+		"medievalorigins:revenant/undeadge" = true
+		"medievalorigins:revenant/poor_reputation" = true
+		"medievalorigins:revenant/black_thumb" = true
+		"medievalorigins:revenant/disturbed" = true
+		"medievalorigins:revenant/unguarded" = true
+		"origins_survive:sleepless" = true
+
+	[origins."zeph_origins:firewolf"]
+		enabled = true
+		"zeph_origins:fire/mypower" = true
+		"zeph_origins:fire/anotherpower" = true
+		"zeph_origins:fire/power3" = true
+		"zeph_origins:fire/power4" = true
+		"zeph_origins:fire/power5" = true
+		"zeph_origins:fire/power6" = true
+		"zeph_origins:fire/power7" = true
+
+	[origins."medievalorigins:gorgon"]
+		enabled = true
+		"medievalorigins:gorgon/petrifying_gaze" = true
+		"medievalorigins:gorgon/revenge" = true
+		"medievalorigins:gorgon/hydrophobe" = true
+		"medievalorigins:gorgon/to_stone" = true
+		"medievalorigins:gorgon/silver_aversion" = true
+		"medievalorigins:gorgon/poison_blood" = true
+		"medievalorigins:gorgon/poison_immune" = true
+		"origins_env_deh:thirst_resistance" = true
+
+	[origins."srp_origins:variants/piss"]
+		enabled = true
+		"srp_origins:variants/piss" = true
+
+	[origins."origins:blazeborn"]
+		enabled = true
+		"origins:fire_immunity" = true
+		"origins:nether_spawn" = true
+		"origins:burning_wrath" = true
+		"origins:hotblooded" = true
+		"origins:water_vulnerability" = true
+		"origins:flame_particles" = true
+		"origins:damage_from_snowballs" = true
+		"origins:damage_from_potions" = true
+
+	[origins."jojos_origins:dead_ender"]
+		enabled = true
+		"origins:throw_ender_pearl" = true
+		"origins:water_vulnerability" = true
+		"origins:pumpkin_hate" = true
+		"origins:extra_reach" = true
+		"origins:ender_particles" = true
+		"origins:damage_from_potions" = true
+		"jojos_origins:phantomizing" = true
+		"origins:translucent" = true
+		"jojos_origins:phase" = true
+		"jojos_origins:invis" = true
+		"jojos_origins:hunger_over_timea" = true
+		"jojos_origins:fragilea" = true
+		"jojos_origins:phantomizing_overlay" = true
+
+	[origins."ojs_rpg_origins:bard"]
+		enabled = true
+		"ojs_rpg_origins:decoy" = true
+		"origins:more_exhaustion" = true
+		"ojs_rpg_origins:not_the_smartest" = true
+		"ojs_rpg_origins:charismatic" = true
+		"ojs_rpg_origins:charismatic_toggle" = true
+		"ojs_rpg_origins:bard_item" = true
+
+	[origins."deepwoken_origins:adret"]
+		enabled = true
+		"deepwoken_origins:adret/maudet" = true
+		"deepwoken_origins:adret/reputation" = true
+
+	[origins."origins-plus-plus:raptus"]
+		enabled = true
+		"origins:tailwind" = true
+		"origins:fall_immunity" = true
+		"origins:carnivore" = true
+		"origins-plus-plus:raptus/bite" = true
+		"origins-plus-plus:raptus/higher_jump" = true
+		"origins-plus-plus:raptus/light_armor" = true
+		"origins-plus-plus:raptus/pounce" = true
+		"origins-plus-plus:raptus/small" = true
+		"origins-plus-plus:raptus/smaller_body" = true
+
+	[origins."origins-plus-plus:sunken_sailor"]
+		enabled = true
+		"origins:aqua_affinity" = true
+		"origins:burn_in_daylight" = true
+		"origins-plus-plus:sunken-sailor/ignore_water" = true
+		"origins-plus-plus:sunken-sailor/shipwreck_spawn" = true
+		"origins-plus-plus:sunken-sailor/skin_tone" = true
+		"origins-plus-plus:sunken-sailor/spyglass" = true
+		"origins-plus-plus:sunken-sailor/water_breathing" = true
+		"origins-plus-plus:sunken-sailor/water_falling" = true
+
+	[origins."snail:snail"]
+		enabled = true
+		"snail:stick" = true
+		"snail:spit" = true
+		"snail:unpicky" = true
+		"snail:sunlight" = true
+		"snail:heat" = true
+
+	[origins."medievalorigins:goblin"]
+		enabled = true
+		"medievalorigins:goblin/greedy" = true
+		"medievalorigins:goblin/green" = true
+		"medievalorigins:goblin/durability" = true
+		"medievalorigins:goblin/cunning" = true
+		"medievalorigins:goblin/nippy" = true
+		"medievalorigins:goblin/stunted" = true
+		"medievalorigins:goblin/frail" = true
+
+	[origins."sb_origins:wingedfox"]
+		enabled = true
+		"sb_origins:fox/sing" = true
+		"sb_origins:fox/dash" = true
+		"sb_origins:fox/fox_storage" = true
+		"sb_origins:fox/swim" = true
+		"sb_origins:fox/dig_water" = true
+		"sb_origins:fur_coat" = true
+		"sb_origins:diet/berries" = true
+		"sb_origins:diet/modded_berries" = true
+		"sb_origins:diet/modded_berries2" = true
+		"sb_origins:fox/berry_damage" = true
+		"sb_origins:movement/swiftwalking" = true
+		"sb_origins:size/small2" = true
+		"sb_origins:fox/flammable_fur" = true
+		"sb_origins:fox/fragile2" = true
+		"sb_origins:bottomless_stomach" = true
+
+	[origins."srp_origins:variants/charred"]
+		enabled = true
+		"srp_origins:variants/charred" = true
+
+	[origins."origins-plus-plus:panoptican"]
+		enabled = true
+		"origins:extra_reach" = true
+		"origins-plus-plus:panoptican/air_speed_boost" = true
+		"origins-plus-plus:panoptican/bystander" = true
+		"origins-plus-plus:panoptican/entity_glow" = true
+		"origins-plus-plus:panoptican/fire" = true
+		"origins-plus-plus:panoptican/float" = true
+		"origins-plus-plus:panoptican/fragile" = true
+		"origins-plus-plus:panoptican/night_vision" = true
+		"origins-plus-plus:panoptican/particles" = true
+		"origins-plus-plus:panoptican/raycast" = true
+		"origins-plus-plus:panoptican/toggle" = true
+
+	[origins."origins_paps_fantasy:human"]
+		enabled = true
+		"origins_paps_fantasy:human_starting" = true
+
+	[origins."origins_paps_fantasy:nych"]
+		enabled = true
+		"origins_paps_fantasy:nych_wings" = true
+		"origins_paps_fantasy:nych_launch" = true
+		"origins_paps_fantasy:nych_health" = true
+		"origins_paps_fantasy:nych_sunblind" = true
+		"origins_paps_fantasy:nych_nightvision" = true
+		"origins_paps_fantasy:nych_size" = true
+
+	[origins."origins-plus-plus:chimaera"]
+		enabled = true
+		"origins:climbing" = true
+		"origins-plus-plus:chimaera/aggression" = true
+		"origins-plus-plus:chimaera/anoxic" = true
+		"origins-plus-plus:chimaera/chimeric" = true
+		"origins-plus-plus:chimaera/miasma" = true
+		"origins-plus-plus:chimaera/no_food" = true
+		"origins-plus-plus:chimaera/pathophagy" = true
+		"origins-plus-plus:chimaera/phase_shift" = true
+		"origins-plus-plus:chimaera/schrodinger_vitality" = true
+		"origins-plus-plus:chimaera/unstable" = true
+		"origins-plus-plus:chimaera/xenite_implants" = true
+
+	[origins."origins-plus-plus:ignisian"]
+		enabled = true
+		"origins-plus-plus:ignisian/archdemon_size" = true
+		"origins-plus-plus:ignisian/brawler" = true
+		"origins-plus-plus:ignisian/crimson" = true
+		"origins-plus-plus:ignisian/diabolic" = true
+		"origins-plus-plus:ignisian/extinguished" = true
+		"origins-plus-plus:ignisian/extinguished_air" = true
+		"origins-plus-plus:ignisian/extinguished_ignore" = true
+		"origins-plus-plus:ignisian/hades_hopper" = true
+		"origins-plus-plus:ignisian/hades_trembler" = true
+		"origins-plus-plus:ignisian/heavyweight" = true
+		"origins-plus-plus:ignisian/ignisian_wrath" = true
+		"origins-plus-plus:ignisian/ignisian_wrath_toggle" = true
+		"origins-plus-plus:ignisian/ignisian_zenith" = true
+		"origins-plus-plus:ignisian/ignisian_zenith_effects" = true
+		"origins-plus-plus:ignisian/infernal" = true
+		"origins-plus-plus:ignisian/leaper" = true
+		"origins-plus-plus:ignisian/predatory" = true
+		"origins-plus-plus:ignisian/punished" = true
+		"origins-plus-plus:ignisian/sluggish_arms" = true
+		"origins-plus-plus:ignisian/sluggish_break" = true
+
+	[origins."origins-plus-plus:magmean"]
+		enabled = true
+		"origins:nether_spawn" = true
+		"origins:water_vulnerability" = true
+		"origins:fire_immunity" = true
+		"origins:light_armor" = true
+		"origins-plus-plus:magmean/antivore" = true
+		"origins-plus-plus:magmean/bouncy" = true
+		"origins-plus-plus:magmean/disable_regeneration" = true
+		"origins-plus-plus:magmean/drop_loot" = true
+		"origins-plus-plus:magmean/lava_feed" = true
+		"origins-plus-plus:magmean/lava_speed" = true
+		"origins-plus-plus:magmean/no_fall_damage" = true
+		"origins-plus-plus:magmean/regeneration" = true
+		"origins-plus-plus:magmean/spicy_hands" = true
+
+	[origins."swarmorigin:tier1/sentry"]
+		enabled = true
+		"swarmorigin:status/alien_biology" = true
+		"swarmorigin:action/variantchange" = true
+		"swarmorigin:action/tier1sidegrade" = true
+		"swarmorigin:action/tier1upgrade" = true
+		"swarmorigin:status/tier1evolution" = true
+		"swarmorigin:action/energy" = true
+		"swarmorigin:action/climb" = true
+		"swarmorigin:action/climbing" = true
+		"swarmorigin:status/armor_restrictions" = true
+		"swarmorigin:status/tier1_stats" = true
+		"swarmorigin:status/more_health" = true
+		"swarmorigin:status/feast" = true
+		"swarmorigin:action/pierce" = true
+		"swarmorigin:action/bulkup" = true
+		"swarmorigin:action/aoe_attack" = true
+		"origins:arthropod" = true
+		"origins:fall_immunity" = true
+		"origins:cat_vision" = true
+		"origins:no_cobweb_slowdown" = true
+
+	[origins."srp_origins:adapted/summoner"]
+		enabled = true
+		"srp_origins:parasite" = true
+		"srp_origins:adapted/adaptive2" = true
+		"srp_origins:adapted/tendril2" = true
+		"srp_origins:adapted/large" = true
+		"srp_origins:adapted/vomit" = true
+		"srp_origins:adapted/leap" = true
+		"srp_origins:adapted/tough" = true
+		"srp_origins:adapted/remains" = true
+		"srp_origins:adapted/summoner/creature" = true
+		"srp_origins:adapted/summoner/summon" = true
+		"srp_origins:adapted/summoner/tamed" = true
+		"srp_origins:adapted/summoner/revive" = true
+		"srp_origins:adapted/summoner/orb" = true
+		"srp_origins:souls" = true
+		"srp_origins:biomass" = true
+		"srp_origins:phases" = true
+		"srp_origins:upgrades" = true
+		"srp_origins:fire_damage" = true
+		"srp_origins:nosleep" = true
+		"srp_origins:badrep" = true
+		"srp_origins:parasitetag" = true
+		"srp_origins:fool" = true
+		"srp_origins:1kdownloads" = true
+		"srp_origins:adapted/summoner/teamcreate" = true
+
+	[origins."srp_origins:nexus/beckon/stage1"]
+		enabled = true
+		"srp_origins:parasite" = true
+		"srp_origins:nexus/beckon/stage1/biomass" = true
+		"srp_origins:nexus/beckon/burrow" = true
+		"srp_origins:nexus/beckon/stage1/summon" = true
+		"srp_origins:nexus/beckon/stage1/bomb" = true
+		"srp_origins:nexus/beckon/stage1/node" = true
+		"srp_origins:nexus/beckon/stage1/spread1" = true
+		"srp_origins:fire_damage" = true
+		"srp_origins:nosleep" = true
+		"srp_origins:badrep" = true
+		"srp_origins:parasitetag" = true
+		"srp_origins:fool" = true
+		"srp_origins:1kdownloads" = true
+
+	[origins."animal_origins:sheep"]
+		enabled = true
+		"animal_origins:vegetarian" = true
+		"animal_origins:half_block_tall" = true
+		"animal_origins:half_block_wide" = true
+		"animal_origins:featherweight" = true
+
+	[origins."ojs_rpg_origins:variant_human/feat"]
+		enabled = true
+
+	[origins."origins-plus-plus:earth_spirit"]
+		enabled = true
+		"origins-plus-plus:earth-spirit/ignore_water" = true
+		"origins-plus-plus:earth-spirit/rock_skin" = true
+		"origins-plus-plus:earth-spirit/stone_power" = true
+		"origins-plus-plus:earth-spirit/switch_origin" = true
+
+	[origins."jojos_origins:pig_yeeter"]
+		enabled = true
+		"jojos_origins:throw_pigs" = true
+
+	[origins."srp_origins:adapted/longarms"]
+		enabled = true
+		"srp_origins:parasite" = true
+		"srp_origins:adapted/adaptive2" = true
+		"srp_origins:adapted/tendril2" = true
+		"srp_origins:adapted/large" = true
+		"srp_origins:adapted/vomit" = true
+		"srp_origins:adapted/leap" = true
+		"srp_origins:adapted/tough" = true
+		"srp_origins:adapted/remains" = true
+		"srp_origins:adapted/longarms/creature" = true
+		"srp_origins:adapted/longarms/length" = true
+		"srp_origins:adapted/longarms/wave" = true
+		"srp_origins:adapted/longarms/orb" = true
+		"srp_origins:adapted/longarms/swipe" = true
+		"srp_origins:adapted/longarms/climb" = true
+		"srp_origins:souls" = true
+		"srp_origins:biomass" = true
+		"srp_origins:phases" = true
+		"srp_origins:upgrades" = true
+		"srp_origins:fire_damage" = true
+		"srp_origins:nosleep" = true
+		"srp_origins:badrep" = true
+		"srp_origins:parasitetag" = true
+		"srp_origins:fool" = true
+		"srp_origins:1kdownloads" = true
+
+	[origins."strictly:birdofparadise"]
+		enabled = true
+		"strictly:winged" = true
+		"origins:slow_falling" = true
+		"origins:aerial_combatant" = true
+		"origins:tailwind" = true
+		"strictly:wet_wings" = true
+		"origins:light_armor" = true
+		"strictly:claustrophobic_sleep" = true
+		"origins:carnivore" = true
+		"origins:launch" = true
+
+	[origins."origins_paps_fantasy:psari"]
+		enabled = true
+		"origins_paps_fantasy:psari_skin" = true
+		"origins_paps_fantasy:psari_trident" = true
+		"origins_paps_fantasy:psari_waterbreath" = true
+		"origins_paps_fantasy:psari_watermine" = true
+		"origins_paps_fantasy:psari_waterspeed" = true
+		"origins_paps_fantasy:psari_regen" = true
+		"origins_paps_fantasy:psari_fireweakness" = true
+		"origins_paps_fantasy:psari_inkdef" = true
+		"origins_paps_fantasy:psari_sound" = true
+		"origins_paps_fantasy:psari_ink" = true
+		"origins_paps_fantasy:psari_bubble" = true
+		"origins_paps_fantasy:psari_swimspeed" = true
+		"origins_paps_fantasy:psari_size" = true
+
+	[origins."elemental:air"]
+		enabled = true
+		"elemental:air/nofalldamage" = true
+		"elemental:air/fastrun" = true
+		"elemental:air/lesshearth" = true
+		"elemental:air/lightarmour" = true
+
+	[origins."strictly:dwarf"]
+		enabled = true
+		"strictly:haste" = true
+		"strictly:potent_brew" = true
+		"strictly:miniature_dwarf" = true
+		"strictly:dense" = true
+		"strictly:insatiable_hunger" = true
+		"strictly:gold_lover" = true
+		"strictly:nocturnal_eyes1" = true
+		"strictly:pickaxeless_stone" = true
+		"strictly:jump" = true
+		"strictly:step_height" = true
+
+	[origins."dragon_origins:cyborg"]
+		enabled = true
+		"dragon_origins:metal_skin" = true
+		"dragon_origins:water" = true
+		"dragon_origins:xtrajump" = true
+		"dragon_origins:fire_immunity" = true
+		"dragon_origins:no_armor" = true
+		"dragon_origins:fall_dam" = true
+		"dragon_origins:night_v" = true
+		"dragon_origins:advancement" = true
+
+	[origins."sow:glacian"]
+		enabled = true
+		"sow:freeze_invulnerable" = true
+		"sow:defense_boost_5" = true
+		"sow:too_hot" = true
+
+	[origins."origins-plus-plus:shroomling"]
+		enabled = true
+		"origins:tailwind" = true
+		"origins:slow_falling" = true
+		"origins-plus-plus:sporeling/decay" = true
+		"origins-plus-plus:sporeling/decomposer" = true
+		"origins-plus-plus:sporeling/fire_damage" = true
+		"origins-plus-plus:sporeling/health_upgrade" = true
+		"origins-plus-plus:sporeling/jockey" = true
+		"origins-plus-plus:sporeling/light_armor_upgrade" = true
+		"origins-plus-plus:sporeling/no_netherite" = true
+		"origins-plus-plus:sporeling/poison_spread_attack_upgrade" = true
+		"origins-plus-plus:sporeling/small_upgrade" = true
+		"origins-plus-plus:sporeling/speed" = true
+		"origins-plus-plus:sporeling/updraft_upgrade" = true
+
+	[origins."sb_origins:centipede"]
+		enabled = true
+		"sb_origins:insect/centipede_grasp" = true
+		"sb_origins:insect/climbing" = true
+		"sb_origins:insect/dark_strength" = true
+		"sb_origins:venom" = true
+		"sb_origins:movement/swiftwalking" = true
+		"sb_origins:hunger" = true
+		"sb_origins:size/big" = true
+		"sb_origins:insomniac" = true
+		"sb_origins:flammable" = true
+		"sb_origins:insect/fragile2" = true
+		"sb_origins:bottomless_stomach" = true
+
+	[origins."srp_origins:variants/carnis"]
+		enabled = true
+		"srp_origins:variants/carnis" = true
+
+	[origins."jojos_origins:uhu_stick"]
+		enabled = true
+		"jojos_origins:sticky" = true
+		"jojos_origins:stick_particle" = true
+
+	[origins."elemental:fire"]
+		enabled = true
+		"elemental:fire/fire_resistance" = true
+		"elemental:fire/lava_vision" = true
+		"elemental:fire/water_weak" = true
+		"elemental:fire/rain_slow" = true
+
+	[origins."origins-plus-plus:boarling"]
+		enabled = true
+		"origins-plus-plus:boarling/delicious" = true
+		"origins-plus-plus:boarling/gluttonous" = true
+		"origins-plus-plus:boarling/hog_sounds" = true
+		"origins-plus-plus:boarling/hog_wild" = true
+		"origins-plus-plus:boarling/hoofed" = true
+		"origins-plus-plus:boarling/overweight" = true
+		"origins-plus-plus:boarling/strong" = true
+		"origins-plus-plus:boarling/tough" = true
+
+	[origins."dragon_origins:undead"]
+		enabled = true
+		"dragon_origins:zombie" = true
+		"dragon_origins:daylight" = true
+		"dragon_origins:hugs" = true
+		"dragon_origins:body" = true
+		"dragon_origins:body_" = true
+		"dragon_origins:gloom" = true
+		"dragon_origins:undead" = true
+		"dragon_origins:unnerving" = true
+		"dragon_origins:attacker" = true
+		"dragon_origins:target" = true
+		"dragon_origins:join_team" = true
+		"dragon_origins:create_team" = true
+		"dragon_origins:summon" = true
+		"dragon_origins:shovel" = true
+		"dragon_origins:stone_sword" = true
+		"dragon_origins:advancement" = true
+
+	[origins."medievalorigins:ogre"]
+		enabled = true
+		"medievalorigins:ogre/gargantuan" = true
+		"medievalorigins:ogre/bloodlust" = true
+		"medievalorigins:ogre/ravager" = true
+		"medievalorigins:ogre/lead_belly" = true
+		"medievalorigins:ogre/stocky" = true
+		"medievalorigins:ogre/ravenous" = true
+		"medievalorigins:ogre/sluggish" = true
+		"medievalorigins:ogre/unwieldy" = true
+		"medievalorigins:ogre/ogre_properties" = true
+		"medievalorigins:ogre/bloodlust_camera" = true
+		"origins_survive:illness_resistance" = true
+
+	[origins."dragon_origins:mimic"]
+		enabled = true
+		"dragon_origins:mimic/toggle" = true
+		"dragon_origins:mimic/toggle2" = true
+		"dragon_origins:mimic/display" = true
+		"origins:nine_lives" = true
+		"dragon_origins:advancement" = true
+
+	[origins."diversity_origins:wip.pushyram"]
+		enabled = true
+		"minecraft:" = true
+
+	[origins."origins-plus-plus:sand_walker"]
+		enabled = true
+		"origins-plus-plus:sand-walker/cold_hatred" = true
+		"origins-plus-plus:sand-walker/desert_spawn" = true
+		"origins-plus-plus:sand-walker/flesh_eater" = true
+		"origins-plus-plus:sand-walker/heat_resistance" = true
+		"origins-plus-plus:sand-walker/no_hunger" = true
+		"origins-plus-plus:sand-walker/sand_blender" = true
+		"origins-plus-plus:sand-walker/sand_shifter" = true
+		"origins-plus-plus:sand-walker/worse_steak" = true
+
+	[origins."strictly:umvuthi"]
+		enabled = true
+		"strictly:sunblessing" = true
+		"strictly:sun_block" = true
+		"strictly:sun_strength" = true
+		"strictly:weak_health" = true
+		"strictly:vegetarian1" = true
+
+	[origins."origins-plus-plus:ninetails"]
+		enabled = true
+		"origins:water_vulnerability" = true
+		"origins:fall_immunity" = true
+		"origins:fire_immunity" = true
+		"origins:nine_lives" = true
+		"origins-plus-plus:ninetails/fire_particles" = true
+		"origins-plus-plus:ninetails/firebody" = true
+		"origins-plus-plus:ninetails/launch" = true
+		"origins-plus-plus:ninetails/pocket" = true
+		"origins-plus-plus:ninetails/willow" = true
+
+	[origins."sb_origins:angel"]
+		enabled = true
+		"sb_origins:birdboost" = true
+		"sb_origins:angel/slow_falling" = true
+		"sb_origins:angel/cold_biome" = true
+		"sb_origins:angel/lucky" = true
+		"sb_origins:angel/water_walking" = true
+		"sb_origins:angel/thick_feathers" = true
+		"sb_origins:diet/vegetarian_angel" = true
+		"sb_origins:aura/heavenly_aura" = true
+		"sb_origins:size/big" = true
+		"sb_origins:angel/fresh_air" = true
+		"sb_origins:angel/hellweakness" = true
+		"sb_origins:flammable" = true
+		"sb_origins:angel/water_hater" = true
+		"sb_origins:angel/water_hater2" = true
+
+	[origins."ojs_rpg_origins:variant_human/feats/heavily_armored"]
+		enabled = true
+		"ojs_rpg_origins:variant_human/feats/heavily_armored" = true
+
+	[origins."origins_paps_fantasy:giant"]
+		enabled = true
+		"origins_paps_fantasy:giant_size" = true
+		"origins_paps_fantasy:giant_health" = true
+		"origins_paps_fantasy:giant_hunger" = true
+		"origins_paps_fantasy:giant_mount" = true
+		"origins_paps_fantasy:giant_weight" = true
+		"origins_paps_fantasy:giant_knockbackres" = true
+		"origins_paps_fantasy:giant_smash" = true
+		"origins_paps_fantasy:giant_dismount" = true
+
+	[origins."origins-plus-plus:shifter"]
+		enabled = true
+		"origins-plus-plus:shifter/shift_bar" = true
+		"origins-plus-plus:shifter/no_elytra" = true
+		"origins-plus-plus:shifter/shift_arachnid" = true
+		"origins-plus-plus:shifter/arachnid/bane_of_arthropods" = true
+		"origins-plus-plus:shifter/arachnid/carnivore" = true
+		"origins-plus-plus:shifter/arachnid/climbing" = true
+		"origins-plus-plus:shifter/arachnid/colour" = true
+		"origins-plus-plus:shifter/arachnid/health" = true
+		"origins-plus-plus:shifter/arachnid/master_of_webs" = true
+		"origins-plus-plus:shifter/arachnid/size" = true
+		"origins-plus-plus:shifter/shift_avian" = true
+		"origins-plus-plus:shifter/avian/fresh_air" = true
+		"origins-plus-plus:shifter/avian/health" = true
+		"origins-plus-plus:shifter/avian/size" = true
+		"origins-plus-plus:shifter/avian/slow_falling" = true
+		"origins-plus-plus:shifter/avian/tailwind" = true
+		"origins-plus-plus:shifter/avian/vegetarian" = true
+		"origins-plus-plus:shifter/shift_blazeborn" = true
+		"origins-plus-plus:shifter/blazeborn/colour" = true
+		"origins-plus-plus:shifter/blazeborn/fire_damage" = true
+		"origins-plus-plus:shifter/blazeborn/fire_immunity" = true
+		"origins-plus-plus:shifter/blazeborn/health" = true
+		"origins-plus-plus:shifter/blazeborn/hydrophobia" = true
+		"origins-plus-plus:shifter/blazeborn/less_damage" = true
+		"origins-plus-plus:shifter/blazeborn/size" = true
+		"origins-plus-plus:shifter/shift_elytrian" = true
+		"origins-plus-plus:shifter/elytrian/claustrophobia" = true
+		"origins-plus-plus:shifter/elytrian/colour" = true
+		"origins-plus-plus:shifter/elytrian/flying_damage" = true
+		"origins-plus-plus:shifter/elytrian/health" = true
+		"origins-plus-plus:shifter/elytrian/launch" = true
+		"origins-plus-plus:shifter/elytrian/more_fall_damage" = true
+		"origins-plus-plus:shifter/elytrian/size" = true
+		"origins-plus-plus:shifter/elytrian/take_more_damage" = true
+		"origins-plus-plus:shifter/elytrian/winged" = true
+		"origins-plus-plus:shifter/shift_enderian" = true
+		"origins-plus-plus:shifter/enderian/colour" = true
+		"origins-plus-plus:shifter/enderian/ender_pearl" = true
+		"origins-plus-plus:shifter/enderian/health" = true
+		"origins-plus-plus:shifter/enderian/home" = true
+		"origins-plus-plus:shifter/enderian/hydrophobia" = true
+		"origins-plus-plus:shifter/enderian/size" = true
+		"origins-plus-plus:shifter/shift_feline" = true
+		"origins-plus-plus:shifter/feline/health" = true
+		"origins-plus-plus:shifter/feline/jump" = true
+		"origins-plus-plus:shifter/feline/mine_slower" = true
+		"origins-plus-plus:shifter/feline/night_vision" = true
+		"origins-plus-plus:shifter/feline/no_fall_damage" = true
+		"origins-plus-plus:shifter/feline/size" = true
+		"origins-plus-plus:shifter/feline/weak_arms" = true
+		"origins-plus-plus:shifter/shift_merling" = true
+		"origins-plus-plus:shifter/merling/aqua_affinity" = true
+		"origins-plus-plus:shifter/merling/colour" = true
+		"origins-plus-plus:shifter/merling/gills" = true
+		"origins-plus-plus:shifter/merling/health" = true
+		"origins-plus-plus:shifter/merling/impaling" = true
+		"origins-plus-plus:shifter/merling/size" = true
+		"origins-plus-plus:shifter/merling/swim_speed" = true
+		"origins-plus-plus:shifter/merling/water_vision" = true
+		"origins-plus-plus:shifter/merling/weak_lungs" = true
+		"origins-plus-plus:shifter/shift_phantom" = true
+		"origins-plus-plus:shifter/phantom/health" = true
+		"origins-plus-plus:shifter/phantom/phase" = true
+		"origins-plus-plus:shifter/phantom/size" = true
+		"origins-plus-plus:shifter/phantom/translucent" = true
+		"origins-plus-plus:shifter/shift_shulk" = true
+		"origins-plus-plus:shifter/shulk/armor" = true
+		"origins-plus-plus:shifter/shulk/colour" = true
+		"origins-plus-plus:shifter/shulk/exhaustion" = true
+		"origins-plus-plus:shifter/shulk/health" = true
+		"origins-plus-plus:shifter/shulk/more_damage" = true
+		"origins-plus-plus:shifter/shulk/no_shield" = true
+		"origins-plus-plus:shifter/shulk/size" = true
+
+	[origins."srp_origins:variants/fooled"]
+		enabled = true
+		"srp_origins:variants/fooled" = true
+
+	[origins."jojos_addon_origins:leuchtturm"]
+		enabled = true
+		"jojos_addon_origins:lt_big" = true
+
+	[origins."zeph_origins:rizzard"]
+		enabled = true
+		"zeph_origins:rizz/rpower1" = true
+		"zeph_origins:rizz/rpower2" = true
+		"zeph_origins:rizz/rpower3" = true
+		"zeph_origins:rizz/rpower4" = true
+		"zeph_origins:rizz/rpower5" = true
+		"zeph_origins:rizz/rpower6" = true
+		"zeph_origins:rizz/rpower7" = true
+		"zeph_origins:rizz/rpower8" = true
+		"zeph_origins:rizz/rpower9" = true
+
+	[origins."origins-plus-plus:zero_aizawa"]
+		enabled = true
+		"origins:throw_ender_pearl" = true
+		"origins-plus-plus:zero-aizawa/acrobatics" = true
+		"origins-plus-plus:zero-aizawa/heliophobia" = true
+		"origins-plus-plus:zero-aizawa/long_arms" = true
+		"origins-plus-plus:zero-aizawa/nice_mobs" = true
+		"origins-plus-plus:zero-aizawa/nice_villager_prices" = true
+		"origins-plus-plus:zero-aizawa/super_sane" = true
+		"origins-plus-plus:zero-aizawa/tall" = true
+		"origins-plus-plus:zero-aizawa/weak_stature" = true
+
+	[origins."zeph_origins:monkey"]
+		enabled = true
+		"zeph_origins:monke/mpower1" = true
+		"zeph_origins:monke/mpower2" = true
+		"zeph_origins:monke/mpower3" = true
+
+	[origins."srp_origins:variants/armored"]
+		enabled = true
+		"srp_origins:variants/armored" = true
+
+	[origins."dragon_origins:pirate"]
+		enabled = true
+		"dragon_origins:pirate/hook" = true
+		"dragon_origins:pirate/eye_patch" = true
+		"dragon_origins:pirate/swim_speed" = true
+		"dragon_origins:pirate/home" = true
+		"dragon_origins:pirate/shiny" = true
+		"dragon_origins:advancement" = true
+
+	[origins."srp_origins:crude/thrall"]
+		enabled = true
+		"srp_origins:parasite" = true
+		"srp_origins:crude/thrall/buglin" = true
+		"srp_origins:crude/thrall/agility" = true
+		"srp_origins:crude/thrall/creature" = true
+		"srp_origins:adaptive1" = true
+		"srp_origins:tendril1" = true
+		"srp_origins:crude/remains" = true
+		"srp_origins:crude/thrall/repurposed" = true
+		"srp_origins:crude/thrall/large" = true
+		"srp_origins:souls" = true
+		"srp_origins:biomass" = true
+		"srp_origins:phases" = true
+		"srp_origins:upgrades" = true
+		"srp_origins:fire_damage" = true
+		"srp_origins:nosleep" = true
+		"srp_origins:badrep" = true
+		"srp_origins:crude/thrall/nochest" = true
+		"srp_origins:crude/thrall/exhaust" = true
+		"srp_origins:parasitetag" = true
+		"srp_origins:fool" = true
+		"srp_origins:1kdownloads" = true
+
+	[origins."origins-plus-plus:jellyfish"]
+		enabled = true
+		"origins:aqua_affinity" = true
+		"origins:aquatic" = true
+		"origins:conduit_power_on_land" = true
+		"origins:like_water" = true
+		"origins:swim_speed" = true
+		"origins-plus-plus:jellyfish/aquatic_agriculture" = true
+		"origins-plus-plus:jellyfish/dry" = true
+		"origins-plus-plus:jellyfish/jelly_body" = true
+		"origins-plus-plus:jellyfish/little_blob" = true
+		"origins-plus-plus:jellyfish/ship_dweller" = true
+		"origins-plus-plus:jellyfish/stinger" = true
+		"origins-plus-plus:jellyfish/water_vision" = true
+
+	[origins."ojs_rpg_origins:variant_human/skills/medicine"]
+		enabled = true
+		"digs_dnd_origins:half-elf/skills/medicine" = true
+
+	[origins."dragon_origins:sand_larvae"]
+		enabled = true
+		"dragon_origins:sand/sand_larvae/air_swim" = true
+		"dragon_origins:sand/sand_larvae/advancement" = true
+		"dragon_origins:sand/sand_larvae/hp" = true
+		"dragon_origins:sand/sand_larvae/size" = true
+		"dragon_origins:sand/sand_larvae/bite" = true
+		"dragon_origins:sand/sand_larvae/spit" = true
+		"dragon_origins:sand/sand_larvae/sand_confidene" = true
+		"dragon_origins:sand/sand_larvae/desert" = true
+		"dragon_origins:advancement" = true
+
+	[origins."origins-plus-plus:hero_of_the_wild"]
+		enabled = true
+		"origins:elytra" = true
+		"origins:climbing" = true
+		"origins-plus-plus:hero-of-the-wild/energy_wave" = true
+		"origins-plus-plus:hero-of-the-wild/epona" = true
+		"origins-plus-plus:hero-of-the-wild/exhaust" = true
+		"origins-plus-plus:hero-of-the-wild/roll" = true
+		"origins-plus-plus:hero-of-the-wild/sink" = true
+		"origins-plus-plus:hero-of-the-wild/sword" = true
+
+	[origins."jojos_origins:brewster"]
+		enabled = true
+		"jojos_origins:brew_prositive" = true
+
+	[origins."origins-plus-plus:kelperet"]
+		enabled = true
+		"origins:no_shield" = true
+		"origins:water_breathing" = true
+		"origins:fragile" = true
+		"origins-plus-plus:kelperet/aqua_affinity" = true
+		"origins-plus-plus:kelperet/aqua_power" = true
+		"origins-plus-plus:kelperet/gather" = true
+		"origins-plus-plus:kelperet/lunge" = true
+		"origins-plus-plus:kelperet/mobile_conduit" = true
+		"origins-plus-plus:kelperet/no_helmet" = true
+		"origins-plus-plus:kelperet/shell_equip" = true
+		"origins-plus-plus:kelperet/sink_in_water" = true
+		"origins-plus-plus:kelperet/small" = true
+		"origins-plus-plus:kelperet/sounds" = true
+		"origins-plus-plus:kelperet/standing_effect" = true
+		"origins-plus-plus:kelperet/water_vision" = true
+		"origins-plus-plus:kelperet/waterbound" = true
+
+	[origins."ojs_rpg_origins:variant_human/skills"]
+		enabled = true
+
+	[origins."swarmorigin:variants/natural"]
+		enabled = true
+		"swarmorigin:variant/natural" = true
+
+	[origins."omnitrix:hb_pyronite"]
+		enabled = true
+		"omnitrix:hb_jetpack" = true
+		"omnitrix:hb_fireball" = true
+		"omnitrix:hb_flame" = true
+		"origins:fire_immunity" = true
+		"origins:hotblooded" = true
+		"origins:water_vulnerability" = true
+		"origins:flame_particles" = true
+		"origins:damage_from_snowballs" = true
+		"origins:damage_from_potions" = true
+		"omnitrix:velocity" = true
+		"origins:no_shield" = true
+
+	[origins."poisons_origins:tester"]
+		enabled = true
+
+	[origins."jojos_origins:speedy_gonzales"]
+		enabled = true
+		"jojos_origins:water_walker" = true
+		"jojos_origins:speed" = true
+
+	[origins."origins-plus-plus:illusioner/illusioner_apprentice"]
+		enabled = true
+		"origins:no_shield" = true
+		"origins-plus-plus:illusioner/better_arrow" = true
+		"origins-plus-plus:illusioner/bow_apprentice" = true
+		"origins-plus-plus:illusioner/friendly_pillagers" = true
+		"origins-plus-plus:illusioner/illusion" = true
+		"origins-plus-plus:illusioner/illusion_despawn" = true
+		"origins-plus-plus:illusioner/illusion_formation" = true
+		"origins-plus-plus:illusioner/illusion_tp" = true
+		"origins-plus-plus:illusioner/scary" = true
+		"origins-plus-plus:illusioner/sword_bad" = true
+		"origins-plus-plus:illusioner/villager_hate" = true
+
+	[origins."origins-plus-plus:marshmallow"]
+		enabled = true
+		"origins-plus-plus:marshmallow/change_resource" = true
+		"origins-plus-plus:marshmallow/melt_in_water" = true
+		"origins-plus-plus:marshmallow/pyrophobia" = true
+		"origins-plus-plus:marshmallow/resource" = true
+		"origins-plus-plus:marshmallow/sugar_level_1" = true
+		"origins-plus-plus:marshmallow/sugar_level_2" = true
+		"origins-plus-plus:marshmallow/sugar_level_3" = true
+
+	[origins."sow:ardoni"]
+		enabled = true
+		"sow:songs" = true
+		"sow:health_boost_10" = true
+		"sow:potion_invulnerable" = true
+		"sow:prevent_redstone" = true
+		"sow:ardoni_no_armor" = true
+		"sow:prevent_elytra" = true
+
+	[origins."strictly:paladin"]
+		enabled = true
+		"strictly:holy_fire" = true
+		"strictly:dried_out" = true
+		"strictly:leech" = true
+		"strictly:well_built" = true
+		"strictly:durendal" = true
+		"strictly:skilled_swordsman_1" = true
+		"strictly:book" = true
+		"strictly:praise_the_sun" = true
+
+	[origins."origins-classes:merchant"]
+		enabled = true
+		"origins-classes:trade_availability" = true
+		"origins-classes:rare_wandering_loot" = true
+
+	[origins."srp_origins:primitive/manducater"]
+		enabled = true
+		"srp_origins:parasite" = true
+		"srp_origins:adaptive1" = true
+		"srp_origins:tendril1" = true
+		"srp_origins:primitive/remains" = true
+		"srp_origins:primitive/manducater/creature" = true
+		"srp_origins:primitive/manducater/invisibility" = true
+		"srp_origins:primitive/manducater/orb" = true
+		"srp_origins:primitive/manducater/evolution" = true
+		"srp_origins:souls" = true
+		"srp_origins:biomass" = true
+		"srp_origins:phases" = true
+		"srp_origins:upgrades" = true
+		"srp_origins:fire_damage" = true
+		"srp_origins:nosleep" = true
+		"srp_origins:badrep" = true
+		"srp_origins:parasitetag" = true
+		"srp_origins:fool" = true
+		"srp_origins:1kdownloads" = true
+
+	[origins."deepwoken_origins:capra"]
+		enabled = true
+		"deepwoken_origins:capra/ku" = true
+		"deepwoken_origins:capra/nemit" = true
+
+	[origins."origins_4d_being:fourth_dimensional"]
+		enabled = true
+		"origins_4d_being:quadrian/phase/phaseact" = true
+		"origins_4d_being:quadrian/phase/phasetog" = true
+		"origins_4d_being:quadrian/phase/noentity" = true
+		"origins_4d_being:quadrian/phase/intangible" = true
+		"origins_4d_being:quadrian/phase/invisible" = true
+		"origins_4d_being:quadrian/phase/delicate" = true
+		"origins_4d_being:quadrian/negatives/light" = true
+		"origins_4d_being:quadrian/negatives/food" = true
+		"origins_4d_being:quadrian/negatives/readjust" = true
+		"origins_4d_being:quadrian/negatives/instweak" = true
+		"origins_4d_being:quadrian/phase/phasecooldown" = true
+		"origins_4d_being:quadrian/phase/shader/mainshader" = true
+		"origins_4d_being:quadrian/phase/shader/phosshader" = true
+
+	[origins."elemental:water"]
+		enabled = true
+		"elemental:water/swim_speed" = true
+		"elemental:water/submarine" = true
+		"elemental:water/fire_weak" = true
+		"elemental:water/effort" = true
+
+	[origins."srp_origins:variants/thh"]
+		enabled = true
+		"srp_origins:variants/thh" = true
+
+	[origins."origins-plus-plus:child_of_cthulhu"]
+		enabled = true
+		"origins:elytra" = true
+		"origins-plus-plus:child-of-cthulhu/camouflage" = true
+		"origins-plus-plus:child-of-cthulhu/exhaust" = true
+		"origins-plus-plus:child-of-cthulhu/fire_weakness" = true
+		"origins-plus-plus:child-of-cthulhu/launch" = true
+		"origins-plus-plus:child-of-cthulhu/size_change" = true
+		"origins-plus-plus:child-of-cthulhu/size_changer" = true
+		"origins-plus-plus:child-of-cthulhu/size_resource" = true
+		"origins-plus-plus:child-of-cthulhu/slowness_on_land" = true
+		"origins-plus-plus:child-of-cthulhu/water_lungs" = true
+		"origins-plus-plus:child-of-cthulhu/water_vision" = true
+
+	[origins."valorant_origins:jett"]
+		enabled = true
+		"valorant_origins:jettpowers/updraft" = true
+		"valorant_origins:jettpowers/featherfall" = true
+		"valorant_origins:jettpowers/fragileframe" = true
+		"valorant_origins:jettpowers/dash" = true
+		"valorant_origins:jettpowers/windrunner" = true
+		"valorant_origins:jettpowers/highmetabolism" = true
+		"valorant_origins:jettpowers/particles" = true
+
+	[origins."origins:human"]
+		enabled = true
+
+	[origins."origins-plus-plus:illusioner/illusioner_master"]
+		enabled = true
+		"origins:no_shield" = true
+		"origins-plus-plus:illusioner/better_arrow" = true
+		"origins-plus-plus:illusioner/better_illusion" = true
+		"origins-plus-plus:illusioner/better_illusion_formation" = true
+		"origins-plus-plus:illusioner/better_illusion_tp" = true
+		"origins-plus-plus:illusioner/bow_master" = true
+		"origins-plus-plus:illusioner/friendly_pillagers" = true
+		"origins-plus-plus:illusioner/illusion_despawn" = true
+		"origins-plus-plus:illusioner/scary" = true
+		"origins-plus-plus:illusioner/sword_bad" = true
+		"origins-plus-plus:illusioner/villager_hate" = true
+
+	[origins."origins-plus-plus:ice_porcupine"]
+		enabled = true
+		"origins:water_vulnerability" = true
+		"origins:carnivore" = true
+		"origins:fragile" = true
+		"origins-plus-plus:ice-porcupine/cold_adapted_cold_biomes" = true
+		"origins-plus-plus:ice-porcupine/cold_adapted_hot_biomes" = true
+		"origins-plus-plus:ice-porcupine/cold_aura" = true
+		"origins-plus-plus:ice-porcupine/ice_body_fire_damage" = true
+		"origins-plus-plus:ice-porcupine/ice_claws" = true
+		"origins-plus-plus:ice-porcupine/ice_spikes" = true
+		"origins-plus-plus:ice-porcupine/icy_spawn" = true
+		"origins-plus-plus:ice-porcupine/multi_arrows" = true
+		"origins-plus-plus:ice-porcupine/small_size" = true
+		"origins-plus-plus:ice-porcupine/small_size_jump" = true
+		"origins-plus-plus:ice-porcupine/small_size_speed" = true
+		"origins-plus-plus:ice-porcupine/vanish" = true
+
+	[origins."dragon_origins:magic_fly"]
+		enabled = true
+		"dragon_origins:vegie2" = true
+		"dragon_origins:fairy_wings" = true
+		"dragon_origins:easy_travel" = true
+		"dragon_origins:size3" = true
+		"dragon_origins:slow" = true
+		"origins:fall_immunity" = true
+		"dragon_origins:6hp" = true
+		"dragon_origins:no_swords" = true
+		"dragon_origins:iron_golem" = true
+		"dragon_origins:heal" = true
+		"dragon_origins:no_combat" = true
+		"dragon_origins:hot_debuf" = true
+		"dragon_origins:nether" = true
+		"dragon_origins:hunger" = true
+		"dragon_origins:advancement" = true
+
+	[origins."swarmorigin:variants/aquatic"]
+		enabled = true
+		"swarmorigin:variant/aquatic" = true
+
+	[origins."ojs_rpg_origins:variant_human/skills/sleight_of_hand"]
+		enabled = true
+		"digs_dnd_origins:half-elf/skills/sleight_of_hand" = true
+
+	[origins."vergil:vergil"]
+		enabled = true
+		"vergil:health" = true
+		"vergil:speed" = true
+		"vergil:yamato" = true
+		"vergil:nokb" = true
+		"vergil:walljump" = true
+		"vergil:shield" = true
+		"vergil:armour" = true
+		"vergil:p_armour" = true
+		"vergil:elytra" = true
+		"vergil:nosleep" = true
+		"vergil:nether_spawn" = true
+		"vergil:std" = true
+		"vergil:jce" = true
+		"vergil:clone" = true
+		"vergil:gunbad" = true
+		"vergil:anchor" = true
+
+	[origins."origins-plus-plus:shadow_crawler"]
+		enabled = true
+		"origins-plus-plus:shadow-crawler/blinding_light" = true
+		"origins-plus-plus:shadow-crawler/dark_boost" = true
+		"origins-plus-plus:shadow-crawler/day_weakness" = true
+		"origins-plus-plus:shadow-crawler/disable_regen" = true
+		"origins-plus-plus:shadow-crawler/night_vision" = true
+		"origins-plus-plus:shadow-crawler/no_exhaustion" = true
+		"origins-plus-plus:shadow-crawler/regen" = true
+		"origins-plus-plus:shadow-crawler/shadow_warp" = true
+		"origins-plus-plus:shadow-crawler/shadowy_form" = true
+
+	[origins."origins-plus-plus:gnoll"]
+		enabled = true
+		"origins:carnivore" = true
+		"origins-plus-plus:gnoll/carrion_eater" = true
+		"origins-plus-plus:gnoll/carrion_saturation" = true
+		"origins-plus-plus:gnoll/large_build" = true
+		"origins-plus-plus:gnoll/large_health" = true
+		"origins-plus-plus:gnoll/night_vision" = true
+		"origins-plus-plus:gnoll/rage" = true
+
+	[origins."origins-plus-plus:snake"]
+		enabled = true
+		"origins-plus-plus:snake/bite" = true
+		"origins-plus-plus:snake/health" = true
+		"origins-plus-plus:snake/intimidate" = true
+		"origins-plus-plus:snake/lunge" = true
+
+	[origins."swarmorigin:tier2/jaeger"]
+		enabled = true
+		"swarmorigin:status/alien_biology" = true
+		"swarmorigin:action/variantchange" = true
+		"swarmorigin:action/tier2sidegrade" = true
+		"swarmorigin:action/tier2downgrade" = true
+		"swarmorigin:status/tier2evolution" = true
+		"swarmorigin:action/energy" = true
+		"swarmorigin:action/climb" = true
+		"swarmorigin:action/climbing" = true
+		"swarmorigin:status/armor_restrictions" = true
+		"swarmorigin:status/tier2_stats" = true
+		"swarmorigin:status/large" = true
+		"swarmorigin:status/stunfall" = true
+		"swarmorigin:status/assassin" = true
+		"swarmorigin:action/crush" = true
+		"swarmorigin:action/shock" = true
+		"swarmorigin:action/invisibility" = true
+		"origins:arthropod" = true
+		"origins:fall_immunity" = true
+		"origins:cat_vision" = true
+		"origins:no_cobweb_slowdown" = true
+
+	[origins."origins:elytrian"]
+		enabled = true
+		"origins:elytra" = true
+		"origins:launch_into_air" = true
+		"origins:aerial_combatant" = true
+		"origins:light_armor" = true
+		"origins:claustrophobia" = true
+		"origins:more_kinetic_damage" = true
+
+	[origins."srp_origins:primitive/bolster"]
+		enabled = true
+		"srp_origins:parasite" = true
+		"srp_origins:adaptive1" = true
+		"srp_origins:tendril1" = true
+		"srp_origins:primitive/remains" = true
+		"srp_origins:primitive/bolster/creature" = true
+		"srp_origins:primitive/bolster/tank" = true
+		"srp_origins:primitive/bolster/heal" = true
+		"srp_origins:primitive/bolster/orb" = true
+		"srp_origins:primitive/bolster/evolution" = true
+		"srp_origins:souls" = true
+		"srp_origins:biomass" = true
+		"srp_origins:phases" = true
+		"srp_origins:upgrades" = true
+		"srp_origins:fire_damage" = true
+		"srp_origins:nosleep" = true
+		"srp_origins:badrep" = true
+		"srp_origins:parasitetag" = true
+		"srp_origins:fool" = true
+		"srp_origins:1kdownloads" = true
+
+	[origins."srp_origins:variants/dweller"]
+		enabled = true
+		"srp_origins:variants/dweller" = true
+
+	[origins."swarmorigin:tier2/juggernaut"]
+		enabled = true
+		"swarmorigin:status/alien_biology" = true
+		"swarmorigin:action/variantchange" = true
+		"swarmorigin:action/tier2sidegrade" = true
+		"swarmorigin:action/tier2downgrade" = true
+		"swarmorigin:status/tier2evolution" = true
+		"swarmorigin:action/energy" = true
+		"swarmorigin:action/climb" = true
+		"swarmorigin:action/climbing" = true
+		"swarmorigin:status/armor_restrictions" = true
+		"swarmorigin:status/tier2_stats" = true
+		"swarmorigin:status/large" = true
+		"swarmorigin:status/thorns" = true
+		"swarmorigin:status/more_health" = true
+		"swarmorigin:action/crush" = true
+		"swarmorigin:action/bulkup2" = true
+		"swarmorigin:action/destroy" = true
+		"origins:arthropod" = true
+		"origins:fall_immunity" = true
+		"origins:cat_vision" = true
+		"origins:no_cobweb_slowdown" = true
+
+	[origins."elemental:earth"]
+		enabled = true
+		"elemental:earth/resistance" = true
+		"elemental:earth/slow" = true
+		"elemental:earth/strongarm" = true
+		"elemental:earth/tall" = true
+
+	[origins."swarmorigin:variants/haunter"]
+		enabled = true
+		"swarmorigin:variant/haunter" = true
+		"swarmorigin:action/phase" = true
+		"swarmorigin:action/phasing" = true
+
+	[origins."tuned_down_origins:neko"]
+		enabled = true
+		"tuned_down_origins:neko/cateye" = true
+		"tuned_down_origins:neko/dash" = true
+		"tuned_down_origins:neko/easyfall" = true
+		"tuned_down_origins:neko/fragile" = true
+		"tuned_down_origins:neko/hunger" = true
+		"tuned_down_origins:neko/sprint" = true
+
+	[origins."origins-plus-plus:glacier"]
+		enabled = true
+		"origins-plus-plus:glacier/chilly_person" = true
+		"origins-plus-plus:glacier/cold_blooded" = true
+		"origins-plus-plus:glacier/cold_feet" = true
+		"origins-plus-plus:glacier/cold_nap" = true
+		"origins-plus-plus:glacier/cold_protection" = true
+		"origins-plus-plus:glacier/cold_skin" = true
+		"origins-plus-plus:glacier/fire_damage" = true
+		"origins-plus-plus:glacier/freezing_touch" = true
+		"origins-plus-plus:glacier/harvest_snow_layer" = true
+		"origins-plus-plus:glacier/hot_sun" = true
+		"origins-plus-plus:glacier/icy_breath" = true
+		"origins-plus-plus:glacier/icy_defence" = true
+		"origins-plus-plus:glacier/icy_spawn" = true
+		"origins-plus-plus:glacier/multi_snowballs" = true
+		"origins-plus-plus:glacier/multi_snowballs_cooldown" = true
+		"origins-plus-plus:glacier/night_person" = true
+		"origins-plus-plus:glacier/overheating" = true
+		"origins-plus-plus:glacier/snow_damper" = true
+		"origins-plus-plus:glacier/snow_particles" = true
+		"origins-plus-plus:glacier/snowballs_damage" = true
+		"origins-plus-plus:glacier/snowflakes_particles" = true
+		"origins-plus-plus:glacier/snowy_sprinter" = true
+
+	[origins."origins-plus-plus:devine_architect"]
+		enabled = true
+		"origins-plus-plus:devine-architect/charge" = true
+		"origins-plus-plus:devine-architect/distrust" = true
+		"origins-plus-plus:devine-architect/end_recipes" = true
+		"origins-plus-plus:devine-architect/end_traveler" = true
+		"origins-plus-plus:devine-architect/energy" = true
+		"origins-plus-plus:devine-architect/float" = true
+		"origins-plus-plus:devine-architect/jealousy" = true
+		"origins-plus-plus:devine-architect/nether_traveler" = true
+		"origins-plus-plus:devine-architect/night_vision" = true
+		"origins-plus-plus:devine-architect/phase" = true
+		"origins-plus-plus:devine-architect/universal_blast" = true
+		"origins-plus-plus:devine-architect/unnatural_regeneration" = true
+
+	[origins."origins-plus-plus:manipulator"]
+		enabled = true
+		"origins-plus-plus:manipulator/antigravity_arrow" = true
+		"origins-plus-plus:manipulator/cycle" = true
+		"origins-plus-plus:manipulator/dirt_hut" = true
+		"origins-plus-plus:manipulator/enderdragon_fireball" = true
+		"origins-plus-plus:manipulator/energy_shield" = true
+		"origins-plus-plus:manipulator/ghast_fireball" = true
+		"origins-plus-plus:manipulator/golden_apple_fix" = true
+		"origins-plus-plus:manipulator/golem" = true
+		"origins-plus-plus:manipulator/no_armour" = true
+		"origins-plus-plus:manipulator/no_weapons" = true
+		"origins-plus-plus:manipulator/resistance_buff" = true
+		"origins-plus-plus:manipulator/spectral_energy_shot" = true
+
+	[origins."srp_origins:variants/breacher"]
+		enabled = true
+		"srp_origins:variants/breacher" = true
+
+	[origins."strictly:troll"]
+		enabled = true
+		"strictly:lead_belly" = true
+		"strictly:stocky" = true
+		"strictly:gargantuan" = true
+		"strictly:ravenous" = true
+		"strictly:sluggish" = true
+		"strictly:xxxl" = true
+		"strictly:unweildy" = true
+		"strictly:cunning_hidden" = true
+
+	[origins."srp_origins:adapted/manducater"]
+		enabled = true
+		"srp_origins:parasite" = true
+		"srp_origins:adapted/adaptive2" = true
+		"srp_origins:adapted/tendril2" = true
+		"srp_origins:adapted/large" = true
+		"srp_origins:adapted/vomit" = true
+		"srp_origins:adapted/leap" = true
+		"srp_origins:adapted/tough" = true
+		"srp_origins:adapted/remains" = true
+		"srp_origins:adapted/manducater/creature" = true
+		"srp_origins:adapted/manducater/invisibility" = true
+		"srp_origins:adapted/manducater/orb" = true
+		"srp_origins:adapted/manducater/backstab" = true
+		"srp_origins:souls" = true
+		"srp_origins:biomass" = true
+		"srp_origins:phases" = true
+		"srp_origins:upgrades" = true
+		"srp_origins:fire_damage" = true
+		"srp_origins:nosleep" = true
+		"srp_origins:badrep" = true
+		"srp_origins:parasitetag" = true
+		"srp_origins:fool" = true
+		"srp_origins:1kdownloads" = true
+
+	[origins."origins-plus-plus:withered_skeletian"]
+		enabled = true
+		"origins:fire_immunity" = true
+		"origins-plus-plus:withered-skeletian/immune" = true
+		"origins-plus-plus:withered-skeletian/nether_inhabitant" = true
+		"origins-plus-plus:withered-skeletian/nether_kinship" = true
+		"origins-plus-plus:withered-skeletian/s_and_p/attacker" = true
+		"origins-plus-plus:withered-skeletian/s_and_p/death" = true
+		"origins-plus-plus:withered-skeletian/s_and_p/hit" = true
+		"origins-plus-plus:withered-skeletian/s_and_p/passive" = true
+		"origins-plus-plus:withered-skeletian/s_and_p/victim" = true
+		"origins-plus-plus:withered-skeletian/sharper_stone" = true
+		"origins-plus-plus:withered-skeletian/undead_body" = true
+		"origins-plus-plus:withered-skeletian/unnatural_height" = true
+		"origins-plus-plus:withered-skeletian/withering_presence" = true
+
+	[origins."origins-plus-plus:rift_mage"]
+		enabled = true
+		"origins:fall_immunity" = true
+		"origins-plus-plus:rift-mage/city_memory" = true
+		"origins-plus-plus:rift-mage/frail" = true
+		"origins-plus-plus:rift-mage/incompatible" = true
+		"origins-plus-plus:rift-mage/invert" = true
+		"origins-plus-plus:rift-mage/no_food" = true
+		"origins-plus-plus:rift-mage/no_pearls" = true
+		"origins-plus-plus:rift-mage/portality" = true
+		"origins-plus-plus:rift-mage/return_to_rift" = true
+		"origins-plus-plus:rift-mage/sustain" = true
+		"origins-plus-plus:rift-mage/turn_purpur" = true
+		"origins-plus-plus:rift-mage/water_hater" = true
+
+	[origins."diversity_origins:wip.reformed_slime"]
+		enabled = true
+		"minecraft:" = true
+
+	[origins."ojs_rpg_origins:archer"]
+		enabled = true
+		"ojs_rpg_origins:marksman" = true
+		"ojs_rpg_origins:untrained" = true
+		"ojs_rpg_origins:inexperienced" = true
+		"ojs_rpg_origins:resourceful" = true
+		"ojs_rpg_origins:quiver" = true
+		"ojs_rpg_origins:archer_item" = true
+
+	[origins."origins-plus-plus:golden_golem"]
+		enabled = true
+		"origins:light_armor" = true
+		"origins-plus-plus:golden-golem/extra_damage" = true
+		"origins-plus-plus:golden-golem/gold_color" = true
+		"origins-plus-plus:golden-golem/gold_resource" = true
+		"origins-plus-plus:golden-golem/gold_resource_extras" = true
+		"origins-plus-plus:golden-golem/golem_power" = true
+		"origins-plus-plus:golden-golem/health_resource" = true
+		"origins-plus-plus:golden-golem/health_resource_items" = true
+		"origins-plus-plus:golden-golem/slower" = true
+		"origins-plus-plus:golden-golem/water" = true
+
+	[origins."sb_origins:sea_monster"]
+		enabled = true
+		"sb_origins:aquatic/tentacle_grasp" = true
+		"sb_origins:aquatic/semistrong_swimmer" = true
+		"sb_origins:aquatic/water_strength" = true
+		"sb_origins:aquatic/amphibious" = true
+		"sb_origins:venom" = true
+		"sb_origins:diet/fish" = true
+		"sb_origins:diet/modded_fish" = true
+		"sb_origins:aquatic/like_water" = true
+		"sb_origins:aura/glow_particle" = true
+		"sb_origins:size/normal" = true
+		"sb_origins:aquatic/fragile3" = true
+		"sb_origins:aquatic/dry" = true
+		"sb_origins:aquatic/slippery" = true
+		"sb_origins:hot_biomes" = true
+		"sb_origins:flammable" = true
+
+	[origins."sb_origins:imp"]
+		enabled = true
+		"sb_origins:demon/imp_dash" = true
+		"sb_origins:demon/hellborne" = true
+		"sb_origins:demon/heat_buff" = true
+		"sb_origins:demon/shake" = true
+		"sb_origins:movement/high_jump" = true
+		"sb_origins:fall_immunity" = true
+		"sb_origins:movement/swiftwalking" = true
+		"sb_origins:size/small2" = true
+		"sb_origins:aura/fire_aura" = true
+		"sb_origins:weak_arms" = true
+		"sb_origins:demon/cold_biomes" = true
+		"sb_origins:water_damage" = true
+		"sb_origins:demon/bottomless_stomach" = true
+		"sb_origins:demon/fragile" = true
+
+	[origins."swarmorigin:variants/alate"]
+		enabled = true
+		"swarmorigin:variant/alate" = true
+
+	[origins."origins-classes:nitwit"]
+		enabled = true
+
+	[origins."srp_origins:primitive/summoner"]
+		enabled = true
+		"srp_origins:parasite" = true
+		"srp_origins:adaptive1" = true
+		"srp_origins:tendril1" = true
+		"srp_origins:primitive/remains" = true
+		"srp_origins:primitive/summoner/creature" = true
+		"srp_origins:primitive/summoner/summon" = true
+		"srp_origins:primitive/summoner/tamed" = true
+		"srp_origins:primitive/summoner/orb" = true
+		"srp_origins:primitive/summoner/evolution" = true
+		"srp_origins:souls" = true
+		"srp_origins:biomass" = true
+		"srp_origins:phases" = true
+		"srp_origins:upgrades" = true
+		"srp_origins:fire_damage" = true
+		"srp_origins:nosleep" = true
+		"srp_origins:badrep" = true
+		"srp_origins:parasitetag" = true
+		"srp_origins:primitive/summoner/teamcreate" = true
+		"srp_origins:fool" = true
+		"srp_origins:1kdownloads" = true
+
+	[origins."origins-plus-plus:vishaichian"]
+		enabled = true
+		"origins:no_cobweb_slowdown" = true
+		"origins:fall_immunity" = true
+		"origins-plus-plus:vishaichian/chicken_status_clear" = true
+		"origins-plus-plus:vishaichian/fire_weakness" = true
+		"origins-plus-plus:vishaichian/high_prices" = true
+		"origins-plus-plus:vishaichian/poison_spit" = true
+		"origins-plus-plus:vishaichian/raw_diet" = true
+		"origins-plus-plus:vishaichian/saturation" = true
+		"origins-plus-plus:vishaichian/summon_fangs" = true
+		"origins-plus-plus:vishaichian/upgrade/upgrade_hearts" = true
+		"origins-plus-plus:vishaichian/upgrade/upgrade_jump" = true
+		"origins-plus-plus:vishaichian/upgrade/upgrade_strength" = true
+
+	[origins."medievalorigins:banshee"]
+		enabled = true
+		"medievalorigins:banshee/spectral" = true
+		"medievalorigins:banshee/sonic_shriek" = true
+		"medievalorigins:banshee/lunar_nexus" = true
+		"medievalorigins:banshee/dimeritium_shackles" = true
+		"medievalorigins:banshee/hexed" = true
+		"medievalorigins:banshee/immaterial" = true
+		"medievalorigins:banshee/cursed_sigil" = true
+		"medievalorigins:banshee/cursed_ward" = true
+		"origins_survive:sleepless" = true
+
+	[origins."poisons_origins:gambler"]
+		enabled = true
+
+	[origins."origins-plus-plus:end_mage"]
+		enabled = true
+		"origins:pumpkin_hate" = true
+		"origins:water_vulnerability" = true
+		"origins-plus-plus:end-mage/end_rage" = true
+		"origins-plus-plus:end-mage/health" = true
+		"origins-plus-plus:end-mage/mage_book" = true
+		"origins-plus-plus:end-mage/mana_potion" = true
+		"origins-plus-plus:end-mage/reach" = true
+		"origins-plus-plus:end-mage/recipes" = true
+		"origins-plus-plus:end-mage/resource" = true
+		"origins-plus-plus:end-mage/resource_change" = true
+		"origins-plus-plus:end-mage/super_mana_potion" = true
+		"origins-plus-plus:end-mage/telekinesis" = true
+		"origins-plus-plus:end-mage/teleport" = true
+		"origins-plus-plus:end-mage/tp_to_you" = true
+		"origins-plus-plus:end-mage/waypoint" = true
+
+	[origins."sow:magnorite"]
+		enabled = true
+		"sow:fire_invulnerable" = true
+		"sow:lava_invulnerable" = true
+		"sow:fall_invulnerable" = true
+		"sow:defense_boost_10" = true
+		"sow:lava_speed_boost" = true
+		"sow:water_wither" = true
+		"sow:too_cold" = true
+		"sow:prevent_elytra" = true
+
+	[origins."jojos_origins:creeper"]
+		enabled = true
+		"jojos_origins:creeper_explode" = true
+		"jojos_origins:creeperhealth" = true
+		"jojos_origins:creeper_explo_sound" = true
+
+	[origins."origins-plus-plus:deranged"]
+		enabled = true
+		"origins-plus-plus:deranged/arrow_effect" = true
+		"origins-plus-plus:deranged/breathing" = true
+		"origins-plus-plus:deranged/dart" = true
+		"origins-plus-plus:deranged/derange_filler" = true
+		"origins-plus-plus:deranged/derangement" = true
+		"origins-plus-plus:deranged/insane" = true
+		"origins-plus-plus:deranged/knife_love" = true
+		"origins-plus-plus:deranged/migraine" = true
+		"origins-plus-plus:deranged/nightmares" = true
+		"origins-plus-plus:deranged/persuasive" = true
+		"origins-plus-plus:deranged/tranquil" = true
+
+	[origins."dragon_origins:panda"]
+		enabled = true
+		"dragon_origins:panda/food" = true
+		"dragon_origins:panda/food_dis" = true
+		"dragon_origins:kraken/langtest" = true
+		"origins:vegetarian" = true
+		"dragon_origins:advancement" = true
+
+	[origins."jojos_addon_origins:zeus"]
+		enabled = true
+		"jojos_addon_origins:zeus_body" = true
+		"jojos_addon_origins:zeus_claustrophobia" = true
+		"jojos_addon_origins:zeus_lightning_toggle" = true
+		"origins:water_vulnerability" = true
+		"origins:extra_reach" = true
+
+	[origins."srp_origins:primitive/yelloweye"]
+		enabled = true
+		"srp_origins:parasite" = true
+		"srp_origins:adaptive1" = true
+		"srp_origins:tendril1" = true
+		"srp_origins:primitive/remains" = true
+		"srp_origins:primitive/yelloweye/creature" = true
+		"srp_origins:primitive/yelloweye/shoot" = true
+		"srp_origins:primitive/yelloweye/nade" = true
+		"srp_origins:primitive/yelloweye/flight" = true
+		"srp_origins:primitive/yelloweye/evolution" = true
+		"srp_origins:souls" = true
+		"srp_origins:biomass" = true
+		"srp_origins:phases" = true
+		"srp_origins:upgrades" = true
+		"srp_origins:nofall" = true
+		"srp_origins:fire_damage" = true
+		"srp_origins:nosleep" = true
+		"srp_origins:badrep" = true
+		"srp_origins:parasitetag" = true
+		"srp_origins:fool" = true
+		"srp_origins:1kdownloads" = true
+
+	[origins."deviling:deviling"]
+		enabled = true
+		"origins:elytra_flight" = true
+		"origins:more_kinetic_damage" = true
+		"origins:launch" = true
+		"godling:nether_burn" = true
+		"godling:shader" = true
+		"godling:shader_toggle" = true
+		"godling:health" = true
+		"deviling:nether_spawn" = true
+
+	[origins."origins-plus-plus:half_wither"]
+		enabled = true
+		"origins:nether_spawn" = true
+		"origins-plus-plus:half-wither/exhaust" = true
+		"origins-plus-plus:half-wither/immunity" = true
+		"origins-plus-plus:half-wither/soul_feed" = true
+		"origins-plus-plus:half-wither/wither_skull" = true
+
+	[origins."ojs_rpg_origins:variant_human/skills/stealth"]
+		enabled = true
+		"digs_dnd_origins:half-elf/skills/stealth" = true
+
+	[origins."origins:shulk"]
+		enabled = true
+		"origins:shulker_inventory" = true
+		"origins:natural_armor" = true
+		"origins:strong_arms" = true
+		"origins:strong_arms_break_speed" = true
+		"origins:no_shield" = true
+		"origins:more_exhaustion" = true
+
+	[origins."jojos_origins:master_flyer"]
+		enabled = true
+		"jojos_origins:mf_elytra_spawn" = true
+		"jojos_origins:mf_levitation" = true
+		"jojos_origins:mf_slowfall" = true
+		"jojos_origins:mf_levi_overlay" = true
+
+	[origins."srp_origins:primitive/arachnida"]
+		enabled = true
+		"srp_origins:parasite" = true
+		"srp_origins:adaptive1" = true
+		"srp_origins:tendril1" = true
+		"srp_origins:primitive/remains" = true
+		"srp_origins:primitive/arachnida/pull" = true
+		"srp_origins:primitive/arachnida/spider" = true
+		"srp_origins:primitive/arachnida/orb" = true
+		"srp_origins:primitive/arachnida/evolution" = true
+		"srp_origins:souls" = true
+		"srp_origins:biomass" = true
+		"srp_origins:phases" = true
+		"srp_origins:upgrades" = true
+		"srp_origins:fire_damage" = true
+		"srp_origins:nosleep" = true
+		"srp_origins:badrep" = true
+		"srp_origins:parasitetag" = true
+		"srp_origins:primitive/arachnida/aracpullfunction" = true
+		"srp_origins:fool" = true
+		"srp_origins:1kdownloads" = true
+
+	[origins."origins-plus-plus:spectre"]
+		enabled = true
+		"origins:no_shield" = true
+		"origins-plus-plus:spectre/accursed" = true
+		"origins-plus-plus:spectre/archangel_size" = true
+		"origins-plus-plus:spectre/demonic" = true
+		"origins-plus-plus:spectre/ethereal" = true
+		"origins-plus-plus:spectre/fallen" = true
+		"origins-plus-plus:spectre/flesh_craver" = true
+		"origins-plus-plus:spectre/ravenous" = true
+		"origins-plus-plus:spectre/respawn" = true
+		"origins-plus-plus:spectre/rotten_flesh" = true
+		"origins-plus-plus:spectre/soul_devourer" = true
+		"origins-plus-plus:spectre/soul_sacrifice" = true
+		"origins-plus-plus:spectre/spectre_infinite" = true
+		"origins-plus-plus:spectre/spectre_terror" = true
+		"origins-plus-plus:spectre/spectre_terror_toggle" = true
+		"origins-plus-plus:spectre/translucent" = true
+		"origins-plus-plus:spectre/water_loathing" = true
+		"origins-plus-plus:spectre/weakened" = true
+
+	[origins."origins-plus-plus:anomaly"]
+		enabled = true
+		"origins:fall_immunity" = true
+		"origins-plus-plus:anomaly/blinding_light" = true
+		"origins-plus-plus:anomaly/eternity" = true
+		"origins-plus-plus:anomaly/moons_grace" = true
+		"origins-plus-plus:anomaly/night_vision" = true
+		"origins-plus-plus:anomaly/scorching_sun" = true
+		"origins-plus-plus:anomaly/starlight" = true
+		"origins-plus-plus:anomaly/strength" = true
+		"origins-plus-plus:anomaly/supernova" = true
+		"origins-plus-plus:anomaly/time_space_who_dis" = true
+		"origins-plus-plus:anomaly/unstable" = true
+
+	[origins."aqua_chidori:aqua_chidori"]
+		enabled = true
+		"aqua_chidori:small_aqua_chidori" = true
+		"aqua_chidori:starter_gear_aqua_chidori" = true
+		"aqua_chidori:inventory_aqua_chidori" = true
+		"aqua_chidori:modify_crafting_aqua_chidori" = true
+		"aqua_chidori:modify_crafting2_aqua_chidori" = true
+		"aqua_chidori:hotblood_aqua_chidori" = true
+		"origins:water_breathing" = true
+		"origins:water_vision" = true
+		"origins:aqua_affinity" = true
+		"origins:swim_speed" = true
+		"origins:like_water" = true
+		"origins:aquatic" = true
+		"origins:conduit_power_on_land" = true
+		"origins:air_from_potions" = true
+		"aqua_chidori:climbing_aqua_chidori" = true
+		"aqua_chidori:lava_vision_aqua_chidori" = true
+		"aqua_chidori:fire_immunity_aqua_chidori" = true
+		"aqua_chidori:lava_speed_aqua_chidori" = true
+		"aqua_chidori:less_hearts_aqua_chidori" = true
+		"aqua_chidori:light_armor_aqua_chidori" = true
+		"aqua_chidori:particle_aqua_chidori" = true
+		"aqua_chidori:xp_slower_aqua_chidori" = true
+
+	[origins."swarmorigin:variants/stalker"]
+		enabled = true
+		"swarmorigin:variant/stalker" = true
+
+	[origins."elemental:none"]
+		enabled = true
+		"elemental:none/explus" = true
+
+	[origins."srp_origins:variants/lore_accurate"]
+		enabled = true
+		"srp_origins:variants/lore-accurate" = true
+
+	[origins."origins-plus-plus:goolien"]
+		enabled = true
+		"origins-plus-plus:goolien/absorbent" = true
+		"origins-plus-plus:goolien/condensing" = true
+		"origins-plus-plus:goolien/flammable" = true
+		"origins-plus-plus:goolien/gooey_body" = true
+		"origins-plus-plus:goolien/gooey_fists" = true
+		"origins-plus-plus:goolien/gooey_skin" = true
+		"origins-plus-plus:goolien/ignitable" = true
+		"origins-plus-plus:goolien/no_lungs" = true
+		"origins-plus-plus:goolien/splat" = true
+		"origins-plus-plus:goolien/sticky_grip" = true
+		"origins-plus-plus:goolien/stomach_body" = true
+		"origins-plus-plus:goolien/unwieldy" = true
+
+	[origins."srp_origins:adapted/bolster"]
+		enabled = true
+		"srp_origins:parasite" = true
+		"srp_origins:adapted/adaptive2" = true
+		"srp_origins:adapted/tendril2" = true
+		"srp_origins:adapted/large" = true
+		"srp_origins:adapted/vomit" = true
+		"srp_origins:adapted/remains" = true
+		"srp_origins:adapted/bolster/creature" = true
+		"srp_origins:adapted/bolster/barrage" = true
+		"srp_origins:adapted/bolster/bolster" = true
+		"srp_origins:adapted/bolster/heal" = true
+		"srp_origins:adapted/bolster/orb" = true
+		"srp_origins:adapted/bolster/tank" = true
+		"srp_origins:souls" = true
+		"srp_origins:biomass" = true
+		"srp_origins:phases" = true
+		"srp_origins:upgrades" = true
+		"srp_origins:fire_damage" = true
+		"srp_origins:nosleep" = true
+		"srp_origins:badrep" = true
+		"srp_origins:parasitetag" = true
+		"srp_origins:fool" = true
+		"srp_origins:1kdownloads" = true
+
+	[origins."origins-classes:warrior"]
+		enabled = true
+		"origins-classes:more_attack_damage" = true
+		"origins-classes:less_shield_slowdown" = true
+
+	[origins."medievalorigins:dwarf"]
+		enabled = true
+		"medievalorigins:dwarf/dwarven_tech" = true
+		"medievalorigins:dwarf/miniature" = true
+		"medievalorigins:dwarf/nocturnal_eyes" = true
+		"medievalorigins:dwarf/darkness_dweller" = true
+		"medievalorigins:dwarf/dense" = true
+		"medievalorigins:dwarf/potent_brew" = true
+		"medievalorigins:dwarf/mythril_resonance" = true
+		"medievalorigins:dwarf/pickaxeless_stone" = true
+		"medievalorigins:dwarf/helmet_spawn" = true
+
+	[origins."srp_origins:variants/oceanic"]
+		enabled = true
+		"srp_origins:variants/oceanic" = true
+
+	[origins."dragon_origins:kraken"]
+		enabled = true
+		"dragon_origins:kraken/bigger_kraken" = true
+		"dragon_origins:kraken/tentacles" = true
+		"dragon_origins:kraken/grapple" = true
+		"dragon_origins:kraken/grappledesc" = true
+		"dragon_origins:kraken/grappletp" = true
+		"origins:air_from_potions" = true
+		"origins:aquatiq" = true
+		"origins:aqua_affinity" = true
+		"origins:more_exhaustion" = true
+		"origins:carnivore" = true
+		"origins:water_vision" = true
+		"origins:conduit_power_on_land" = true
+		"origins:like_water" = true
+		"origins:water_breathing" = true
+		"dragon_origins:advancement" = true
+
+	[origins."origins-plus-plus:mountain_goat"]
+		enabled = true
+		"origins:fresh_air" = true
+		"origins:fall_immunity" = true
+		"origins:vegetarian" = true
+		"origins-plus-plus:mountain-goat/high_jump" = true
+		"origins-plus-plus:mountain-goat/high_jump_a" = true
+		"origins-plus-plus:mountain-goat/ram" = true
+		"origins-plus-plus:mountain-goat/ram_a" = true
+		"origins-plus-plus:mountain-goat/thick_coat" = true
+		"origins-plus-plus:mountain-goat/thick_coat_a" = true
+		"origins-plus-plus:mountain-goat/tough" = true
+
+	[origins."dragon_origins:mini"]
+		enabled = true
+		"dragon_origins:speed" = true
+		"dragon_origins:size2" = true
+		"origins:fall_immunity" = true
+		"origins:climbing" = true
+		"dragon_origins:haste" = true
+		"origins:no_shield" = true
+		"dragon_origins:less_hp" = true
+		"dragon_origins:speedswim" = true
+		"dragon_origins:speed_boost" = true
+		"origins:carnivore" = true
+		"dragon_origins:slow" = true
+		"dragon_origins:jump_boost" = true
+		"dragon_origins:advancement" = true
+
+	[origins."origins-plus-plus:part_robot"]
+		enabled = true
+		"origins:strong_arms" = true
+		"origins:strong_arms_break_speed" = true
+		"origins:water_vulnerability" = true
+		"origins-plus-plus:part-robot/already_iron" = true
+		"origins-plus-plus:part-robot/boiling" = true
+		"origins-plus-plus:part-robot/effect_immune" = true
+		"origins-plus-plus:part-robot/heavy" = true
+		"origins-plus-plus:part-robot/laser" = true
+		"origins-plus-plus:part-robot/no_regeneration" = true
+		"origins-plus-plus:part-robot/overheat" = true
+		"origins-plus-plus:part-robot/rapid_laser" = true
+		"origins-plus-plus:part-robot/regenerate" = true
+		"origins-plus-plus:part-robot/steel_skin" = true
+		"origins-plus-plus:part-robot/tank_skin" = true
+		"origins-plus-plus:part-robot/unexhausted" = true
+		"origins-plus-plus:part-robot/water_breather" = true
+
+	[origins."sb_origins:werewolf"]
+		enabled = true
+		"sb_origins:werewolf/werewolf_howl" = true
+		"sb_origins:werewolf/werewolf_night" = true
+		"sb_origins:werewolf/wolf_claw" = true
+		"sb_origins:werewolf/carnivore" = true
+		"sb_origins:werewolf/bone" = true
+		"sb_origins:werewolf/transform" = true
+		"sb_origins:werewolf/transform_back" = true
+		"sb_origins:hunger" = true
+		"sb_origins:werewolf/werewolf_day" = true
+		"sb_origins:werewolf/iron_damage" = true
+		"sb_origins:bottomless_stomach" = true
+
+	[origins."deepwoken_origins:gremor"]
+		enabled = true
+		"deepwoken_origins:gremor/fiststyle" = true
+		"deepwoken_origins:gremor/navae" = true
+
+	[origins."sb_origins:monkey"]
+		enabled = true
+		"sb_origins:monkey/pounce" = true
+		"sb_origins:monkey/climbing" = true
+		"sb_origins:monkey/reach" = true
+		"sb_origins:diet/banana" = true
+		"sb_origins:diet/vegetarian" = true
+		"sb_origins:movement/high_jump" = true
+		"sb_origins:movement/swiftwalking" = true
+		"sb_origins:fall_immunity" = true
+		"sb_origins:size/small2" = true
+		"sb_origins:weak_arms" = true
+		"sb_origins:bottomless-stomach" = true
+		"sb_origins:flammable" = true
+		"sb_origins:monkey/fragile" = true
+
+	[origins."jojos_addon_origins:gremlin"]
+		enabled = true
+		"jojos_addon_origins:grem_speed" = true
+		"jojos_addon_origins:grem_hearts" = true
+		"jojos_addon_origins:grem_size" = true
+		"jojos_addon_origins:grem_size_toggle" = true
+		"jojos_addon_origins:grem_size_change" = true
+		"jojos_addon_origins:grem_big_overlay" = true
+		"jojos_addon_origins:grem_size_changea" = true
+
+	[origins."origins-classes:miner"]
+		enabled = true
+		"origins-classes:more_stone_break_speed" = true
+		"origins-classes:no_mining_exhaustion" = true
+
+	[origins."origins-plus-plus:deathsworn"]
+		enabled = true
+		"origins:burn_in_daylight" = true
+		"origins-plus-plus:deathsworn/appraisal" = true
+		"origins-plus-plus:deathsworn/carry" = true
+		"origins-plus-plus:deathsworn/command" = true
+		"origins-plus-plus:deathsworn/disconnect" = true
+		"origins-plus-plus:deathsworn/equip" = true
+		"origins-plus-plus:deathsworn/freeze" = true
+		"origins-plus-plus:deathsworn/join_team" = true
+		"origins-plus-plus:deathsworn/night_lover" = true
+		"origins-plus-plus:deathsworn/no_melee" = true
+		"origins-plus-plus:deathsworn/no_trades" = true
+		"origins-plus-plus:deathsworn/petrified_heart" = true
+		"origins-plus-plus:deathsworn/small_shot" = true
+		"origins-plus-plus:deathsworn/soul" = true
+		"origins-plus-plus:deathsworn/special" = true
+		"origins-plus-plus:deathsworn/stat_checker" = true
+		"origins-plus-plus:deathsworn/summon" = true
+		"origins-plus-plus:deathsworn/take_soul" = true
+
+	[origins."srp_origins:variants/virulent"]
+		enabled = true
+		"srp_origins:variants/virulent" = true
+
+	[origins."srp_origins:inborn/mangler"]
+		enabled = true
+		"srp_origins:adaptive1" = true
+		"srp_origins:tendril1" = true
+		"srp_origins:fire_damage" = true
+		"srp_origins:nofall" = true
+		"srp_origins:nosleep" = true
+		"srp_origins:badrep" = true
+		"srp_origins:parasite" = true
+		"srp_origins:souls" = true
+		"srp_origins:biomass" = true
+		"srp_origins:phases" = true
+		"srp_origins:upgrades" = true
+		"srp_origins:inborn/mangler/leap" = true
+		"srp_origins:inborn/climb" = true
+		"srp_origins:inborn/mangler/hit_slowness" = true
+		"srp_origins:inborn/mangler/hearts" = true
+		"srp_origins:parasitetag" = true
+		"srp_origins:fool" = true
+		"srp_origins:1kdownloads" = true
+
+	[origins."srp_origins:transforms/thrall"]
+		enabled = true
+		"srp_origins:transforms/thrall" = true
+
+	[origins."medievalorigins:fae"]
+		enabled = true
+		"medievalorigins:fae/levitation" = true
+		"medievalorigins:fae/magic_resistance" = true
+		"medievalorigins:fae/magic_damage_boost" = true
+		"medievalorigins:fae/regen" = true
+		"medievalorigins:fae/allure" = true
+		"medievalorigins:fae/diminutive" = true
+		"medievalorigins:fae/iron_aversion" = true
+
+	[origins."origins-plus-plus:felvaxian"]
+		enabled = true
+		"origins:carnivore" = true
+		"origins:cat_vision" = true
+		"origins:elytra" = true
+		"origins:fall_immunity" = true
+		"origins:launch_into_air" = true
+		"origins:light_armor" = true
+		"origins:nine_lives" = true
+		"origins:no_shield" = true
+		"origins-plus-plus:felvaxian/feline_legs" = true
+		"origins-plus-plus:felvaxian/ravens_defense" = true
+		"origins-plus-plus:felvaxian/scavenger_pouch" = true
+		"origins-plus-plus:felvaxian/unholy_aura" = true
+
+	[origins."sb_origins:bear"]
+		enabled = true
+		"sb_origins:bear/climb" = true
+		"sb_origins:bear/bear_dig" = true
+		"sb_origins:bear/cold_biome" = true
+		"sb_origins:bear/claws" = true
+		"sb_origins:fur_coat" = true
+		"sb_origins:extra_hearts" = true
+		"sb_origins:diet/fish" = true
+		"sb_origins:diet/modded_fish" = true
+		"sb_origins:bear/honey" = true
+		"sb_origins:bear/bear_diet" = true
+		"sb_origins:hunger" = true
+		"sb_origins:size/reallybig" = true
+		"sb_origins:movement/slower_build" = true
+		"sb_origins:bear/bottomless_stomach" = true
+		"sb_origins:flammable" = true
+
+	[origins."valorant_origins:phoenix"]
+		enabled = true
+		"valorant_origins:phoenixpowers/hothands" = true
+		"valorant_origins:phoenixpowers/fireimmunity" = true
+		"valorant_origins:phoenixpowers/fireball" = true
+		"valorant_origins:phoenixpowers/fireboost" = true
+		"valorant_origins:phoenixpowers/burningmouth" = true
+		"valorant_origins:phoenixpowers/heatdependency" = true
+		"valorant_origins:phoenixpowers/phoenixcolor" = true
+
+	[origins."medievalorigins:incubus"]
+		enabled = true
+		"medievalorigins:incubus/demon_fire" = true
+		"medievalorigins:incubus/hellborne" = true
+		"medievalorigins:incubus/carnivore" = true
+		"medievalorigins:incubus/unholy_deal" = true
+		"medievalorigins:incubus/hydrophobe" = true
+		"medievalorigins:incubus/impure" = true
+		"medievalorigins:incubus/dimension_strength" = true
+		"medievalorigins:incubus/lava_swim" = true
+		"medievalorigins:incubus/red" = true
+		"medievalorigins:incubus/spell_power" = true
+		"origins:nether_spawn" = true
+		"origins_env_deh:heat_resistance" = true
+		"thermoo-patches:heat_immune" = true
+		"thermoo-patches:cold_vulnerability" = true
+		"origins_survive:lava_drinker" = true
+		"origins_survive:heat_resistance" = true
+		"origins_toughasnails:lava_drinker" = true
+		"origins_toughasnails:thermal_regulator" = true
+		"extra_compat:lava_drinker" = true
+		"extra_compat:thermal_regulator" = true
+
+	[origins."swarmorigin:tier2/ravager"]
+		enabled = true
+		"swarmorigin:status/alien_biology" = true
+		"swarmorigin:action/variantchange" = true
+		"swarmorigin:action/tier2sidegrade" = true
+		"swarmorigin:action/tier2downgrade" = true
+		"swarmorigin:status/tier2evolution" = true
+		"swarmorigin:action/energy" = true
+		"swarmorigin:action/climb" = true
+		"swarmorigin:action/climbing" = true
+		"swarmorigin:status/armor_restrictions" = true
+		"swarmorigin:status/tier2_stats" = true
+		"swarmorigin:status/more_speed" = true
+		"swarmorigin:status/disarm" = true
+		"swarmorigin:status/large" = true
+		"swarmorigin:action/dash" = true
+		"swarmorigin:action/shock" = true
+		"swarmorigin:action/charge" = true
+		"origins:arthropod" = true
+		"origins:fall_immunity" = true
+		"origins:cat_vision" = true
+		"origins:no_cobweb_slowdown" = true
+
+	[origins."origins-plus-plus:lost_draconian"]
+		enabled = true
+		"origins:water_vulnerability" = true
+		"origins:elytra" = true
+		"origins-plus-plus:lost-draconian/launch_into_air" = true
+		"origins-plus-plus:lost-draconian/passive" = true
+		"origins-plus-plus:lost-draconian/runt" = true
+		"origins-plus-plus:lost-draconian/sensitive_to_sun" = true
+		"origins-plus-plus:lost-draconian/soft_landing" = true
+		"origins-plus-plus:lost-draconian/teleport" = true
+		"origins-plus-plus:lost-draconian/transparent_skin" = true
+		"origins-plus-plus:lost-draconian/unknown_fire" = true
+		"origins-plus-plus:lost-draconian/warrior" = true
+		"origins-plus-plus:lost-draconian/weakened" = true
+		"origins-plus-plus:lost-draconian/weapons" = true
+
+	[origins."godling:godling"]
+		enabled = true
+		"origins:elytra_flight" = true
+		"origins:more_kinetic_damage" = true
+		"origins:launch" = true
+		"godling:nether_burn" = true
+		"godling:shader" = true
+		"godling:shader_toggle" = true
+		"godling:health" = true
+
+	[origins."origins-plus-plus:kirin"]
+		enabled = true
+		"origins:carnivore" = true
+		"origins:cat_vision" = true
+		"origins:fall_immunity" = true
+		"origins:nine_lives" = true
+		"origins:sprint_jump" = true
+		"origins-plus-plus:kirin/cat_size" = true
+		"origins-plus-plus:kirin/climb" = true
+		"origins-plus-plus:kirin/dislike_of_water" = true
+		"origins-plus-plus:kirin/exhaustion" = true
+		"origins-plus-plus:kirin/jump_boost" = true
+		"origins-plus-plus:kirin/modify_player_speed" = true
+		"origins-plus-plus:kirin/unrivaled_speed" = true
+
+	[origins."deepwoken_origins:etrean"]
+		enabled = true
+		"deepwoken_origins:etrean/molt" = true
+
+	[origins."elemental:light"]
+		enabled = true
+		"elemental:light/upatday" = true
+		"elemental:light/downatnight" = true
+		"elemental:light/sunstroke" = true
+
+	[origins."sb_origins:moth"]
+		enabled = true
+		"sb_origins:insect/bug_boost" = true
+		"sb_origins:insect/climbing" = true
+		"sb_origins:insect/tracking" = true
+		"sb_origins:elytra" = true
+		"sb_origins:insect/mount" = true
+		"sb_origins:fall_immunity" = true
+		"sb_origins:diet/vegetarian_moth" = true
+		"sb_origins:diet/vegetarian_moth_real" = true
+		"sb_origins:size/small" = true
+		"sb_origins:weak_arms" = true
+		"sb_origins:bird/hit" = true
+		"sb_origins:insect/fragile" = true
+		"sb_origins:flammable" = true
+		"sb_origins:insect/water_hater" = true
+		"sb_origins:insect/water_hater2" = true
+
+	[origins."strictly:plantaemancer"]
+		enabled = true
+		"strictly:poison_ivy_vines" = true
+		"strictly:plant_caretaker" = true
+		"strictly:regrowth" = true
+		"strictly:flammable" = true
+		"strictly:light_deprivation" = true
+		"strictly:blissful_light" = true
+
+	[origins."origins-classes:rogue"]
+		enabled = true
+		"origins-classes:sneaky" = true
+		"origins-classes:stealth" = true
+		"origins-classes:stealth_core" = true
+
+	[origins."rr:roadrunner"]
+		enabled = true
+		"rr:rr_fast" = true
+		"rr:rr_speed" = true
+		"rr:rr_noslow" = true
+		"rr:rr_hunger" = true
+		"rr:rr_low" = true
+		"rr:rr_noswim" = true
+		"rr:rr_waterhover" = true
+		"rr:rr_nobow" = true
+
+	[origins."origins-plus-plus:artificial_construct"]
+		enabled = true
+		"origins-plus-plus:artificial-construct/battery" = true
+		"origins-plus-plus:artificial-construct/battery_resource" = true
+		"origins-plus-plus:artificial-construct/dispenser" = true
+		"origins-plus-plus:artificial-construct/heal" = true
+		"origins-plus-plus:artificial-construct/less_fall_damage" = true
+		"origins-plus-plus:artificial-construct/metal_shell" = true
+		"origins-plus-plus:artificial-construct/no_food" = true
+		"origins-plus-plus:artificial-construct/no_hunger" = true
+		"origins-plus-plus:artificial-construct/reach" = true
+		"origins-plus-plus:artificial-construct/storage" = true
+
+	[origins."poisons_origins:plushie"]
+		enabled = true
+		"plushie:plushie/charred_core" = true
+		"plushie:plushie/smoll" = true
+		"plushie:plushie/disable_hunger" = true
+		"plushie:plushie/no_food" = true
+		"plushie:plushie/heal_with_wool" = true
+		"plushie:plushie/unravel_wool" = true
+		"plushie:plushie/heal_with_string" = true
+		"plushie:plushie/unravel_string" = true
+		"plushie:plushie/vulnerable_body" = true
+		"plushie:plushie/extremely_flammable" = true
+		"plushie:plushie/soggy" = true
+		"plushie:plushie/no_fall_dmg" = true
+		"plushie:plushie/no_air" = true
+
+	[origins."origins-plus-plus:stargazer"]
+		enabled = true
+		"origins-plus-plus:stargazer/equinox" = true
+		"origins-plus-plus:stargazer/fragile_flame" = true
+		"origins-plus-plus:stargazer/hellish_will" = true
+		"origins-plus-plus:stargazer/monster_mender" = true
+		"origins-plus-plus:stargazer/photosynthesis" = true
+		"origins-plus-plus:stargazer/starguard" = true
+		"origins-plus-plus:stargazer/starlight_mode" = true
+		"origins-plus-plus:stargazer/starstalker" = true
+		"origins-plus-plus:stargazer/sunburn" = true
+
+	[origins."valorant_origins:neon"]
+		enabled = true
+		"valorant_origins:neonpowers/speed" = true
+		"valorant_origins:neonpowers/highgear" = true
+		"valorant_origins:neonpowers/relaybolt" = true
+		"valorant_origins:neonpowers/highgearbonus" = true
+		"valorant_origins:neonpowers/electricpulse" = true
+		"valorant_origins:neonpowers/lowdurability" = true
+
+	[origins."rept:reptilian"]
+		enabled = true
+		"rept:rept_freeze" = true
+		"rept:rept_natarmor" = true
+		"origins:tailwind" = true
+		"rept:rept_size" = true
+		"origins:no_shield" = true
+		"origins:more_exhaustion" = true
+		"rept:rept_poison" = true
+		"rept:rept_immune" = true
+
+	[origins."srp_origins:variants/tyrant"]
+		enabled = true
+		"srp_origins:variants/tyrant" = true
+
+	[origins."mush:mush"]
+		enabled = true
+		"mush:moist" = true
+		"mush:waterlungs" = true
+		"mush:inhabitant" = true
+		"mush:falldamage" = true
+		"mush:creepingcap" = true
+		"mush:minimush" = true
+		"mush:dehydration" = true
+		"mush:heat" = true
+		"mush:health" = true
+
+	[origins."medievalorigins:plague_victim"]
+		enabled = true
+		"medievalorigins:plague_victim/foul_aura" = true
+		"medievalorigins:plague_victim/plague_immunity" = true
+		"medievalorigins:plague_victim/undeadge" = true
+		"medievalorigins:plague_victim/risk_of_transmission" = true
+		"medievalorigins:plague_victim/contagious" = true
+		"medievalorigins:plague_victim/insomniac" = true
+		"medievalorigins:plague_victim/sensitive_skin" = true
+		"medievalorigins:plague_victim/skin_and_bones" = true
+		"medievalorigins:plague_victim/eternal_suffering" = true
+		"origins_survive:illness_resistance" = true
+
+	[origins."animal_origins:shark"]
+		enabled = true
+		"animal_origins:fifteen_hearts" = true
+		"animal_origins:attack_damage" = true
+		"animal_origins:carnivore" = true
+		"origins:water_breathing" = true
+
+	[origins."kang:kangaroo"]
+		enabled = true
+		"kang:kang_pouch" = true
+		"kang:kang_longjump" = true
+		"origins:tailwind" = true
+		"origins:vegetarian" = true
+		"kang:kang_dodge" = true
+		"kang:kang_nobow" = true
+		"kang:kang_health" = true
+		"monke:monke_velocity" = true
+
+	[origins."origins_paps_fantasy:elf"]
+		enabled = true
+		"origins_paps_fantasy:elf_bowspeed" = true
+		"origins_paps_fantasy:elf_size" = true
+		"origins_paps_fantasy:elf_wither" = true
+		"origins_paps_fantasy:elf_leaves" = true
+		"origins_paps_fantasy:elf_strength" = true
+
+	[origins."srp_origins:inborn/buglin"]
+		enabled = true
+		"srp_origins:fire_damage" = true
+		"srp_origins:nosleep" = true
+		"srp_origins:badrep" = true
+		"srp_origins:parasite" = true
+		"srp_origins:souls" = true
+		"srp_origins:biomass" = true
+		"srp_origins:phases" = true
+		"srp_origins:upgrades" = true
+		"srp_origins:inborn/buglin/evolution" = true
+		"srp_origins:inborn/buglin/small" = true
+		"srp_origins:inborn/buglin/speed" = true
+		"srp_origins:inborn/buglin/weak" = true
+		"srp_origins:parasitetag" = true
+		"srp_origins:fool" = true
+		"srp_origins:1kdownloads" = true
+
+	[origins."dragon_origins:test"]
+		enabled = true
+		"dragon_origins:test/invis_temp" = true
+		"dragon_origins:test/heal" = true
+		"dragon_origins:test/lightning" = true
+		"dragon_origins:test/air_swim" = true
+		"dragon_origins:test/dimension" = true
+		"dragon_origins:advancement" = true
+
+	[origins."srp_origins:crude/limboassim"]
+		enabled = true
+		"srp_origins:crude/limboassim/limboassim" = true
+		"srp_origins:crude/limboassim/changemode" = true
+		"srp_origins:crude/limboassim/feral" = true
+		"srp_origins:crude/limboassim/thrall" = true
+
+	[origins."diversity_origins:felfolk"]
+		enabled = true
+		"diversity_origins:felfolk/felfolk_bed_bonus" = true
+		"diversity_origins:felfolk/weak_health" = true
+		"diversity_origins:felfolk/feline_vision" = true
+		"diversity_origins:felfolk/cat_agility" = true
+		"diversity_origins:felfolk/feline_jump" = true
+		"diversity_origins:felfolk/villagers_trust" = true
+		"diversity_origins:felfolk/hurt_meowing" = true
+		"diversity_origins:felfolk/snatched_goods_bag" = true
+		"diversity_origins:felfolk/catsize" = true
+		"diversity_origins:felfolk/illagers_hostility" = true
+		"diversity_origins:felfolk/cat_call" = true
+		"diversity_origins:felfolk/fall_resist" = true
+		"diversity_origins:felfolk/safe_fall_distance" = true
+		"diversity_origins:felfolk/soft_paws_step" = true
+		"diversity_origins:felfolk/soft_paws_hit_ground" = true
+		"diversity_origins:felfolk/creepers_shoo" = true
+		"diversity_origins:felfolk/shaking" = true
+		"diversity_origins:felfolk/scary_thunder" = true
+		"diversity_origins:felfolk/claws_on_the_carpets" = true
+
+	[origins."origins-plus-plus:hellforged"]
+		enabled = true
+		"origins:nether_spawn" = true
+		"origins:fire_immunity" = true
+		"origins-plus-plus:hellforged/heat_powered" = true
+		"origins-plus-plus:hellforged/impervious_eyes" = true
+		"origins-plus-plus:hellforged/slow_swim" = true
+		"origins-plus-plus:hellforged/strong_swim" = true
+		"origins-plus-plus:hellforged/superheated" = true
+		"origins-plus-plus:hellforged/water_vulnerability" = true
+
+	[origins."origins-plus-plus:birb"]
+		enabled = true
+		"origins:elytra" = true
+		"origins:more_kinetic_damage" = true
+		"origins:no_shield" = true
+		"origins-plus-plus:birb/almost_no_armor" = true
+		"origins-plus-plus:birb/feather_grip" = true
+		"origins-plus-plus:birb/feather_grip_spectral" = true
+		"origins-plus-plus:birb/granivore" = true
+		"origins-plus-plus:birb/jockey" = true
+		"origins-plus-plus:birb/launch" = true
+		"origins-plus-plus:birb/love_air" = true
+		"origins-plus-plus:birb/more_air_damage" = true
+		"origins-plus-plus:birb/no_food" = true
+		"origins-plus-plus:birb/small" = true
+		"origins-plus-plus:birb/smaller_appetite" = true
+		"origins-plus-plus:birb/smaller_body" = true
+		"origins-plus-plus:birb/tweet" = true
+
+	[origins."swarmorigin:tier2/apothecary"]
+		enabled = true
+		"swarmorigin:status/alien_biology" = true
+		"swarmorigin:action/pheros2" = true
+		"swarmorigin:action/variantchange" = true
+		"swarmorigin:action/tier2sidegrade" = true
+		"swarmorigin:action/tier2downgrade" = true
+		"swarmorigin:status/tier2evolution" = true
+		"swarmorigin:action/energy" = true
+		"swarmorigin:action/climb" = true
+		"swarmorigin:action/climbing" = true
+		"swarmorigin:status/armor_restrictions" = true
+		"swarmorigin:status/tier2_stats" = true
+		"swarmorigin:status/large" = true
+		"swarmorigin:status/more_speed" = true
+		"swarmorigin:status/produce_potion" = true
+		"swarmorigin:action/ranged_heal2" = true
+		"swarmorigin:action/make_food" = true
+		"swarmorigin:action/aoe_heal2" = true
+		"origins:arthropod" = true
+		"origins:fall_immunity" = true
+		"origins:cat_vision" = true
+		"origins:no_cobweb_slowdown" = true
+
+	[origins."srp_origins:variants/haywire"]
+		enabled = true
+		"srp_origins:variants/haywire" = true
+
+	[origins."origins_vampire:vampire_lord"]
+		enabled = true
+		"origins_vampire:flight/wing_flap" = true
+		"origins_vampire:bat_form" = true
+		"origins_vampire:diet" = true
+		"origins_vampire:health_regeneration" = true
+		"origins_vampire:hunters_instinct" = true
+		"origins_vampire:undead" = true
+		"origins_vampire:weakness/wooden_tools" = true
+
+	[origins."origins_4d_being:super"]
+		enabled = true
+		"origins_4d_being:super/crossbow" = true
+		"origins_4d_being:super/effects" = true
+		"origins_4d_being:super/metabolism" = true
+		"origins_4d_being:super/purge" = true
+		"origins_4d_being:super/scale" = true
+		"origins_4d_being:super/fulliron" = true
+
+	[origins."origins-classes:lumberjack"]
+		enabled = true
+		"origins-classes:tree_felling" = true
+		"origins-classes:more_planks_from_logs" = true
+
+	[origins."zeph_origins:faxxic"]
+		enabled = true
+		"zeph_origins:fax/tpower1" = true
+		"zeph_origins:fax/tpower2" = true
+		"zeph_origins:fax/tpower3" = true
+		"zeph_origins:fax/tpower4" = true
+		"zeph_origins:fax/tpower5" = true
+		"zeph_origins:fax/tpower6" = true
+
+	[origins."medievalorigins:yeti"]
+		enabled = true
+		"medievalorigins:yeti/frigid_pulse" = true
+		"medievalorigins:yeti/from_whence_you_came" = true
+		"medievalorigins:yeti/frosty_breath" = true
+		"medievalorigins:yeti/titanic" = true
+		"medievalorigins:yeti/unstoppable" = true
+		"medievalorigins:yeti/winter_body" = true
+		"medievalorigins:yeti/flammable" = true
+		"medievalorigins:yeti/thick_fur" = true
+		"medievalorigins:yeti/spell_power" = true
+		"origins_env_deh:cold_resistance" = true
+		"thermoo-patches:cold_immune" = true
+		"origins_survive:cold_resistance" = true
+		"origins_toughasnails:cold_resistance" = true
+		"extra_compat:cold_resistance" = true
+
+	[origins."swarmorigin:variants/acrobatic"]
+		enabled = true
+		"swarmorigin:variant/acrobatic" = true
+
+	[origins."valorant_origins:sova"]
+		enabled = true
+		"valorant_origins:sovapowers/recondart" = true
+		"valorant_origins:sovapowers/explosivedart" = true
+		"valorant_origins:sovapowers/eagleeye" = true
+		"valorant_origins:sovapowers/huntersbow" = true
+		"valorant_origins:sovapowers/fletchingexpert" = true
+
+	[origins."origins-plus-plus:warden"]
+		enabled = true
+		"origins:no_shield" = true
+		"origins-plus-plus:warden/blind" = true
+		"origins-plus-plus:warden/echolocation" = true
+		"origins-plus-plus:warden/health" = true
+		"origins-plus-plus:warden/phase" = true
+		"origins-plus-plus:warden/size" = true
+		"origins-plus-plus:warden/strength" = true
+
+	[origins."ojs_rpg_origins:variant_human/feats/skulker"]
+		enabled = true
+		"ojs_rpg_origins:variant_human/feats/skulker" = true
+
+	[origins."origins-plus-plus:dullahan"]
+		enabled = true
+		"origins-plus-plus:dullahan/abilities/hell_chain" = true
+		"origins-plus-plus:dullahan/abilities/nightmare_steed" = true
+		"origins-plus-plus:dullahan/abilities/skull_bomb" = true
+		"origins-plus-plus:dullahan/buffs/fear" = true
+		"origins-plus-plus:dullahan/buffs/kit" = true
+		"origins-plus-plus:dullahan/buffs/night_buffs" = true
+		"origins-plus-plus:dullahan/buffs/no_food" = true
+		"origins-plus-plus:dullahan/buffs/soul" = true
+		"origins-plus-plus:dullahan/debuffs/boned" = true
+		"origins-plus-plus:dullahan/debuffs/day_debuffs" = true
+		"origins-plus-plus:dullahan/debuffs/soul_seal" = true
+
+	[origins."srp_origins:adapted/yelloweye"]
+		enabled = true
+		"srp_origins:parasite" = true
+		"srp_origins:adapted/adaptive2" = true
+		"srp_origins:adapted/tendril2" = true
+		"srp_origins:adapted/large" = true
+		"srp_origins:adapted/vomit" = true
+		"srp_origins:adapted/yelloweye/leap" = true
+		"srp_origins:adapted/tough" = true
+		"srp_origins:adapted/remains" = true
+		"srp_origins:adapted/yelloweye/creature" = true
+		"srp_origins:adapted/yelloweye/flight" = true
+		"srp_origins:adapted/yelloweye/nade" = true
+		"srp_origins:adapted/yelloweye/shoot" = true
+		"srp_origins:adapted/yelloweye/discharge" = true
+		"srp_origins:souls" = true
+		"srp_origins:biomass" = true
+		"srp_origins:phases" = true
+		"srp_origins:upgrades" = true
+		"srp_origins:fire_damage" = true
+		"srp_origins:nosleep" = true
+		"srp_origins:badrep" = true
+		"srp_origins:parasitetag" = true
+		"srp_origins:fool" = true
+		"srp_origins:1kdownloads" = true
+
+	[origins."origins-plus-plus:demi_god"]
+		enabled = true
+		"origins-plus-plus:demi-god/cake" = true
+		"origins-plus-plus:demi-god/cursed" = true
+		"origins-plus-plus:demi-god/fire" = true
+		"origins-plus-plus:demi-god/god_punch" = true
+		"origins-plus-plus:demi-god/god_speed" = true
+		"origins-plus-plus:demi-god/health" = true
+		"origins-plus-plus:demi-god/more_boss_damage" = true
+		"origins-plus-plus:demi-god/phase" = true
+		"origins-plus-plus:demi-god/raw_diet" = true
+		"origins-plus-plus:demi-god/raw_meat_buff" = true
+
+	[origins."origins-plus-plus:wizard"]
+		enabled = true
+		"origins:no_shield" = true
+		"origins-plus-plus:wizard/ball" = true
+		"origins-plus-plus:wizard/broom" = true
+		"origins-plus-plus:wizard/flight_kinda" = true
+		"origins-plus-plus:wizard/health" = true
+		"origins-plus-plus:wizard/immune" = true
+		"origins-plus-plus:wizard/immunity" = true
+		"origins-plus-plus:wizard/light" = true
+		"origins-plus-plus:wizard/magic" = true
+		"origins-plus-plus:wizard/melee" = true
+		"origins-plus-plus:wizard/old" = true
+		"origins-plus-plus:wizard/old2" = true
+		"origins-plus-plus:wizard/pill" = true
+		"origins-plus-plus:wizard/respect" = true
+		"origins-plus-plus:wizard/respect2" = true
+		"origins-plus-plus:wizard/second" = true
+		"origins-plus-plus:wizard/skin" = true
+		"origins-plus-plus:wizard/skulls" = true
+		"origins-plus-plus:wizard/vex" = true
+		"origins-plus-plus:wizard/vex2" = true
+		"origins-plus-plus:wizard/villagers" = true
+		"origins-plus-plus:wizard/why" = true
+
+	[origins."sb_origins:mimic"]
+		enabled = true
+		"sb_origins:mimic/invisibility" = true
+		"sb_origins:mimic/storage" = true
+		"sb_origins:mimic/heat_sensing" = true
+		"sb_origins:mimic/gold2" = true
+		"sb_origins:mimic/mimic_food" = true
+		"sb_origins:size/normal" = true
+		"sb_origins:mimic/health" = true
+		"sb_origins:bottomless_stomach" = true
+
+	[origins."origins-plus-plus:spirit_ram"]
+		enabled = true
+		"origins:water_vulnerability" = true
+		"origins-plus-plus:spirit-ram/color" = true
+		"origins-plus-plus:spirit-ram/hearts" = true
+		"origins-plus-plus:spirit-ram/high_sleep" = true
+		"origins-plus-plus:spirit-ram/horn_pockets" = true
+		"origins-plus-plus:spirit-ram/mist_protection" = true
+		"origins-plus-plus:spirit-ram/mist_protection_trigger" = true
+		"origins-plus-plus:spirit-ram/no_water" = true
+		"origins-plus-plus:spirit-ram/phase" = true
+
+	[origins."animal_origins:duck"]
+		enabled = true
+		"animal_origins:featherweight" = true
+		"animal_origins:walk_on_water" = true
+		"animal_origins:vegetarian" = true
+		"animal_origins:half_block_tall" = true
+		"animal_origins:half_block_wide" = true
+		"animal_origins:seven_hearts" = true
+		"animal_origins:quack" = true
+		"animal_origins:quack_sound" = true
+
+	[origins."swarmorigin:tier1/soldier"]
+		enabled = true
+		"swarmorigin:status/alien_biology" = true
+		"swarmorigin:action/variantchange" = true
+		"swarmorigin:action/tier1sidegrade" = true
+		"swarmorigin:action/tier1upgrade" = true
+		"swarmorigin:status/tier1evolution" = true
+		"swarmorigin:action/energy" = true
+		"swarmorigin:action/climb" = true
+		"swarmorigin:action/climbing" = true
+		"swarmorigin:status/armor_restrictions" = true
+		"swarmorigin:status/tier1_stats" = true
+		"swarmorigin:status/poisonous_blood" = true
+		"swarmorigin:action/pierce" = true
+		"swarmorigin:action/leap" = true
+		"swarmorigin:action/aoe_attack" = true
+		"origins:arthropod" = true
+		"origins:fall_immunity" = true
+		"origins:cat_vision" = true
+		"origins:no_cobweb_slowdown" = true
+
+	[origins."origins-plus-plus:dolphin"]
+		enabled = true
+		"origins:aqua_affinity" = true
+		"origins:fall_immunity" = true
+		"origins:like_water" = true
+		"origins:fragile" = true
+		"origins:no_shield" = true
+		"origins-plus-plus:dolphin/bubbles" = true
+		"origins-plus-plus:dolphin/fish_diet" = true
+		"origins-plus-plus:dolphin/ocean_spawn" = true
+		"origins-plus-plus:dolphin/fish_buff" = true
+		"origins-plus-plus:dolphin/riptide" = true
+		"origins-plus-plus:dolphin/slow_land" = true
+		"origins-plus-plus:dolphin/speed_water" = true
+		"origins-plus-plus:dolphin/summon_dolphin" = true
+		"origins-plus-plus:dolphin/water_breathing" = true
+		"origins-plus-plus:dolphin/water_vision" = true
+
+	[origins."jojos_addon_origins:minizwerg"]
+		enabled = true
+		"jojos_addon_origins:mz_small" = true
+
+	[origins."origins-plus-plus:voidling/voidling"]
+		enabled = true
+		"origins:no_shield" = true
+		"origins-plus-plus:voidling/brittle_bones" = true
+		"origins-plus-plus:voidling/light_weakness" = true
+		"origins-plus-plus:voidling/shadow_boost" = true
+		"origins-plus-plus:voidling/void_child" = true
+		"origins-plus-plus:voidling/voidling_form" = true
+
+	[origins."ojs_rpg_origins:variant_human/skills/survival"]
+		enabled = true
+		"digs_dnd_origins:half-elf/skills/survival" = true
+
+	[origins."sb_origins:dragon"]
+		enabled = true
+		"sb_origins:dragon/fireball" = true
+		"sb_origins:dragon/dragon_claws" = true
+		"sb_origins:dragon/sharp_claws" = true
+		"sb_origins:dragon/hotbiomes2" = true
+		"sb_origins:movement/high_jump" = true
+		"sb_origins:fire_immunity" = true
+		"sb_origins:hunger" = true
+		"sb_origins:diet/modded_carnivore_fish" = true
+		"sb_origins:size/reallybig" = true
+		"sb_origins:aura/fire_aura" = true
+		"sb_origins:movement/slower_build" = true
+		"sb_origins:dragon/cold_biomes" = true
+		"sb_origins:no_trading" = true
+		"sb_origins:dragon/bottomless_stomach" = true
+
+	[origins."dragon_origins:yang"]
+		enabled = true
+		"dragon_origins:yinyang/yang/yintransform" = true
+		"dragon_origins:yinyang/yang/cloud" = true
+		"dragon_origins:yinyang/yang/posess" = true
+		"dragon_origins:yinyang/yang/transparency1" = true
+		"dragon_origins:yinyang/yang/dayweak" = true
+		"dragon_origins:yinyang/yang/invis_temp" = true
+		"dragon_origins:advancement" = true
+
+	[origins."ojs_rpg_origins:variant_human/feats/lightly_armored"]
+		enabled = true
+		"ojs_rpg_origins:variant_human/feats/lightly_armored" = true
+
+	[origins."srp_origins:variants/frostbitten"]
+		enabled = true
+		"srp_origins:variants/frostbitten" = true
+
+	[origins."strictly:thief"]
+		enabled = true
+		"origins:shulker_inventory" = true
+		"strictly:superstealth" = true
+		"origins:tailwind" = true
+		"origins:fragile" = true
+		"strictly:cloak" = true
+		"strictly:money_lover" = true
+		"strictly:strong" = true
+		"origins:more_exhaustion" = true
+		"strictly:night-owl" = true
+
+	[origins."deepwoken_origins:primalvesp"]
+		enabled = true
+
+	[origins."sb_origins:demon"]
+		enabled = true
+		"sb_origins:demon/unholy_deal" = true
+		"sb_origins:demon/hellborne" = true
+		"sb_origins:demon/hellstrength" = true
+		"sb_origins:dragon/sharp_claws" = true
+		"sb_origins:aura/fire_aura" = true
+		"sb_origins:plague_immunity" = true
+		"sb_origins:size/normal" = true
+		"sb_origins:hunger" = true
+		"sb_origins:diet/modded_carnivore_fish" = true
+		"sb_origins:no_trading" = true
+		"sb_origins:demon/cold_biomes" = true
+		"sb_origins:water_damage" = true
+		"sb_origins:bottomless_stomach" = true
+
+	[origins."origins-plus-plus:pixie"]
+		enabled = true
+		"origins:elytra" = true
+		"origins:fall_immunity" = true
+		"origins:vegetarian" = true
+		"origins-plus-plus:pixie/bite_sized" = true
+		"origins-plus-plus:pixie/effect_glow" = true
+		"origins-plus-plus:pixie/effect_luck" = true
+		"origins-plus-plus:pixie/flying" = true
+		"origins-plus-plus:pixie/no_fireworks" = true
+		"origins-plus-plus:pixie/pixie_dust" = true
+		"origins-plus-plus:pixie/speed" = true
+
+	[origins."felfolk_origin:felfolk"]
+		enabled = true
+		"origins:fall_immunity" = true
+		"origins:velvet_paws" = true
+		"origins:nine_lives" = true
+		"origins:scare_creepers" = true
+		"felfolk_origin:weak_paws" = true
+		"felfolk_origin:this_cat_is_shedding" = true
+		"felfolk_origin:feline_vision" = true
+		"felfolk_origin:cat_agility" = true
+		"felfolk_origin:feline_jump" = true
+		"felfolk_origin:villagers_trust" = true
+		"felfolk_origin:hurt_meowing" = true
+		"felfolk_origin:snatched_goods_bag" = true
+		"felfolk_origin:catsize" = true
+		"felfolk_origin:illagers_hostility" = true
+		"felfolk_origin:cat_call" = true
+		"felfolk_origin:claws_on_the_carpets" = true
+
+	[origins."origins:avian"]
+		enabled = true
+		"origins:slow_falling" = true
+		"origins:fresh_air" = true
+		"origins:like_air" = true
+		"origins:tailwind" = true
+		"origins:lay_eggs" = true
+		"origins:vegetarian" = true
+
+	[origins."animal_origins:lizard"]
+		enabled = true
+		"animal_origins:lizard_climb" = true
+		"animal_origins:vegetarian" = true
+		"animal_origins:heal_in_daylight" = true
+
+	[origins."origins-plus-plus:ram"]
+		enabled = true
+		"origins:fresh_air" = true
+		"origins-plus-plus:ram/dash" = true
+		"origins-plus-plus:ram/energy_jump" = true
+		"origins-plus-plus:ram/fall" = true
+		"origins-plus-plus:ram/jump_boost" = true
+		"origins-plus-plus:ram/no_food" = true
+		"origins-plus-plus:ram/no_food_eat" = true
+		"origins-plus-plus:ram/ram" = true
+
+	[origins."origins-plus-plus:rat"]
+		enabled = true
+		"origins:fragile" = true
+		"origins-plus-plus:rat/nimble_limbs" = true
+		"origins-plus-plus:rat/nocturnal_eyes" = true
+		"origins-plus-plus:rat/one_block_height" = true
+		"origins-plus-plus:rat/rats_eyes" = true
+		"origins-plus-plus:rat/scavenger" = true
+		"origins-plus-plus:rat/slow_swimmer" = true
+		"origins-plus-plus:rat/tail_whip" = true
+		"origins-plus-plus:rat/toxicity_evolved" = true
+		"origins-plus-plus:rat/vicious_bite" = true
+
+	[origins."sculkcommander:sculk_commander"]
+		enabled = true
+		"sculkcommander:one_with_the_sculk" = true
+		"sculkcommander:home_field_advantage" = true
+		"sculkcommander:synthetic" = true
+		"sculkcommander:ours_to_command" = true
+		"sculkcommander:emergency_measures" = true
+		"sculkcommander:infest" = true
+		"sculkcommander:harbinger" = true
+		"sculkcommander:consume" = true
+		"sculkcommander:unimpeded" = true
+		"sculkcommander:feared" = true
+		"sculkcommander:purity_nerf" = true
+		"sculkcommander:squad_leader" = true
+
+	[origins."srp_origins:crude/feral"]
+		enabled = true
+		"srp_origins:parasite" = true
+		"srp_origins:crude/feral/strength" = true
+		"srp_origins:crude/feral/bruiser" = true
+		"srp_origins:crude/feral/volatile" = true
+		"origins:carnivore" = true
+		"srp_origins:crude/feral/exhaust" = true
+		"srp_origins:crude/feral/flayed" = true
+		"srp_origins:crude/remains" = true
+		"srp_origins:souls" = true
+		"srp_origins:biomass" = true
+		"srp_origins:phases" = true
+		"srp_origins:upgrades" = true
+		"srp_origins:fire_damage" = true
+		"srp_origins:nosleep" = true
+		"srp_origins:badrep" = true
+		"srp_origins:parasitetag" = true
+		"srp_origins:fool" = true
+		"srp_origins:1kdownloads" = true
+
+	[origins."origins_paps_fantasy:goblin"]
+		enabled = true
+		"origins_paps_fantasy:goblin_skin" = true
+		"origins_paps_fantasy:goblin_size" = true
+		"origins_paps_fantasy:goblin_health" = true
+		"origins_paps_fantasy:goblin_hunger" = true
+		"origins_paps_fantasy:goblin_poison" = true
+		"origins_paps_fantasy:goblin_lightweight" = true
+		"origins_paps_fantasy:goblin_swimspeed" = true
+		"origins_paps_fantasy:goblin_goldxp" = true
+
+	[origins."swarmorigin:tier2/marauder"]
+		enabled = true
+		"swarmorigin:status/alien_biology" = true
+		"swarmorigin:action/variantchange" = true
+		"swarmorigin:action/tier2sidegrade" = true
+		"swarmorigin:action/tier2downgrade" = true
+		"swarmorigin:status/tier2evolution" = true
+		"swarmorigin:action/energy" = true
+		"swarmorigin:action/climb" = true
+		"swarmorigin:action/climbing" = true
+		"swarmorigin:status/armor_restrictions" = true
+		"swarmorigin:status/tier2_stats" = true
+		"swarmorigin:status/poisonous_blood" = true
+		"swarmorigin:status/feast" = true
+		"swarmorigin:status/large" = true
+		"swarmorigin:action/crush" = true
+		"swarmorigin:action/stomp" = true
+		"swarmorigin:action/charge" = true
+		"origins:arthropod" = true
+		"origins:fall_immunity" = true
+		"origins:cat_vision" = true
+		"origins:no_cobweb_slowdown" = true
+
+	[origins."origins_4d_being:angel"]
+		enabled = true
+		"origins_4d_being:angel/bad/ugly" = true
+		"origins_4d_being:angel/good/fire" = true
+		"origins_4d_being:angel/good/immune" = true
+		"origins_4d_being:angel/good/speedy" = true
+		"origins_4d_being:angel/good/flight" = true
+		"origins_4d_being:angel/good/nightvision" = true
+		"origins_4d_being:angel/good/healing" = true
+		"origins_4d_being:angel/good/armor" = true
+		"origins_4d_being:angel/good/invisibletog" = true
+		"origins_4d_being:angel/good/invisible" = true
+		"origins_4d_being:angel/bad/food" = true
+		"origins_4d_being:angel/bad/peaceful" = true
+		"origins_4d_being:angel/bad/hungry" = true
+		"origins_4d_being:angel/bad/weakness" = true
+		"origins_4d_being:angel/bad/jesus" = true
+		"origins_4d_being:angel/bad/weak" = true
+		"origins_4d_being:angel/bad/sleep" = true
+		"origins_4d_being:angel/bad/scale" = true
+
+	[origins."origins-plus-plus:red_panda"]
+		enabled = true
+		"origins:climbing" = true
+		"origins-plus-plus:red-panda/bamboo_eater" = true
+		"origins-plus-plus:red-panda/cute" = true
+		"origins-plus-plus:red-panda/diet" = true
+		"origins-plus-plus:red-panda/flammable" = true
+		"origins-plus-plus:red-panda/jungle_native" = true
+		"origins-plus-plus:red-panda/lazy" = true
+		"origins-plus-plus:red-panda/nocturnal" = true
+
+	[origins."ojs_rpg_origins:variant_human/skills/arcana"]
+		enabled = true
+		"digs_dnd_origins:half-elf/skills/arcana" = true
+
+	[origins."deepwoken_origins:khan"]
+		enabled = true
+		"deepwoken_origins:khan/versatile" = true
+		"deepwoken_origins:khan/higherjump" = true
+		"deepwoken_origins:khan/monkeydefense" = true
+		"deepwoken_origins:khan/lessfall" = true
+
+	[origins."ojs_rpg_origins:berserker"]
+		enabled = true
+		"ojs_rpg_origins:hp" = true
+		"ojs_rpg_origins:rage" = true
+		"ojs_rpg_origins:unarmored" = true
+		"origins:no_shield" = true
+		"ojs_rpg_origins:berserker_item" = true
+
+	[origins."origins-plus-plus:candyperson"]
+		enabled = true
+		"origins-plus-plus:candyperson/cake_master" = true
+		"origins-plus-plus:candyperson/cookie_master" = true
+		"origins-plus-plus:candyperson/favorite_food" = true
+		"origins-plus-plus:candyperson/hard_sugar" = true
+		"origins-plus-plus:candyperson/sugar_addict" = true
+		"origins-plus-plus:candyperson/sugar_expert" = true
+		"origins-plus-plus:candyperson/sugar_kit" = true
+		"origins-plus-plus:candyperson/sugar_recipe" = true
+		"origins-plus-plus:candyperson/sugar_stomach" = true
+
+	[origins."zeph_origins:iceneko"]
+		enabled = true
+		"zeph_origins:ice/ipower1" = true
+		"zeph_origins:ice/ipower2" = true
+		"zeph_origins:ice/ipower3" = true
+
+	[origins."omnitrix:fa_tetramand"]
+		enabled = true
+		"omnitrix:fa_lunge" = true
+		"omnitrix:fa_launch" = true
+		"omnitrix:fa_boom" = true
+		"omnitrix:fa_strength" = true
+		"omnitrix:fa_rage" = true
+		"omnitrix:fa_size" = true
+		"origins:fall_immunity" = true
+		"origins:strong_arms" = true
+		"origins:strong_arms_break_speed" = true
+		"origins:no_shield" = true
+		"omnitrix:nobow" = true
+		"omnitrix:nosword" = true
+
+	[origins."swarmorigin:tier1/stunner"]
+		enabled = true
+		"swarmorigin:status/alien_biology" = true
+		"swarmorigin:action/variantchange" = true
+		"swarmorigin:action/tier1sidegrade" = true
+		"swarmorigin:action/tier1upgrade" = true
+		"swarmorigin:status/tier1evolution" = true
+		"swarmorigin:action/energy" = true
+		"swarmorigin:action/climb" = true
+		"swarmorigin:action/climbing" = true
+		"swarmorigin:status/armor_restrictions" = true
+		"swarmorigin:status/tier1_stats" = true
+		"swarmorigin:status/stunfall" = true
+		"swarmorigin:action/dash" = true
+		"swarmorigin:action/shock" = true
+		"swarmorigin:action/disable" = true
+		"origins:arthropod" = true
+		"origins:fall_immunity" = true
+		"origins:cat_vision" = true
+		"origins:no_cobweb_slowdown" = true
+
+	[origins."origins-plus-plus:malfunction"]
+		enabled = true
+		"origins-plus-plus:malfunction/callback_pursuit" = true
+		"origins-plus-plus:malfunction/float" = true
+		"origins-plus-plus:malfunction/particles" = true
+		"origins-plus-plus:malfunction/phase" = true
+		"origins-plus-plus:malfunction/random_teleport" = true
+
+	[origins."srp_origins:adapted/reeker"]
+		enabled = true
+		"srp_origins:parasite" = true
+		"srp_origins:adapted/adaptive2" = true
+		"srp_origins:adapted/tendril2" = true
+		"srp_origins:adapted/large" = true
+		"srp_origins:adapted/vomit" = true
+		"srp_origins:adapted/leap" = true
+		"srp_origins:adapted/tough" = true
+		"srp_origins:adapted/remains" = true
+		"srp_origins:adapted/reeker/creature" = true
+		"srp_origins:adapted/reeker/charge" = true
+		"srp_origins:adapted/reeker/eruption" = true
+		"srp_origins:adapted/reeker/orb" = true
+		"srp_origins:souls" = true
+		"srp_origins:biomass" = true
+		"srp_origins:phases" = true
+		"srp_origins:upgrades" = true
+		"srp_origins:fire_damage" = true
+		"srp_origins:nosleep" = true
+		"srp_origins:badrep" = true
+		"srp_origins:parasitetag" = true
+		"srp_origins:fool" = true
+		"srp_origins:1kdownloads" = true
+
+	[origins."dragon_origins:cookie"]
+		enabled = true
+		"dragon_origins:canibalism" = true
+		"dragon_origins:spillage" = true
+		"dragon_origins:advancement" = true
+
+	[origins."origins-classes:explorer"]
+		enabled = true
+		"origins-classes:explorer_kit" = true
+		"origins-classes:no_sprint_exhaustion" = true
+
+	[origins."origins-plus-plus:iceling"]
+		enabled = true
+		"origins:climbing" = true
+		"origins:fragile" = true
+		"origins:more_kinetic_damage" = true
+		"origins:light_armor" = true
+		"origins-plus-plus:iceling/blue_transparent_skin" = true
+		"origins-plus-plus:iceling/cold_speed" = true
+		"origins-plus-plus:iceling/cold_power" = true
+		"origins-plus-plus:iceling/disable_regen" = true
+		"origins-plus-plus:iceling/fire" = true
+		"origins-plus-plus:iceling/harvest_now" = true
+		"origins-plus-plus:iceling/hot_biome" = true
+		"origins-plus-plus:iceling/immunity" = true
+		"origins-plus-plus:iceling/nib" = true
+		"origins-plus-plus:iceling/no_hunger" = true
+		"origins-plus-plus:iceling/regen" = true
+		"origins-plus-plus:iceling/shard" = true
+		"origins-plus-plus:iceling/size" = true
+		"origins-plus-plus:iceling/snow_spawn" = true
+		"origins-plus-plus:iceling/speed" = true
+		"origins-plus-plus:iceling/water" = true
+
+	[origins."poisons_origins:spider_monarch"]
+		enabled = true
+		"poisons_origins:spider_monarch/spider_friends" = true
+		"poisons_origins:spider_monarch/spider_friends2" = true
+		"poisons_origins:spider_monarch/emergency_nest" = true
+		"poisons_origins:spider_monarch/no_cobweb_slow" = true
+		"poisons_origins:spider_monarch/hit_through_cobweb" = true
+		"poisons_origins:spider_monarch/spider_sense" = true
+		"poisons_origins:spider_monarch/fangs" = true
+		"poisons_origins:spider_monarch/climb" = true
+		"poisons_origins:spider_monarch/nightvision" = true
+		"poisons_origins:spider_monarch/no_fighter" = true
+		"poisons_origins:spider_monarch/weak_to_fire" = true
+		"poisons_origins:spider_monarch/sun_shy" = true
+
+	[origins."origins-plus-plus:enigma"]
+		enabled = true
+		"origins-plus-plus:enigma/clone" = true
+		"origins-plus-plus:enigma/behind_you" = true
+		"origins-plus-plus:enigma/hated" = true
+		"origins-plus-plus:enigma/no_fighting" = true
+		"origins-plus-plus:enigma/phase" = true
+		"origins-plus-plus:enigma/sight" = true
+		"origins-plus-plus:enigma/staring" = true
+
+	[origins."origins-plus-plus:illusioner/illusioner_novice"]
+		enabled = true
+		"origins:no_shield" = true
+		"origins-plus-plus:illusioner/arrow" = true
+		"origins-plus-plus:illusioner/friendly_pillagers" = true
+		"origins-plus-plus:illusioner/illusion" = true
+		"origins-plus-plus:illusioner/illusion_despawn" = true
+		"origins-plus-plus:illusioner/illusion_formation" = true
+		"origins-plus-plus:illusioner/illusion_tp" = true
+		"origins-plus-plus:illusioner/scary" = true
+		"origins-plus-plus:illusioner/sword_bad" = true
+		"origins-plus-plus:illusioner/villager_hate" = true
+
+	[origins."origins-plus-plus:sprinter"]
+		enabled = true
+		"origins:cat_vision" = true
+		"origins:carnivore" = true
+		"origins-plus-plus:sprinter/adrenaline_boost" = true
+		"origins-plus-plus:sprinter/burns" = true
+		"origins-plus-plus:sprinter/light_feet" = true
+		"origins-plus-plus:sprinter/nimble" = true
+		"origins-plus-plus:sprinter/skinny" = true
+
+	[origins."strictly:high_elf"]
+		enabled = true
+		"strictly:flamethrower" = true
+		"strictly:forest_vision" = true
+		"strictly:hyper_sight" = true
+		"strictly:towering" = true
+		"strictly:vegetarian" = true
+		"strictly:spindly" = true
+		"strictly:jump3" = true
+		"strictly:falldmg" = true
+
+	[origins."origins-plus-plus:giant"]
+		enabled = true
+		"origins-plus-plus:giant/armor" = true
+		"origins-plus-plus:giant/big" = true
+		"origins-plus-plus:giant/bow" = true
+		"origins-plus-plus:giant/crossbow" = true
+		"origins-plus-plus:giant/breath" = true
+		"origins-plus-plus:giant/health" = true
+		"origins-plus-plus:giant/hunger" = true
+		"origins-plus-plus:giant/item" = true
+		"origins-plus-plus:giant/limbs" = true
+		"origins-plus-plus:giant/mount" = true
+		"origins-plus-plus:giant/no_elytra" = true
+		"origins-plus-plus:giant/prevent_mount" = true
+		"origins-plus-plus:giant/slam" = true
+		"origins-plus-plus:giant/sleep" = true
+		"origins-plus-plus:giant/slow" = true
+		"origins-plus-plus:giant/spider" = true
+		"origins-plus-plus:giant/strong" = true
+		"origins-plus-plus:giant/sturdy" = true
+		"origins-plus-plus:giant/swim" = true
+		"origins-plus-plus:giant/unwieldy" = true
+
+	[origins."origins-classes:cook"]
+		enabled = true
+		"origins-classes:better_crafted_food" = true
+		"origins-classes:more_smoker_xp" = true
+
+	[origins."animal_origins:red_panda"]
+		enabled = true
+		"animal_origins:half_block_tall" = true
+		"animal_origins:half_block_wide" = true
+		"animal_origins:night_vision" = true
+		"animal_origins:carnivore" = true
+		"animal_origins:red_panda_strong" = true
+		"origins:climbing" = true
+
+	[origins."origins-plus-plus:flea"]
+		enabled = true
+		"origins:climbing" = true
+		"origins:arthropod" = true
+		"origins-plus-plus:flea/antivore" = true
+		"origins-plus-plus:flea/bloodsucking" = true
+		"origins-plus-plus:flea/disable_regen" = true
+		"origins-plus-plus:flea/diseased_bite" = true
+		"origins-plus-plus:flea/inch_tall" = true
+		"origins-plus-plus:flea/jockey" = true
+		"origins-plus-plus:flea/jump" = true
+		"origins-plus-plus:flea/nimble" = true
+		"origins-plus-plus:flea/regen" = true
+		"origins-plus-plus:flea/small_heart" = true
+		"origins-plus-plus:flea/small_stomach" = true
+
+	[origins."jojos_origins:cool_fish"]
+		enabled = true
+		"origins:water_breathing" = true
+		"origins:water_vision" = true
+		"origins:swim_speed" = true
+		"jojos_origins:cool_fish" = true
+
+	[origins."animal_origins:giraffe"]
+		enabled = true
+		"animal_origins:vegetarian" = true
+		"animal_origins:fifteen_hearts" = true
+		"animal_origins:two_block_tall" = true
+		"origins:no_shield" = true
+		"origins:light_armor" = true
+
+	[origins."origins-plus-plus:soul_seer"]
+		enabled = true
+		"origins-plus-plus:soul-seer/antivore" = true
+		"origins-plus-plus:soul-seer/empty_well" = true
+		"origins-plus-plus:soul-seer/energized_vigor" = true
+		"origins-plus-plus:soul-seer/glowing" = true
+		"origins-plus-plus:soul-seer/health" = true
+		"origins-plus-plus:soul-seer/lightweight" = true
+		"origins-plus-plus:soul-seer/particles" = true
+		"origins-plus-plus:soul-seer/resource" = true
+		"origins-plus-plus:soul-seer/shaders" = true
+		"origins-plus-plus:soul-seer/soul_deplete" = true
+		"origins-plus-plus:soul-seer/soul_steal" = true
+		"origins-plus-plus:soul-seer/teleport" = true
+		"origins-plus-plus:soul-seer/transparent" = true
+
+	[origins."sb_origins:living_doll"]
+		enabled = true
+		"sb_origins:doll/haunted_gaze" = true
+		"sb_origins:doll/teleport" = true
+		"sb_origins:doll/cotton_guard" = true
+		"sb_origins:doll/doll_food" = true
+		"sb_origins:doll/synthetic_stomach" = true
+		"sb_origins:movement/swiftwalking" = true
+		"sb_origins:size/small2" = true
+		"sb_origins:doll/fragile" = true
+		"sb_origins:doll/flammable" = true
+		"sb_origins:doll/no_regen" = true
+		"sb_origins:doll/frail_porcelain" = true
+
+	[origins."swarmorigin:tier1/specter"]
+		enabled = true
+		"swarmorigin:status/alien_biology" = true
+		"swarmorigin:action/variantchange" = true
+		"swarmorigin:action/tier1sidegrade" = true
+		"swarmorigin:action/tier1upgrade" = true
+		"swarmorigin:status/tier1evolution" = true
+		"swarmorigin:action/energy" = true
+		"swarmorigin:action/climb" = true
+		"swarmorigin:action/climbing" = true
+		"swarmorigin:status/armor_restrictions" = true
+		"swarmorigin:status/tier1_stats" = true
+		"swarmorigin:status/assassin" = true
+		"swarmorigin:action/pierce" = true
+		"swarmorigin:action/leap" = true
+		"swarmorigin:action/invisibility" = true
+		"origins:arthropod" = true
+		"origins:fall_immunity" = true
+		"origins:cat_vision" = true
+		"origins:no_cobweb_slowdown" = true
+
+	[origins."elemental:dark"]
+		enabled = true
+		"elemental:dark/night_vision" = true
+		"elemental:dark/upatnight" = true
+		"elemental:dark/downatday" = true
+
+	[origins."srp_origins:variants/beserker"]
+		enabled = true
+		"srp_origins:variants/beserker" = true
+
+	[origins."zeph_origins:toon"]
+		enabled = true
+		"zeph_origins:toon/cpower1" = true
+		"zeph_origins:toon/cpower2" = true
+		"zeph_origins:toon/cpower3" = true
+		"zeph_origins:toon/cpower4" = true
+		"zeph_origins:toon/cpower5" = true
+		"zeph_origins:toon/cpower6" = true
+
+	[origins."ojs_rpg_origins:variant_human/feats/mobile"]
+		enabled = true
+		"ojs_rpg_origins:variant_human/feats/mobile" = true
+
+	[origins."strictly:otter"]
+		enabled = true
+		"origins:aqua_affinity" = true
+		"origins:aquatic" = true
+		"origins:wet_eyes" = true
+		"origins:swim_speed" = true
+		"origins:like_water" = true
+		"origins:more_exhasution" = true
+		"origins:no_shield" = true
+		"strictly:improved_lungs" = true
+		"strictly:aquatic_predator" = true
+		"strictly:otter_gods_blessing" = true
+		"strictly:otter_pouch" = true
+		"origins:claustrophobia" = true
+		"strictly:heart_reduction" = true
+		"strictly:mini_riptide" = true
+		"strictly:miniature_dwarf" = true
+		"strictly:land_slow" = true
+		"strictly:jump" = true
+		"strictly:step_height" = true
+
+	[origins."medievalorigins:troll"]
+		enabled = true
+		"medievalorigins:troll/ironhide" = true
+		"medievalorigins:troll/ham_fisted" = true
+		"medievalorigins:troll/mountainous" = true
+		"medievalorigins:troll/apex_predator" = true
+		"medievalorigins:troll/lumbering" = true
+		"medievalorigins:troll/old_blood" = true
+		"medievalorigins:troll/out_of_stock" = true
+		"medievalorigins:troll/spell_power" = true
+		"origins_env_deh:cold_resistance" = true
+		"thermoo-patches:cold_immune" = true
+		"origins_survive:cold_resistance" = true
+		"origins_toughasnails:cold_resistance" = true
+
+	[origins."swarmorigin:tier1/spitter"]
+		enabled = true
+		"swarmorigin:status/alien_biology" = true
+		"swarmorigin:action/variantchange" = true
+		"swarmorigin:action/tier1sidegrade" = true
+		"swarmorigin:action/tier1upgrade" = true
+		"swarmorigin:status/tier1evolution" = true
+		"swarmorigin:action/energy" = true
+		"swarmorigin:action/climb" = true
+		"swarmorigin:action/climbing" = true
+		"swarmorigin:status/armor_restrictions" = true
+		"swarmorigin:status/tier1_stats" = true
+		"swarmorigin:status/poisonous_blood" = true
+		"swarmorigin:action/ranged_acid" = true
+		"swarmorigin:action/leap" = true
+		"swarmorigin:action/aoe_ranged_acid" = true
+		"origins:arthropod" = true
+		"origins:fall_immunity" = true
+		"origins:cat_vision" = true
+		"origins:no_cobweb_slowdown" = true
+
+	[origins."origins-plus-plus:lunar_path"]
+		enabled = true
+		"origins-plus-plus:lunar-path/chains_of_death" = true
+		"origins-plus-plus:lunar-path/cursed_being" = true
+		"origins-plus-plus:lunar-path/exiled" = true
+		"origins-plus-plus:lunar-path/explosion_immune" = true
+		"origins-plus-plus:lunar-path/from_beyond_the_grave" = true
+		"origins-plus-plus:lunar-path/great_deal" = true
+		"origins-plus-plus:lunar-path/night_boost" = true
+		"origins-plus-plus:lunar-path/no_daylight_water" = true
+		"origins-plus-plus:lunar-path/pluck" = true
+		"origins-plus-plus:lunar-path/summon_fangs" = true
+		"origins-plus-plus:lunar-path/sunlight_terror" = true
+		"origins-plus-plus:lunar-path/weakened_by_all" = true
+		"origins-plus-plus:lunar-path/wither_immunity" = true
+
+	[origins."sb_origins:bluebird"]
+		enabled = true
+		"sb_origins:bird/airboost" = true
+		"sb_origins:angel/cold_biome" = true
+		"sb_origins:bird/wing" = true
+		"sb_origins:angel/thick_feathers" = true
+		"sb_origins:fall_immunity" = true
+		"sb_origins:size/small3" = true
+		"sb_origins:bird/fresh_air" = true
+		"sb_origins:bird/hit" = true
+		"sb_origins:weak_arms" = true
+		"sb_origins:bird/fragile" = true
+		"sb_origins:bird/water_hater" = true
+		"sb_origins:bird/water_hater2" = true
+		"sb_origins:bird/claustrophobia" = true
+
+	[origins."dragon_origins:necromancer"]
+		enabled = true
+		"dragon_origins:gloom" = true
+		"dragon_origins:gloom2" = true
+		"dragon_origins:mysterous" = true
+		"dragon_origins:emume" = true
+		"dragon_origins:summon/sz_summon" = true
+		"dragon_origins:summon/a_summon" = true
+		"dragon_origins:summon/d_summon" = true
+		"dragon_origins:cloak" = true
+		"dragon_origins:advancement" = true
+
+	[origins."diversity_origins:caniguard"]
+		enabled = true
+		"diversity_origins:caniguard/caniguard_bed_bonus" = true
+		"diversity_origins:caniguard/howl" = true
+		"diversity_origins:caniguard/wolfsize" = true
+		"diversity_origins:caniguard/hurt_whining" = true
+		"diversity_origins:caniguard/wolf_agility" = true
+		"diversity_origins:caniguard/werewolf_armor" = true
+		"diversity_origins:caniguard/werewolf_attack_damage" = true
+		"diversity_origins:caniguard/werewolf_attack_knockback" = true
+		"diversity_origins:caniguard/werewolf_health" = true
+		"diversity_origins:caniguard/werewolf_knockback_resist" = true
+		"diversity_origins:caniguard/fire_weakness" = true
+		"diversity_origins:caniguard/caniguard_effect_immunity" = true
+		"diversity_origins:caniguard/fall_resist" = true
+
+	[origins."origins:feline"]
+		enabled = true
+		"origins:fall_immunity" = true
+		"origins:sprint_jump" = true
+		"origins:velvet_paws" = true
+		"origins:nine_lives" = true
+		"origins:weak_arms" = true
+		"origins:scare_creepers" = true
+		"origins:cat_vision" = true
+
+	[origins."jojos_origins:snowman"]
+		enabled = true
+		"jojos_origins:throw_snowballs" = true
+		"jojos_origins:natural_coolnes" = true
+
+	[origins."origins-plus-plus:void_samurai"]
+		enabled = true
+		"origins-plus-plus:void-samurai/armor" = true
+		"origins-plus-plus:void-samurai/channel" = true
+		"origins-plus-plus:void-samurai/charge" = true
+		"origins-plus-plus:void-samurai/curse" = true
+		"origins-plus-plus:void-samurai/displace" = true
+		"origins-plus-plus:void-samurai/dodge" = true
+		"origins-plus-plus:void-samurai/drain" = true
+		"origins-plus-plus:void-samurai/frail" = true
+		"origins-plus-plus:void-samurai/no_food" = true
+		"origins-plus-plus:void-samurai/no_potion" = true
+		"origins-plus-plus:void-samurai/rain_strength" = true
+		"origins-plus-plus:void-samurai/smite" = true
+		"origins-plus-plus:void-samurai/speed" = true
+		"origins-plus-plus:void-samurai/unwieldy" = true
+
+	[origins."origins-plus-plus:warper"]
+		enabled = true
+		"origins-plus-plus:warper/ender_chest" = true
+		"origins-plus-plus:warper/fall_break" = true
+		"origins-plus-plus:warper/food" = true
+		"origins-plus-plus:warper/passive_endermen" = true
+		"origins-plus-plus:warper/portality" = true
+		"origins-plus-plus:warper/random_teleport" = true
+		"origins-plus-plus:warper/spawn" = true
+		"origins-plus-plus:warper/teleport" = true
+		"origins-plus-plus:warper/weak" = true
+
+	[origins."medievalorigins:valkyrie"]
+		enabled = true
+		"medievalorigins:valkyrie/wings" = true
+		"medievalorigins:valkyrie/divine_smite" = true
+		"medievalorigins:valkyrie/corruption" = true
+		"medievalorigins:valkyrie/vanquisher" = true
+		"medievalorigins:valkyrie/intervention" = true
+		"medievalorigins:valkyrie/heavenly_implements" = true
+		"medievalorigins:valkyrie/spell_power" = true
+
+	[origins."origins-plus-plus:withered_fox"]
+		enabled = true
+		"origins:slow_falling" = true
+		"origins:fire_immunity" = true
+		"origins-plus-plus:withered-fox/berry_sat" = true
+		"origins-plus-plus:withered-fox/fear" = true
+		"origins-plus-plus:withered-fox/float" = true
+		"origins-plus-plus:withered-fox/hard_skin" = true
+		"origins-plus-plus:withered-fox/hearts" = true
+		"origins-plus-plus:withered-fox/home" = true
+		"origins-plus-plus:withered-fox/immune_system" = true
+		"origins-plus-plus:withered-fox/lava_speed" = true
+		"origins-plus-plus:withered-fox/lava_swim" = true
+		"origins-plus-plus:withered-fox/lava_vision" = true
+		"origins-plus-plus:withered-fox/primary" = true
+		"origins-plus-plus:withered-fox/projectiles" = true
+		"origins-plus-plus:withered-fox/quick" = true
+		"origins-plus-plus:withered-fox/secondary" = true
+		"origins-plus-plus:withered-fox/small" = true
+		"origins-plus-plus:withered-fox/sturdy" = true
+		"origins-plus-plus:withered-fox/undead" = true
+		"origins-plus-plus:withered-fox/withered_hands" = true
+
+	[origins."swarmorigin:tier1/scout"]
+		enabled = true
+		"swarmorigin:status/alien_biology" = true
+		"swarmorigin:action/variantchange" = true
+		"swarmorigin:action/tier1sidegrade" = true
+		"swarmorigin:action/tier1upgrade" = true
+		"swarmorigin:status/tier1evolution" = true
+		"swarmorigin:action/energy" = true
+		"swarmorigin:action/climb" = true
+		"swarmorigin:action/climbing" = true
+		"swarmorigin:status/armor_restrictions" = true
+		"swarmorigin:status/tier1_stats" = true
+		"swarmorigin:status/disarm" = true
+		"swarmorigin:action/dash" = true
+		"swarmorigin:action/leap" = true
+		"swarmorigin:action/charge" = true
+		"origins:arthropod" = true
+		"origins:fall_immunity" = true
+		"origins:cat_vision" = true
+		"origins:no_cobweb_slowdown" = true
+
+	[origins."strictly:adapted_raccoon"]
+		enabled = true
+		"strictly:arrow_weak" = true
+		"strictly:claustrophobia" = true
+		"strictly:expert_at_hiding" = true
+		"strictly:hates_carrots" = true
+		"strictly:nocturnal_eyes1" = true
+		"strictly:nocturnal" = true
+		"strictly:rabies_resistant" = true
+		"strictly:rabies" = true
+		"strictly:scurry" = true
+		"strictly:rabies_cont" = true
+		"strictly:sharp_claws" = true
+		"strictly:small_body" = true
+		"strictly:small_hands" = true
+		"strictly:thick_fur" = true
+		"strictly:thick_fur_cont" = true
+		"strictly:tough_heart" = true
+		"strictly:tough_stomach" = true
+		"strictly:trash_lover" = true
+		"strictly:jump2" = true
+		"strictly:step_height" = true
+
+	[origins."origins-plus-plus:ghast"]
+		enabled = true
+		"origins:fire_immunity" = true
+		"origins:fragile" = true
+		"origins:nether_spawn" = true
+		"origins:slow_falling" = true
+		"origins:translucent" = true
+		"origins-plus-plus:ghast/fire_charge" = true
+		"origins-plus-plus:ghast/fire_charge_a" = true
+		"origins-plus-plus:ghast/float" = true
+		"origins-plus-plus:ghast/hunger_over_time" = true
+		"origins-plus-plus:ghast/miserable" = true
+		"origins-plus-plus:ghast/nether_phasing" = true
+		"origins-plus-plus:ghast/not_warm_shaking" = true
+		"origins-plus-plus:ghast/red_nether_phasing" = true
+		"origins-plus-plus:ghast/tall" = true
+
+	[origins."origins-classes:archer"]
+		enabled = true
+		"origins-classes:no_projectile_divergence" = true
+		"origins-classes:less_bow_slowdown" = true
+
+	[origins."jojos_addon_origins:samurai"]
+		enabled = true
+		"jojos_addon_origins:heavy_armor" = true
+		"origins:no_shield" = true
+		"jojos_addon_origins:samu_sword_buffs" = true
+		"jojos_addon_origins:samurai_body" = true
+		"origins:no_cobweb_slowdown" = true
+
+	[origins."dragon_origins:red_dragon"]
+		enabled = true
+		"origins:fire_immunity" = true
+		"origins:nether_spawn" = true
+		"origins:burning_wrath" = true
+		"origins:water_vulnerability" = true
+		"origins:hotblooded" = true
+		"dragon_origins:freeze" = true
+		"dragon_origins:size69" = true
+		"dragon_origins:wreckless" = true
+		"origins:carnivore" = true
+		"dragon_origins:advancement" = true
+
+	[origins."swarmorigin:tier1/support"]
+		enabled = true
+		"swarmorigin:status/alien_biology" = true
+		"swarmorigin:action/pheros1" = true
+		"swarmorigin:action/variantchange" = true
+		"swarmorigin:action/tier1sidegrade" = true
+		"swarmorigin:action/tier1upgrade" = true
+		"swarmorigin:status/tier1evolution" = true
+		"swarmorigin:action/energy" = true
+		"swarmorigin:action/climb" = true
+		"swarmorigin:action/climbing" = true
+		"swarmorigin:status/armor_restrictions" = true
+		"swarmorigin:status/tier1_stats" = true
+		"swarmorigin:status/produce_potion" = true
+		"swarmorigin:action/ranged_heal1" = true
+		"swarmorigin:action/make_food" = true
+		"swarmorigin:action/aoe_heal1" = true
+		"origins:arthropod" = true
+		"origins:fall_immunity" = true
+		"origins:cat_vision" = true
+		"origins:no_cobweb_slowdown" = true
+
+	[origins."origins-plus-plus:war_god"]
+		enabled = true
+		"origins-plus-plus:war-god/axe_god" = true
+		"origins-plus-plus:war-god/born_in_fire" = true
+		"origins-plus-plus:war-god/hungry" = true
+		"origins-plus-plus:war-god/moonlight_darkness" = true
+		"origins-plus-plus:war-god/no_ranged_weapons" = true
+		"origins-plus-plus:war-god/not_a_ranged_specialist" = true
+		"origins-plus-plus:war-god/philza_reference" = true
+		"origins-plus-plus:war-god/strong" = true
+		"origins-plus-plus:war-god/swordsman" = true
+		"origins-plus-plus:war-god/warrior" = true
+
+	[origins."air_chidori:air_chidori"]
+		enabled = true
+		"origins:fire_immunity" = true
+		"origins:elytra" = true
+		"air_chidori:launch_air_chidori" = true
+		"air_chidori:inventory_air_chidori" = true
+		"air_chidori:prevent_sprint_air_chidori" = true
+		"air_chidori:nine_lives_air_chidori" = true
+		"air_chidori:particle_air_chidori" = true
+		"origins:fresh_air" = true
+
+	[origins."ojs_rpg_origins:thief"]
+		enabled = true
+		"ojs_rpg_origins:speedy" = true
+		"ojs_rpg_origins:stealthy" = true
+		"origins:no_shield" = true
+		"ojs_rpg_origins:better_unnoticed" = true
+		"ojs_rpg_origins:uneasy_alliance" = true
+		"ojs_rpg_origins:thefty" = true
+		"ojs_rpg_origins:stealthy_damage" = true
+		"ojs_rpg_origins:weak" = true
+		"ojs_rpg_origins:thief_item" = true
+
+	[origins."origins-plus-plus:blob"]
+		enabled = true
+		"origins:no_shield" = true
+		"origins-plus-plus:blob/amethyst_eater" = true
+		"origins-plus-plus:blob/blob_creature" = true
+		"origins-plus-plus:blob/colour" = true
+		"origins-plus-plus:blob/electrical_immunity" = true
+		"origins-plus-plus:blob/frozen_feet" = true
+		"origins-plus-plus:blob/heal" = true
+		"origins-plus-plus:blob/health_bar" = true
+		"origins-plus-plus:blob/magic" = true
+		"origins-plus-plus:blob/melting_hands" = true
+		"origins-plus-plus:blob/nether_weakness" = true
+		"origins-plus-plus:blob/no_lungs" = true
+		"origins-plus-plus:blob/paranoia" = true
+		"origins-plus-plus:blob/respawn" = true
+		"origins-plus-plus:blob/side_step" = true
+		"origins-plus-plus:blob/stacking_attacks" = true
+		"origins-plus-plus:blob/storage" = true
+		"origins-plus-plus:blob/strength" = true
+		"origins-plus-plus:blob/water_effects" = true
+		"origins-plus-plus:blob/wisdom" = true
+
+	[origins."origins-plus-plus:frog"]
+		enabled = true
+		"origins:aqua_affinity" = true
+		"origins:fall_immunity" = true
+		"origins:fragile" = true
+		"origins-plus-plus:frog/burn" = true
+		"origins-plus-plus:frog/dash" = true
+		"origins-plus-plus:frog/burn_bar" = true
+		"origins-plus-plus:frog/jump" = true
+		"origins-plus-plus:frog/poison" = true
+		"origins-plus-plus:frog/swim" = true
+		"origins-plus-plus:frog/water_breathing" = true
+
+	[origins."omnitrix:x8_kineceleran"]
+		enabled = true
+		"omnitrix:x8_speed" = true
+		"omnitrix:x8_boost" = true
+		"omnitrix:x8_whover" = true
+		"omnitrix:x8_slippery" = true
+		"origins:no_shield" = true
+		"omnitrix:x8_nobow" = true
+		"omnitrix:x8_hunger" = true
+		"origins:natural_armor" = true
+		"origins:light_armor" = true
+		"omnitrix:fa_lunge" = true
+		"omnitrix:x8_ice" = true
+		"omnitrix:x8_kinetic" = true
+
+	[origins."origins-classes:cleric"]
+		enabled = true
+		"origins-classes:potion_bonus" = true
+		"origins-classes:better_enchanting" = true
+
+	[origins."srp_origins:variants/uranium"]
+		enabled = true
+		"srp_origins:variants/uranium" = true
+
+	[origins."srp_origins:variants/charged"]
+		enabled = true
+		"srp_origins:variants/charged" = true
+
+	[origins."animal_origins:grasshopper"]
+		enabled = true
+		"animal_origins:quarter_block_tall" = true
+		"animal_origins:quarter_block_wide" = true
+		"animal_origins:higher_motion" = true
+		"animal_origins:vegetarian" = true
+		"animal_origins:five_hearts" = true
+
+	[origins."srp_origins:variants/nocturn"]
+		enabled = true
+		"srp_origins:variants/nocturn" = true
+
+	[origins."origins:arachnid"]
+		enabled = true
+		"origins:climbing" = true
+		"origins:master_of_webs" = true
+		"origins:carnivore" = true
+		"origins:fragile" = true
+		"origins:arthropod" = true
+
+	[origins."sow:felina"]
+		enabled = true
+		"sow:climbing" = true
+		"sow:agile" = true
+		"sow:fall_invulnerable" = true
+		"sow:afraid_water" = true
+		"sow:felina_no_armor" = true
+		"sow:carnivore" = true
+
+	[origins."origins-plus-plus:cobra"]
+		enabled = true
+		"origins:carnivore" = true
+		"origins:nine_lives" = true
+		"origins:no_shield" = true
+		"origins-plus-plus:cobra/cobras_touch" = true
+		"origins-plus-plus:cobra/cold_attributes" = true
+		"origins-plus-plus:cobra/cold_count" = true
+		"origins-plus-plus:cobra/cold_resource" = true
+		"origins-plus-plus:cobra/green_skin" = true
+		"origins-plus-plus:cobra/one_block_height" = true
+		"origins-plus-plus:cobra/poison_shot" = true
+		"origins-plus-plus:cobra/scale_armor" = true
+		"origins-plus-plus:cobra/strength_in_day" = true
+		"origins-plus-plus:cobra/strength_in_nether" = true
+
+	[origins."diversity_origins:foxeeker"]
+		enabled = true
+		"diversity_origins:foxeeker/fall_resist" = true
+		"diversity_origins:foxeeker/fox_agility" = true
+		"diversity_origins:foxeeker/fox_bed_bonus" = true
+		"diversity_origins:foxeeker/fox_hurt" = true
+		"diversity_origins:foxeeker/fox_knows_blocks" = true
+		"diversity_origins:foxeeker/fox_knows_plants" = true
+		"diversity_origins:foxeeker/fox_screech" = true
+		"diversity_origins:foxeeker/safe_fall_distance" = true
+		"diversity_origins:foxeeker/rogue_sweep" = true
+		"diversity_origins:foxeeker/foxsize" = true
+		"diversity_origins:foxeeker/ranged_weakness" = true
+
+	[origins."origins_paps_fantasy:halfling"]
+		enabled = true
+		"origins_paps_fantasy:halfling_size" = true
+		"origins_paps_fantasy:halfling_lightweight" = true
+		"origins_paps_fantasy:halfling_trades" = true
+		"origins_paps_fantasy:halfling_health" = true
+		"origins_paps_fantasy:halfling_lucky" = true
+		"origins_paps_fantasy:halfling_invis" = true
+
+	[origins."origins-plus-plus:warforged"]
+		enabled = true
+		"origins-plus-plus:warforged/robotic_body" = true
+		"origins-plus-plus:warforged/rust" = true
+		"origins-plus-plus:warforged/scotopic_vision" = true
+		"origins-plus-plus:warforged/weaponized_body" = true
+
+	[origins."srp_origins:adapted/arachnida"]
+		enabled = true
+		"srp_origins:parasite" = true
+		"srp_origins:adapted/adaptive2" = true
+		"srp_origins:adapted/tendril2" = true
+		"srp_origins:adapted/large" = true
+		"srp_origins:adapted/vomit" = true
+		"srp_origins:adapted/leap" = true
+		"srp_origins:adapted/tough" = true
+		"srp_origins:adapted/remains" = true
+		"srp_origins:adapted/arachnida/creature" = true
+		"srp_origins:adapted/arachnida/aracpullfunction" = true
+		"srp_origins:adapted/arachnida/pull" = true
+		"srp_origins:adapted/arachnida/weave" = true
+		"srp_origins:adapted/arachnida/orb" = true
+		"srp_origins:adapted/arachnida/spider" = true
+		"srp_origins:souls" = true
+		"srp_origins:biomass" = true
+		"srp_origins:phases" = true
+		"srp_origins:upgrades" = true
+		"srp_origins:fire_damage" = true
+		"srp_origins:nosleep" = true
+		"srp_origins:badrep" = true
+		"srp_origins:parasitetag" = true
+		"srp_origins:fool" = true
+		"srp_origins:1kdownloads" = true
+
+	[origins."srp_origins:variants/storming"]
+		enabled = true
+		"srp_origins:variants/storming" = true
+
+	[origins."ojs_rpg_origins:variant_human/feats/skilled"]
+		enabled = true
+		"ojs_rpg_origins:variant_human/feats/skilled" = true
+
+	[origins."valorant_origins:omen"]
+		enabled = true
+		"valorant_origins:omenpowers/shroudedstep" = true
+		"valorant_origins:omenpowers/paranoia" = true
+		"valorant_origins:omenpowers/eyesofthevoid" = true
+		"valorant_origins:omenpowers/shadowbound" = true
+		"valorant_origins:omenpowers/sunlightweakness" = true
+		"valorant_origins:omenpowers/omenlook" = true
+		"valorant_origins:omenpowers/isolation" = true
+		"valorant_origins:omenpowers/intheshadows" = true
+
+	[origins."origins-plus-plus:corrupted_wither"]
+		enabled = true
+		"origins:water_vulnerability" = true
+		"origins:no_shield" = true
+		"origins-plus-plus:corrupted-wither/hunger" = true
+		"origins-plus-plus:corrupted-wither/skirmish" = true
+		"origins-plus-plus:corrupted-wither/warp" = true
+		"origins-plus-plus:corrupted-wither/wieldy" = true
+
+	[origins."origins-plus-plus:moth"]
+		enabled = true
+		"origins:climbing" = true
+		"origins:nine_lives" = true
+		"origins:elytra" = true
+		"origins-plus-plus:moth/compound_vision" = true
+		"origins-plus-plus:moth/easy_evasion" = true
+		"origins-plus-plus:moth/expulsion" = true
+		"origins-plus-plus:moth/flammable_body" = true
+		"origins-plus-plus:moth/jackolantern_affinity" = true
+		"origins-plus-plus:moth/lantern_affinity" = true
+		"origins-plus-plus:moth/light_affinity" = true
+		"origins-plus-plus:moth/overwhelming_light" = true
+		"origins-plus-plus:moth/sea_lantern_affinity" = true
+		"origins-plus-plus:moth/short" = true
+		"origins-plus-plus:moth/soul_lantern_affinity" = true
+		"origins-plus-plus:moth/soul_torch_affinity" = true
+
+	[origins."origins_paps_fantasy:vipera"]
+		enabled = true
+		"origins_paps_fantasy:vipera_size" = true
+		"origins_paps_fantasy:vipera_skin" = true
+		"origins_paps_fantasy:vipera_venom" = true
+		"origins_paps_fantasy:vipera_sandslither" = true
+		"origins_paps_fantasy:vipera_poisonres" = true
+		"origins_paps_fantasy:vipera_coldweak" = true
+		"origins_paps_fantasy:vipera_powsnowweak" = true
+		"origins_paps_fantasy:vipera_drip" = true
+		"origins_paps_fantasy:vipera_hotstrength" = true
+
+	[origins."medievalorigins:pixie"]
+		enabled = true
+		"medievalorigins:pixie/flight" = true
+		"medievalorigins:pixie/pixie_properties" = true
+		"medievalorigins:pixie/feather_footed" = true
+		"medievalorigins:pixie/wings" = true
+		"medievalorigins:pixie/mount" = true
+		"medievalorigins:pixie/good_fortunes" = true
+		"medievalorigins:pixie/mischief_maketh_man" = true
+		"medievalorigins:pixie/curse_of_flight" = true
+		"medievalorigins:pixie/troublemaker" = true
+
+	[origins."swarmorigin:tier2/orion"]
+		enabled = true
+		"swarmorigin:status/alien_biology" = true
+		"swarmorigin:action/variantchange" = true
+		"swarmorigin:action/tier2sidegrade" = true
+		"swarmorigin:action/tier2downgrade" = true
+		"swarmorigin:status/tier2evolution" = true
+		"swarmorigin:action/energy" = true
+		"swarmorigin:action/climb" = true
+		"swarmorigin:action/climbing" = true
+		"swarmorigin:status/armor_restrictions" = true
+		"swarmorigin:status/tier2_stats" = true
+		"swarmorigin:status/more_speed" = true
+		"swarmorigin:status/poisonous_blood" = true
+		"swarmorigin:status/large" = true
+		"swarmorigin:action/ranged_acid" = true
+		"swarmorigin:action/stomp" = true
+		"swarmorigin:action/aoe_ranged_acid" = true
+		"origins:arthropod" = true
+		"origins:fall_immunity" = true
+		"origins:cat_vision" = true
+		"origins:no_cobweb_slowdown" = true
+
+	[origins."dragon_origins:lorax"]
+		enabled = true
+		"dragon_origins:lorax/phase" = true
+		"dragon_origins:lorax/no_tree_chopping" = true
+		"dragon_origins:lorax/size" = true
+		"dragon_origins:lorax/friendly" = true
+		"dragon_origins:lorax/marshmellow" = true
+		"dragon_origins:lorax/food" = true
+		"dragon_origins:advancement" = true
+
+	[origins."origins-plus-plus:ravager"]
+		enabled = true
+		"origins-plus-plus:ravager/attributes" = true
+		"origins-plus-plus:ravager/axe_strength" = true
+		"origins-plus-plus:ravager/bad_omen_on_death" = true
+		"origins-plus-plus:ravager/clumsy" = true
+		"origins-plus-plus:ravager/dash" = true
+		"origins-plus-plus:ravager/exhaust" = true
+		"origins-plus-plus:ravager/fear" = true
+		"origins-plus-plus:ravager/hard_hitting" = true
+		"origins-plus-plus:ravager/heavy_armor" = true
+		"origins-plus-plus:ravager/heavy_footed" = true
+		"origins-plus-plus:ravager/immense" = true
+		"origins-plus-plus:ravager/ram" = true
+		"origins-plus-plus:ravager/ravager_resource" = true
+		"origins-plus-plus:ravager/slowness" = true
+		"origins-plus-plus:ravager/team" = true
+		"origins-plus-plus:ravager/thick_skin" = true
+		"origins-plus-plus:ravager/vexy" = true
+
+	[origins."origins-plus-plus:gaia"]
+		enabled = true
+		"origins:slow_falling" = true
+		"origins:climbing" = true
+		"origins-plus-plus:gaia/floral_superiority" = true
+		"origins-plus-plus:gaia/floral_teaming" = true
+		"origins-plus-plus:gaia/floral_teaming_absorbtion" = true
+		"origins-plus-plus:gaia/floral_teaming_conduit" = true
+		"origins-plus-plus:gaia/floral_teaming_fire_resistance" = true
+		"origins-plus-plus:gaia/floral_teaming_glow" = true
+		"origins-plus-plus:gaia/floral_teaming_haste" = true
+		"origins-plus-plus:gaia/floral_teaming_health_lilac" = true
+		"origins-plus-plus:gaia/floral_teaming_health_peony" = true
+		"origins-plus-plus:gaia/floral_teaming_invisibility" = true
+		"origins-plus-plus:gaia/floral_teaming_jump_boost" = true
+		"origins-plus-plus:gaia/floral_teaming_levitation" = true
+		"origins-plus-plus:gaia/floral_teaming_night_vision" = true
+		"origins-plus-plus:gaia/floral_teaming_regeneration" = true
+		"origins-plus-plus:gaia/floral_teaming_resistance" = true
+		"origins-plus-plus:gaia/floral_teaming_strength" = true
+		"origins-plus-plus:gaia/floral_teaming_village" = true
+		"origins-plus-plus:gaia/floral_teaming_wither_rose" = true
+		"origins-plus-plus:gaia/fungal_enemy" = true
+		"origins-plus-plus:gaia/fungal_enemy_crimson" = true
+		"origins-plus-plus:gaia/fungal_enemy_red" = true
+		"origins-plus-plus:gaia/fungal_enemy_warped" = true
+		"origins-plus-plus:gaia/natures_danger" = true
+		"origins-plus-plus:gaia/photosynthesis" = true
+		"origins-plus-plus:gaia/plant_based" = true
+		"origins-plus-plus:gaia/prickly" = true
+		"origins-plus-plus:gaia/rose_sized" = true
+		"origins-plus-plus:gaia/thorned_punch" = true
+
+	[origins."origins-plus-plus:technomancer"]
+		enabled = true
+		"origins:no_shield" = true
+		"origins:water_vulnerability" = true
+		"origins-plus-plus:technomancer/blockade" = true
+		"origins-plus-plus:technomancer/grappling_hook" = true
+		"origins-plus-plus:technomancer/healing_aura" = true
+		"origins-plus-plus:technomancer/laser_beam" = true
+		"origins-plus-plus:technomancer/nanite_wall" = true
+		"origins-plus-plus:technomancer/nanite_wall_toggle" = true
+		"origins-plus-plus:technomancer/summon_items" = true
+		"origins-plus-plus:technomancer/tech_mana" = true
+		"origins-plus-plus:technomancer/technomancers_curse" = true
+
+	[origins."origins-classes:farmer"]
+		enabled = true
+		"origins-classes:more_crop_drops" = true
+		"origins-classes:better_bone_meal" = true
+
+	[origins."sb_origins:ant"]
+		enabled = true
+		"sb_origins:insect/strong_arms_dirt" = true
+		"sb_origins:insect/climbing" = true
+		"sb_origins:insect/dirt" = true
+		"sb_origins:venom" = true
+		"sb_origins:insect/mount" = true
+		"sb_origins:fall_immunity" = true
+		"sb_origins:movement/swiftwalking" = true
+		"sb_origins:insect/vegetarian_dirt" = true
+		"sb_origins:size/small" = true
+		"sb_origins:insect/fragile" = true
+		"sb_origins:flammable" = true
+		"sb_origins:insect/water_hater" = true
+
+	[origins."land_chidori:land_chidori"]
+		enabled = true
+		"land_chidori:tall_land_chidori" = true
+		"land_chidori:strong_arms_land_chidori" = true
+		"land_chidori:strong_arms_break_speed_land_chidori" = true
+		"land_chidori:inventory_land_chidori" = true
+		"land_chidori:prevent_sprint_land_chidori" = true
+		"land_chidori:fall_immunity_land_chidori" = true
+		"land_chidori:extra_reach_land_chidori" = true
+		"land_chidori:launch_into_air_land_chidori" = true
+		"land_chidori:natural_armor_land_chidori" = true
+		"land_chidori:slow_attack_land_chidori" = true
+		"land_chidori:slow_speed_land_chidori" = true
+		"land_chidori:max_health_land_chidori" = true
+		"land_chidori:no_ranged_land_chidori" = true
+		"land_chidori:particle_land_chidori" = true
+		"land_chidori:recipe_land_chidori" = true
+
+	[origins."ojs_rpg_origins:variant_human/skills/nature"]
+		enabled = true
+		"digs_dnd_origins:half-elf/skills/nature" = true
+
+	[origins."srp_origins:crude/assimilated"]
+		enabled = true
+		"srp_origins:parasite" = true
+		"srp_origins:crude/assimilated/buglin" = true
+		"srp_origins:crude/assimilated/repurposed" = true
+		"srp_origins:crude/assimilated/evolution" = true
+		"srp_origins:crude/assimilated/creature" = true
+		"srp_origins:crude/remains" = true
+		"srp_origins:souls" = true
+		"srp_origins:biomass" = true
+		"srp_origins:phases" = true
+		"srp_origins:upgrades" = true
+		"srp_origins:fire_damage" = true
+		"srp_origins:nosleep" = true
+		"srp_origins:badrep" = true
+		"srp_origins:crude/assimilated/nochest" = true
+		"srp_origins:parasitetag" = true
+		"srp_origins:fool" = true
+		"srp_origins:1kdownloads" = true
+
+	[origins."origins-plus-plus:wailing_one"]
+		enabled = true
+		"origins:ender_particles" = true
+		"origins:burn_in_daylight" = true
+		"origins:water_vulnerability" = true
+		"origins-plus-plus:wailing-one/as_soft_as_a_wisp" = true
+		"origins-plus-plus:wailing-one/deathly_diet_health_gain_on_hit" = true
+		"origins-plus-plus:wailing-one/deathly_diet_hunger_gain_on_kill" = true
+		"origins-plus-plus:wailing-one/deathly_diet_rotten_flesh_eat" = true
+		"origins-plus-plus:wailing-one/float" = true
+		"origins-plus-plus:wailing-one/ghost" = true
+		"origins-plus-plus:wailing-one/particles" = true
+		"origins-plus-plus:wailing-one/phase" = true
+		"origins-plus-plus:wailing-one/pure_steel_no_gold" = true
+		"origins-plus-plus:wailing-one/pure_steel_no_iron" = true
+		"origins-plus-plus:wailing-one/righteous_light_smite_damage" = true
+		"origins-plus-plus:wailing-one/spiteful_resistance" = true
+		"origins-plus-plus:wailing-one/swamp_spawn" = true
+		"origins-plus-plus:wailing-one/the_shadows_are_my_home" = true
+		"origins-plus-plus:wailing-one/the_shadows_are_my_home_armor" = true
+		"origins-plus-plus:wailing-one/touch_of_death" = true
+		"origins-plus-plus:wailing-one/translucent" = true
+		"origins-plus-plus:wailing-one/wail" = true
+
+	[origins."origins-plus-plus:blazian"]
+		enabled = true
+		"origins:burning_wrath" = true
+		"origins:fire_immunity" = true
+		"origins:water_vulnerability" = true
+		"origins-plus-plus:blazian/all_that_glitters" = true
+		"origins-plus-plus:blazian/blazing_leap" = true
+		"origins-plus-plus:blazian/charge_barrage" = true
+		"origins-plus-plus:blazian/cold_here" = true
+		"origins-plus-plus:blazian/fortress" = true
+		"origins-plus-plus:blazian/hot_hands" = true
+		"origins-plus-plus:blazian/lava_swim" = true
+		"origins-plus-plus:blazian/nether_ally" = true
+		"origins-plus-plus:blazian/no_place_like_home" = true
+		"origins-plus-plus:blazian/overworld" = true
+		"origins-plus-plus:blazian/particles" = true
+		"origins-plus-plus:blazian/punch" = true
+		"origins-plus-plus:blazian/slow_fall_clear" = true
+
+	[origins."ojs_rpg_origins:brute"]
+		enabled = true
+		"ojs_rpg_origins:no_time_to_rest" = true
+		"origins:no_shield" = true
+		"origins:strong_arms" = true
+		"ojs_rpg_origins:select_targets_strong" = true
+		"origins:strong_arms_break_speed" = true
+		"origins:natural_armor" = true
+		"ojs_rpg_origins:select_targets_weak" = true
+		"ojs_rpg_origins:brute_item" = true
+
+	[origins."origins-plus-plus:alien_axolotl"]
+		enabled = true
+		"origins:more_kinetic_damage" = true
+		"origins-plus-plus:alien-axolotl/a_reminder" = true
+		"origins-plus-plus:alien-axolotl/adapted_oceaner" = true
+		"origins-plus-plus:alien-axolotl/comfort" = true
+		"origins-plus-plus:alien-axolotl/dried_kelp" = true
+		"origins-plus-plus:alien-axolotl/exalted_height" = true
+		"origins-plus-plus:alien-axolotl/fire" = true
+		"origins-plus-plus:alien-axolotl/infamy_of_the_dead" = true
+		"origins-plus-plus:alien-axolotl/heart_hurts" = true
+		"origins-plus-plus:alien-axolotl/low_health_float" = true
+		"origins-plus-plus:alien-axolotl/nether" = true
+		"origins-plus-plus:alien-axolotl/parasitic_nature" = true
+		"origins-plus-plus:alien-axolotl/poison_gills" = true
+		"origins-plus-plus:alien-axolotl/runaway" = true
+		"origins-plus-plus:alien-axolotl/swim_speed" = true
+		"origins-plus-plus:alien-axolotl/traitor" = true
+
+	[origins."srp_origins:variants/tainted"]
+		enabled = true
+		"srp_origins:variants/tainted" = true
+
+	[origins."valorant_origins:harbor"]
+		enabled = true
+		"valorant_origins:harborpowers/aquaticaffinity" = true
+		"valorant_origins:harborpowers/oceansblessing" = true
+		"valorant_origins:harborpowers/pescatarian" = true
+		"valorant_origins:harborpowers/oceanswrath" = true
+		"valorant_origins:harborpowers/tidalarmament" = true
+		"valorant_origins:harborpowers/particles" = true
+
+	[origins."origins-plus-plus:binturong"]
+		enabled = true
+		"origins:fragile" = true
+		"origins:climbing" = true
+		"origins:fall_immunity" = true
+		"origins:scare_creepers" = true
+		"origins-plus-plus:binturong/blast_damage" = true
+		"origins-plus-plus:binturong/camouflage" = true
+		"origins-plus-plus:binturong/claws" = true
+		"origins-plus-plus:binturong/crouch" = true
+		"origins-plus-plus:binturong/flammable_fur" = true
+		"origins-plus-plus:binturong/jockey" = true
+		"origins-plus-plus:binturong/jump_boost" = true
+		"origins-plus-plus:binturong/leap" = true
+		"origins-plus-plus:binturong/less_breath" = true
+		"origins-plus-plus:binturong/manic_miner" = true
+		"origins-plus-plus:binturong/nocturnal" = true
+		"origins-plus-plus:binturong/small_stature" = true
+		"origins-plus-plus:binturong/sounds" = true
+		"origins-plus-plus:binturong/speed" = true
+		"origins-plus-plus:binturong/sugar_rush" = true
+		"origins-plus-plus:binturong/thick_hide" = true
+		"origins-plus-plus:binturong/too_heavy" = true
+
+	[origins."gb:galacticborn"]
+		enabled = true
+		"origins:launch_into_air" = true
+		"origins:elytra" = true
+		"origins:light_armor" = true
+		"origins:slow_falling" = true
+		"origins:strong_arms" = true
+		"gb:low_gravity" = true
+		"gb:slowness" = true
+		"origins:ender_particles" = true
+
+	[origins."strictly:buzz"]
+		enabled = true
+		"strictly:stinger" = true
+		"strictly:bee_diet" = true
+		"strictly:bee_skin" = true
+		"strictly:freedom_calls" = true
+		"strictly:itty_bitty" = true
+		"strictly:nectar_processing" = true
+		"strictly:new_diet" = true
+		"strictly:smoke_sickness" = true
+
+	[origins."origins-plus-plus:drakonwither"]
+		enabled = true
+		"origins:carnivore" = true
+		"origins:launch_into_air" = true
+		"origins:elytra" = true
+		"origins:ender_particles" = true
+		"origins-plus-plus:drakonwither/skulls" = true
+		"origins-plus-plus:drakonwither/wither_immunity" = true
+		"origins-plus-plus:drakonwither/wither_skull" = true
+
+	[origins."swarmorigin:tier2/tarantula"]
+		enabled = true
+		"swarmorigin:status/alien_biology" = true
+		"swarmorigin:action/variantchange" = true
+		"swarmorigin:action/tier2sidegrade" = true
+		"swarmorigin:action/tier2downgrade" = true
+		"swarmorigin:status/tier2evolution" = true
+		"swarmorigin:action/energy" = true
+		"swarmorigin:action/climb" = true
+		"swarmorigin:action/climbing" = true
+		"swarmorigin:status/armor_restrictions" = true
+		"swarmorigin:status/tier2_stats" = true
+		"swarmorigin:status/large" = true
+		"swarmorigin:status/stunfall" = true
+		"swarmorigin:status/poisonous_blood" = true
+		"swarmorigin:action/webpull" = true
+		"swarmorigin:action/webpullfunction" = true
+		"swarmorigin:action/leap" = true
+		"swarmorigin:action/disable" = true
+		"origins:arthropod" = true
+		"origins:fall_immunity" = true
+		"origins:cat_vision" = true
+		"origins:no_cobweb_slowdown" = true
+
+	[origins."medievalorigins:alfiq"]
+		enabled = true
+		"medievalorigins:alfiq/clawed" = true
+		"medievalorigins:alfiq/poor_grip" = true
+		"medievalorigins:alfiq/agile_preference" = true
+		"medievalorigins:alfiq/on_your_feet" = true
+		"medievalorigins:alfiq/crepuscular" = true
+		"medievalorigins:alfiq/pickpocket" = true
+		"medievalorigins:alfiq/pickpocket_player" = true
+		"medievalorigins:alfiq/pounce" = true
+		"origins:carnivore" = true
+		"origins:velvet_paws" = true
+		"origins:scare_creepers" = true
+		"medievalorigins:alfiq/meow" = true
+
+	[origins."animal_origins:gecko"]
+		enabled = true
+		"animal_origins:half_block_tall" = true
+		"animal_origins:half_block_wide" = true
+		"animal_origins:transparent" = true
+		"animal_origins:seven_hearts" = true
+
+	[origins."ojs_rpg_origins:cleric"]
+		enabled = true
+		"ojs_rpg_origins:villagefriendly" = true
+		"ojs_rpg_origins:untrained" = true
+		"ojs_rpg_origins:brewer_jumpboost" = true
+		"ojs_rpg_origins:brewer_speed" = true
+		"ojs_rpg_origins:brewer_strength" = true
+		"ojs_rpg_origins:brewer_regeneration" = true
+		"ojs_rpg_origins:heal_pool" = true
+		"ojs_rpg_origins:forgivable" = true
+		"ojs_rpg_origins:pure" = true
+		"ojs_rpg_origins:pure_color" = true
+		"ojs_rpg_origins:pure_shake" = true
+		"ojs_rpg_origins:one_with_the_world" = true
+
+	[origins."ojs_rpg_origins:variant_human/feats/tough"]
+		enabled = true
+		"ojs_rpg_origins:variant_human/feats/tough" = true
+
+	[origins."origins-classes:blacksmith"]
+		enabled = true
+		"origins-classes:quality_equipment" = true
+		"origins-classes:efficient_repairs" = true
+
+	[origins."origins-plus-plus:light_mage"]
+		enabled = true
+		"origins-plus-plus:light-mage/accelerate" = true
+		"origins-plus-plus:light-mage/ally" = true
+		"origins-plus-plus:light-mage/army" = true
+		"origins-plus-plus:light-mage/blessing_of_the_sea" = true
+		"origins-plus-plus:light-mage/bolt" = true
+		"origins-plus-plus:light-mage/clear" = true
+		"origins-plus-plus:light-mage/cure" = true
+		"origins-plus-plus:light-mage/damage" = true
+		"origins-plus-plus:light-mage/devour" = true
+		"origins-plus-plus:light-mage/diminish" = true
+		"origins-plus-plus:light-mage/experience" = true
+		"origins-plus-plus:light-mage/extinguish" = true
+		"origins-plus-plus:light-mage/fireball" = true
+		"origins-plus-plus:light-mage/firework" = true
+		"origins-plus-plus:light-mage/fluctuate" = true
+		"origins-plus-plus:light-mage/health" = true
+		"origins-plus-plus:light-mage/illumine" = true
+		"origins-plus-plus:light-mage/immunity" = true
+		"origins-plus-plus:light-mage/lava_vision" = true
+		"origins-plus-plus:light-mage/leap" = true
+		"origins-plus-plus:light-mage/mage_book" = true
+		"origins-plus-plus:light-mage/mana_potion" = true
+		"origins-plus-plus:light-mage/no_ranged_weapons" = true
+		"origins-plus-plus:light-mage/pocket_dimension" = true
+		"origins-plus-plus:light-mage/poison_garden" = true
+		"origins-plus-plus:light-mage/repulsion" = true
+		"origins-plus-plus:light-mage/resource" = true
+		"origins-plus-plus:light-mage/resource_change" = true
+		"origins-plus-plus:light-mage/shield_sentinel" = true
+		"origins-plus-plus:light-mage/super_mana_potion" = true
+		"origins-plus-plus:light-mage/team" = true
+
+	[origins."origins-plus-plus:thornling"]
+		enabled = true
+		"origins:fragile" = true
+		"origins-plus-plus:thornling/conductor" = true
+		"origins-plus-plus:thornling/decay" = true
+		"origins-plus-plus:thornling/dwarf" = true
+		"origins-plus-plus:thornling/empowered" = true
+		"origins-plus-plus:thornling/punching_bag" = true
+		"origins-plus-plus:thornling/sounds" = true
+		"origins-plus-plus:thornling/thorns" = true
+
+	[origins."origins-plus-plus:volcanic_dragon"]
+		enabled = true
+		"origins:carnivore" = true
+		"origins:elytra" = true
+		"origins:water_vulnerability" = true
+		"origins:fall_immunity" = true
+		"origins:damage_from_snowballs" = true
+		"origins:fire_immunity" = true
+		"origins-plus-plus:volcanic-dragon/fast_metabolism" = true
+		"origins-plus-plus:volcanic-dragon/hot_blooded" = true
+		"origins-plus-plus:volcanic-dragon/lava_breath" = true
+		"origins-plus-plus:volcanic-dragon/natural_armor" = true
+		"origins-plus-plus:volcanic-dragon/natural_strength" = true
+		"origins-plus-plus:volcanic-dragon/nether_spawn" = true
+		"origins-plus-plus:volcanic-dragon/slowness_in_cold" = true
+		"origins-plus-plus:volcanic-dragon/two_extra_hearts" = true
+		"origins-plus-plus:volcanic-dragon/volcanic_dash" = true
+		"origins-plus-plus:volcanic-dragon/weakness_in_cold" = true
+
+	[origins."animal_origins:cat"]
+		enabled = true
+		"animal_origins:quarter_block_tall" = true
+		"animal_origins:quarter_block_wide" = true
+		"animal_origins:carnivore" = true
+		"animal_origins:night_vision" = true
+		"animal_origins:three_hearts" = true
+		"animal_origins:stronger_burn" = true
+		"animal_origins:transparent_crouch" = true
+		"origins:fall_immunity" = true
+		"origins:launch_into_air" = true
+
+	[origins."origins:enderian"]
+		enabled = true
+		"origins:throw_ender_pearl" = true
+		"origins:water_vulnerability" = true
+		"origins:pumpkin_hate" = true
+		"origins:extra_reach" = true
+		"origins:ender_particles" = true
+		"origins:damage_from_potions" = true
+
+	[origins."ojs_rpg_origins:variant_human/skills/athletics"]
+		enabled = true
+		"digs_dnd_origins:half-elf/skills/athletics" = true
+
+	[origins."origins-plus-plus:ryu"]
+		enabled = true
+		"origins:elytra" = true
+		"origins:more_exhaustion" = true
+		"origins:carnivore" = true
+		"origins-plus-plus:ryu/all_knowing" = true
+		"origins-plus-plus:ryu/better_odds" = true
+		"origins-plus-plus:ryu/big_body" = true
+		"origins-plus-plus:ryu/dark_color" = true
+		"origins-plus-plus:ryu/friendly_eyes" = true
+		"origins-plus-plus:ryu/healing_potions" = true
+		"origins-plus-plus:ryu/heavy_scales" = true
+		"origins-plus-plus:ryu/lift_off" = true
+		"origins-plus-plus:ryu/natural_protection" = true
+		"origins-plus-plus:ryu/so_much_weight" = true
+		"origins-plus-plus:ryu/sparkly" = true
+		"origins-plus-plus:ryu/winged" = true
+
+	[origins."medievalorigins:high_elf"]
+		enabled = true
+		"medievalorigins:high_elf/ebonbreath" = true
+		"medievalorigins:high_elf/fragile" = true
+		"medievalorigins:high_elf/towering" = true
+		"medievalorigins:high_elf/mana_rpgmana" = true
+		"medievalorigins:high_elf/elegant" = true
+		"medievalorigins:high_elf/blazenbreath_weak" = true
+		"medievalorigins:high_elf/mana_irons_ars" = true
+		"medievalorigins:high_elf/gear_spawn" = true
+		"medievalorigins:high_elf/void_warp" = true
+		"medievalorigins:high_elf/mystic_affinity" = true
+		"medievalorigins:high_elf/subclass_picker" = true
+		"medievalorigins:high_elf/glacial_step" = true
+		"medievalorigins:high_elf/blazenbreath" = true
+		"medievalorigins:high_elf/extrusive_movement" = true
+
+	[origins."origins:phantom"]
+		enabled = true
+		"origins:phantomize" = true
+		"origins:translucent" = true
+		"origins:phasing" = true
+		"origins:invisibility" = true
+		"origins:burn_in_daylight" = true
+		"origins:hunger_over_time" = true
+		"origins:fragile" = true
+		"origins:phantomize_overlay" = true
+
+	[origins."origins-classes:beastmaster"]
+		enabled = true
+		"origins-classes:tamed_animal_boost" = true
+		"origins-classes:tamed_potion_diffusal" = true
+
+	[origins."jojos_addon_origins:troll"]
+		enabled = true
+		"jojos_addon_origins:troll_invis_cooldown" = true
+		"jojos_addon_origins:troll_invis_toggle" = true
+		"jojos_addon_origins:troll_invisi" = true
+		"jojos_addon_origins:troll_invis_overlay" = true
+		"jojos_addon_origins:troll_fly" = true
+		"jojos_addon_origins:troll_fly_overlay" = true
+		"jojos_addon_origins:troll_fly_toggle" = true
+		"jojos_addon_origins:troll_dbuff" = true
+
+	[origins."origins-plus-plus:dark_mage"]
+		enabled = true
+		"origins-plus-plus:dark-mage/absorption" = true
+		"origins-plus-plus:dark-mage/damage" = true
+		"origins-plus-plus:dark-mage/darkness" = true
+		"origins-plus-plus:dark-mage/decay" = true
+		"origins-plus-plus:dark-mage/dislocate" = true
+		"origins-plus-plus:dark-mage/disruption" = true
+		"origins-plus-plus:dark-mage/explosion" = true
+		"origins-plus-plus:dark-mage/health" = true
+		"origins-plus-plus:dark-mage/lava_sponge" = true
+		"origins-plus-plus:dark-mage/leviosa" = true
+		"origins-plus-plus:dark-mage/mage_book" = true
+		"origins-plus-plus:dark-mage/mana_potion" = true
+		"origins-plus-plus:dark-mage/no_ranged_weapons" = true
+		"origins-plus-plus:dark-mage/particles" = true
+		"origins-plus-plus:dark-mage/phase" = true
+		"origins-plus-plus:dark-mage/recover" = true
+		"origins-plus-plus:dark-mage/repulsion" = true
+		"origins-plus-plus:dark-mage/resource" = true
+		"origins-plus-plus:dark-mage/resource_change" = true
+		"origins-plus-plus:dark-mage/scorch" = true
+		"origins-plus-plus:dark-mage/shatter" = true
+		"origins-plus-plus:dark-mage/slowness" = true
+		"origins-plus-plus:dark-mage/strong_wolf" = true
+		"origins-plus-plus:dark-mage/super_mana_potion" = true
+		"origins-plus-plus:dark-mage/zoglin" = true
+
+	[origins."origins-plus-plus:ebon_wing"]
+		enabled = true
+		"origins:water_vulnerability" = true
+		"origins:carnivore" = true
+		"origins:more_exhaustion" = true
+		"origins-plus-plus:ebon-wing/blood" = true
+		"origins-plus-plus:ebon-wing/daytime_hurt" = true
+		"origins-plus-plus:ebon-wing/distort" = true
+		"origins-plus-plus:ebon-wing/dodge" = true
+		"origins-plus-plus:ebon-wing/ebon_effects" = true
+		"origins-plus-plus:ebon-wing/fall_immunity" = true
+		"origins-plus-plus:ebon-wing/fly" = true
+		"origins-plus-plus:ebon-wing/last_resort" = true
+		"origins-plus-plus:ebon-wing/last_resort_cooldown" = true
+		"origins-plus-plus:ebon-wing/nether_spawn" = true
+		"origins-plus-plus:ebon-wing/night_strength" = true
+		"origins-plus-plus:ebon-wing/resistance" = true
+		"origins-plus-plus:ebon-wing/smite_being" = true
+		"origins-plus-plus:ebon-wing/uncomfortable" = true
+		"origins-plus-plus:ebon-wing/wings" = true
+		"origins-plus-plus:ebon-wing/withered" = true
+
+	[origins."srp_origins:inborn/rupter"]
+		enabled = true
+		"srp_origins:fire_damage" = true
+		"srp_origins:nofall" = true
+		"srp_origins:nosleep" = true
+		"srp_origins:badrep" = true
+		"srp_origins:parasite" = true
+		"srp_origins:inborn/rupter/creature" = true
+		"srp_origins:inborn/rupter/coth" = true
+		"srp_origins:inborn/rupter/leap" = true
+		"srp_origins:inborn/climb" = true
+		"srp_origins:inborn/rupter/hit_slowness" = true
+		"srp_origins:inborn/rupter/small" = true
+		"srp_origins:inborn/rupter/evolution" = true
+		"srp_origins:souls" = true
+		"srp_origins:biomass" = true
+		"srp_origins:phases" = true
+		"srp_origins:upgrades" = true
+		"srp_origins:parasitetag" = true
+		"srp_origins:fool" = true
+		"srp_origins:1kdownloads" = true
+
+	[origins."swarmorigin:tier3/king"]
+		enabled = true
+		"swarmorigin:status/alien_biology" = true
+		"swarmorigin:action/variantchange" = true
+		"swarmorigin:action/tier3downgrade" = true
+		"swarmorigin:action/energy" = true
+		"swarmorigin:action/climb" = true
+		"swarmorigin:action/climbing" = true
+		"swarmorigin:status/armor_restrictions" = true
+		"swarmorigin:status/tier3_stats" = true
+		"swarmorigin:status/thorns" = true
+		"swarmorigin:status/more_health" = true
+		"swarmorigin:status/big" = true
+		"swarmorigin:action/blackout" = true
+		"swarmorigin:action/terrorize" = true
+		"swarmorigin:action/overwatch" = true
+		"origins:arthropod" = true
+		"origins:fall_immunity" = true
+		"origins:cat_vision" = true
+		"origins:no_cobweb_slowdown" = true
+
+	[origins."jirts_inchling:jirts_inchling"]
+		enabled = true
+		"jirts_inchling:inch_climbing" = true
+		"jirts_inchling:inchling_size" = true
+		"jirts_inchling:nimbility" = true
+		"jirts_inchling:paper_fall" = true
+		"jirts_inchling:rider" = true
+		"jirts_inchling:silent_speed" = true
+		"jirts_inchling:smol_speed" = true
+		"jirts_inchling:smol_stomach" = true
+		"jirts_inchling:sugar_fueled_frenzy" = true
+		"jirts_inchling:shrink" = true
+		"jirts_inchling:grow" = true
+
+	[origins."deepwoken_origins:vesperian"]
+		enabled = true
+		"deepwoken_origins:vesperian/chitin" = true
+		"deepwoken_origins:vesperian/morefire" = true
+		"deepwoken_origins:vesperian/morepoison" = true
+
+	[origins."ojs_rpg_origins:mage"]
+		enabled = true
+		"ojs_rpg_origins:fastcure" = true
+		"ojs_rpg_origins:untrained" = true
+		"ojs_rpg_origins:water_walk" = true
+		"ojs_rpg_origins:unwieldly" = true
+		"ojs_rpg_origins:mage_item" = true
+
+	[origins."valorant_origins:skye"]
+		enabled = true
+		"valorant_origins:skyepowers/vegetarian" = true
+		"valorant_origins:skyepowers/trailblazer" = true
+		"valorant_origins:skyepowers/regrowth" = true
+		"valorant_origins:skyepowers/flameable" = true
+		"valorant_origins:skyepowers/naturesaura" = true
+		"valorant_origins:skyepowers/forestsgrace" = true
+
+	[origins."ojs_rpg_origins:variant_human/feats/charger"]
+		enabled = true
+		"ojs_rpg_origins:variant_human/feats/charger" = true
+
+	[origins."jojos_addon_origins:oni"]
+		enabled = true
+		"origins:light_armor" = true
+		"jojos_addon_origins:samu_sword_buffs" = true
+		"origins:fire_immunity" = true
+		"origins:water_vulnerability" = true
+		"origins:no_shield" = true
+		"origins:no_cobweb_slowdown" = true
+		"origins:flame_particles" = true
+		"origins:burning_wrath" = true
+
+	[origins."ojs_rpg_origins:variant_human"]
+		enabled = true
+		"ojs_rpg_origins:variant_human/skills" = true
+		"ojs_rpg_origins:variant_human/feat" = true
+
+	[origins."origins-plus-plus:beaver"]
+		enabled = true
+		"origins:more_exhaustion" = true
+		"origins:nine_lives" = true
+		"origins-plus-plus:beaver/aquatic" = true
+		"origins-plus-plus:beaver/lazy" = true
+		"origins-plus-plus:beaver/logger" = true
+		"origins-plus-plus:beaver/rage" = true
+		"origins-plus-plus:beaver/razor_teeth" = true
+		"origins-plus-plus:beaver/storage" = true
+
+	[origins."origins-plus-plus:voidling/voidborne"]
+		enabled = true
+		"origins:no_shield" = true
+		"origins-plus-plus:voidling/brittle_bones" = true
+		"origins-plus-plus:voidling/dive_attack" = true
+		"origins-plus-plus:voidling/large_appetite" = true
+		"origins-plus-plus:voidling/low_health" = true
+		"origins-plus-plus:voidling/void_child" = true
+		"origins-plus-plus:voidling/void_shield" = true
+		"origins-plus-plus:voidling/voidborne_form" = true
+		"origins-plus-plus:voidling/winged" = true
+		"origins-plus-plus:voidling/winged_limits" = true
+
+	[origins."sow:netharan"]
+		enabled = true
+		"sow:fire_invulnerable" = true
+		"sow:afraid_water" = true
+		"sow:too_cold" = true
+		"sow:prevent_elytra" = true
+
+	[origins."origins-plus-plus:sporeling"]
+		enabled = true
+		"origins:tailwind" = true
+		"origins:slow_falling" = true
+		"origins-plus-plus:sporeling/decomposer" = true
+		"origins-plus-plus:sporeling/fire_damage" = true
+		"origins-plus-plus:sporeling/health" = true
+		"origins-plus-plus:sporeling/jockey" = true
+		"origins-plus-plus:sporeling/light_armor" = true
+		"origins-plus-plus:sporeling/poison_spread_attack" = true
+		"origins-plus-plus:sporeling/small" = true
+		"origins-plus-plus:sporeling/speed" = true
+		"origins-plus-plus:sporeling/updraft" = true
+
+	[origins."swarmorigin:tier3/queen"]
+		enabled = true
+		"swarmorigin:status/alien_biology" = true
+		"swarmorigin:action/variantchange" = true
+		"swarmorigin:action/tier3downgrade" = true
+		"swarmorigin:action/pheros2" = true
+		"swarmorigin:action/energy" = true
+		"swarmorigin:action/climb" = true
+		"swarmorigin:action/climbing" = true
+		"swarmorigin:status/armor_restrictions" = true
+		"swarmorigin:status/tier3_stats" = true
+		"swarmorigin:status/produce_potion" = true
+		"swarmorigin:status/spawner" = true
+		"swarmorigin:status/more_speed" = true
+		"swarmorigin:status/big" = true
+		"swarmorigin:action/ranged_heal2" = true
+		"swarmorigin:action/overcharge" = true
+		"swarmorigin:action/aoe_heal2" = true
+		"origins:arthropod" = true
+		"origins:fall_immunity" = true
+		"origins:cat_vision" = true
+		"origins:no_cobweb_slowdown" = true
+
+	[origins."origins-plus-plus:witch_of_ink"]
+		enabled = true
+		"origins-plus-plus:witch-of-ink/art_affinity" = true
+		"origins-plus-plus:witch-of-ink/artistry" = true
+		"origins-plus-plus:witch-of-ink/aura" = true
+		"origins-plus-plus:witch-of-ink/eraser" = true
+		"origins-plus-plus:witch-of-ink/fired" = true
+		"origins-plus-plus:witch-of-ink/frail" = true
+		"origins-plus-plus:witch-of-ink/magic_brush" = true
+		"origins-plus-plus:witch-of-ink/no_eat" = true
+		"origins-plus-plus:witch-of-ink/no_invisibility" = true
+		"origins-plus-plus:witch-of-ink/painted_armor" = true
+		"origins-plus-plus:witch-of-ink/reanimate" = true
+		"origins-plus-plus:witch-of-ink/witchy" = true
+
+	[origins."origins-plus-plus:insect"]
+		enabled = true
+		"origins:climbing" = true
+		"origins:fall_immunity" = true
+		"origins-plus-plus:insect/ankle_bite" = true
+		"origins-plus-plus:insect/flap" = true
+		"origins-plus-plus:insect/health" = true
+		"origins-plus-plus:insect/lava" = true
+		"origins-plus-plus:insect/rain_slowness" = true
+		"origins-plus-plus:insect/small" = true
+		"origins-plus-plus:insect/speed" = true
+		"origins-plus-plus:insect/water" = true
+		"origins-plus-plus:insect/water_slowness" = true
+
+	[origins."origins:merling"]
+		enabled = true
+		"origins:water_breathing" = true
+		"origins:water_vision" = true
+		"origins:aqua_affinity" = true
+		"origins:swim_speed" = true
+		"origins:like_water" = true
+		"origins:aquatic" = true
+		"origins:conduit_power_on_land" = true
+		"origins:air_from_potions" = true
+		"mermod:fabulous_fins" = true
+
+	[origins."dragon_origins:yin"]
+		enabled = true
+		"dragon_origins:yinyang/yin/yangtransform" = true
+		"dragon_origins:yinyang/yin/heal" = true
+		"dragon_origins:test/lightning" = true
+		"dragon_origins:yinyang/yin/transparency" = true
+		"dragon_origins:yinyang/yin/darkweak" = true
+		"dragon_origins:advancement" = true
+
+	[origins."diversity_origins:wip.deepfarer"]
+		enabled = true
+		"minecraft:" = true
+
+	[origins."origins-plus-plus:shadow"]
+		enabled = true
+		"origins-plus-plus:shadow/behind_you" = true
+		"origins-plus-plus:shadow/cloud" = true
+		"origins-plus-plus:shadow/fragile" = true
+		"origins-plus-plus:shadow/hunger" = true
+		"origins-plus-plus:shadow/invisibility" = true
+		"origins-plus-plus:shadow/night_vision" = true
+		"origins-plus-plus:shadow/no_food" = true
+		"origins-plus-plus:shadow/sun_weakness" = true
+
+	[origins."medievalorigins:arachnae"]
+		enabled = true
+		"medievalorigins:arachnae/climber" = true
+		"medievalorigins:arachnae/many_eyes" = true
+		"medievalorigins:arachnae/venomous_bite" = true
+		"medievalorigins:arachnae/web_slinger" = true
+		"medievalorigins:arachnae/bottomless_stomach" = true
+		"medievalorigins:arachnae/brittle" = true
+		"medievalorigins:arachnae/fragile_exoskeleton" = true
+		"origins:carnivore" = true
+		"origins:master_of_webs" = true
+		"origins:arthropod" = true
+
+	[origins."origins_4d_being:flying_squirrel"]
+		enabled = true
+		"origins_4d_being:flying/parkour/resources/hasuseddouble" = true
+		"origins_4d_being:flying/parkour/doublejump" = true
+		"origins_4d_being:flying/parkour/setjump" = true
+		"origins_4d_being:flying/scale" = true
+		"origins_4d_being:flying/veg" = true
+		"origins_4d_being:flying/firework" = true
+		"origins_4d_being:flying/parkour/climbing" = true
+		"origins_4d_being:flying/parkour/gliding" = true
+		"origins_4d_being:flying/parkour/hp" = true
+		"origins_4d_being:flying/parkour/falldamage" = true
+
+	[origins."origins-plus-plus:wandering_spirit"]
+		enabled = true
+		"origins-plus-plus:wandering-spirit/damage_glitch" = true
+		"origins-plus-plus:wandering-spirit/fire" = true
+		"origins-plus-plus:wandering-spirit/glasses" = true
+		"origins-plus-plus:wandering-spirit/lightning_charge" = true
+		"origins-plus-plus:wandering-spirit/lightning_invulnerability" = true
+		"origins-plus-plus:wandering-spirit/lightning_summon" = true
+		"origins-plus-plus:wandering-spirit/phase" = true
+		"origins-plus-plus:wandering-spirit/quick_hands_and_feet" = true
+		"origins-plus-plus:wandering-spirit/shaking" = true
+		"origins-plus-plus:wandering-spirit/size_change" = true
+		"origins-plus-plus:wandering-spirit/size_changer" = true
+		"origins-plus-plus:wandering-spirit/size_resource" = true
+		"origins-plus-plus:wandering-spirit/the_darkness" = true
+
+	[origins."cham:chameleon"]
+		enabled = true
+		"cham:cham_invis" = true
+		"cham:cham_size" = true
+		"cham:cham_climb" = true
+		"origins:fall_immunity" = true
+		"origins:carnivore" = true
+		"cham:cham_natarmor" = true
+		"cham:cham_speed" = true
+		"cham:cham_reach" = true
+
+	[origins."shroom:shroom"]
+		enabled = true
+		"shroom:darkgrowth" = true
+		"shroom:darkgrowthactive" = true
+		"origins:fire_immunity" = true
+		"shroom:falldamage" = true
+		"shroom:sporespread" = true
+		"shroom:minimush" = true
+		"shroom:camocap" = true
+		"shroom:hidden_skin" = true
+		"origins:nether_spawn" = true
+		"origins:water_vulnerability" = true
+		"shroom:health" = true
+		"shroom:fungallimbs" = true
+
+	[origins."origins_paps_fantasy:orc"]
+		enabled = true
+		"origins_paps_fantasy:orc_strength" = true
+		"origins_paps_fantasy:orc_weight" = true
+		"origins_paps_fantasy:orc_skin" = true
+		"origins_paps_fantasy:orc_might" = true
+		"origins_paps_fantasy:orc_size" = true
+		"origins_paps_fantasy:orc_meat" = true
+
+	[origins."monke:monkey"]
+		enabled = true
+		"monke:monke_grapple" = true
+		"monke:monke_climb" = true
+		"monke:monke_size" = true
+		"origins:tailwind" = true
+		"peng:extra_jump" = true
+		"monke:monke_stamina" = true
+		"monke:staminarefill" = true
+		"monke:monke_velocity" = true
+		"monke:staminawaste" = true
+		"monke:staminawaste2" = true
+		"monke:monke_drown" = true
+		"monke:monke_lunge" = true
+		"monke:monke_frhand" = true
+
+	[origins."origins-plus-plus:calamitous_rogue"]
+		enabled = true
+		"origins-plus-plus:calamitous-rogue/assassin" = true
+		"origins-plus-plus:calamitous-rogue/bad_trade" = true
+		"origins-plus-plus:calamitous-rogue/dps" = true
+		"origins-plus-plus:calamitous-rogue/escape" = true
+		"origins-plus-plus:calamitous-rogue/expert" = true
+		"origins-plus-plus:calamitous-rogue/infamous" = true
+		"origins-plus-plus:calamitous-rogue/smooth_talk" = true
+		"origins-plus-plus:calamitous-rogue/stealth" = true
+		"origins-plus-plus:calamitous-rogue/strike" = true
+		"origins-plus-plus:calamitous-rogue/traceless" = true
+
+	[origins."strictly:priest"]
+		enabled = true
+		"strictly:scholar" = true
+		"strictly:nimble" = true
+		"strictly:holy_shield" = true
+		"origins:vegetarian" = true
+		"origins:fall_immunity" = true
+		"strictly:holy_curse" = true
+		"origins:ender_particles" = true
+
+	[origins."origins-classes:rancher"]
+		enabled = true
+		"origins-classes:twin_breeding" = true
+		"origins-classes:more_animal_loot" = true
+
+	[origins."ojs_rpg_origins:variant_human/skills/animal_handling"]
+		enabled = true
+		"digs_dnd_origins:half-elf/skills/animal_handling" = true
+
+	[origins."srp_origins:transforms/feral"]
+		enabled = true
+		"srp_origins:transforms/feral" = true
+
+	[origins."sb_origins:shark"]
+		enabled = true
+		"sb_origins:aquatic/wave" = true
+		"sb_origins:aquatic/strong_swimmer" = true
+		"sb_origins:aquatic/sharp_teeth" = true
+		"sb_origins:aquatic/water_strength" = true
+		"sb_origins:aquatic/amphibious" = true
+		"sb_origins:diet/fish" = true
+		"sb_origins:diet/modded_fish" = true
+		"sb_origins:aquatic/like_water" = true
+		"sb_origins:size/normal" = true
+		"sb_origins:hunger" = true
+		"sb_origins:diet/modded_carnivore_fish" = true
+		"sb_origins:aquatic/bottomless_stomach" = true
+		"sb_origins:hot_biomes" = true
+		"sb_origins:flammable" = true
+
+	[origins."origins-plus-plus:wanderer"]
+		enabled = true
+		"origins-plus-plus:wanderer/bag" = true
+		"origins-plus-plus:wanderer/cross" = true
+		"origins-plus-plus:wanderer/healing_warmth" = true
+		"origins-plus-plus:wanderer/leather" = true
+		"origins-plus-plus:wanderer/night" = true
+		"origins-plus-plus:wanderer/trade" = true
+
+	[origins."origins-plus-plus:fallen_angel"]
+		enabled = true
+		"origins:water_vulnerability" = true
+		"origins:natural_armor" = true
+		"origins:no_shield" = true
+		"origins:fall_immunity" = true
+		"origins:carnivore" = true
+		"origins-plus-plus:fallen-angel/arms" = true
+		"origins-plus-plus:fallen-angel/bloodthirsty" = true
+		"origins-plus-plus:fallen-angel/deadshot" = true
+		"origins-plus-plus:fallen-angel/elytra" = true
+		"origins-plus-plus:fallen-angel/fire" = true
+		"origins-plus-plus:fallen-angel/fragile" = true
+		"origins-plus-plus:fallen-angel/glowing" = true
+		"origins-plus-plus:fallen-angel/haste" = true
+		"origins-plus-plus:fallen-angel/immunity" = true
+		"origins-plus-plus:fallen-angel/roof" = true
+		"origins-plus-plus:fallen-angel/translucent" = true
+		"origins-plus-plus:fallen-angel/velocity" = true
+
+	[origins."origins-plus-plus:voidling/supreme_voidborne"]
+		enabled = true
+		"origins:no_shield" = true
+		"origins-plus-plus:voidling/brittle_bones" = true
+		"origins-plus-plus:voidling/dive_attack" = true
+		"origins-plus-plus:voidling/large_appetite" = true
+		"origins-plus-plus:voidling/low_health" = true
+		"origins-plus-plus:voidling/supreme_shield" = true
+		"origins-plus-plus:voidling/supreme_shield_toggle" = true
+		"origins-plus-plus:voidling/supreme_state" = true
+		"origins-plus-plus:voidling/void_energy" = true
+		"origins-plus-plus:voidling/void_father" = true
+		"origins-plus-plus:voidling/voidborne_form" = true
+		"origins-plus-plus:voidling/winged" = true
+		"origins-plus-plus:voidling/winged_limits" = true
+
+	[origins."sb_origins:felidae"]
+		enabled = true
+		"sb_origins:felidae/pounce" = true
+		"sb_origins:clawed" = true
+		"sb_origins:felidae/scare_creepers" = true
+		"sb_origins:movement/swiftwalking" = true
+		"sb_origins:movement/high_jump" = true
+		"sb_origins:felidae/meow" = true
+		"sb_origins:felidae/glow" = true
+		"sb_origins:felidae/phantom_sense" = true
+		"sb_origins:felidae/feet" = true
+		"sb_origins:felidae/nine_lives" = true
+		"sb_origins:fox/flammable_fur" = true
+		"sb_origins:bottomless_stomach" = true
+		"sb_origins:felidae/water_hater" = true
+		"sb_origins:felidae/water_hater2" = true
+
+	[origins."origins-plus-plus:mothling"]
+		enabled = true
+		"origins:fragile" = true
+		"origins:elytra" = true
+		"origins-plus-plus:mothling/boost" = true
+		"origins-plus-plus:mothling/lantern" = true
+		"origins-plus-plus:mothling/leather_diet" = true
+		"origins-plus-plus:mothling/no_food" = true
+		"origins-plus-plus:mothling/small" = true
+		"origins-plus-plus:mothling/sound_effect" = true
+		"origins-plus-plus:mothling/weight" = true
+		"origins-plus-plus:mothling/zapper" = true
+
+	[origins."medievalorigins:siren"]
+		enabled = true
+		"medievalorigins:siren/amphibious" = true
+		"medievalorigins:siren/siren_song" = true
+		"medievalorigins:siren/holy_water" = true
+		"medievalorigins:siren/out_of_your_depth" = true
+		"medievalorigins:siren/flammable" = true
+		"medievalorigins:siren/water_vision" = true
+		"origins:aquatic" = true
+		"origins:like_water" = true
+		"medievalorigins:siren/seduce" = true
+		"mermod:fabulous_fins" = true
+		"origins_env_deh:water_dweller" = true
+		"origins_env_deh:cold_resistance" = true
+		"thermoo-patches:cold_immune" = true
+		"survive:cold_blooded" = true
+
+	[origins."origins-plus-plus:earth_spirit_two"]
+		enabled = true
+		"origins:more_exhaustion" = true
+		"origins-plus-plus:earth-spirit/back_to_stone" = true
+		"origins-plus-plus:earth-spirit/invisibility" = true
+		"origins-plus-plus:earth-spirit/phase" = true
+		"origins-plus-plus:earth-spirit/spirit_effect" = true
+		"origins-plus-plus:earth-spirit/spirit_vision" = true
+
+	[origins."origins_paps_fantasy:dwarf"]
+		enabled = true
+		"origins_paps_fantasy:dwarf_swimspeed" = true
+		"origins_paps_fantasy:dwarf_mining" = true
+		"origins_paps_fantasy:dwarf_armour" = true
+		"origins_paps_fantasy:dwarf_heightfall" = true
+		"origins_paps_fantasy:dwarf_size" = true
+		"origins_paps_fantasy:dwarf_pickaxe" = true
+		"origins_paps_fantasy:dwarf_swim" = true
+
+	[origins."srp_origins:primitive/longarms"]
+		enabled = true
+		"srp_origins:parasite" = true
+		"srp_origins:adaptive1" = true
+		"srp_origins:tendril1" = true
+		"srp_origins:primitive/remains" = true
+		"srp_origins:primitive/longarms/creature" = true
+		"srp_origins:primitive/longarms/length" = true
+		"srp_origins:primitive/longarms/wave" = true
+		"srp_origins:primitive/longarms/orb" = true
+		"srp_origins:primitive/longarms/evolution" = true
+		"srp_origins:souls" = true
+		"srp_origins:biomass" = true
+		"srp_origins:phases" = true
+		"srp_origins:upgrades" = true
+		"srp_origins:fire_damage" = true
+		"srp_origins:nosleep" = true
+		"srp_origins:badrep" = true
+		"srp_origins:parasitetag" = true
+		"srp_origins:fool" = true
+		"srp_origins:1kdownloads" = true
+
+	[origins."valorant_origins:breach"]
+		enabled = true
+		"valorant_origins:breachpowers/miningspeed" = true
+		"valorant_origins:breachpowers/faultline" = true
+		"valorant_origins:breachpowers/supercharge" = true
+		"valorant_origins:breachpowers/weaknessdamage" = true
+		"valorant_origins:breachpowers/energydrain" = true
+		"valorant_origins:breachpowers/limitedprecision" = true
+
+	[origins."origins-plus-plus:wyverian"]
+		enabled = true
+		"origins:carnivore" = true
+		"origins:elytra" = true
+		"origins-plus-plus:wyverian/claws" = true
+		"origins-plus-plus:wyverian/night_vision" = true
+		"origins-plus-plus:wyverian/poison_immune" = true
+		"origins-plus-plus:wyverian/projectile" = true
+		"origins-plus-plus:wyverian/shield" = true
+		"origins-plus-plus:wyverian/size" = true
+		"origins-plus-plus:wyverian/water" = true
+		"origins-plus-plus:wyverian/wind" = true
+
+	[origins."strictly:knight"]
+		enabled = true
+		"strictly:skofnung" = true
+		"strictly:skilled_swordsman" = true
+		"strictly:valour" = true
+		"strictly:burdened" = true
+		"strictly:bowless" = true
+		"strictly:book" = true
+		"strictly:crescent_worship" = true
+
+	[origins."origins-plus-plus:ice_king"]
+		enabled = true
+		"origins-plus-plus:ice-king/blue_transparent_ski" = true
+		"origins-plus-plus:ice-king/cold_power" = true
+		"origins-plus-plus:ice-king/combo_attack" = true
+		"origins-plus-plus:ice-king/freeze_immune" = true
+		"origins-plus-plus:ice-king/frostbreath" = true
+		"origins-plus-plus:ice-king/frostwalker" = true
+		"origins-plus-plus:ice-king/heal_near_ice" = true
+		"origins-plus-plus:ice-king/hot_biome" = true
+		"origins-plus-plus:ice-king/pyrophobia" = true
+		"origins-plus-plus:ice-king/unresolved_size" = true
+		"origins-plus-plus:ice-king/warp" = true
+
+	[origins."medievalorigins:wood_elf"]
+		enabled = true
+		"medievalorigins:wood_elf/towering" = true
+		"medievalorigins:wood_elf/eagle_eyed" = true
+		"medievalorigins:wood_elf/empowered_shot_apotheosis" = true
+		"medievalorigins:wood_elf/steward" = true
+		"medievalorigins:wood_elf/gear_spawn" = true
+		"medievalorigins:wood_elf/forest_vision" = true
+		"medievalorigins:wood_elf/spell_power" = true
+		"medievalorigins:wood_elf/elegant" = true
+		"medievalorigins:wood_elf/empowered_shot_zenith" = true
+		"medievalorigins:wood_elf/graceful" = true
+		"medievalorigins:wood_elf/archer" = true
+
+	[origins."peng:penguin"]
+		enabled = true
+		"peng:peng_swimspeed" = true
+		"peng:peng_waterbreath" = true
+		"peng:hunter_vision" = true
+		"peng:peng_size" = true
+		"peng:peng_slide" = true
+		"peng:heat" = true
+		"peng:ice_speed" = true
+		"peng:toggle" = true
+		"peng:peng_health" = true
+		"peng:extra_jump" = true
+
+	[origins."origins-plus-plus:reign_farmer"]
+		enabled = true
+		"origins:no_shield" = true
+		"origins:vegetarian" = true
+		"origins-plus-plus:reign-farmer/lightly_armored" = true
+		"origins-plus-plus:reign-farmer/nimble" = true
+		"origins-plus-plus:reign-farmer/nourish" = true
+		"origins-plus-plus:reign-farmer/pacifist" = true
+		"origins-plus-plus:reign-farmer/photosynthesis" = true
+		"origins-plus-plus:reign-farmer/strength_of_crops" = true
+		"origins-plus-plus:reign-farmer/the_gift_of_life" = true
+
+	[origins."origins_vampire:vampire"]
+		enabled = true
+		"origins_vampire:bat_form" = true
+		"origins_vampire:diet" = true
+		"origins_vampire:health_regeneration" = true
+		"origins_vampire:undead" = true
+		"origins_vampire:weakness/wooden_tools" = true
+		"origins_vampire:blood/drink/ender_dragon" = true
+
+	[origins."ojs_rpg_origins:variant_human/feats/moderately_armored"]
+		enabled = true
+		"ojs_rpg_origins:variant_human/feats/moderately_armored" = true
+
+	[origins."dragon_origins:druid"]
+		enabled = true
+		"dragon_origins:f_buf" = true
+		"dragon_origins:nether2" = true
+		"dragon_origins:hot_debuf" = true
+		"dragon_origins:vegie3" = true
+		"dragon_origins:roots" = true
+		"dragon_origins:roots2" = true
+		"dragon_origins:roots3" = true
+		"dragon_origins:roots4" = true
+		"dragon_origins:heal2" = true
+		"dragon_origins:regen" = true
+		"dragon_origins:plant_v" = true
+		"dragon_origins:green2" = true
+		"dragon_origins:hunger" = true
+		"dragon_origins:advancement" = true
+
+	[origins."omnitrix:gm_galvan"]
+		enabled = true
+		"omnitrix:gm_size" = true
+		"omnitrix:gm_climb" = true
+		"origins:fall_immunity" = true
+		"omnitrix:gm_jump" = true
+		"omnitrix:gm_speed" = true
+		"omnitrix:gm_health" = true
+		"omnitrix:gm_invis" = true
+		"omnitrix:gm_anchor" = true
+
+	[origins."origins-plus-plus:mouse"]
+		enabled = true
+		"origins-plus-plus:mouse/a_mouses_lifespan" = true
+		"origins-plus-plus:mouse/mischievous" = true
+		"origins-plus-plus:mouse/mob_ally" = true
+		"origins-plus-plus:mouse/mouse_sized" = true
+		"origins-plus-plus:mouse/ride" = true
+		"origins-plus-plus:mouse/yoink" = true
+
+	[origins."origins-plus-plus:automaton"]
+		enabled = true
+		"origins-plus-plus:automaton/aging" = true
+		"origins-plus-plus:automaton/attack" = true
+		"origins-plus-plus:automaton/cold_biome" = true
+		"origins-plus-plus:automaton/dense" = true
+		"origins-plus-plus:automaton/drown" = true
+		"origins-plus-plus:automaton/elemental_attack_title" = true
+		"origins-plus-plus:automaton/end" = true
+		"origins-plus-plus:automaton/extinguish" = true
+		"origins-plus-plus:automaton/fire_attack" = true
+		"origins-plus-plus:automaton/fire_elemental_attack" = true
+		"origins-plus-plus:automaton/firebar" = true
+		"origins-plus-plus:automaton/firebar_increase" = true
+		"origins-plus-plus:automaton/health" = true
+		"origins-plus-plus:automaton/hot_biome" = true
+		"origins-plus-plus:automaton/humidity" = true
+		"origins-plus-plus:automaton/lava" = true
+		"origins-plus-plus:automaton/nether" = true
+		"origins-plus-plus:automaton/no_hunger" = true
+		"origins-plus-plus:automaton/power_saving_mode" = true
+		"origins-plus-plus:automaton/respawn" = true
+		"origins-plus-plus:automaton/toggle" = true
+		"origins-plus-plus:automaton/undying" = true
+		"origins-plus-plus:automaton/unnatural" = true
+		"origins-plus-plus:automaton/water" = true
+		"origins-plus-plus:automaton/water_attack" = true
+		"origins-plus-plus:automaton/water_elemental_attack" = true
+		"origins-plus-plus:automaton/waterbar" = true
+		"origins-plus-plus:automaton/waterbar_increase" = true
+
+	[origins."medievalorigins:moon_elf"]
+		enabled = true
+		"medievalorigins:moon_elf/moonlight_rogue" = true
+		"medievalorigins:moon_elf/stealth" = true
+		"medievalorigins:moon_elf/ethereal" = true
+		"medievalorigins:moon_elf/crazed" = true
+		"medievalorigins:moon_elf/elegant" = true
+		"medievalorigins:moon_elf/nimble" = true
+		"medievalorigins:moon_elf/fragile" = true
+		"medievalorigins:moon_elf/towering" = true
+		"origins_survive:sleepless" = true
+
+	[origins."ojs_rpg_origins:variant_human/feats/sentinel"]
+		enabled = true
+		"ojs_rpg_origins:variant_human/feats/sentinel" = true
+
+	[origins."dark_chidori:dark_chidori"]
+		enabled = true
+		"origins:fire_immunity" = true
+		"origins:extra_reach" = true
+		"origins:ender_particles" = true
+		"origins:nether_spawn" = true
+		"dark_chidori:arrow_dark_chidori" = true
+		"dark_chidori:venomous_arrow_dark_chidori" = true
+		"dark_chidori:heal_dark_chidori" = true
+		"dark_chidori:venomous_heal_dark_chidori" = true
+		"dark_chidori:speed_dark_chidori" = true
+		"dark_chidori:venomous_speed_dark_chidori" = true
+		"dark_chidori:fall_immunity_dark_chidori" = true
+		"dark_chidori:max_health_dark_chidori" = true
+		"dark_chidori:walk_on_lava_dark_chidori" = true
+		"dark_chidori:walk_on_water_dark_chidori" = true
+		"dark_chidori:climbing_dark_chidori" = true
+		"dark_chidori:no_ranged_dark_chidori" = true
+		"dark_chidori:inventory_dark_chidori" = true
+		"dark_chidori:particle_dark_chidori" = true
+		"dark_chidori:ember_sleep_dark_chidori" = true
+
+	[origins."origins-plus-plus:bedrockean"]
+		enabled = true
+		"origins:fall_immunity" = true
+		"origins:fire_immunity" = true
+		"origins:natural_armor" = true
+		"origins:no_shield" = true
+		"origins:strong_arms" = true
+		"origins:strong_arms_break_speed" = true
+		"origins-plus-plus:bedrockean/antivore" = true
+		"origins-plus-plus:bedrockean/bedrock_block" = true
+		"origins-plus-plus:bedrockean/bedrock_break" = true
+		"origins-plus-plus:bedrockean/bedrock_skin" = true
+		"origins-plus-plus:bedrockean/bow" = true
+		"origins-plus-plus:bedrockean/bulky" = true
+		"origins-plus-plus:bedrockean/cake" = true
+		"origins-plus-plus:bedrockean/dense" = true
+		"origins-plus-plus:bedrockean/no_food_bar" = true
+		"origins-plus-plus:bedrockean/disable_regen" = true
+		"origins-plus-plus:bedrockean/fast_mine" = true
+		"origins-plus-plus:bedrockean/heal" = true
+		"origins-plus-plus:bedrockean/heavy_body" = true
+		"origins-plus-plus:bedrockean/immobile" = true
+		"origins-plus-plus:bedrockean/invulnerable" = true
+		"origins-plus-plus:bedrockean/knowing" = true
+		"origins-plus-plus:bedrockean/jump" = true
+		"origins-plus-plus:bedrockean/lava_speed" = true
+		"origins-plus-plus:bedrockean/lava_vision" = true
+		"origins-plus-plus:bedrockean/no_elytra" = true
+		"origins-plus-plus:bedrockean/night_vision" = true
+		"origins-plus-plus:bedrockean/overlay" = true
+		"origins-plus-plus:bedrockean/overtime" = true
+		"origins-plus-plus:bedrockean/particle" = true
+		"origins-plus-plus:bedrockean/potion" = true
+		"origins-plus-plus:bedrockean/powerful_arms" = true
+		"origins-plus-plus:bedrockean/regen" = true
+		"origins-plus-plus:bedrockean/size" = true
+		"origins-plus-plus:bedrockean/sleep" = true
+		"origins-plus-plus:bedrockean/spawn" = true
+		"origins-plus-plus:bedrockean/strong" = true
+		"origins-plus-plus:bedrockean/sun_weakness" = true
+		"origins-plus-plus:bedrockean/toggle" = true
+		"origins-plus-plus:bedrockean/weakness" = true
+
+	[origins."origins-plus-plus:emblazing_warrior"]
+		enabled = true
+		"origins-plus-plus:emblazing-warrior/blind" = true
+		"origins-plus-plus:emblazing-warrior/burning_will" = true
+		"origins-plus-plus:emblazing-warrior/cross" = true
+		"origins-plus-plus:emblazing-warrior/exhaustion" = true
+		"origins-plus-plus:emblazing-warrior/fire_immune" = true
+		"origins-plus-plus:emblazing-warrior/fury" = true
+		"origins-plus-plus:emblazing-warrior/ignition" = true
+		"origins-plus-plus:emblazing-warrior/injury_lover" = true
+		"origins-plus-plus:emblazing-warrior/rage" = true
+		"origins-plus-plus:emblazing-warrior/world_diff" = true
+
+	[origins."srp_origins:variants/natural"]
+		enabled = true
+		"srp_origins:variants/natural" = true
+
+	[origins."origins-plus-plus:copper_golem"]
+		enabled = true
+		"origins:fall_immunity" = true
+		"origins-plus-plus:copper-golem/copper_colour" = true
+		"origins-plus-plus:copper-golem/defense" = true
+		"origins-plus-plus:copper-golem/extra_health" = true
+		"origins-plus-plus:copper-golem/feed_on_copper" = true
+		"origins-plus-plus:copper-golem/no_food" = true
+		"origins-plus-plus:copper-golem/oxidation_action" = true
+		"origins-plus-plus:copper-golem/oxidation_resource" = true
+		"origins-plus-plus:copper-golem/small" = true
+		"origins-plus-plus:copper-golem/strong" = true
+
+	[origins."diversity_origins:wip.deerfolk"]
+		enabled = true
+		"minecraft:" = true
+
+	[origins."origins-plus-plus:craftsman"]
+		enabled = true
+		"origins-plus-plus:craftsman/axe" = true
+		"origins-plus-plus:craftsman/crafting" = true
+		"origins-plus-plus:craftsman/fire" = true
+		"origins-plus-plus:craftsman/pillager" = true
+		"origins-plus-plus:craftsman/undead" = true
+		"origins-plus-plus:craftsman/village" = true
+
+	[origins."srp_origins:primitive/reeker"]
+		enabled = true
+		"srp_origins:parasite" = true
+		"srp_origins:adaptive1" = true
+		"srp_origins:tendril1" = true
+		"srp_origins:primitive/remains" = true
+		"srp_origins:primitive/reeker/creature" = true
+		"srp_origins:primitive/reeker/charge" = true
+		"srp_origins:primitive/reeker/orb" = true
+		"srp_origins:primitive/reeker/evolution" = true
+		"srp_origins:souls" = true
+		"srp_origins:biomass" = true
+		"srp_origins:phases" = true
+		"srp_origins:upgrades" = true
+		"srp_origins:fire_damage" = true
+		"srp_origins:nosleep" = true
+		"srp_origins:badrep" = true
+		"srp_origins:parasitetag" = true
+		"srp_origins:fool" = true
+		"srp_origins:1kdownloads" = true
+
+	[origins."origins-plus-plus:broodmother"]
+		enabled = true
+		"origins:no_shield" = true
+		"origins:master_of_webs" = true
+		"origins:no_cobweb_slowdown" = true
+		"origins:carnivore" = true
+		"origins-plus-plus:broodmother/climbing" = true
+		"origins-plus-plus:broodmother/cobweb_feed" = true
+		"origins-plus-plus:broodmother/cursed_mother" = true
+		"origins-plus-plus:broodmother/exoskeleton" = true
+		"origins-plus-plus:broodmother/extra_hearts" = true
+		"origins-plus-plus:broodmother/long_jump" = true
+		"origins-plus-plus:broodmother/mineshaft_spawn" = true
+		"origins-plus-plus:broodmother/poison_immunity" = true
+		"origins-plus-plus:broodmother/poison_touch" = true
+		"origins-plus-plus:broodmother/silky_composition" = true
+		"origins-plus-plus:broodmother/spider_attribute" = true
+		"origins-plus-plus:broodmother/spider_kinship" = true
+		"origins-plus-plus:broodmother/spider_strength" = true
+		"origins-plus-plus:broodmother/suffocation_immunity" = true
+		"origins-plus-plus:broodmother/summon_the_army" = true
+		"origins-plus-plus:broodmother/web_shot" = true
+
+	[origins."valorant_origins:sage"]
+		enabled = true
+		"valorant_origins:sagepowers/barrier" = true
+		"valorant_origins:sagepowers/heal" = true
+		"valorant_origins:sagepowers/slowball" = true
+		"valorant_origins:sagepowers/fragilehealer" = true
+		"valorant_origins:sagepowers/elemental" = true
+

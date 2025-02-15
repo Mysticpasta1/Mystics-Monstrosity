@@ -1,0 +1,21 @@
+// Compost colors for parrotcage. You may add your own colors, change existing ones, or remove colors that aren't needed.
+basic_cage, #a7bbcc
+christmas_cage, #bff19e
+fancy_cage, #a48276
+golden_cage, #fff12c
+modern_cage, #b5b1ae
+modern_cage_blue, #e3d9d7
+modern_cage_brown, #e3d9d7
+modern_cage_cyan, #e3d9d7
+modern_cage_gray, #e3d9d7
+modern_cage_green, #e3d9d7
+modern_cage_light_blue, #e3d9d7
+modern_cage_light_gray, #e3d9d7
+modern_cage_lime, #e3d9d7
+modern_cage_magenta, #e3d9d7
+modern_cage_orange, #e3d9d7
+modern_cage_pink, #e3d9d7
+modern_cage_purple, #e3d9d7
+modern_cage_red, #e3d9d7
+modern_cage_white, #e3d9d7
+modern_cage_yellow, #e3d9d7

@@ -1,0 +1,124 @@
+#
+###Version, do not change!##
+#Range: > 0
+Version = 7
+
+#Workers Config Client Side:
+[WorkersClientSide]
+	#
+	#----Should Workers Make Villager Huh? sound?----
+	#	(takes effect after restart)
+	#	default: true
+	PlayVillagerAmbientSound = true
+	#
+	#----Should Workers look like Villagers?----
+	#	(takes effect after restart)
+	#	default: true
+	WorkersLookLikeVillagers = true
+	#
+	#----CommandScreenToggle----
+	#	(takes effect after restart)
+	#	
+	#Should the key to open the command screen be toggled instead of held?""
+	#default: false
+	CommandScreenToggle = false
+
+#Workers Config:
+[Workers]
+	#
+	#Should Owners receive info's about the worker through text?
+	#	(takes effect after restart)
+	#	default: true
+	OwnerReceiveInfo = true
+	#
+	#----WorkerChunkLoading----
+	#	(takes effect after restart)
+	#	
+	#Should workers load the chunk they are in?""
+	#default: true
+	WorkerChunkLoading = true
+	#
+	#----Currency----
+	#	(takes effect after restart)
+	#	The Item defined here, will be used to hire workers. For example: ["minecraft:diamond"]	default: ["minecraft:emerald"]
+	WorkersCurrency = "minecraft:emerald"
+	#
+	#The amount of currency required to hire a miner.
+	#	(takes effect after restart)
+	#	default: 20
+	#Range: 0 ~ 999
+	MinerCost = 20
+	#
+	#The amount of currency required to hire a lumberjack.
+	#	(takes effect after restart)
+	#	default: 14
+	#Range: 0 ~ 999
+	LumberjackCost = 14
+	#
+	#The amount of currency required to hire a fisherman.
+	#	(takes effect after restart)
+	#	default: 25
+	#Range: 0 ~ 999
+	FishermanCost = 25
+	#
+	#The amount of currency required to hire a farmer.
+	#	(takes effect after restart)
+	#	default: 11
+	#Range: 0 ~ 999
+	FarmerCost = 11
+	#
+	#The amount of currency required to hire a chicken farmer.
+	#	(takes effect after restart)
+	#	default: 15
+	#Range: 0 ~ 999
+	ChickenFarmerCost = 15
+	#
+	#The amount of currency required to hire a cattle farmer.
+	#	(takes effect after restart)
+	#	default: 15
+	#Range: 0 ~ 999
+	CattleFarmerCost = 18
+	#
+	#The amount of currency required to hire a shepherd.
+	#	(takes effect after restart)
+	#	default: 10
+	#Range: 0 ~ 999
+	ShepherdCost = 16
+	#
+	#The amount of currency required to hire a swineherd.
+	#	(takes effect after restart)
+	#	default: 10
+	#Range: 0 ~ 999
+	SwineherdCost = 19
+	#
+	#The amount of currency required to hire a merchant.
+	#	(takes effect after restart)
+	#	default: 12
+	#Range: 0 ~ 999
+	MerchantCost = 12
+	#
+	#Should Hostile Mobs attack Workers?
+	#	(takes effect after restart)
+	#	default: true
+	MonsterAttackWorkers = true
+	#
+	#Should Pillagers attack Workers?
+	#	(takes effect after restart)
+	#	default: true
+	PillagerAttackWorkers = true
+
+#Recruit Village Config:
+[Villages]
+	#
+	#----Should Villager Workers that were created with Tables release the POI for other Villagers?----
+	#----True -> allows multiple villagers to become a worker with one table.----
+	#----False -> only one villager can become a recruit with one table.----
+	#	(takes effect after restart)
+	#	default: true
+	WorkersTablesPOIReleasing = false
+	#
+	#----Should the profession tables drop when breaking?----
+	#	(takes effect after restart)
+	#	default: true
+	ProfessionBlocksDrop = true
+

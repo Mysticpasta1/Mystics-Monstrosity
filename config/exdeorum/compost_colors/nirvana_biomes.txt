@@ -1,0 +1,6 @@
+// Compost colors for nirvana_biomes. You may add your own colors, change existing ones, or remove colors that aren't needed.
+nirvana_armors_boots, #5a1b70
+nirvana_armors_chestplate, #461557
+nirvana_armors_helmet, #32113a
+nirvana_armors_leggings, #75238d
+nirvana_destroyer, #87878c

@@ -1,0 +1,5 @@
+// Compost colors for createstonegenerator. You may add your own colors, change existing ones, or remove colors that aren't needed.
+molten_copper_bucket, #c5a78a
+molten_gold_bucket, #bbb580
+molten_iron_bucket, #ab8a8a
+molten_zinc_bucket, #b4b5a2

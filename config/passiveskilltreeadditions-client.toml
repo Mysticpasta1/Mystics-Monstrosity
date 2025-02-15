@@ -1,0 +1,9 @@
+
+["Button Settings"]
+	#X position of the Passive Skill Tree button in the inventory screen
+	#Range: > 0
+	buttonX = 63
+	#Y position of the Passive Skill Tree button in the inventory screen
+	#Range: > 0
+	buttonY = 68
+

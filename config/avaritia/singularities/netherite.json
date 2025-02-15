@@ -1,0 +1,13 @@
+{
+  "name": "singularity.avaritia.netherite",
+  "colors": [
+    "443a3b",
+    "1a1616"
+  ],
+  "timeRequired": 240,
+  "ingredient": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "enabled": true,
+  "recipeDisabled": false
+}

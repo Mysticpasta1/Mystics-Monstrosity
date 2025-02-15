@@ -1,0 +1,13 @@
+#Whether the Pale Garden biome is enabled
+PaleGardenEnabled = true
+#The chance of a Pale Oak tree containing a Creaking Heart, 1 is 100%
+CreakingHeartChance = 0.1
+#The distance at which Creaking entities freeze when looked at
+CreakingFreezeDistance = 128.0
+#The distance at which Creaking entities freeze when looked at
+CreakingDistanceToHeart = 32.0
+#The field of view angle of the player to detect Creaking entities
+PlayerFovAngle = 45.0
+#Whether the Creaking Heart requires a natural dimensionType to spawn
+RequireNaturalDimension = true
+

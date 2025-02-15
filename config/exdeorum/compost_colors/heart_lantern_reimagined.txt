@@ -1,0 +1,2 @@
+// Compost colors for heart_lantern_reimagined. You may add your own colors, change existing ones, or remove colors that aren't needed.
+heart_lantern, #a43636

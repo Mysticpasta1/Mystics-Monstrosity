@@ -1,0 +1,8 @@
+// Compost colors for sculktransporting. You may add your own colors, change existing ones, or remove colors that aren't needed.
+quantity_modifier_tier_1, #2d3940
+quantity_modifier_tier_2, #304047
+quantity_modifier_tier_3, #33464e
+speed_modifier_tier_1, #489897
+speed_modifier_tier_2, #4aa0a0
+speed_modifier_tier_3, #4daaa8
+speed_modifier_tier_4, #4eb1b1

@@ -1,0 +1,4 @@
+// Compost colors for builders_palette. You may add your own colors, change existing ones, or remove colors that aren't needed.
+black_brick, #393939
+framed_glass, #7975ff
+white_brick, #eeeeee

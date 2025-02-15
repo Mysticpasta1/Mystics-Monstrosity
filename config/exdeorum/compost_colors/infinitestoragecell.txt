@@ -1,0 +1,5 @@
+// Compost colors for infinitestoragecell. You may add your own colors, change existing ones, or remove colors that aren't needed.
+infinite_cell_component, #ffffff
+infinity_chemical_cell, #c28eff
+infinity_fluid_cell, #8dffff
+infinity_item_cell, #ffff8d

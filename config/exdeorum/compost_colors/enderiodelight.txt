@@ -1,0 +1,15 @@
+// Compost colors for enderiodelight. You may add your own colors, change existing ones, or remove colors that aren't needed.
+conductive_alloy_knife, #d3a79a
+copper_alloy_knife, #c5912d
+dark_steel_knife, #736e62
+end_steel_knife, #e1d47a
+enderios_cookie, #febe72
+enderios_jem, #6cc9d0
+enderios_juice, #7dd0d9
+enderios_pie, #decf87
+energetic_alloy_knife, #ebb14b
+pulsating_alloy_knife, #8cc68c
+redstone_alloy_knife, #c65e55
+silicon_knife, #828075
+soularium_knife, #61482a
+vibrant_knife, #c3d452

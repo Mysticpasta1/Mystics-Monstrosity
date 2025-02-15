@@ -1,0 +1,5 @@
+
+[Villagers]
+	#Having an owned Ragno, causes Villagers around the Player to have a negative Reputation, Default: true
+	villagerHateRagno = true
+
