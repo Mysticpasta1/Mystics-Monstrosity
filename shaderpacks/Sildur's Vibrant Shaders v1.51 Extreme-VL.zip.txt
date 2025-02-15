@@ -1,6 +1,0 @@
-#Thu Feb 13 18:03:21 CST 2025
-shadowMapResolution=256
-Clouds=1
-defskybox=true
-nMap=2
-Cloudsblur=false
