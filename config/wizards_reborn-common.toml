@@ -1,0 +1,182 @@
+
+#Wissen
+[wissen]
+	#Standard wissen color RED.
+	#Range: 0 ~ 255
+	standardWissenColorR = 119
+	#Standard wissen color GREEN.
+	#Range: 0 ~ 255
+	standardWissenColorG = 164
+	#Standard wissen color BLUE.
+	#Range: 0 ~ 255
+	standardWissenColorB = 208
+
+#Knowledge
+[knowledge]
+	#Enable Arcanemicon Offering
+	arcanemiconOffering = true
+	#Ticks with game for Arcanemicon Offering.
+	#Range: > 0
+	arcanemiconOfferingTicks = 144000
+
+#Spells
+[spells]
+
+	#Projectile
+	[spells.projectile]
+		#Damage of all Projectile spells.
+		spellProjectileDamage = 0.0
+		#Damage of Earth Projectile spell.
+		earthProjectileDamage = 0.0
+		#Damage of Water Projectile spell.
+		waterProjectileDamage = 0.0
+		#Damage of Air Projectile spell.
+		airProjectileDamage = 0.0
+		#Damage of Fire Projectile spell.
+		fireProjectileDamage = 0.0
+		#Damage of Void Projectile spell.
+		voidProjectileDamage = 0.0
+		#Damage of Frost Projectile spell.
+		frostProjectileDamage = 0.0
+		#Damage of Holy Projectile spell.
+		holyProjectileDamage = 0.0
+		#Damage of Curse Projectile spell.
+		curseProjectileDamage = 0.0
+		#Damage of Icicle spell.
+		icicleDamage = 0.0
+
+	#Ray
+	[spells.ray]
+		#Damage of all Ray spells.
+		spellRayDamage = 0.0
+		#Damage of Earth Ray spell.
+		earthRayDamage = 0.0
+		#Damage of Water Ray spell.
+		waterRayDamage = 0.0
+		#Damage of Air Ray spell.
+		airRayDamage = 0.0
+		#Damage of Fire Ray spell.
+		fireRayDamage = 0.0
+		#Damage of Void Ray spell.
+		voidRayDamage = 0.0
+		#Damage of Frost Ray spell.
+		frostRayDamage = 0.0
+		#Damage of Holy Ray spell.
+		holyRayDamage = 0.0
+		#Damage of Curse Ray spell.
+		curseRayDamage = 0.0
+		#Damage of Necrotic Ray spell.
+		necroticRayDamage = 0.0
+		#Damage of Ember Ray spell.
+		emberRayDamage = 0.0
+
+	#Charge
+	[spells.charge]
+		#Damage of all Charge spells.
+		spellChargeDamage = 0.0
+		#Damage of Earth Charge spell.
+		earthChargeDamage = 0.0
+		#Damage of Water Charge spell.
+		waterChargeDamage = 0.0
+		#Damage of Air Charge spell.
+		airChargeDamage = 0.0
+		#Damage of Fire Charge spell.
+		fireChargeDamage = 0.0
+		#Damage of Void Charge spell.
+		voidChargeDamage = 0.0
+		#Damage of Frost Charge spell.
+		frostChargeDamage = 0.0
+		#Damage of Holy Charge spell.
+		holyChargeDamage = 0.0
+		#Damage of Curse Charge spell.
+		curseChargeDamage = 0.0
+
+	#Aura
+	[spells.aura]
+		#Damage of all Aura spells.
+		spellAuraDamage = 0.0
+		#Damage of Earth Aura spell.
+		earthAuraDamage = 0.0
+		#Damage of Water Aura spell.
+		waterAuraDamage = 0.0
+		#Damage of Air Aura spell.
+		airAuraDamage = 0.0
+		#Damage of Fire Aura spell.
+		fireAuraDamage = 0.0
+		#Damage of Void Aura spell.
+		voidAuraDamage = 0.0
+		#Damage of Frost Aura spell.
+		frostAuraDamage = 0.0
+		#Damage of Holy Aura spell.
+		holyAuraDamage = 0.0
+		#Damage of Curse Aura spell.
+		curseAuraDamage = 0.0
+
+	#Self
+	[spells.self]
+		#Power of Heart of Nature spell.
+		heartOfNaturePower = 0.0
+		#Heal of Heart of Nature spell.
+		heartOfNatureHeal = 0.0
+		#Power of Water Breathing spell.
+		waterBreathingPower = 0.0
+		#Power of Air Flow spell.
+		airFlowPower = 0.0
+		#Damage of Fire Shield spell.
+		fireShieldDamage = 0.0
+
+	#Target
+	[spells.target]
+		#Power of Air Impact spell.
+		airImpactPower = 0.0
+		#Damage of Snowflake spell.
+		snowflakeDamage = 0.0
+		#Damage of Holy Cross spell.
+		holyCrossDamage = 0.0
+		#Damage of Curse Cross spell.
+		curseCrossDamage = 0.0
+		#Power of Poison spell.
+		poisonDamage = 0.0
+		#Power of Withering spell.
+		witheringDamage = 0.0
+		#Power of Irritation spell.
+		irritationPower = 0.0
+
+	#Blink
+	[spells.blink]
+		#Power of Blink spell.
+		blinkPower = 0.0
+		#Power of Sharp Blink spell.
+		sharpBlinkPower = 0.0
+		#Damage of Sharp Blink spell.
+		sharpBlinkDamage = 0.0
+
+	#Cloud
+	[spells.cloud]
+		#Power Rain Cloud spell.
+		rainCloudPower = 0.0
+		#Power of Toxic Rain spell.
+		toxicRainPower = 0.0
+		#Damage of Toxic Rain spell.
+		toxicRainDamage = 0.0
+
+	#Fog
+	[spells.fog]
+		#Power of Mor Swarm spell.
+		morSwarmPower = 0.0
+		#Damage of Mor Swarm spell.
+		morSwarmDamage = 0.0
+
+	#Strike
+	[spells.strike]
+		#Damage of Incineration spell.
+		incinerationDamage = 0.0
+		#Damage of Repentance spell.
+		repentanceDamage = 0.0
+		#Heal of Repentance spell.
+		repentanceHeal = 0.0
+		#Damage of Renunciation spell.
+		renunciationDamage = 0.0
+		#Heal of Renunciation spell.
+		renunciationHeal = 0.0
+

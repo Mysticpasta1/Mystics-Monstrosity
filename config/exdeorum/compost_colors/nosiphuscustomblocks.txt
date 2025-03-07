@@ -1,0 +1,2 @@
+// Compost colors for nosiphuscustomblocks. You may add your own colors, change existing ones, or remove colors that aren't needed.
+bow_tie, #f7f5f5

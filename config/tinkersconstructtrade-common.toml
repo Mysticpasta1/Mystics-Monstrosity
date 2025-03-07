@@ -1,10 +1,177 @@
-#Whether to log the dirt block on common setup
-logDirtBlock = true
-#A magic number
-#Range: > 0
-magicNumber = 42
-#What you want the introduction message to be for the magic number
-magicNumberIntroduction = "The magic number is... "
-#A list of items to log on common setup.
-items = ["minecraft:iron_ingot"]
+#Enable trade for toolsmith_pickaxe
+toolsmith_pickaxe_enabled = true
+#Buy amount for toolsmith_pickaxe
+#Range: 1 ~ 64
+toolsmith_pickaxe_buy = 1
+#Sell amount for toolsmith_pickaxe
+#Range: 1 ~ 64
+toolsmith_pickaxe_sell = 1
+#Enable trade for toolsmith_pickadze
+toolsmith_pickadze_enabled = true
+#Buy amount for toolsmith_pickadze
+#Range: 1 ~ 64
+toolsmith_pickadze_buy = 1
+#Sell amount for toolsmith_pickadze
+#Range: 1 ~ 64
+toolsmith_pickadze_sell = 1
+#Enable trade for toolsmith_hand_axe
+toolsmith_hand_axe_enabled = true
+#Buy amount for toolsmith_hand_axe
+#Range: 1 ~ 64
+toolsmith_hand_axe_buy = 1
+#Sell amount for toolsmith_hand_axe
+#Range: 1 ~ 64
+toolsmith_hand_axe_sell = 1
+#Enable trade for toolsmith_mattock
+toolsmith_mattock_enabled = true
+#Buy amount for toolsmith_mattock
+#Range: 1 ~ 64
+toolsmith_mattock_buy = 1
+#Sell amount for toolsmith_mattock
+#Range: 1 ~ 64
+toolsmith_mattock_sell = 1
+#Enable trade for toolsmith_excavator
+toolsmith_excavator_enabled = true
+#Buy amount for toolsmith_excavator
+#Range: 1 ~ 64
+toolsmith_excavator_buy = 1
+#Sell amount for toolsmith_excavator
+#Range: 1 ~ 64
+toolsmith_excavator_sell = 1
+#Enable trade for weaponsmith_dagger
+weaponsmith_dagger_enabled = true
+#Buy amount for weaponsmith_dagger
+#Range: 1 ~ 64
+weaponsmith_dagger_buy = 1
+#Sell amount for weaponsmith_dagger
+#Range: 1 ~ 64
+weaponsmith_dagger_sell = 1
+#Enable trade for weaponsmith_sword
+weaponsmith_sword_enabled = true
+#Buy amount for weaponsmith_sword
+#Range: 1 ~ 64
+weaponsmith_sword_buy = 1
+#Sell amount for weaponsmith_sword
+#Range: 1 ~ 64
+weaponsmith_sword_sell = 1
+#Enable trade for weaponsmith_cleaver
+weaponsmith_cleaver_enabled = true
+#Buy amount for weaponsmith_cleaver
+#Range: 1 ~ 64
+weaponsmith_cleaver_buy = 1
+#Sell amount for weaponsmith_cleaver
+#Range: 1 ~ 64
+weaponsmith_cleaver_sell = 1
+#Enable trade for weaponsmith_scythe
+weaponsmith_scythe_enabled = true
+#Buy amount for weaponsmith_scythe
+#Range: 1 ~ 64
+weaponsmith_scythe_buy = 1
+#Sell amount for weaponsmith_scythe
+#Range: 1 ~ 64
+weaponsmith_scythe_sell = 1
+#Enable trade for farmer_earth_cake
+farmer_earth_cake_enabled = true
+#Buy amount for farmer_earth_cake
+#Range: 1 ~ 64
+farmer_earth_cake_buy = 1
+#Sell amount for farmer_earth_cake
+#Range: 1 ~ 64
+farmer_earth_cake_sell = 1
+#Enable trade for farmer_sky_cake
+farmer_sky_cake_enabled = true
+#Buy amount for farmer_sky_cake
+#Range: 1 ~ 64
+farmer_sky_cake_buy = 1
+#Sell amount for farmer_sky_cake
+#Range: 1 ~ 64
+farmer_sky_cake_sell = 1
+#Enable trade for butcher_bacon
+butcher_bacon_enabled = true
+#Buy amount for butcher_bacon
+#Range: 1 ~ 64
+butcher_bacon_buy = 1
+#Sell amount for butcher_bacon
+#Range: 1 ~ 64
+butcher_bacon_sell = 1
+#Enable trade for butcher_meat_soup
+butcher_meat_soup_enabled = true
+#Buy amount for butcher_meat_soup
+#Range: 1 ~ 64
+butcher_meat_soup_buy = 1
+#Sell amount for butcher_meat_soup
+#Range: 1 ~ 64
+butcher_meat_soup_sell = 1
+#Enable trade for butcher_ichor_slime_bottle
+butcher_ichor_slime_bottle_enabled = true
+#Buy amount for butcher_ichor_slime_bottle
+#Range: 1 ~ 64
+butcher_ichor_slime_bottle_buy = 1
+#Sell amount for butcher_ichor_slime_bottle
+#Range: 1 ~ 64
+butcher_ichor_slime_bottle_sell = 1
+#Enable trade for armorer_plate_shield
+armorer_plate_shield_enabled = true
+#Buy amount for armorer_plate_shield
+#Range: 1 ~ 64
+armorer_plate_shield_buy = 1
+#Sell amount for armorer_plate_shield
+#Range: 1 ~ 64
+armorer_plate_shield_sell = 1
+#Enable trade for armorer_plate_helmet
+armorer_plate_helmet_enabled = true
+#Buy amount for armorer_plate_helmet
+#Range: 1 ~ 64
+armorer_plate_helmet_buy = 1
+#Sell amount for armorer_plate_helmet
+#Range: 1 ~ 64
+armorer_plate_helmet_sell = 1
+#Enable trade for armorer_plate_chestplate
+armorer_plate_chestplate_enabled = true
+#Buy amount for armorer_plate_chestplate
+#Range: 1 ~ 64
+armorer_plate_chestplate_buy = 1
+#Sell amount for armorer_plate_chestplate
+#Range: 1 ~ 64
+armorer_plate_chestplate_sell = 1
+#Enable trade for armorer_plate_leggings
+armorer_plate_leggings_enabled = true
+#Buy amount for armorer_plate_leggings
+#Range: 1 ~ 64
+armorer_plate_leggings_buy = 1
+#Sell amount for armorer_plate_leggings
+#Range: 1 ~ 64
+armorer_plate_leggings_sell = 1
+#Enable trade for armorer_plate_boots
+armorer_plate_boots_enabled = true
+#Buy amount for armorer_plate_boots
+#Range: 1 ~ 64
+armorer_plate_boots_buy = 1
+#Sell amount for armorer_plate_boots
+#Range: 1 ~ 64
+armorer_plate_boots_sell = 1
+#Enable trade for fletcher_dagger
+fletcher_dagger_enabled = true
+#Buy amount for fletcher_dagger
+#Range: 1 ~ 64
+fletcher_dagger_buy = 1
+#Sell amount for fletcher_dagger
+#Range: 1 ~ 64
+fletcher_dagger_sell = 1
+#Enable trade for fletcher_longbow
+fletcher_longbow_enabled = true
+#Buy amount for fletcher_longbow
+#Range: 1 ~ 64
+fletcher_longbow_buy = 1
+#Sell amount for fletcher_longbow
+#Range: 1 ~ 64
+fletcher_longbow_sell = 1
+#Enable trade for fletcher_crossbow
+fletcher_crossbow_enabled = true
+#Buy amount for fletcher_crossbow
+#Range: 1 ~ 64
+fletcher_crossbow_buy = 1
+#Sell amount for fletcher_crossbow
+#Range: 1 ~ 64
+fletcher_crossbow_sell = 1
 

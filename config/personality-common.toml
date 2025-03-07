@@ -1,0 +1,7 @@
+
+[tweaks]
+	#If Banners can be worn in the helmet slot
+	"Equipable banners" = true
+	#If Snow layers have gravity like Sand and Gravel
+	"Falling snow layers" = true
+

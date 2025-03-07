@@ -1,10 +1,113 @@
-#Whether to log the dirt block on common setup
-logDirtBlock = true
-#A magic number
-#Range: > 0
-magicNumber = 42
-#What you want the introduction message to be for the magic number
-magicNumberIntroduction = "The magic number is... "
-#A list of items to log on common setup.
-items = ["minecraft:iron_ingot"]
+#Enable trade for armorer_crab_shell
+armorer_crab_shell_enabled = true
+#Buy amount for armorer_crab_shell
+#Range: 1 ~ 64
+armorer_crab_shell_buy = 1
+#Sell amount for armorer_crab_shell
+#Range: 1 ~ 64
+armorer_crab_shell_sell = 13
+#Enable trade for armorer_dragon_scale
+armorer_dragon_scale_enabled = true
+#Buy amount for armorer_dragon_scale
+#Range: 1 ~ 64
+armorer_dragon_scale_buy = 1
+#Sell amount for armorer_dragon_scale
+#Range: 1 ~ 64
+armorer_dragon_scale_sell = 64
+#Enable trade for butcher_crab_leg
+butcher_crab_leg_enabled = true
+#Buy amount for butcher_crab_leg
+#Range: 1 ~ 64
+butcher_crab_leg_buy = 14
+#Sell amount for butcher_crab_leg
+#Range: 1 ~ 64
+butcher_crab_leg_sell = 1
+#Enable trade for butcher_cooked_crab_leg
+butcher_cooked_crab_leg_enabled = true
+#Buy amount for butcher_cooked_crab_leg
+#Range: 1 ~ 64
+butcher_cooked_crab_leg_buy = 1
+#Sell amount for butcher_cooked_crab_leg
+#Range: 1 ~ 64
+butcher_cooked_crab_leg_sell = 14
+#Enable trade for farmer_moss_paste
+farmer_moss_paste_enabled = true
+#Buy amount for farmer_moss_paste
+#Range: 1 ~ 64
+farmer_moss_paste_buy = 3
+#Sell amount for farmer_moss_paste
+#Range: 1 ~ 64
+farmer_moss_paste_sell = 1
+#Enable trade for farmer_ancient_fruit
+farmer_ancient_fruit_enabled = true
+#Buy amount for farmer_ancient_fruit
+#Range: 1 ~ 64
+farmer_ancient_fruit_buy = 10
+#Sell amount for farmer_ancient_fruit
+#Range: 1 ~ 64
+farmer_ancient_fruit_sell = 1
+#Enable trade for cartographer_forgotten_hat
+cartographer_forgotten_hat_enabled = true
+#Buy amount for cartographer_forgotten_hat
+#Range: 1 ~ 64
+cartographer_forgotten_hat_buy = 64
+#Sell amount for cartographer_forgotten_hat
+#Range: 1 ~ 64
+cartographer_forgotten_hat_sell = 1
+#Enable trade for fletcher_torch_arrow
+fletcher_torch_arrow_enabled = true
+#Buy amount for fletcher_torch_arrow
+#Range: 1 ~ 64
+fletcher_torch_arrow_buy = 7
+#Sell amount for fletcher_torch_arrow
+#Range: 1 ~ 64
+fletcher_torch_arrow_sell = 24
+#Enable trade for weaponsmith_pickarang
+weaponsmith_pickarang_enabled = true
+#Buy amount for weaponsmith_pickarang
+#Range: 1 ~ 64
+weaponsmith_pickarang_buy = 21
+#Sell amount for weaponsmith_pickarang
+#Range: 1 ~ 64
+weaponsmith_pickarang_sell = 1
+#Enable trade for weaponsmith_diamond_heart
+weaponsmith_diamond_heart_enabled = true
+#Buy amount for weaponsmith_diamond_heart
+#Range: 1 ~ 64
+weaponsmith_diamond_heart_buy = 63
+#Sell amount for weaponsmith_diamond_heart
+#Range: 1 ~ 64
+weaponsmith_diamond_heart_sell = 1
+#Enable trade for mason_limestone
+mason_limestone_enabled = true
+#Buy amount for mason_limestone
+#Range: 1 ~ 64
+mason_limestone_buy = 1
+#Sell amount for mason_limestone
+#Range: 1 ~ 64
+mason_limestone_sell = 8
+#Enable trade for mason_jasper
+mason_jasper_enabled = true
+#Buy amount for mason_jasper
+#Range: 1 ~ 64
+mason_jasper_buy = 1
+#Sell amount for mason_jasper
+#Range: 1 ~ 64
+mason_jasper_sell = 8
+#Enable trade for mason_shale
+mason_shale_enabled = true
+#Buy amount for mason_shale
+#Range: 1 ~ 64
+mason_shale_buy = 1
+#Sell amount for mason_shale
+#Range: 1 ~ 64
+mason_shale_sell = 8
+#Enable trade for mason_myalite
+mason_myalite_enabled = true
+#Buy amount for mason_myalite
+#Range: 1 ~ 64
+mason_myalite_buy = 1
+#Sell amount for mason_myalite
+#Range: 1 ~ 64
+mason_myalite_sell = 2
 

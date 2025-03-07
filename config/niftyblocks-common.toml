@@ -1,9 +1,25 @@
 
 ["Configs for NiftyBlocks"]
+	#Red Oak Tree
+	"Generate Red Oak Trees?" = true
+	#Maple Tree
+	"Generate Maple Trees?" = true
+	#Rubber Tree
+	"Generate Rubber Trees?" = true
+	#Rarity of Aloe Vera spawn per chunk
+	"Aloe Vera Rarity Per Chunk" = 3
 	#Rarity of Blueberry spawn per chunk
-	"Rarity Per Chunk" = 8
+	"Blueberry Rarity Per Chunk" = 4
+	#How many Marble Ore Veins spawn per chunk!
+	"Marble Veins Per Chunk" = 4
+	#How many Marble Ore Blocks spawn in one Vein!
+	" Marble Vein Size" = 23
+	#How many Phylite Ore Veins spawn per chunk!
+	"Phylite Veins Per Chunk" = 2
+	#How many Phylite Ore Blocks spawn in one Vein!
+	"Phylite Vein Size" = 25
 	#How many Limestone Ore Veins spawn per chunk!
-	"Veins Per Chunk" = 6
+	"Limestone Veins Per Chunk" = 6
 	#How many Limestone Ore Blocks spawn in one Vein!
-	"Vein Size" = 24
+	"Limestone Vein Size" = 21
 

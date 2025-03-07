@@ -1,0 +1,8 @@
+{
+	"showGogglesOverlay": true,
+	"biomeSoundAmbience": true,
+	"charredForestChance": 0.08,
+	"smallCharredForestChance": 0.04,
+	"charredForestClearingChance": 0.05,
+	"generateClearings": true
+}

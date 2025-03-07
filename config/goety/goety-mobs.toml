@@ -68,6 +68,8 @@
 			caveSpiderServantTexture = true
 			#If Bone Spiders Servants have custom textures, Default: true
 			boneSpiderServantTexture = true
+			#If Web Spiders Servants have different textures from hostile versions, Default: true
+			webSpiderServantTexture = true
 
 		[Textures."Summoned Mobs"."Slime Servants"]
 			#If Slime Servants have custom textures, Default: true
@@ -96,6 +98,10 @@
 		[Textures."Summoned Mobs"."Redstone Monstrosity"]
 			#If Redstone Monstrosities have custom textures, Default: true
 			redstoneMonstrosityTexture = true
+
+		[Textures."Summoned Mobs"."Squall Golem"]
+			#If Squall Golems have custom textures, Default: true
+			squallGolemTexture = true
 
 [Servants]
 	#Whether Redstone Monstrosity breaks leaves and certain blocks if mob griefing is enabled, Default: true
@@ -426,6 +432,12 @@
 	#Spawn Weight for Necromancer, Default: 1
 	#Range: > 0
 	necromancerSpawnWeight = 1
+	#Spawn Weight for Reaper, Default: 10
+	#Range: > 0
+	reaperSpawnWeight = 10
+	#Spawn Weight for Web Spiders, Default: 40
+	#Range: > 0
+	webSpiderSpawnWeight = 40
 
 	[Misc.Apostle]
 		#Apostle spreads Nether biomes, and Nether Meteors deals environmental damage and spread Nether biomes as well. WARNING: Causes lots of lag. Default: false

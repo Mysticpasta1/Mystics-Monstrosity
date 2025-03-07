@@ -1,0 +1,19 @@
+// Compost colors for agricraft. You may add your own colors, change existing ones, or remove colors that aren't needed.
+amathyllis_petal, #daaaff
+clipper, #e4ccc9
+coal_pebble, #29262c
+copper_nugget, #b8902a
+debugger, #b5b258
+diamond_shard, #30e7cf
+emerald_shard, #1cb54a
+iron_crop_sticks, #ffffff
+iron_rake, #e7ded0
+journal, #4b3d7c
+magnifying_glass, #b2a189
+netherite_sliver, #542a20
+obsidian_crop_sticks, #1f1532
+quartz_shard, #ffffff
+seed_bag, #af622f
+trowel, #a8a49a
+wooden_crop_sticks, #bca77f
+wooden_rake, #ead6bc

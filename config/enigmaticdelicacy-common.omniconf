@@ -11,14 +11,41 @@
 ##########################################################################################################
 
 "Accessibility Options" {
+    # Whether or not Abyssal Stew should be enabled. [default: true, synchronized: yes]
+    B:AbyssalStewEnabled=true
+
+    # Whether or not Balanced Stewed Soup Block should be enabled. [default: true, synchronized: yes]
+    B:BalancedStewedSoupBlockEnabled=true
+
+    # Whether or not Balanced Stewed Soup should be enabled. [default: true, synchronized: yes]
+    B:BalancedStewedSoupEnabled=true
+
+    # Whether or not Bloody Custard should be enabled. [default: true, synchronized: yes]
+    B:BloodyCustardEnabled=true
+
     # Whether or not Divine Fruit Pie Block should be enabled. [default: true, synchronized: yes]
     B:DivineFruitPieBlockEnabled=true
 
     # Whether or not Divine Fruit Pie should be enabled. [default: true, synchronized: yes]
     B:DivineFruitPieEnabled=true
 
+    # Whether or not Enigmatic Bush should be enabled. [default: true, synchronized: yes]
+    B:EnigmaticBushEnabled=true
+
+    # Whether or not Enigmatic Cream should be enabled. [default: true, synchronized: yes]
+    B:EnigmaticCreamEnabled=true
+
+    # Whether or not Enigmatic Fruit should be enabled. [default: true, synchronized: yes]
+    B:EnigmaticFruitEnabled=true
+
+    # Whether or not Enigmatic Seed should be enabled. [default: true, synchronized: yes]
+    B:EnigmaticSeedEnabled=true
+
     # Whether or not Etherium Machete should be enabled. [default: true, synchronized: yes]
     B:EtheriumMacheteEnabled=true
+
+    # Whether or not Etherium Ore should be enabled. [default: true, synchronized: yes]
+    B:EtheriumOreEnabled=true
 
     # Whether or not Etherium Stove should be enabled. [default: true, synchronized: yes]
     B:EtheriumStoveEnabled=true
@@ -38,14 +65,44 @@
     # Whether or not Infini-Soil should be enabled. [default: true, synchronized: yes]
     B:InfiniSoilEnabled=true
 
+    # Whether or not Passion Fried Rice should be enabled. [default: true, synchronized: yes]
+    B:PassionFriedRiceEnabled=true
+
     # Whether or not Purified Dragon Breath should be enabled. [default: true, synchronized: yes]
     B:PurifiedDragonBreathEnabled=true
+
+    # Whether or not Slice of Astral Fruit should be enabled. [default: true, synchronized: yes]
+    B:SliceofAstralFruitEnabled=true
 
     # Whether or not Slice of Cosmic Cake should be enabled. [default: true, synchronized: yes]
     B:SliceofCosmicCakeEnabled=true
 
+    # Whether or not Slice of Sticky Enigmatic Pie should be enabled. [default: true, synchronized: yes]
+    B:SliceofStickyEnigmaticPieEnabled=true
+
+    # Whether or not Sticky Enigmatic Pie should be enabled. [default: true, synchronized: yes]
+    B:StickyEnigmaticPieEnabled=true
+
     # Whether or not Stuffed Astral Potato should be enabled. [default: true, synchronized: yes]
     B:StuffedAstralPotatoEnabled=true
+}
+
+
+##########################################################################################################
+# Balance Options
+#--------------------------------------------------------------------------------------------------------#
+# Various options that mostly affect individual items
+##########################################################################################################
+
+"Balance Options" {
+    # The damage modifier when you have the effect of Abyssal Stew. Measured in percentage. [range: 0 ~ 32768, default: 40, synchronized: yes]
+    I:AbyssalStewDamageModifier=40
+
+    # The effect duration of Abyssal Stew. Measured in tick. [range: 0 ~ 32768, default: 14400, synchronized: yes]
+    I:AbyssalStewDuration=14400
+
+    # The damage resistance modifier when you have the effect of Abyssal Stew. Measured in percentage. [range: 0 ~ 100, default: 60, synchronized: yes]
+    I:AbyssalStewResistanceModifier=60
 }
 
 

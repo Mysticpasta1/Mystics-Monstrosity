@@ -1,0 +1,10 @@
+{
+  "general": {
+    "can_bonemeal_sugar_cane": true,
+    "can_bonemeal_spore_blossom": true
+  },
+  "biome_proportions": {
+    "mulberry_forest": 0.25,
+    "shrublands": 0.35
+  }
+}

@@ -1,0 +1,8 @@
+// Compost colors for constructs_casting. You may add your own colors, change existing ones, or remove colors that aren't needed.
+exilite_ingot, #545f6e
+exilite_nugget, #414852
+exilite_reinforcement, #b69869
+poisonous_potato_stew, #a88c2c
+potato_stew, #ab7628
+slime_rune, #aaa7a7
+wizardslime_ball, #ddb9bf

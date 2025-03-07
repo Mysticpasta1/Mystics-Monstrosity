@@ -2,6 +2,8 @@
 [vm]
 	#Range: 0 ~ 9223372036854775807
 	maxAllocatedMemory = 536870912
+	#Range: > 0
+	diskSizeFactor = 2097152
 
 [energy]
 
@@ -30,6 +32,10 @@
 		cardCageEnergyPerTick = 20
 		#Range: > 0
 		cardCageEnergyStorage = 2000
+		#Range: > 0
+		gatewayEnergyPerPacket = 20
+		#Range: > 0
+		gatewayEnergyStorage = 2000
 
 	[energy.entities]
 		#Range: > 0
@@ -56,6 +62,8 @@
 		inventoryOperationsModuleEnergyPerTick = 1
 		#Range: > 0
 		networkTunnelEnergyPerTick = 2
+		#Range: 0.0 ~ Infinity
+		cpuEnergyPerMegahertzPerTick = 0.1
 
 [gameplay]
 	blockOperationsModuleToolTier = "minecraft:diamond"
@@ -83,4 +91,23 @@
 	bindHost = "::1"
 	#Range: > 0
 	bindPort = 4789
+
+[internet-card]
+	internetCardEnabled = false
+	#Range: > 0
+	defaultSessionLifetimeMs = 60000
+	#Range: > 0
+	defaultSessionsNumberPerCardLimit = 10
+	#Range: > 0
+	defaultSessionsNumberLimit = 100
+	#Range: > 0
+	defaultEchoRequestTimeoutMs = 1000
+	deniedHosts = "127.0.0.0/8, 10.0.0.0/8, 100.64.0.0/10, 172.16.0.0/12, 192.168.0.0/16, 224.0.0.0/4"
+	allowedHosts = ""
+	defaultNameServer = "1.1.1.1"
+	useSynchronisedNAT = false
+	#Range: > 0
+	streamBufferSize = 2000
+	#Range: > 0
+	tcpRetransmissionTimeoutMs = 2000
 

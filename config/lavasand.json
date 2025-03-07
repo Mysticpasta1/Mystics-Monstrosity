@@ -1,0 +1,6 @@
+{
+  "blocks_to_glass": [
+    "minecraft:sand",
+    "minecraft:red_sand"
+  ]
+}

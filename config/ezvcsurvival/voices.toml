@@ -25,3 +25,17 @@
 	#Range: 0.0 ~ 1.0
 	sneaking_range_multiplier = 0.5
 
+#Death Angels Mod Config
+#Defines the threshold detection (how hard the player must speak)
+#You need this mod for this parameter: https://www.curseforge.com/minecraft/mc-mods/death-angels
+[death_angels_config]
+	#Range: -127.0 ~ 0.0
+	death_angels_threshold = -30.0
+
+#Armor Effects Config
+#Define multipliers for mob detection range and speed when a player wears specific armor items.
+#Format: item_id=speedMultiplier,rangeMultiplier
+#Example: minecraft:diamond_helmet=0.5,0.5
+[armor_effects]
+	effects = ["minecraft:diamond_helmet=1.0,0.5", "minecraft:diamond_chestplate=1.0,0.7"]
+

@@ -1417,6 +1417,23 @@
 		#Range: > 0
 		tidalCoolDown = 60
 
+	[Spells."Reaping Spell"]
+		#Reaping Spell Cost, Default: 24
+		#Range: > 0
+		reaperCost = 24
+		#Time to cast Reaping Spell, Default: 60
+		#Range: 0 ~ 72000
+		reaperTime = 60
+		#Reaping Spell Cooldown, Default: 100
+		#Range: > 0
+		reaperCoolDown = 100
+		#Reaping Spell Summon Down, Default: 300
+		#Range: 0 ~ 72000
+		reaperSummonDown = 300
+		#Number of Reaper Servants that a player can have, Default: 8
+		#Range: > 1
+		reaperLimit = 8
+
 ["Servant Limits"]
 	#Number of Leapleaves that an individual player can have in total, Default: 16
 	#Range: > 1
@@ -1451,6 +1468,9 @@
 	#Number of Drowned Necromancer Servants that an individual player can have in total, Default: 2
 	#Range: > 1
 	drownedNecromancerLimit = 2
+	#Number of Brood Mother Servants that an individual player can have in total, Default: 2
+	#Range: > 1
+	broodMotherLimit = 2
 
 [Enchantments]
 	#Soul Eater Maximum Enchantment Level, Default: 5

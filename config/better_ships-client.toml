@@ -1,0 +1,28 @@
+
+[client]
+	#The index of the joystick in the game devices list
+	#Range: -1 ~ 15
+	joystickSelectedIndex = -1
+	#The index of the yaw axis on the joystick
+	#Range: > -1
+	yawAxisSelectedIndex = -1
+	#The index of the pitch axis on the joystick
+	#Range: > -1
+	pitchAxisSelectedIndex = -1
+	#The index of the roll axis on the joystick
+	#Range: > -1
+	rollAxisSelectedIndex = -1
+	#The index of the thrust axis on the joystick
+	#Range: > -1
+	thrustAxisSelectedIndex = -1
+	#If the yaw axis is inverted
+	yawAxisInverted = false
+	#If the pitch axis is inverted
+	pitchAxisInverted = false
+	#If the roll axis is inverted
+	rollAxisInverted = false
+	#If the thrust axis is inverted
+	thrustAxisInverted = true
+	#If the joystick is gonna be used
+	usingJoystick = true
+

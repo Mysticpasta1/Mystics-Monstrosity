@@ -1,0 +1,20 @@
+{
+	"disableMod": false,
+	"disabledDimensions": [
+		"minecraft:the_nether"
+	],
+	"disableRaininessEffect": false,
+	"disableUndergroundFogMultiplier": false,
+	"disableBiomeFogColour": false,
+	"disableCloudWhitening": false,
+	"initialFogStart": 0.1,
+	"initialFogEnd": 0.85,
+	"raininessTransitionSpeed": 0.005,
+	"undergroundnessTransitionSpeed": 0.005,
+	"fogStartTransitionSpeed": 0.005,
+	"fogEndTransitionSpeed": 0.005,
+	"darknessTransitionSpeed": 0.005,
+	"fogColorTransitionSpeed": 0.025,
+	"startMultiplierTransitionSpeed": 0.0075,
+	"endMultiplierTransitionSpeed": 0.0075
+}

@@ -11,6 +11,17 @@
         "value": 100
       }
     },
+    "wizards_reborn:magic_modifier": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "forge:step_height_addition": {
       "enabled": false,
       "min": {
@@ -583,6 +594,17 @@
         "value": 100
       }
     },
+    "additional_attributes:apothic_crafting": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10,
+        "value": 10
+      }
+    },
     "additional_attributes:innate_spell/irons_spellbooks/gluttony": {
       "enabled": false,
       "min": {
@@ -603,6 +625,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "valoria:dash_distance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 128,
+        "value": 128
       }
     },
     "l2damagetracker:damage_absorption": {
@@ -649,17 +682,6 @@
         "value": 24
       }
     },
-    "additionalentityattributes:lava_visibility": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
     "tetra:draw_strength": {
       "enabled": false,
       "min": {
@@ -669,6 +691,17 @@
       "max": {
         "default": 2048,
         "value": 2048
+      }
+    },
+    "additionalentityattributes:lava_visibility": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "obscure_api:healing_power": {
@@ -1265,6 +1298,17 @@
         "value": 50
       }
     },
+    "valoria:attack_radius": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 32,
+        "value": 32
+      }
+    },
     "additional_attributes:innate_spell/irons_spellbooks/wither_skull": {
       "enabled": false,
       "min": {
@@ -1461,6 +1505,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "wizards_reborn:arcane_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
       }
     },
     "additional_attributes:innate_spell/irons_spellbooks/wall_of_fire": {
@@ -1782,6 +1837,17 @@
         "value": 100
       }
     },
+    "additional_attributes:innate_school/constructs_casting/slime": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "additional_attributes:innate_spell/irons_spellbooks/summon_polar_bear": {
       "enabled": false,
       "min": {
@@ -1813,6 +1879,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "wizards_reborn:wissen_discount": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 75,
+        "value": 75
       }
     },
     "irons_spellbooks:ice_spell_power": {
@@ -2046,17 +2123,6 @@
         "value": 20
       }
     },
-    "additionalentityattributes:bonus_rare_loot_rolls": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 128,
-        "value": 128
-      }
-    },
     "additional_attributes:spell_type_devour": {
       "enabled": false,
       "min": {
@@ -2077,6 +2143,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "additionalentityattributes:bonus_rare_loot_rolls": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 128,
+        "value": 128
       }
     },
     "additional_attributes:innate_spell/irons_spellbooks/burning_dash": {
@@ -2365,17 +2442,6 @@
         "value": 100
       }
     },
-    "additionalentityattributes:dig_speed": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 2048,
-        "value": 2048
-      }
-    },
     "additional_attributes:innate_spell/irons_spellbooks/poison_splash": {
       "enabled": false,
       "min": {
@@ -2385,6 +2451,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "additionalentityattributes:dig_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
       }
     },
     "expanded_combat:void_dmg": {
@@ -2409,17 +2486,6 @@
         "value": 10000
       }
     },
-    "additionalentityattributes:water_visibility": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
     "additional_attributes:spell_type_ball_lightning": {
       "enabled": false,
       "min": {
@@ -2429,6 +2495,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "additionalentityattributes:water_visibility": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "additional_attributes:innate_school/irons_spellbooks/ender": {
@@ -2453,7 +2530,29 @@
         "value": 100
       }
     },
+    "valoria:necromancy_count": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 15,
+        "value": 15
+      }
+    },
     "additional_attributes:spell_type_evasion": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "wizards_reborn:magic_armor": {
       "enabled": false,
       "min": {
         "default": 0,
@@ -2508,17 +2607,6 @@
         "value": 100
       }
     },
-    "additionalentityattributes:critical_bonus_damage": {
-      "enabled": false,
-      "min": {
-        "default": -1,
-        "value": -1
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
     "additional_attributes:innate_school/irons_spellbooks/holy": {
       "enabled": false,
       "min": {
@@ -2528,6 +2616,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "additionalentityattributes:critical_bonus_damage": {
+      "enabled": false,
+      "min": {
+        "default": -1,
+        "value": -1
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "additional_attributes:innate_school/irons_spellbooks/nature": {
@@ -3157,6 +3256,17 @@
         "value": 100
       }
     },
+    "additional_attributes:spell/constructs_casting/freeze": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "additional_attributes:innate_spell/irons_spellbooks/electrocute": {
       "enabled": false,
       "min": {
@@ -3421,6 +3531,17 @@
         "value": 100
       }
     },
+    "valoria:excavation_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "additionalentityattributes:bonus_loot_count_rolls": {
       "enabled": false,
       "min": {
@@ -3444,6 +3565,17 @@
       }
     },
     "additional_attributes:spell_type_scorch": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/constructs_casting/freeze": {
       "enabled": false,
       "min": {
         "default": 0,
@@ -3575,6 +3707,17 @@
         "value": 100
       }
     },
+    "valoria:necromancy_lifetime": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 4028,
+        "value": 4028
+      }
+    },
     "attributeslib:prot_pierce": {
       "enabled": false,
       "min": {
@@ -3602,6 +3745,17 @@
       "min": {
         "default": 0,
         "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "constructs_casting:slime_magic_resist": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
       },
       "max": {
         "default": 100,
@@ -3705,6 +3859,17 @@
       "max": {
         "default": 10000,
         "value": 10000
+      }
+    },
+    "additional_attributes:school/constructs_casting/slime": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
       }
     },
     "expanded_combat:soul_dmg": {
@@ -4103,6 +4268,17 @@
         "value": 100
       }
     },
+    "constructs_casting:slime_spell_power": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "additional_attributes:innate_spell/irons_spellbooks/fang_strike": {
       "enabled": false,
       "min": {
@@ -4332,6 +4508,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "valoria:projectile_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "additionalentityattributes:lava_speed": {

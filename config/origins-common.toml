@@ -2381,6 +2381,7 @@
 		"valorant_origins:sovapowers/eagleeye" = true
 		"valorant_origins:sovapowers/huntersbow" = true
 		"valorant_origins:sovapowers/fletchingexpert" = true
+		"valorant_origins:sovapowers/huntersfriend" = true
 
 	[origins."origins-plus-plus:warden"]
 		enabled = true
@@ -5147,4 +5148,12 @@
 		"valorant_origins:sagepowers/slowball" = true
 		"valorant_origins:sagepowers/fragilehealer" = true
 		"valorant_origins:sagepowers/elemental" = true
+
+	[origins."valorant_origins:iso"]
+		enabled = true
+		"valorant_origins:isopowers/phasingshield" = true
+		"valorant_origins:isopowers/storagedomain" = true
+		"valorant_origins:isopowers/killcontract" = true
+		"valorant_origins:isopowers/unprotectedcore" = true
+		"valorant_origins:isopowers/fracturedfocus" = true
 

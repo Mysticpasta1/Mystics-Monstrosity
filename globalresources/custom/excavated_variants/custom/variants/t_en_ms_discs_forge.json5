@@ -1,0 +1,27 @@
+/* 
+ * Copyright (c) 2025 Luke Bemish and contributors.
+ * SPDX-License-Identifier: LGPL-3.0-or-later
+ */
+
+{
+    mod_id: 't_en_ms_discs_forge',
+    provided_stones: [
+    ],
+    provided_ores: [
+        {
+            id: 't_en_ms_discs_forge_citrine_ore',
+            stone: [
+                'stone',
+            ],
+            block_id: [
+                't_en_ms_discs_forge:citrine_ore',
+            ],
+            lang: {
+                en_us: 'Citrine Ore',
+            },
+            types: [
+                'stone',
+            ],
+        },
+    ],
+}

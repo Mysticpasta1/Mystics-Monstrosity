@@ -83,9 +83,6 @@
 	#Cooldown in minutes to use the command tbteleportdeath [-1..1440|default:-1]
 	#Range: -1 ~ 1440
 	cooldown_teleport_death = -1
-	#Cooldown in minutes to use the command tbbind [-1..1440|default:-1]
-	#Range: -1 ~ 1440
-	cooldown_teleport_bind = -1
 	#Beneficial effects that can't used by certain features such as ankh of prayer, lollipop, scroll of preservation, alchemy perk and magic siphon enchantment
 	unhandled_beneficial_effects = ["astralsorcery:potiontimefreeze"]
 	#Harmful effects that can't used by certain features such as tablet of cupidity and the enchantment plague bringer

@@ -1,0 +1,22 @@
+/* 
+ * Copyright (c) 2025 Luke Bemish and contributors.
+ * SPDX-License-Identifier: LGPL-3.0-or-later
+ */
+
+{
+    mod_id: 'wildfields',
+    provided_stones: [
+        {
+            block_id: 'wildfields:dolomite_block',
+            types: [
+                'stone',
+            ],
+            id: 'wildfields_dolomite',
+            lang: {
+                en_us: 'Dolomite',
+            },
+        },
+    ],
+    provided_ores: [
+    ],
+}

@@ -1,0 +1,25 @@
+// Compost colors for verdance. You may add your own colors, change existing ones, or remove colors that aren't needed.
+abode_pottery_sherd, #977068
+cantaloupe_juice, #ffdca1
+cantaloupe_seeds, #d7a758
+cantaloupe_slice, #ffc21f
+community_armor_trim_smithing_template, #ffffff
+disc_fragment_range, #444a36
+frills_pottery_sherd, #945244
+grilled_cantaloupe_slice, #a77a04
+mulberry, #dde07d
+mulberry_boat, #b9962f
+mulberry_chest_boat, #ab862c
+mulberry_door, #fff769
+mulberry_hanging_sign, #d7b640
+mulberry_sign, #ddb83c
+music_disc_range, #525543
+pink_flowering_shrub, #b2af62
+pitch_pottery_sherd, #9e5848
+prickle_pottery_sherd, #9e7d7a
+shrub, #94a740
+silkworm_eggs, #ffffea
+spirit_pottery_sherd, #965444
+trap_pottery_sherd, #9d7873
+violet, #c284c6
+yellow_flowering_shrub, #b4b63c

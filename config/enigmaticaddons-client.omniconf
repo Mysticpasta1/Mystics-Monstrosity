@@ -11,6 +11,9 @@
 "Generic Config" {
     # If false, disables the particle effect for fully frozen entities. [default: true]
     B:CustomFrostParticle=true
+
+    # If false, disables the icon display of the Etherium Shield. [default: true]
+    B:EtheriumShieldIconDisplay=true
 }
 
 

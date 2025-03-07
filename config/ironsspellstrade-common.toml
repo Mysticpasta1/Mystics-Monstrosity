@@ -1,10 +1,153 @@
-#Whether to log the dirt block on common setup
-logDirtBlock = true
-#A magic number
-#Range: > 0
-magicNumber = 42
-#What you want the introduction message to be for the magic number
-magicNumberIntroduction = "The magic number is... "
-#A list of items to log on common setup.
-items = ["minecraft:iron_ingot"]
+#Enable trade for cleric_arcane_essence
+cleric_arcane_essence_enabled = true
+#Buy amount for cleric_arcane_essence
+#Range: 1 ~ 64
+cleric_arcane_essence_buy = 18
+#Sell amount for cleric_arcane_essence
+#Range: 1 ~ 64
+cleric_arcane_essence_sell = 3
+#Enable trade for cleric_lightning_bottle
+cleric_lightning_bottle_enabled = true
+#Buy amount for cleric_lightning_bottle
+#Range: 1 ~ 64
+cleric_lightning_bottle_buy = 22
+#Sell amount for cleric_lightning_bottle
+#Range: 1 ~ 64
+cleric_lightning_bottle_sell = 3
+#Enable trade for cleric_frozen_bone
+cleric_frozen_bone_enabled = true
+#Buy amount for cleric_frozen_bone
+#Range: 1 ~ 64
+cleric_frozen_bone_buy = 41
+#Sell amount for cleric_frozen_bone
+#Range: 1 ~ 64
+cleric_frozen_bone_sell = 2
+#Enable trade for cleric_blood_vial
+cleric_blood_vial_enabled = true
+#Buy amount for cleric_blood_vial
+#Range: 1 ~ 64
+cleric_blood_vial_buy = 37
+#Sell amount for cleric_blood_vial
+#Range: 1 ~ 64
+cleric_blood_vial_sell = 1
+#Enable trade for cleric_divine_pearl
+cleric_divine_pearl_enabled = true
+#Buy amount for cleric_divine_pearl
+#Range: 1 ~ 64
+cleric_divine_pearl_buy = 35
+#Sell amount for cleric_divine_pearl
+#Range: 1 ~ 64
+cleric_divine_pearl_sell = 4
+#Enable trade for cleric_common_ink
+cleric_common_ink_enabled = true
+#Buy amount for cleric_common_ink
+#Range: 1 ~ 64
+cleric_common_ink_buy = 18
+#Sell amount for cleric_common_ink
+#Range: 1 ~ 64
+cleric_common_ink_sell = 1
+#Enable trade for cleric_cinder_essence
+cleric_cinder_essence_enabled = true
+#Buy amount for cleric_cinder_essence
+#Range: 1 ~ 64
+cleric_cinder_essence_buy = 1
+#Sell amount for cleric_cinder_essence
+#Range: 1 ~ 64
+cleric_cinder_essence_sell = 3
+#Enable trade for cleric_arcane_ingot
+cleric_arcane_ingot_enabled = true
+#Buy amount for cleric_arcane_ingot
+#Range: 1 ~ 64
+cleric_arcane_ingot_buy = 27
+#Sell amount for cleric_arcane_ingot
+#Range: 1 ~ 64
+cleric_arcane_ingot_sell = 8
+#Enable trade for cleric_greater_healing_potion
+cleric_greater_healing_potion_enabled = true
+#Buy amount for cleric_greater_healing_potion
+#Range: 1 ~ 64
+cleric_greater_healing_potion_buy = 7
+#Sell amount for cleric_greater_healing_potion
+#Range: 1 ~ 64
+cleric_greater_healing_potion_sell = 1
+#Enable trade for cleric_ancient_knowledge
+cleric_ancient_knowledge_enabled = true
+#Buy amount for cleric_ancient_knowledge
+#Range: 1 ~ 64
+cleric_ancient_knowledge_buy = 11
+#Sell amount for cleric_ancient_knowledge
+#Range: 1 ~ 64
+cleric_ancient_knowledge_sell = 1
+#Enable trade for librarian_spell_book
+librarian_spell_book_enabled = true
+#Buy amount for librarian_spell_book
+#Range: 1 ~ 64
+librarian_spell_book_buy = 37
+#Sell amount for librarian_spell_book
+#Range: 1 ~ 64
+librarian_spell_book_sell = 1
+#Enable trade for toolsmith_silver_ring
+toolsmith_silver_ring_enabled = true
+#Buy amount for toolsmith_silver_ring
+#Range: 1 ~ 64
+toolsmith_silver_ring_buy = 3
+#Sell amount for toolsmith_silver_ring
+#Range: 1 ~ 64
+toolsmith_silver_ring_sell = 1
+#Enable trade for armorer_pumpkin_helmet
+armorer_pumpkin_helmet_enabled = true
+#Buy amount for armorer_pumpkin_helmet
+#Range: 1 ~ 64
+armorer_pumpkin_helmet_buy = 21
+#Sell amount for armorer_pumpkin_helmet
+#Range: 1 ~ 64
+armorer_pumpkin_helmet_sell = 1
+#Enable trade for armorer_magician_chestplate
+armorer_magician_chestplate_enabled = true
+#Buy amount for armorer_magician_chestplate
+#Range: 1 ~ 64
+armorer_magician_chestplate_buy = 22
+#Sell amount for armorer_magician_chestplate
+#Range: 1 ~ 64
+armorer_magician_chestplate_sell = 1
+#Enable trade for armorer_magician_leggings
+armorer_magician_leggings_enabled = true
+#Buy amount for armorer_magician_leggings
+#Range: 1 ~ 64
+armorer_magician_leggings_buy = 23
+#Sell amount for armorer_magician_leggings
+#Range: 1 ~ 64
+armorer_magician_leggings_sell = 1
+#Enable trade for armorer_magician_boots
+armorer_magician_boots_enabled = true
+#Buy amount for armorer_magician_boots
+#Range: 1 ~ 64
+armorer_magician_boots_buy = 24
+#Sell amount for armorer_magician_boots
+#Range: 1 ~ 64
+armorer_magician_boots_sell = 1
+#Enable trade for leatherworker_hogskin
+leatherworker_hogskin_enabled = true
+#Buy amount for leatherworker_hogskin
+#Range: 1 ~ 64
+leatherworker_hogskin_buy = 17
+#Sell amount for leatherworker_hogskin
+#Range: 1 ~ 64
+leatherworker_hogskin_sell = 3
+#Enable trade for leatherworker_magic_cloth
+leatherworker_magic_cloth_enabled = true
+#Buy amount for leatherworker_magic_cloth
+#Range: 1 ~ 64
+leatherworker_magic_cloth_buy = 1
+#Sell amount for leatherworker_magic_cloth
+#Range: 1 ~ 64
+leatherworker_magic_cloth_sell = 5
+#Enable trade for leatherworker_dragonskin
+leatherworker_dragonskin_enabled = true
+#Buy amount for leatherworker_dragonskin
+#Range: 1 ~ 64
+leatherworker_dragonskin_buy = 64
+#Sell amount for leatherworker_dragonskin
+#Range: 1 ~ 64
+leatherworker_dragonskin_sell = 1
 

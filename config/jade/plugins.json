@@ -1,4 +1,7 @@
 {
+  "jadeaddons.mcjtylib": {
+    "jadeaddons": true
+  },
   "exdeorum": {
     "infested_leaves": true,
     "barrel": true,
@@ -46,32 +49,21 @@
   "projectexpansion": {
     "provider": true
   },
-  "create": {
-    "filter": true,
-    "backtank_capacity": true,
-    "goggles.requires_goggles": true,
-    "goggles": false,
-    "blaze_burner": true,
-    "exact_block": true,
-    "crafting_blueprint": true,
-    "goggles.detailed": false,
-    "placard": true
+  "valoria": {
+    "jewelry": true,
+    "manipulator": true,
+    "keg": true,
+    "key": true,
+    "crusher": true
   },
   "waystones": {
     "waystone": true
-  },
-  "goety": {
-    "block_owner": true,
-    "soul_energy": true,
-    "servant_mode": true,
-    "zombie_villager": true,
-    "villager_profession": true,
-    "summon_lifespan": true
   },
   "cookingforblockheads": {
     "fridge": true,
     "oven": true,
     "sink": true,
+    "preservation_chamber": true,
     "toaster": true,
     "milk_jar": true
   },
@@ -126,9 +118,6 @@
     "auto_hammer": true,
     "wooden_crucible": true
   },
-  "mcjtylib": {
-    "jadeaddons": true
-  },
   "expatternprovider": {
     "jade_chamber": true,
     "jade_wireless": true
@@ -138,9 +127,8 @@
     "ench": true,
     "spawner": true
   },
-  "oregrowth": {
-    "ore_growth_hint": true,
-    "ore_growth_icon": true
+  "balm": {
+    "jade": true
   },
   "integrateddynamicscompat": {
     "proxy": true,
@@ -225,11 +213,22 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "jadeaddons.create": {
+    "filter": true,
+    "backtank_capacity": true,
+    "goggles.requires_goggles": true,
+    "goggles": false,
+    "blaze_burner": true,
+    "exact_block": true,
+    "goggles.detailed": false,
+    "placard": true
+  },
   "entangled": {
     "entangled_block_component": true
   },
   "avaritia": {
-    "extreme": true,
+    "extreme_smithing": true,
+    "crafting_table": true,
     "compressor": true
   },
   "immersiveengineering": {
@@ -245,9 +244,6 @@
     "coordinates": false,
     "registry_name": "OFF",
     "mod_name": true
-  },
-  "create_mechanical_spawner": {
-    "spawner_data": true
   },
   "car": {
     "car": true,
@@ -306,9 +302,6 @@
   "unlitcampfire": {
     "campfireinfo": true
   },
-  "lootr": {
-    "info": true
-  },
   "refinedcooking": {
     "kitchen_access_point": true,
     "kitchen_station": true
@@ -325,6 +318,9 @@
   },
   "jadeaddons": {
     "equipment_requirement": ""
+  },
+  "jadeaddons.lootr": {
+    "info": true
   },
   "delightful": {
     "crop_progress": true,

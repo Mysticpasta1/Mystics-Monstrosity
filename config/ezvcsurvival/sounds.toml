@@ -12,9 +12,21 @@
 [mob_sound_reactions]
 	reactions = ["minecraft:zombie=speed=1.5,range=20,groups=wood_sounds", "minecraft:cow=speed=1.8,range=16,groups=animal_hurts"]
 
-#Gun type modifiers configuration (TACZ only)
+[weather]
+	#Range multiplier applied when it is raining or thundering.
+	#Value between 0 and 1. A lower value will reduce the effective sound range.
+	#Range: 0.0 ~ 1.0
+	thunder_range_multiplier = 0.8
+
+#Gun type modifiers configuration (TACZ)
 #Define multipliers for mob reaction speed and range by gun type.
 #Format: gunType=speedMultiplier,rangeMultiplier
-[gun_type_modifiers]
-	modifiers = ["pistol=1.2,3.8", "sniper=1.5,8.0", "rifle=1.3,6.5", "shotgun=1.4,4.8", "smg=1.2,3.0", "rpg=1.8,10.0", "mg=1.5,4.0"]
+[tacz_gun_type_modifiers]
+	modifiers = ["pistol=1.0,3.8", "sniper=1.0,8.0", "rifle=1.0,6.5", "shotgun=1.0,4.8", "smg=1.0,3.0", "rpg=1.0,10.0", "mg=1.0,4.0"]
+
+#PointBlank gun type modifiers configuration
+#Define multipliers for pointblank reaction adjustments by gun type.
+#Format: gunType=speedMultiplier,rangeMultiplier
+[pointblank_gun_type_modifiers]
+	modifiers = ["pistol=1.0,4.0", "sniper=1.0,5.0", "rifle=1.0,6.5", "shotgun=1.0,4.8", "smg=1.0,3.0", "rpg=1.0,10.0", "mg=1.0,8.0"]
 

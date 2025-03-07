@@ -253,6 +253,17 @@
 			#Range: 1.0 ~ 1.7976931348623157E308
 			hauntedArmorHealth = 25.0
 
+		[Attributes.General.Reaper]
+			#How much Max Health Reapers have, Default: 24.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			reaperHealth = 24.0
+			#How much natural Armor Reapers have, Default: 0.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			reaperArmor = 0.0
+			#How much damage Reapers deals, Default: 8.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			reaperDamage = 8.0
+
 	[Attributes."Summoned Mobs"]
 
 		[Attributes."Summoned Mobs"."Zombie Servant"]
@@ -795,6 +806,28 @@
 			#How much damage Snappers melee attack deals, Default: 4.0
 			#Range: 1.0 ~ 1.7976931348623157E308
 			snapperDamage = 4.0
+
+		[Attributes."Summoned Mobs"."Brood Mother"]
+			#How much Max Health Brood Mothers have, Default: 96.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			broodMotherHealth = 96.0
+			#How much natural Armor Brood Mothers have, Default: 0.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			broodMotherArmor = 0.0
+			#How much damage Brood Mothers melee attack deals, Default: 6.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			broodMotherDamage = 6.0
+
+		[Attributes."Summoned Mobs"."Twilight Goat"]
+			#How much Max Health Twilight Goats have, Default: 10.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			twilightGoatHealth = 10.0
+			#How much natural Armor Twilight Goats have, Default: 0.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			twilightGoatArmor = 0.0
+			#How much damage Twilight Goats melee attack deals, Default: 2.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			twilightGoatDamage = 2.0
 
 	[Attributes.Mini-Bosses]
 

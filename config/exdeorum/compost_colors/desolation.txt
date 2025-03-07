@@ -1,0 +1,21 @@
+// Compost colors for desolation. You may add your own colors, change existing ones, or remove colors that aren't needed.
+activated_charcoal, #161616
+air_filter, #222222
+ash_pile, #c3c6cd
+charcoal_bit, #342f23
+charred_boat, #949494
+charred_chest_boat, #504129
+charred_door, #555555
+charred_hanging_sign, #afafaf
+charred_sapling, #48403d
+charred_sign, #474747
+cinderfruit, #681f1c
+cinderfruit_plant, #553732
+cinderfruit_seeds, #8e5243
+goggles, #904e28
+heart_of_cinder, #911f0c
+infused_powder, #4b2828
+mask, #836861
+music_disc_ashes, #613d36
+primed_ash, #545454
+scorched_tuft, #4a4441

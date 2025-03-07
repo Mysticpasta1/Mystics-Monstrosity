@@ -1,0 +1,3 @@
+// Compost colors for chromatic_construct. You may add your own colors, change existing ones, or remove colors that aren't needed.
+glass_reinforcement, #e6d09a
+hamhide, #ff2d70

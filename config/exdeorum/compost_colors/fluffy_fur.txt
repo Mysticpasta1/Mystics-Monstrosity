@@ -1,0 +1,5 @@
+// Compost colors for fluffy_fur. You may add your own colors, change existing ones, or remove colors that aren't needed.
+music_disc_fluffy, #ffffff
+silly_treat, #d49b69
+test_shrimp, #9e659a
+thing, #b29bb2

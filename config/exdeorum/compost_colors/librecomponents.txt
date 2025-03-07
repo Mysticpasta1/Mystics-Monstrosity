@@ -1,0 +1,15 @@
+// Compost colors for librecomponents. You may add your own colors, change existing ones, or remove colors that aren't needed.
+cpu_tier_1, #7a8384
+cpu_tier_2, #7a8380
+cpu_tier_3, #768484
+cpu_tier_4, #728680
+floppy, #ffffff
+floppy_modern, #ffffff
+hard_drive_extra_large, #ffffff
+hard_drive_large, #ffffff
+hard_drive_medium, #ffffff
+hard_drive_small, #ffffff
+memory_extra_large, #4e6f48
+memory_large, #546c4e
+memory_medium, #648254
+memory_small, #617c57

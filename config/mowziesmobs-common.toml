@@ -63,6 +63,9 @@
 		#Ice crystal durability
 		#Range: > 1
 		durability = 600
+		#Freeze duration in ticks (applies to frostmaw too!)
+		#Range: > 1
+		freeze_duration = 50
 
 	[tools_and_abilities.umvuthana_mask]
 

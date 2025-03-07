@@ -1,0 +1,3 @@
+// Compost colors for scribe. You may add your own colors, change existing ones, or remove colors that aren't needed.
+default_boat, #5b5b5b
+default_chest_boat, #706248

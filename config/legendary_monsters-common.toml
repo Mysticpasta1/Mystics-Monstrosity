@@ -110,6 +110,11 @@
 		"Cloud Golem Health Multiplier" = 1.0
 		#Enables Projectile Damage for Cloud Golem
 		"Allow Cloud Golem Projectile Damage" = true
+		#Enables Boss Music for Cloud Golem
+		"Allow Cloud Golem Boss Music" = true
+		#Cloud Golem music volume
+		#Range: 0.0 ~ 100.0
+		"Cloud Golem music volume" = 1.0
 
 	["Mob Settings"."Cloud Golem's Falling Cloud Settings"]
 		#Multiplies damage dealt by Falling Cloud
@@ -185,4 +190,12 @@
 		"Shulker Mimic Health Multiplier" = 1.0
 		#Enables Projectile Damage for Shulker Mimic
 		"Allow Shulker Mimic Projectile Damage" = true
+
+	["Mob Settings"."Stratling Settings"]
+		#Multiplies damage dealt by Stratling
+		#Range: 0.0 ~ 100.0
+		"Stratling Damage Multiplier" = 1.0
+		#Multiplies health of Stratling
+		#Range: 0.0 ~ 100.0
+		"Stratling Health Multiplier" = 1.0
 

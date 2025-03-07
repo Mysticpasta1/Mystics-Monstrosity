@@ -1,0 +1,118 @@
+
+#Graphics
+[graphics]
+
+	#Animations
+	[graphics.animations]
+		#Enable spells item animations.
+		spellsItemAnimation = true
+
+	#Particles
+	[graphics.particles]
+		#Limit wissen rays per tick.
+		#Range: 0 ~ 1000
+		wissenRaysLimit = 200
+
+	#Shaders
+	[graphics.shaders]
+		#Intensity of gaining knowledge effect post process shader.
+		#Range: 0.0 ~ 2.0
+		knowledgeShaderIntensity = 1.0
+		#Intensity of Mor Spores effect post process shader.
+		#WARNING: High value is not recommended due to bright flashes.
+		#Range: 0.25 ~ 2.0
+		morSporesShaderIntensity = 1.0
+		#Intensity of Wissen Aura effect post process shader.
+		#Range: 0.0 ~ 2.0
+		wissenAuraShaderIntensity = 1.0
+		#Intensity of Irritation effect post process shader.
+		#Range: 0.0 ~ 2.0
+		irritationShaderIntensity = 1.0
+		#Enable Light Rays glow effect post process shader.
+		lightRaysShader = true
+		#Intensity of Light Rays glow effect post process shader.
+		#Range: 0.0 ~ 2.0
+		lightRaysShaderIntensity = 1.0
+		#Radius of Light Rays glow effect post process shader.
+		#Range: 0.0 ~ 2.0
+		lightRaysShaderRadius = 1.0
+
+#Arcanemicon
+[arcanemicon]
+	#Enable hard mode in research.
+	#NOTE: Always on in hardcore.
+	researchHardMode = false
+	#Enable old type of monogram outline in research.
+	oldResearchMonogramOutline = false
+	#Enable bright type of monogram outline in research.
+	brightResearchMonogramOutline = false
+	#Enable connects with monogram in research.
+	researchMonogramConnects = true
+	#Enable monogram glow.
+	monogramGlow = true
+	#Enable monogram glow color.
+	monogramGlowColor = true
+	#Enable monogram color.
+	monogramColor = false
+	#Enable monogram glow rays.
+	monogramRays = true
+	#Enable centered value in config.
+	configCenter = true
+
+#Numerical
+[numerical]
+	#Enable numerical wissen.
+	wissen = false
+	#Enable numerical cooldown.
+	cooldown = false
+	#Enable show light name.
+	light = false
+	#Enable numerical experience.
+	experience = false
+	#Enable numerical heat.
+	heat = false
+	#Enable numerical fluid.
+	fluid = true
+	#Enable numerical steam.
+	steam = false
+
+#Overlay
+[overlay]
+
+	#Arcane Wand
+	[overlay.arcaneWand]
+		#Enable display HUD on top.
+		up = true
+		#Enable display HUD on right.
+		right = false
+		#Enable side display HUD.
+		sideHud = false
+		#Enable side display bar.
+		sideBar = false
+		#Enable horizontal bar.
+		horizontalBar = false
+		#HUD X offset.
+		xOffset = 0
+		#HUD Y offset.
+		yOffset = 0
+		#Second HUD X offset.
+		secondXOffset = 0
+		#Second HUD Y offset.
+		secondYOffset = 0
+		#Bar X offset.
+		barXOffset = 0
+		#Bar Y offset.
+		barYOffset = 0
+		#Enable second HUD free offset.
+		secondHudFree = false
+		#Enable bar free offset.
+		barFree = false
+		#Enable draw cooldown in HUD.
+		cooldownText = false
+		#Enable draw wissen in HUD.
+		wissenText = false
+		#Enable reverse bar.
+		reverseBar = false
+		#Enable show empty spells in bar.
+		showEmptySpells = true
+

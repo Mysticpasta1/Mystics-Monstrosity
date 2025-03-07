@@ -1,0 +1,5 @@
+// Compost colors for unearthed. You may add your own colors, change existing ones, or remove colors that aren't needed.
+gold_ore, #ffffe6
+iron_ore, #c59376
+lichen, #ffffff
+regolith, #b59b82

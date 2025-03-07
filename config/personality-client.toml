@@ -1,11 +1,35 @@
 
-[animation]
-	#If there should be a special animation for climbing ladders
-	"Climbing animation" = true
-
 [keybindings]
 	#If true, crawling will be toggled on or off instead of the keybinding being held down
 	toggleCrawl = false
 	#If true, sitting will be toggled on or off instead of the keybinding being held down
 	toggleSitting = false
+
+[tweaks]
+	#If Fishing Hooks should have a special 3D model
+	"Fishing Hook model" = true
+	#If there should be a special animation for climbing ladders
+	"Climbing animation" = true
+	#If Ghasts should have a squish animation when shooting fireballs
+	"Ghast attack animation" = true
+
+	[tweaks.armor]
+		#If the armor model should be deflated using the inner and outer armor deformations
+		"Deflate armor model" = true
+		#The CubeDeformation for the inner (leggings) armor model - Vanilla is 0.5
+		#Range: 0.0 ~ 2.0
+		"Inner armor deformation" = 0.375
+		#The CubeDeformation for the outer armor model - Vanilla is 1.0
+		#Range: 0.0 ~ 2.0
+		"Outer armor deformation" = 0.625
+
+	[tweaks.villagers]
+		#If Baby Villagers should have larger heads like other baby mobs
+		"Large baby villager heads" = true
+		#If Villagers should close their eyes when sleeping
+		"Villager close eyes" = true
+
+	[tweaks.sheep]
+		#If Sheep should show their fur color beneath their coat, like in Bedrock edition
+		"Sheep fur overlay" = true
 

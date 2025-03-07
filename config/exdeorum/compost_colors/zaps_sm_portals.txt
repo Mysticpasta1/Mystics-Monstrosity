@@ -1,0 +1,7 @@
+// Compost colors for zaps_sm_portals. You may add your own colors, change existing ones, or remove colors that aren't needed.
+amulet, #75611f
+colossus, #5b98d7
+enchanted_flint_and_steel, #c2ffff
+make_it, #3e3e0e
+shooting_gallery, #525051
+victory_for_beacontown, #66d0be

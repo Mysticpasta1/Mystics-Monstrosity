@@ -1,0 +1,9 @@
+
+#Unearthed Configs
+["generation settings"]
+	enable_debug = false
+	disable_all = false
+	disable_cobble = false
+	disable_dirt = false
+	disable_ore = false
+

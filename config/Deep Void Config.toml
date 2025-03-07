@@ -38,4 +38,6 @@
 	OldLightSystem = false
 	#If players should hallucinate below y=1 or not
 	PlayerHallucinates = true
+	#Should the Stalker be able to break certain blocks
+	StalkerBreaksBlocks = true
 

@@ -195,7 +195,7 @@
 	#Range: > 0
 	abyssWillBadgeDuration = 15
 	#AbyssWillBadge: Remaining HP in percentage after skill ends
-	#Range: 0.01 ~ 1.0
+	#Range: 0.0 ~ 1.0
 	abyssWillBadgeRemainingHealth = 0.2
 	#AbyssWillBadge: Chance of small damage bonus
 	#Range: 0.0 ~ 1.0
@@ -222,10 +222,10 @@
 	#Range: > 1
 	abyssWillBadgeLimit = 10
 	#AbyssWillBadge: damage bonus per level
-	#Range: 0.01 ~ 1.0
+	#Range: 0.0 ~ 1.0
 	abyssWillBadgeDamageBonus = 0.2
 	#AbyssWillBadge: damage penalty per level
-	#Range: 0.01 ~ 1.0
+	#Range: 0.0 ~ 1.0
 	abyssWillBadgeDamagePenalty = 0.25
 	#Angel Heart: health threshold for protection
 	#Range: 0.0 ~ 1.0
@@ -243,7 +243,7 @@
 	#Range: > 1
 	angelHeartHealAmount = 1
 	#Angel Pearl: Regen rate per beneficial effect
-	#Range: 0.01 ~ 1.0
+	#Range: 0.0 ~ 1.0
 	angelPearlRegen = 0.08
 	#Angel Pearl: armor bonus per beneficial effect
 	#Range: > 0
@@ -267,16 +267,16 @@
 	#Range: 0.0 ~ 1.0
 	cursedProtectorFrontProtect = 0.3
 	#Cursed Protector: health threshold to trigger damage reduction
-	#Range: 0.01 ~ 1.0
+	#Range: 0.0 ~ 1.0
 	cursedProtectorThreshold = 0.35
 	#Cursed Protector: damage reduction percentage
-	#Range: 0.01 ~ 1.0
+	#Range: 0.0 ~ 1.0
 	cursedProtectorReduction = 0.25
 	#Cursed Talisman: critical hit rate increased by each enchantment
-	#Range: 0.01 ~ 1.0
+	#Range: 0.0 ~ 1.0
 	cursedTalismanCritRateAdd = 0.04
 	#Cursed Talisman: critical hit damage increased by each enchantment
-	#Range: 0.01 ~ 1.0
+	#Range: 0.0 ~ 1.0
 	cursedTalismanCritDamageAdd = 0.08
 	#Cursed Totem: maximum level
 	#Range: > 0
@@ -327,19 +327,19 @@
 	#Range: 0.0 ~ 10.0
 	magicHorseshoeFallReduction = 0.95
 	#Sacrificial Object: damage reduction percentage
-	#Range: 0.01 ~ 1.0
+	#Range: 0.0 ~ 1.0
 	sacriReduction = 0.05
 	#Sacrificial Object: gold ingot drop chance on death
 	#Range: 0.0 ~ 1.0
 	sacrificialObjectHeritage = 0.5
 	#Sacrificial Object :death sacrifice chance
-	#Range: 0.01 ~ 1.0
+	#Range: 0.0 ~ 1.0
 	sacrificialObjectSacrifice = 0.45
 	#Soul Box: chance to inflict shatter effect
-	#Range: 0.01 ~ 1.0
+	#Range: 0.0 ~ 1.0
 	soulBoxShatterChance = 0.3
 	#Soul Box: abyss damage as percentage of original damage
-	#Range: 0.01 ~ 100.0
+	#Range: 0.0 ~ 100.0
 	soulBoxReflect = 2.5
 	#Soul Box: cool down in seconds
 	#Range: > 1
@@ -381,19 +381,19 @@
 	#Range: > 1
 	undeadCharmCooldown = 180
 	#War Dead Badge: healing in percentage of lost health per surrounding entity
-	#Range: 0.01 ~ 1.0
+	#Range: 0.0 ~ 1.0
 	warDeadBadgeHeal = 0.01
 	#War Dead Badge: damage bonus per 1% lost health
-	#Range: 0.01 ~ 1.0
+	#Range: 0.0 ~ 1.0
 	warDeadBadgeAtk = 0.02
 	#War Dead Badge: armor bonus per 1% lost health
-	#Range: 0.01 ~ 1.0
+	#Range: 0.0 ~ 1.0
 	warDeadBadgeArmor = 0.02
 	#War Dead Badge: speed bonus per 1% lost health
-	#Range: 0.01 ~ 1.0
+	#Range: 0.0 ~ 1.0
 	warDeadBadgeSpeed = 0.01
 	#War Dead Badge: health threshold to trigger healing
-	#Range: 0.01 ~ 1.0
+	#Range: 0.0 ~ 1.0
 	warDeadBadgeThreshold = 0.5
 	#Solar Magnet: damage bonus at day
 	#Range: 0.0 ~ 10.0
@@ -401,58 +401,58 @@
 
 [curse]
 	#Chaotic Curse: Damage increment percentage for explosion
-	#Range: 0.01 ~ 100.0
+	#Range: 0.0 ~ 100.0
 	chaoticExplosionDamage = 0.75
 	#Chaotic Curse: Damage increment percentage for non-explosion
-	#Range: 0.01 ~ 100.0
+	#Range: 0.0 ~ 100.0
 	chaoticOtherDamage = 0.5
 	#Chaotic Bless: Max damage reduction at zero health
-	#Range: 0.01 ~ 1.0
+	#Range: 0.0 ~ 1.0
 	chaoticBlessDamageReduction = 0.5
 	#Origin Curse: Durability threshold to trigger curse 
 	#Range: 0 ~ 1000000
 	originTriggerDurability = 500
 	#Origin Curse: Player attack damage reduction
-	#Range: 0.01 ~ 1.0
+	#Range: 0.0 ~ 1.0
 	originCurseDamage = 0.5
 	#Origin Bless: Player attack damage bonus
-	#Range: 0.01 ~ 100.0
+	#Range: 0.0 ~ 100.0
 	originBlessDamage = 0.25
 	#Life Curse: Player max health reduction
-	#Range: 0.01 ~ 1.0
+	#Range: 0.0 ~ 1.0
 	lifeCurseHealth = 0.25
 	#Life Curse: Player healing reduction
-	#Range: 0.01 ~ 1.0
+	#Range: 0.0 ~ 1.0
 	lifeCurseHeal = 0.5
 	#Life Bless: Player max health bonus
-	#Range: 0.01 ~ 100.0
+	#Range: 0.0 ~ 100.0
 	lifeBlessHealth = 0.2
 	#Life Bless: Player healing bonus
-	#Range: 0.01 ~ 100.0
+	#Range: 0.0 ~ 100.0
 	lifeBlessHeal = 0.3
 	#Truth Curse: minimum damage from mobs
-	#Range: 0.01 ~ 1.0
+	#Range: 0.0 ~ 1.0
 	truthCurseMinDamage = 0.3
 	#Truth Bless: maximum damage from mobs
-	#Range: 0.01 ~ 1.0
+	#Range: 0.0 ~ 1.0
 	truthBlessMaxDamage = 0.6
 	#Nihility Curse: negative effect duration
-	#Range: 0.01 ~ 100.0
+	#Range: 0.0 ~ 100.0
 	nihilityCurseDuration = 1.0
 	#Nihility Bless: void damage reduction
-	#Range: 0.01 ~ 1.0
+	#Range: 0.0 ~ 1.0
 	nihilityBlessReduction = 0.75
 	#Nihility Bless: effect duration inflicted
 	#Range: 1 ~ 1000
 	nihilityBlessDuration = 10
 	#End Curse: damage threshold for negative effects
-	#Range: 0.01 ~ 1.0
+	#Range: 0.0 ~ 1.0
 	endCurseThreshold = 0.1
 	#End Curse: negative effect duration
 	#Range: 1 ~ 1000
 	endCurseDuration = 10
 	#End Bless: healing as percentage of health lost
-	#Range: 0.01 ~ 1.0
+	#Range: 0.0 ~ 1.0
 	endBlessHeal = 0.2
 	#Catastrophe Scroll: Number of etching slots size
 	#Range: 0 ~ 7
@@ -478,13 +478,13 @@
 	#Range: 0.0 ~ 1.0
 	guardianEyeProtection = 0.2
 	#Prayer Crown: heal amount
-	#Range: 0.01 ~ 10.0
+	#Range: 0.0 ~ 10.0
 	prayerCrownHealAmount = 0.25
 	#Prayer Crown: heal chance
-	#Range: 0.01 ~ 1.0
+	#Range: 0.0 ~ 1.0
 	prayerCrownHealChance = 0.5
 	#Prayer Crown: protection
-	#Range: 0.01 ~ 10.0
+	#Range: 0.0 ~ 10.0
 	prayerCrownProtection = 0.25
 	#Spirit Crown: max entity count around player to trigger damage boost
 	#Range: 0 ~ 100
@@ -528,10 +528,10 @@
 	#Range: 0.0 ~ 1.0
 	demonHeartDamageReduction = 0.05
 	#Twisted Heart: damage
-	#Range: 0.01 ~ 1.0
+	#Range: 0.0 ~ 1.0
 	twistedHeartDamage = 0.33
 	#Twisted Heart: toughness
-	#Range: 0.01 ~ 1.0
+	#Range: 0.0 ~ 1.0
 	twistedHeartToughness = 0.2
 	#Greedy Heart: Xp pickup bonus
 	#Range: 0.0 ~ 100.0
@@ -563,7 +563,7 @@
 	#Range: 0 ~ 600
 	holyNecklaceDuration = 2
 	#Lock Of Abyss: extra damage multiplier
-	#Range: 0.01 ~ 10.0
+	#Range: 0.0 ~ 10.0
 	lockOfAbyssExtraDamage = 2.5
 	#Lock Of Abyss: slowness duration in seconds
 	#Range: 1 ~ 1000
@@ -613,12 +613,12 @@
 	#Spirit Necklace: projectile damage bonus
 	#Range: 0.0 ~ 10.0
 	spiritNecklaceProjectile = 0.25
-	#Treasure Hunter Necklace: Cooldown time
-	#Range: 0 ~ 10000
-	treasureHunterNecklaceCooldown = 300
 	#Treasure Hunter Necklace: chance to catch a loot
-	#Range: 0.01 ~ 1.0
+	#Range: 0.0 ~ 1.0
 	treasureHunterNecklaceChance = 0.05
+	#Treasure Hunter Necklace: Cooldown time
+	#Range: 0 ~ 10000000
+	treasureHunterNecklaceCoolDown = 6000
 
 [pendant]
 	#Shadow Pendant: damage heal multiplier
@@ -670,7 +670,7 @@
 	#Range: 0.0 ~ 1.0
 	forestCloakDodgeChance = 0.2
 	#forest cloak: jump power bonus
-	#Range: 0.01 ~ 10.0
+	#Range: 0.0 ~ 10.0
 	forestCloakJumpPower = 0.25
 
 [set]
@@ -719,7 +719,7 @@
 	catastropheScrollStart = false
 	#If true, Catastrophe Scroll cannot be unequipped once equipped
 	catastropheScrollPreventUnequip = true
-	#Range: 0.01 ~ 1.0
+	#Range: 0.0 ~ 1.0
 	copperReinforceChance = 0.5
 	#Range: 0 ~ 100
 	amethystReinforceEffect = 1

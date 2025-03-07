@@ -1,0 +1,8 @@
+
+#misc
+[misc]
+	#Enables invulnerability of a trident enchanted to a loyality in the void.
+	tridentLoyalityVoid = true
+	#Height of void.
+	voidHeight = -32.0
+

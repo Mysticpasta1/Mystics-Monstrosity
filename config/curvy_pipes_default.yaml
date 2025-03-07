@@ -34,6 +34,12 @@ pipe_types:
   - { id: large_energy_pipe, name: Large Energy Pipe, texture: curvy_pipes:block/energy_pipe, diameter: 0.8, variant: { Energy: { rate: 1E6 } } }
   - { id: huge_energy_pipe, name: Huge Energy Pipe, texture: curvy_pipes:block/energy_pipe, diameter: 1.6, variant: { Energy: { rate: 10E6 } } }
 
+# Applied Energistics 2 integration (ignored if AE2 is not installed)
+ae2:
+  # If true, will register curvy variants of ME glass/covered/smart/dense covered/dense smart cables
+  # and quartz fiber. Holding these items in off-hand will place the curvy variants.
+  cables: true
+
 # GregTech CEu integration (ignored if GTCEu is not installed)
 gtceu:
   # Automatically generate curvy EU cables, item pipes and fluid pipes for every GTCEu material.

@@ -10,10 +10,10 @@
         "key.use",
         "key.pickItem",
         "key.toms_storage.open_terminal",
-        "key.control",
         "key.the_deep_void.armor_ability",
         "key.the_deep_void.armor_toggle",
         "key.the_deep_void.mother_call_out",
+        "key.control",
         "key.rustic_engineer.key_shoot_spider",
         "key.freak_mobs.mount_jump"
       ]
@@ -48,10 +48,17 @@
     },
     {
       "name": "key.categories.movement",
-      "index": 2,
+      "index": 3,
       "hidden": false,
       "keys": [
         "key.dragonmounts.camera_flight",
+        "key.cosmos.pitchi",
+        "key.cosmos.pitchd",
+        "key.cosmos.rolli",
+        "key.cosmos.rolld",
+        "key.cosmos.thrust",
+        "key.cosmos.drop_thrust",
+        "key.cosmos.catch_thrust",
         "key.personality.crawl",
         "key.personality.sit"
       ]
@@ -75,17 +82,14 @@
     },
     {
       "name": "key.categories.inventory",
-      "index": 4,
+      "index": 5,
       "hidden": false,
       "keys": [
         "key.hotbar.8",
         "key.hotbar.9",
         "equipmentcompare.key.showTooltips",
         "cos.key.opencosarmorinventory",
-        "crafting_on_a_stick.key.open_curios",
-        "key.lightmanscurrency.open_wallet",
-        "key.lightmanscurrency.portable_terminal",
-        "key.lightmanscurrency.portable_atm"
+        "crafting_on_a_stick.key.open_curios"
       ]
     },
     {
@@ -113,24 +117,24 @@
         "key.togglecleanview",
         "key.alexs_caves_plus.k_dragon",
         "key.galaxycraft_infinity.bending_1",
-        "key.theabyss.friendley_fire_a"
+        "key.tctcore.h"
       ]
     },
     {
       "name": "key.categories.misc",
-      "index": 7,
+      "index": 8,
       "hidden": false,
       "keys": [
+        "key.silence_s_defense_tower.qts",
+        "key.silence_s_defense_tower.qtw",
+        "key.theabyss.friendley_fire_a",
         "key.theabyss.friendley_fire_b",
         "key.theabyss.abil_debug",
         "neat.keybind.toggle",
-        "key.open_convenient_gui",
-        "key.inventorypets.petnaming",
-        "key.paraglider.paragliderSettings",
-        "key.open_muffler_gui",
-        "keybind.luggage.call",
-        "keybind.luggage.wait",
-        "key.tctcore.h"
+        "key.rustic_engineer.w",
+        "key.rustic_engineer.s",
+        "key.rustic_engineer.space",
+        "key.rustic_engineer.a"
       ]
     },
     {
@@ -147,14 +151,16 @@
       "index": 9,
       "hidden": false,
       "keys": [
-        "key.silence_s_defense_tower.qts",
-        "key.silence_s_defense_tower.qtw",
-        "key.rustic_engineer.w",
-        "key.rustic_engineer.s",
-        "key.rustic_engineer.space",
-        "key.rustic_engineer.a",
         "key.rustic_engineer.d",
-        "key.special_ability"
+        "key.open_convenient_gui",
+        "key.cosmos.placeplatform",
+        "key.cosmos.custom_ctrl",
+        "key.cosmos.custom_shift",
+        "key.fog.toggle",
+        "key.inventorypets.petnaming",
+        "key.paraglider.paragliderSettings",
+        "key.open_muffler_gui",
+        "keybind.luggage.call"
       ]
     },
     {
@@ -163,6 +169,15 @@
       "hidden": false,
       "keys": [
         "key.climbladdersfast.toggle"
+      ]
+    },
+    {
+      "name": "key.categories.misc",
+      "index": 10,
+      "hidden": false,
+      "keys": [
+        "keybind.luggage.wait",
+        "key.special_ability"
       ]
     },
     {
@@ -196,15 +211,6 @@
         "key.cpm.qa_6",
         "key.cpm.qa_7",
         "key.cpm.qa_8"
-      ]
-    },
-    {
-      "name": "category.recruits",
-      "index": 13,
-      "hidden": false,
-      "keys": [
-        "key.recruits.command_screen_key",
-        "key.recruits.team_screen_key"
       ]
     },
     {
@@ -250,13 +256,15 @@
       ]
     },
     {
-      "name": "Create: Tweaked Controllers",
+      "name": "key.aether.category",
       "index": 20,
       "hidden": false,
       "keys": [
-        "create_tweaked_controllers.keybind.mouse_focus",
-        "create_tweaked_controllers.keybind.mouse_reset",
-        "create_tweaked_controllers.keybind.controller_exit"
+        "key.aether.open_accessories.desc",
+        "key.aether.gravitite_jump_ability.desc",
+        "key.aether.invisibility_toggle.desc",
+        "key.deep_aether.stratus_dash_ability.desc",
+        "key.deep_aether.slider_eye_ability"
       ]
     },
     {
@@ -278,18 +286,6 @@
       "hidden": false,
       "keys": [
         "enchant_icon.key.toggle"
-      ]
-    },
-    {
-      "name": "key.aether.category",
-      "index": 23,
-      "hidden": false,
-      "keys": [
-        "key.aether.open_accessories.desc",
-        "key.aether.gravitite_jump_ability.desc",
-        "key.aether.invisibility_toggle.desc",
-        "key.deep_aether.stratus_dash_ability.desc",
-        "key.deep_aether.slider_eye_ability"
       ]
     },
     {
@@ -328,21 +324,21 @@
       ]
     },
     {
+      "name": "keygroup.inventorysorter",
+      "index": 26,
+      "hidden": false,
+      "keys": [
+        "key.inventorysorter.sort",
+        "key.inventorysorter.itemout",
+        "key.inventorysorter.itemin"
+      ]
+    },
+    {
       "name": "key.curios.category",
       "index": 26,
       "hidden": false,
       "keys": [
         "key.curios.open.desc"
-      ]
-    },
-    {
-      "name": "keygroup.inventorysorter",
-      "index": 27,
-      "hidden": false,
-      "keys": [
-        "key.inventorysorter.sort",
-        "key.inventorysorter.itemin",
-        "key.inventorysorter.itemout"
       ]
     },
     {
@@ -372,20 +368,20 @@
       ]
     },
     {
-      "name": "key.categories.ojs_rpg_origins",
-      "index": 31,
+      "name": "key.raws_visual_keybinder.category",
+      "index": 30,
       "hidden": false,
       "keys": [
-        "key.ojs_rpg_origins.tertiary_active",
-        "key.ojs_rpg_origins.quaternary_active"
+        "key.raws_visual_keybinder.open_screen"
       ]
     },
     {
       "name": "key.categories.ui",
-      "index": 31,
+      "index": 30,
       "hidden": false,
       "keys": [
-        "key.hammerlib.render_item"
+        "key.hammerlib.render_item",
+        "key.cosmos.open_gui"
       ]
     },
     {
@@ -416,7 +412,7 @@
     },
     {
       "name": "key.categories.clienttweaks",
-      "index": 35,
+      "index": 34,
       "hidden": false,
       "keys": [
         "key.clienttweaks.hideOffhandItem",
@@ -434,15 +430,6 @@
         "key.securitycraft.cameraEmitRedstone",
         "key.securitycraft.cameraActivateNightVision",
         "key.securitycraft.setDefaultViewingDirection"
-      ]
-    },
-    {
-      "name": "key.categories.adastra",
-      "index": 37,
-      "hidden": false,
-      "keys": [
-        "key.ad_astra.toggle_suit_flight",
-        "key.ad_astra.open_radio"
       ]
     },
     {
@@ -497,19 +484,6 @@
       "hidden": false,
       "keys": [
         "key.spyglass-improvements.use"
-      ]
-    },
-    {
-      "name": "key.effortlessbuilding.category",
-      "index": 41,
-      "hidden": false,
-      "keys": [
-        "key.effortlessbuilding.mode.desc",
-        "key.effortlessbuilding.hud.desc",
-        "key.effortlessbuilding.undo.desc",
-        "key.effortlessbuilding.redo.desc",
-        "key.effortlessbuilding.previous_build_mode.desc",
-        "key.effortlessbuilding.disable_build_mode_toggle.desc"
       ]
     },
     {
@@ -572,24 +546,6 @@
       ]
     },
     {
-      "name": "framedblocks.key.categories.framedblocks",
-      "index": 47,
-      "hidden": false,
-      "keys": [
-        "framedblocks.key.update_cull",
-        "framedblocks.key.wipe_cache"
-      ]
-    },
-    {
-      "name": "key.categories.movement.jetpack",
-      "index": 49,
-      "hidden": false,
-      "keys": [
-        "key.jetpack.toggle_active.description",
-        "key.jetpack.toggle_hover.description"
-      ]
-    },
-    {
       "name": "key.categories.integrateddynamics",
       "index": 50,
       "hidden": false,
@@ -607,14 +563,6 @@
         "tetra.toolbelt.binding.restock",
         "tetra.toolbelt.binding.open",
         "tetra.toolbelt.binding.secondary_use"
-      ]
-    },
-    {
-      "name": "Workers",
-      "index": 52,
-      "hidden": false,
-      "keys": [
-        "controls.open_command_screen"
       ]
     },
     {
@@ -744,8 +692,17 @@
       ]
     },
     {
+      "name": "Better Combat",
+      "index": 64,
+      "hidden": false,
+      "keys": [
+        "keybinds.bettercombat.feint",
+        "keybinds.bettercombat.toggle_mine_with_weapons"
+      ]
+    },
+    {
       "name": "modmenu.nameTranslation.jade",
-      "index": 62,
+      "index": 65,
       "hidden": false,
       "keys": [
         "key.jade.config",
@@ -758,12 +715,20 @@
       ]
     },
     {
-      "name": "Better Combat",
-      "index": 64,
+      "name": "jitl.key",
+      "index": 66,
       "hidden": false,
       "keys": [
-        "keybinds.bettercombat.feint",
-        "keybinds.bettercombat.toggle_mine_with_weapons"
+        "jitl.key.stats",
+        "jitl.key.amulet"
+      ]
+    },
+    {
+      "name": "key.category.fluffy_fur.general",
+      "index": 66,
+      "hidden": false,
+      "keys": [
+        "key.fluffy_fur.skin_menu"
       ]
     },
     {
@@ -777,36 +742,20 @@
       ]
     },
     {
+      "name": "key.category.valoria.general",
+      "index": 67,
+      "hidden": false,
+      "keys": [
+        "key.valoria.bag_menu",
+        "key.valoria.jewelry"
+      ]
+    },
+    {
       "name": "key.industrialforegoing.category",
       "index": 67,
       "hidden": false,
       "keys": [
         "key.industrialforegoing.backpack.desc"
-      ]
-    },
-    {
-      "name": "key.category.celestial_artifacts.celestial_artifacts",
-      "index": 67,
-      "hidden": false,
-      "keys": [
-        "key.celestial_artifacts.ability_key"
-      ]
-    },
-    {
-      "name": "jitl.key",
-      "index": 68,
-      "hidden": false,
-      "keys": [
-        "Open Journey Stats",
-        "Use Amulet Ability"
-      ]
-    },
-    {
-      "name": "Tardis Refined",
-      "index": 68,
-      "hidden": false,
-      "keys": [
-        "keybind.tardis_refined.exit_exterior_view"
       ]
     },
     {
@@ -827,20 +776,19 @@
       ]
     },
     {
-      "name": "Steam \u0027n\u0027 Rails",
-      "index": 70,
-      "hidden": false,
-      "keys": [
-        "railways.keyinfo.bogey_menu",
-        "railways.keyinfo.cycle_menu"
-      ]
-    },
-    {
       "name": "key.weaponmaster_ydm.category",
       "index": 71,
       "hidden": false,
       "keys": [
         "key.weaponmaster_ydm.opengui"
+      ]
+    },
+    {
+      "name": "key.category.celestial_artifacts.celestial_artifacts",
+      "index": 72,
+      "hidden": false,
+      "keys": [
+        "key.celestial_artifacts.ability_key"
       ]
     },
     {
@@ -889,11 +837,14 @@
       ]
     },
     {
-      "name": "Copycats",
+      "name": "key.categories.better_ships",
       "index": 76,
       "hidden": false,
       "keys": [
-        "keyinfo.copycats.fill_copycat"
+        "key.better_ships.open_config_screen",
+        "key.better_ships.toggle_hyperspeed",
+        "key.better_ships.toggle_input",
+        "key.better_ships.toggle_roll"
       ]
     },
     {
@@ -963,19 +914,13 @@
       ]
     },
     {
-      "name": "jei.key.category.dev.tools",
-      "index": 84,
-      "hidden": false,
-      "keys": [
-        "key.jei.copy.recipe.id"
-      ]
-    },
-    {
-      "name": "jei.key.category.hover.config.button",
+      "name": "jei.key.category.search",
       "index": 88,
       "hidden": false,
       "keys": [
-        "key.jei.toggleCheatModeConfigButton"
+        "key.jei.nextSearch",
+        "key.jei.clearSearchBar",
+        "key.jei.previousSearch"
       ]
     },
     {
@@ -1022,30 +967,11 @@
       ]
     },
     {
-      "name": "jei.key.category.recipe.gui",
+      "name": "jei.key.category.hover.config.button",
       "index": 92,
       "hidden": false,
       "keys": [
-        "key.jei.previousRecipePage",
-        "key.jei.previousCategory",
-        "key.jei.closeRecipeGui",
-        "key.jei.nextRecipePage",
-        "key.jei.nextCategory",
-        "key.jei.recipeBack"
-      ]
-    },
-    {
-      "name": "jei.key.category.mouse.hover",
-      "index": 93,
-      "hidden": false,
-      "keys": [
-        "key.jei.showRecipe",
-        "key.jei.transferRecipeBookmark",
-        "key.jei.bookmark",
-        "key.jei.maxTransferRecipeBookmark",
-        "key.jei.showUses",
-        "key.jei.showUses2",
-        "key.jei.showRecipe2"
+        "key.jei.toggleCheatModeConfigButton"
       ]
     },
     {
@@ -1060,13 +986,11 @@
       ]
     },
     {
-      "name": "jei.key.category.search",
-      "index": 94,
+      "name": "jei.key.category.dev.tools",
+      "index": 93,
       "hidden": false,
       "keys": [
-        "key.jei.previousSearch",
-        "key.jei.clearSearchBar",
-        "key.jei.nextSearch"
+        "key.jei.copy.recipe.id"
       ]
     },
     {
@@ -1077,18 +1001,6 @@
         "artifacts.key.helium_flamingo.activate",
         "artifacts.key.night_vision_goggles.toggle",
         "artifacts.key.universal_attractor.toggle"
-      ]
-    },
-    {
-      "name": "jei.key.category.cheat.mode",
-      "index": 95,
-      "hidden": false,
-      "keys": [
-        "key.jei.cheatItemStack2",
-        "key.jei.toggleCheatMode",
-        "key.jei.cheatOneItem2",
-        "key.jei.cheatOneItem",
-        "key.jei.cheatItemStack"
       ]
     },
     {
@@ -1108,18 +1020,6 @@
       ]
     },
     {
-      "name": "jei.key.category.overlays",
-      "index": 97,
-      "hidden": false,
-      "keys": [
-        "key.jei.nextPage",
-        "key.jei.previousPage",
-        "key.jei.focusSearch",
-        "key.jei.toggleOverlay",
-        "key.jei.toggleBookmarkOverlay"
-      ]
-    },
-    {
       "name": "key.findme.category",
       "index": 97,
       "hidden": false,
@@ -1127,16 +1027,6 @@
         "key.findme.search",
         "key.findme.pull_one",
         "key.findme.pull_stack"
-      ]
-    },
-    {
-      "name": "jei.key.category.edit.mode",
-      "index": 98,
-      "hidden": false,
-      "keys": [
-        "key.jei.toggleHideIngredient",
-        "key.jei.toggleEditMode",
-        "key.jei.toggleWildcardHideIngredient"
       ]
     },
     {
@@ -1279,6 +1169,20 @@
       ]
     },
     {
+      "name": "key.categories.jsg",
+      "index": 114,
+      "hidden": false,
+      "keys": [
+        "config.jsg.mode_scroll",
+        "config.jsg.address_scroll",
+        "config.jsg.mode_up",
+        "config.jsg.mode_down",
+        "config.jsg.address_up",
+        "config.jsg.address_down",
+        "config.jsg.address_edit"
+      ]
+    },
+    {
       "name": "Corail Tombstone",
       "index": 114,
       "hidden": false,
@@ -1286,16 +1190,6 @@
         "tombstone.message.knowledge_of_death",
         "tombstone.message.config",
         "tombstone.message.compendium"
-      ]
-    },
-    {
-      "name": "key.categories.sfm",
-      "index": 115,
-      "hidden": false,
-      "keys": [
-        "key.sfm.more_info",
-        "key.sfm.container_inspector.activation_key",
-        "key.sfm.item_inspector.activation_key"
       ]
     },
     {
@@ -1308,11 +1202,86 @@
       ]
     },
     {
+      "name": "jei.key.category.cheat.mode",
+      "index": 117,
+      "hidden": false,
+      "keys": [
+        "key.jei.cheatItemStack2",
+        "key.jei.cheatOneItem",
+        "key.jei.cheatItemStack",
+        "key.jei.cheatOneItem2",
+        "key.jei.toggleCheatMode"
+      ]
+    },
+    {
+      "name": "jei.key.category.recipe.gui",
+      "index": 118,
+      "hidden": false,
+      "keys": [
+        "key.jei.previousRecipePage",
+        "key.jei.nextCategory",
+        "key.jei.previousCategory",
+        "key.jei.recipeBack",
+        "key.jei.closeRecipeGui",
+        "key.jei.nextRecipePage"
+      ]
+    },
+    {
       "name": "key.categories.skilltree",
       "index": 119,
       "hidden": false,
       "keys": [
         "key.display_skill_tree"
+      ]
+    },
+    {
+      "name": "jei.key.category.overlays",
+      "index": 119,
+      "hidden": false,
+      "keys": [
+        "key.jei.focusSearch",
+        "key.jei.previousPage",
+        "key.jei.toggleOverlay",
+        "key.jei.toggleBookmarkOverlay",
+        "key.jei.nextPage"
+      ]
+    },
+    {
+      "name": "key.categories.sfm",
+      "index": 120,
+      "hidden": false,
+      "keys": [
+        "key.sfm.more_info",
+        "key.sfm.container_inspector.activation_key",
+        "key.sfm.item_inspector.activation_key",
+        "key.sfm.toggle_label_view_key",
+        "key.sfm.label_gun.pick_block_modifier",
+        "key.sfm.label_gun.next_label",
+        "key.sfm.label_gun.previous_label"
+      ]
+    },
+    {
+      "name": "jei.key.category.mouse.hover",
+      "index": 121,
+      "hidden": false,
+      "keys": [
+        "key.jei.showRecipe",
+        "key.jei.maxTransferRecipeBookmark",
+        "key.jei.bookmark",
+        "key.jei.transferRecipeBookmark",
+        "key.jei.showRecipe2",
+        "key.jei.showUses2",
+        "key.jei.showUses"
+      ]
+    },
+    {
+      "name": "jei.key.category.edit.mode",
+      "index": 123,
+      "hidden": false,
+      "keys": [
+        "key.jei.toggleHideIngredient",
+        "key.jei.toggleWildcardHideIngredient",
+        "key.jei.toggleEditMode"
       ]
     },
     {
@@ -1341,14 +1310,6 @@
       ]
     },
     {
-      "name": "constants.gravitationalmodulatingunittweaks.key_category",
-      "index": 127,
-      "hidden": false,
-      "keys": [
-        "key.gravitationalmodulatingunittweaks.vertical_speed"
-      ]
-    },
-    {
       "name": "key.categories.l2mods",
       "index": 127,
       "hidden": false,
@@ -1358,6 +1319,14 @@
         "key.l2mods.left",
         "key.l2mods.right",
         "key.l2mods.swap"
+      ]
+    },
+    {
+      "name": "constants.gravitationalmodulatingunittweaks.key_category",
+      "index": 127,
+      "hidden": false,
+      "keys": [
+        "key.gravitationalmodulatingunittweaks.vertical_speed"
       ]
     },
     {
@@ -1407,6 +1376,22 @@
       ]
     },
     {
+      "name": "keybind.sophisticatedbackpacks.category",
+      "index": 131,
+      "hidden": false,
+      "keys": [
+        "keybind.sophisticatedbackpacks.open_backpack",
+        "keybind.sophisticatedbackpacks.inventory_interaction",
+        "keybind.sophisticatedbackpacks.tool_swap",
+        "keybind.sophisticatedbackpacks.sort",
+        "keybind.sophisticatedbackpacks.toggle_upgrade_1",
+        "keybind.sophisticatedbackpacks.toggle_upgrade_2",
+        "keybind.sophisticatedbackpacks.toggle_upgrade_3",
+        "keybind.sophisticatedbackpacks.toggle_upgrade_4",
+        "keybind.sophisticatedbackpacks.toggle_upgrade_5"
+      ]
+    },
+    {
       "name": "key.structurize.categories.general",
       "index": 132,
       "hidden": false,
@@ -1448,28 +1433,20 @@
       ]
     },
     {
+      "name": "key.avaritia.categories",
+      "index": 135,
+      "hidden": false,
+      "keys": [
+        "key.avaritia.filter"
+      ]
+    },
+    {
       "name": "key.categories.placebo",
       "index": 136,
       "hidden": false,
       "keys": [
         "placebo.toggleTrails",
         "placebo.toggleWings"
-      ]
-    },
-    {
-      "name": "keybind.sophisticatedbackpacks.category",
-      "index": 136,
-      "hidden": false,
-      "keys": [
-        "keybind.sophisticatedbackpacks.open_backpack",
-        "keybind.sophisticatedbackpacks.inventory_interaction",
-        "keybind.sophisticatedbackpacks.tool_swap",
-        "keybind.sophisticatedbackpacks.sort",
-        "keybind.sophisticatedbackpacks.toggle_upgrade_1",
-        "keybind.sophisticatedbackpacks.toggle_upgrade_2",
-        "keybind.sophisticatedbackpacks.toggle_upgrade_3",
-        "keybind.sophisticatedbackpacks.toggle_upgrade_4",
-        "keybind.sophisticatedbackpacks.toggle_upgrade_5"
       ]
     },
     {
@@ -1515,6 +1492,22 @@
       ]
     },
     {
+      "name": "key.categories.littletiles",
+      "index": 141,
+      "hidden": false,
+      "keys": [
+        "key.rotateup",
+        "key.rotatedown",
+        "key.rotateright",
+        "key.rotateleft",
+        "key.little.mirror",
+        "key.little.mark",
+        "key.little.config.item",
+        "key.little.undo",
+        "key.little.redo"
+      ]
+    },
+    {
       "name": "key.irons_spellbooks.group_1",
       "index": 142,
       "hidden": false,
@@ -1531,23 +1524,6 @@
       "keys": [
         "key.tconstruct.helmet_interact",
         "key.tconstruct.leggings_interact"
-      ]
-    },
-    {
-      "name": "category.origins",
-      "index": 143,
-      "hidden": false,
-      "keys": [
-        "key.origins.tertiary_active",
-        "key.origins.quaternary_active",
-        "key.origins.quinary_active",
-        "key.origins.senary_active",
-        "key.origins.septenary_active",
-        "key.origins.octonary_active",
-        "key.origins.nonary_active",
-        "key.origins.primary_active",
-        "key.origins.secondary_active",
-        "key.origins.view_origin"
       ]
     },
     {
@@ -1568,23 +1544,6 @@
       ]
     },
     {
-      "name": "category.origins",
-      "index": 144,
-      "hidden": false,
-      "keys": [
-        "key.origins.tertiary_active",
-        "key.origins.quaternary_active",
-        "key.origins.quinary_active",
-        "key.origins.senary_active",
-        "key.origins.septenary_active",
-        "key.origins.octonary_active",
-        "key.origins.nonary_active",
-        "key.origins.decenary_active",
-        "key.origins.undenary_active",
-        "key.origins.duodenary_active"
-      ]
-    },
-    {
       "name": "key.irons_spellbooks.group_2",
       "index": 144,
       "hidden": false,
@@ -1594,56 +1553,6 @@
         "key.irons_spellbooks.spell_quick_cast_13",
         "key.irons_spellbooks.spell_quick_cast_14",
         "key.irons_spellbooks.spell_quick_cast_15"
-      ]
-    },
-    {
-      "name": "category.origins",
-      "index": 145,
-      "hidden": false,
-      "keys": [
-        "key.origins.tredecenary_active",
-        "key.origins.quattuordecenary_active",
-        "key.origins.quindecenary_active",
-        "key.origins.sexdecenary_active",
-        "key.origins.septendecenary_active",
-        "key.origins.octodecenary_active",
-        "key.origins.novendecenary_active",
-        "key.origins.vigintenary_active",
-        "key.origins.unvigintenary_active",
-        "key.origins.duovigintenary_active"
-      ]
-    },
-    {
-      "name": "key.categories.littletiles",
-      "index": 145,
-      "hidden": false,
-      "keys": [
-        "key.rotateup",
-        "key.rotatedown",
-        "key.rotateright",
-        "key.rotateleft",
-        "key.little.mirror",
-        "key.little.mark",
-        "key.little.config.item",
-        "key.little.undo",
-        "key.little.redo"
-      ]
-    },
-    {
-      "name": "category.origins",
-      "index": 146,
-      "hidden": false,
-      "keys": [
-        "key.origins.trivigintenary_active",
-        "key.origins.quadrivigintenary_active",
-        "key.origins.quinquavigintenary_active",
-        "key.origins.sexvigintenary_active",
-        "key.origins.septenvigintenary_active",
-        "key.origins.octovigintenary_active",
-        "key.origins.novemvigintenary_active",
-        "key.origins.trigintenary_active",
-        "key.origins.untrigintenary_active",
-        "key.origins.duotrigintenary_active"
       ]
     },
     {
@@ -1657,23 +1566,6 @@
         "keybind.ironjetpacks.descend",
         "keybind.ironjetpacks.increment_throttle",
         "keybind.ironjetpacks.decrement_throttle"
-      ]
-    },
-    {
-      "name": "category.origins",
-      "index": 147,
-      "hidden": false,
-      "keys": [
-        "key.origins.tritrigintenary_active"
-      ]
-    },
-    {
-      "name": "key.createbigcannons.category",
-      "index": 147,
-      "hidden": false,
-      "keys": [
-        "key.createbigcannons.pitch_mode",
-        "key.createbigcannons.fire_controlled_cannon"
       ]
     },
     {
@@ -1691,6 +1583,14 @@
       "hidden": false,
       "keys": [
         "key.epp.viewpattern"
+      ]
+    },
+    {
+      "name": "Ponder",
+      "index": 150,
+      "hidden": false,
+      "keys": [
+        "ponder.keyinfo.ponder"
       ]
     },
     {
@@ -1725,6 +1625,15 @@
       "hidden": false,
       "keys": [
         "key.hexerei.glasses_zoom"
+      ]
+    },
+    {
+      "name": "framedblocks.key.categories.framedblocks",
+      "index": 153,
+      "hidden": false,
+      "keys": [
+        "framedblocks.key.update_cull",
+        "framedblocks.key.wipe_cache"
       ]
     },
     {
@@ -1803,29 +1712,11 @@
     },
     {
       "name": "key.categories.the_bumblezone",
-      "index": 159,
+      "index": 158,
       "hidden": false,
       "keys": [
         "key.the_bumblezone.beehemoth_up",
         "key.the_bumblezone.beehemoth_down"
-      ]
-    },
-    {
-      "name": "Create",
-      "index": 160,
-      "hidden": false,
-      "keys": [
-        "create.keyinfo.toolmenu",
-        "create.keyinfo.toolbelt",
-        "create.keyinfo.ponder"
-      ]
-    },
-    {
-      "name": "key.category.balancedflight",
-      "index": 161,
-      "hidden": false,
-      "keys": [
-        "key.take_off"
       ]
     },
     {
@@ -1859,14 +1750,6 @@
       ]
     },
     {
-      "name": "key.category.creategbd.main",
-      "index": 165,
-      "hidden": false,
-      "keys": [
-        "key.creategbd.beam_reactor_toggle"
-      ]
-    },
-    {
       "name": "category.car",
       "index": 166,
       "hidden": false,
@@ -1879,6 +1762,16 @@
         "key.car_start",
         "key.car_horn",
         "key.center_car"
+      ]
+    },
+    {
+      "name": "Create",
+      "index": 167,
+      "hidden": false,
+      "keys": [
+        "create.keyinfo.toolmenu",
+        "create.keyinfo.toolbelt",
+        "create.keyinfo.rotate_menu"
       ]
     },
     {
@@ -1957,52 +1850,12 @@
       ]
     },
     {
-      "name": "category.createrailwaysnavigator.crn",
-      "index": 177,
+      "name": "jecalculation.key.category",
+      "index": 174,
       "hidden": false,
       "keys": [
-        "key.createrailwaysnavigator.route_overlay_options"
-      ]
-    },
-    {
-      "name": "key.goety.category",
-      "index": 181,
-      "hidden": false,
-      "keys": [
-        "key.goety.wand",
-        "key.goety.focusCircle",
-        "key.goety.bag",
-        "key.goety.ceaseFire"
-      ]
-    },
-    {
-      "name": "key.goety.witch.category",
-      "index": 182,
-      "hidden": false,
-      "keys": [
-        "key.goety.witch.robe",
-        "key.goety.witch.extractPotions",
-        "key.goety.witch.brewBag",
-        "key.goety.witch.brewCircle"
-      ]
-    },
-    {
-      "name": "key.goety.lich.category",
-      "index": 183,
-      "hidden": false,
-      "keys": [
-        "key.goety.lich.magnet",
-        "key.goety.lich.nightVision",
-        "key.goety.lich.lichForm"
-      ]
-    },
-    {
-      "name": "key.goety.mount.category",
-      "index": 184,
-      "hidden": false,
-      "keys": [
-        "key.goety.mount.roar",
-        "key.goety.mount.freeRoam"
+        "jecalculation.key.gui_craft",
+        "jecalculation.key.gui_math"
       ]
     },
     {

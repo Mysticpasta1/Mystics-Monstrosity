@@ -1,0 +1,46 @@
+/* 
+ * Copyright (c) 2025 Luke Bemish and contributors.
+ * SPDX-License-Identifier: LGPL-3.0-or-later
+ */
+
+{
+    mod_id: 'atlantis',
+    provided_stones: [
+    ],
+    provided_ores: [
+        {
+            id: 'atlantis_ancient_metal_ore',
+            stone: [
+                'stone',
+                'deepslate',
+            ],
+            block_id: [
+                'atlantis:ancient_metal_ore',
+                'atlantis:deepslate_ancient_metal_ore',
+            ],
+            lang: {
+                en_us: 'Ancient Metal Ore',
+            },
+            types: [
+                'stone',
+            ],
+        },
+        {
+            id: 'atlantis_aquamarine_ore',
+            stone: [
+                'stone',
+                'deepslate',
+            ],
+            block_id: [
+                'atlantis:aquamarine_ore',
+                'atlantis:aquamarine_deepslate_ore',
+            ],
+            lang: {
+                en_us: 'Aquamarine Ore',
+            },
+            types: [
+                'stone',
+            ],
+        },
+    ],
+}

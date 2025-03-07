@@ -1,0 +1,8 @@
+// Compost colors for mifa. You may add your own colors, change existing ones, or remove colors that aren't needed.
+efficiency_addon_3, #9ab9d3
+efficiency_addon_4, #84bbd6
+netherite_gear, #544a4d
+processing_addon_3, #96b6d0
+processing_addon_4, #82b8d3
+speed_addon_3, #97b8d0
+speed_addon_4, #82b9d3

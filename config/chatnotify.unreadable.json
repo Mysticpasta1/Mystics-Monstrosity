@@ -1,0 +1,45 @@
+{
+  "version": "001",
+  "ignoreOwnMessages": false,
+  "notifSoundSource": "PLAYERS",
+  "messagePrefixes": [
+    "/shout",
+    "!"
+  ],
+  "notifications": [
+    {
+      "enabled": true,
+      "controls": [
+        true,
+        false,
+        true
+      ],
+      "triggers": [
+        "username"
+      ],
+      "triggerIsKey": false,
+      "color": {
+        "f_131257_": 16761856
+      },
+      "formatControls": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "soundVolume": 1.0,
+      "soundPitch": 1.0,
+      "sound": {
+        "f_135804_": "minecraft",
+        "f_135805_": "block.note_block.bell"
+      },
+      "persistent": true,
+      "regexEnabled": false,
+      "exclusionEnabled": false,
+      "exclusionTriggers": [],
+      "responseEnabled": false,
+      "responseMessages": []
+    }
+  ]
+}

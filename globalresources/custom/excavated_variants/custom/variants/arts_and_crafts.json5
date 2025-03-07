@@ -1,0 +1,32 @@
+/* 
+ * Copyright (c) 2025 Luke Bemish and contributors.
+ * SPDX-License-Identifier: LGPL-3.0-or-later
+ */
+
+{
+    mod_id: 'arts_and_crafts',
+    provided_stones: [
+        {
+            block_id: 'arts_and_crafts:gypsum',
+            types: [
+                'stone',
+            ],
+            id: 'arts_and_crafts_gypsum',
+            lang: {
+                en_us: 'Gypsum',
+            },
+        },
+        {
+            block_id: 'arts_and_crafts:soapstone',
+            types: [
+                'stone',
+            ],
+            id: 'arts_and_crafts_soapstone',
+            lang: {
+                en_us: 'Soapstone',
+            },
+        },
+    ],
+    provided_ores: [
+    ],
+}

@@ -25,6 +25,9 @@
     # Whether or not Common Potions should be enabled. [default: true, synchronized: yes]
     B:CommonPotionsEnabled=true
 
+    # Whether or not Curse of Redemption Enchantment should be enabled. [default: true, synchronized: yes]
+    B:CurseofRedemptionEnchantmentEnabled=true
+
     # Whether or not Disaster Broadsword should be enabled. [default: true, synchronized: yes]
     B:DisasterBroadswordEnabled=true
 
@@ -176,6 +179,9 @@
     # The probability to resist damage when you are attacked with this charm. Measured in percentage. [range: 0 ~ 100, default: 10, synchronized: yes]
     I:CharmofScorchedSunResistanceProbability=10
 
+    # The damage modifier per every this curse. [range: 0 ~ 40, default: 4, synchronized: yes]
+    I:CurseofRedemptionEnchantmentResistanceModifier=6
+
     # The damage modifier when you has the Bad Omen effect. [range: 0.0 ~ 100.0, default: 0.15, synchronized: yes]
     D:DisasterBroadswordBadOmenDamageBoost=0.15
 
@@ -206,13 +212,13 @@
     # Default amount of armor points provided by Etherium Core. [range: 0.0 ~ 256.0, default: 12.0, synchronized: yes]
     D:EtheriumCoreArmor=12.0
 
-    # The multiplier of armor points of Etherium Core. [range: 0 ~ 100, default: 30, synchronized: yes]
+    # The multiplier of armor points of Etherium Core. [range: 0 ~ 100, default: 20, synchronized: yes]
     I:EtheriumCoreArmorMultiplier=30
 
     # The amount of armor toughness provided by Etherium Core when it's bearer has no armor equipped. [range: 0.0 ~ 256.0, default: 10.0, synchronized: yes]
     D:EtheriumCoreArmorToughness=10.0
 
-    # The multiplier of armor toughness of Etherium Core. [range: 0 ~ 100, default: 50, synchronized: yes]
+    # The multiplier of armor toughness of Etherium Core. [range: 0 ~ 100, default: 40, synchronized: yes]
     I:EtheriumCoreArmorToughnessMultiplier=50
 
     # Active ability cooldown for Etherium Core. Measured in ticks. 20 ticks equal to 1 second. [range: 0 ~ 32768, default: 1800, synchronized: yes]
@@ -360,7 +366,7 @@
     # The damage boost of the Ring of Redemption. Measured in percentage. [range: 0 ~ 500, default: 20, synchronized: yes]
     I:RingofRedemptionDamageBoost=20
 
-    # The damage resistance of the Ring of Redemption. Measured in percentage. [range: 0 ~ 100, default: 40, synchronized: yes]
+    # The damage resistance of the Ring of Redemption. Measured in percentage. [range: 0 ~ 100, default: 25, synchronized: yes]
     I:RingofRedemptionDamageResistance=40
 
     # The time required for each regeneration of Ring of Redemption. Measured in ticks. [range: 5 ~ 32768, default: 20, synchronized: yes]

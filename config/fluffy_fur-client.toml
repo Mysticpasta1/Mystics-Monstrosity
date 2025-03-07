@@ -1,0 +1,40 @@
+
+#Graphics
+[graphics]
+	#Intensity of screenshake.
+	#Range: 0.0 ~ 10.0
+	screenshakeIntensity = 1.0
+
+	#Particles
+	[graphics.particles]
+		#Enable dropping items particles.
+		itemParticle = true
+		#Enable items particles in GUI.
+		itemGuiParticle = true
+		#Enable blood particles in case of damage.
+		bloodParticle = false
+		#Enable custom effect of lightning bolt.
+		lightningBoltEffect = true
+		#Enable custom effect of explosion.
+		explosionEffect = true
+
+#Menu
+[menu]
+	#Fluffy Fur Panorama.
+	panorama = "minecraft:vanilla"
+	#Enable Fluffy Fur menu button.
+	menuButton = true
+	#Fluffy Fur menu button row.
+	#Range: 0 ~ 4
+	menuButtonRow = 3
+	#Fluffy Fur menu button X offset with row.
+	menuButtonRowXOffset = 4
+	#Fluffy Fur menu button X offset.
+	menuButtonXOffset = 0
+	#Fluffy Fur menu button Y offset.
+	menuButtonYOffset = 0
+	#Enable logo in Fluffy Fur Panorama.
+	panoramaLogo = true
+	#Enable music in Fluffy Fur Panorama.
+	panoramaMusic = true
+

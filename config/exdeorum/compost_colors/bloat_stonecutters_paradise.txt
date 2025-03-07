@@ -1,0 +1,11 @@
+// Compost colors for bloat_stonecutters_paradise. You may add your own colors, change existing ones, or remove colors that aren't needed.
+cecil_brick, #ffffff
+cholla_door, #a7de5b
+clear_amber_pane, #ffff69
+end_stone_door, #ffffff
+eolian_dust, #ffffff
+polished_amber, #ffffd2
+red_clay_item, #ffffe0
+unpolished_amber, #fff8b9
+wither_wart, #6b737a
+witherworn_door, #798d8d

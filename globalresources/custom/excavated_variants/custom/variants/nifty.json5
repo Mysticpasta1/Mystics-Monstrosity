@@ -1,0 +1,52 @@
+/* 
+ * Copyright (c) 2025 Luke Bemish and contributors.
+ * SPDX-License-Identifier: LGPL-3.0-or-later
+ */
+
+{
+    mod_id: 'nifty',
+    provided_stones: [
+        {
+            block_id: 'nifty:adobe',
+            types: [
+                'stone',
+            ],
+            id: 'nifty_adobe',
+            lang: {
+                en_us: 'Adobe',
+            },
+        },
+        {
+            block_id: 'nifty:limestone',
+            types: [
+                'stone',
+            ],
+            id: 'nifty_limestone',
+            lang: {
+                en_us: 'Limestone',
+            },
+        },
+        {
+            block_id: 'nifty:marble',
+            types: [
+                'stone',
+            ],
+            id: 'nifty_marble',
+            lang: {
+                en_us: 'Marble',
+            },
+        },
+        {
+            block_id: 'nifty:phyllite',
+            types: [
+                'stone',
+            ],
+            id: 'nifty_phyllite',
+            lang: {
+                en_us: 'Phyllite',
+            },
+        },
+    ],
+    provided_ores: [
+    ],
+}

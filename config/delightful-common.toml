@@ -73,15 +73,6 @@
 	aluminum_knife = true
 	pearlescent_knife = true
 
-["Pie Overhauls"]
-	blueberry_pie_slice = true
-	gloomgourd_pie_slice = true
-	green_apple_pie_slice = true
-	pumpkin_pie_slice = true
-	salmonberry_pie_slice = true
-	source_berry_pie_slice = true
-	chorus_pie_slice = true
-
 ["Registry & Recipes"]
 	acorn = true
 	acorn_sack = true
@@ -174,4 +165,15 @@
 	venison_stew = true
 	venison_stew_cup = true
 	chorus_muffin = true
+	salmonberry_pie_slice = true
+
+["Baked Good Overhauls"]
+	blueberry_pie_slice = true
+	chorus_pie_slice = true
+	gloomgourd_pie_slice = true
+	green_apple_pie_slice = true
+	mulberry_pie_slice = true
+	passion_fruit_tart_slice = true
+	pumpkin_pie_slice = true
+	source_berry_pie_slice = true
 

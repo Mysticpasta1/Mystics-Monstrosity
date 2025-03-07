@@ -1,5 +1,5 @@
 
-#Avaritia Config
+#Avaritia Common Config
 [tools]
 	#Does the super mode of endless tools retain stone and soil
 	"Is Stone" = false
@@ -36,6 +36,19 @@
 	#Singularity default time required
 	#Range: > 0
 	"Singularity Time Required" = 240
+	#Does the right key cause infinity damage
+	"Is Sword Cause Endless damage" = true
+	#Growth soul farmland rate
+	#Range: 0.0 ~ 1.0
+	"Growth soul farmland rate" = 0.8
+	#Damage of BladeSlash for Crystal Sword
+	#Range: > 0
+	"BladeSlash Damage" = 200
+	#Radius of BladeSlash for Crystal Sword
+	#Range: 5 ~ 100
+	"BladeSlash Radius" = 10
+	#Is InfinityCatalyst Craft use all Singularity
+	"Internal InfinityCatalyst Craft" = true
 
 [emc]
 	#Emc of Neutron Pile
@@ -44,4 +57,40 @@
 	#Emc of Totem Of Undying
 	#Range: > 0
 	"Vanilla Totem Emc" = 1000
+
+[storage]
+	#Define the maximum number of item .types. that can be stored in a Infinity Chest.
+	#Range: > 2048
+	"Chest Max ItemSize" = 32768
+	#Use single page mode
+	"Use Single PageMode" = false
+	#Stack size limit of slot
+	#Range: 64 ~ 4294967295
+	"Slot Stack Limit" = 4294967295
+	#Maximum page limit
+	#Range: 2 ~ 79536431
+	"Max Page Limit" = 79536431
+	#*Recovery options* Reset the max page that is 0.
+	#Range: 1 ~ 79536431
+	"Reset Max Page" = 1
+	#Inventory rows for multi page mode
+	#Range: 1 ~ 6
+	"Inventory Rows" = 6
+
+[channel]
+	#
+	#Range: > 2048
+	"Channel Size" = 32768
+	#
+	#Range: 4 ~ 64
+	"MaxPlayer Channels" = 16
+	#
+	#Range: 32 ~ 1024
+	"MaxPublic Channels" = 128
+	#
+	#Range: 1 ~ 40
+	"FastUpdate Rate" = 1
+	#
+	#Range: 20 ~ 1200
+	"FullUpdate Rate" = 40
 
